@@ -65,83 +65,10 @@ const handleSubmit = (e) => {
 }
 
 const App = () => {  
-  const CardTitle = "Card Title"
-  const CardText = "Some quick example text to build on the card title and make up the bulk of the card's content."
-  const CourseName = "Course Name"
-  const Info1 = "Info Item #1"
-  const Body1 = "Body"
-  const Info2 = "Info Item #2"
-  const Body2 = "Body"
+ 
 
-  const componentsRender = [<CourseCard CourseNumber={CardTitle} 
-                            CourseDescription={CardText} 
-                            CourseName={CourseName} 
-                            Info1={Info1} 
-                            Body1={Body1} 
-                            Info2={Info2} 
-                            Body2={Body2}/>,
-                            <CourseCard CourseNumber={CardTitle} 
-                            CourseDescription={CardText} 
-                            CourseName={CourseName} 
-                            Info1={Info1} 
-                            Body1={Body1} 
-                            Info2={Info2} 
-                            Body2={Body2}/>,
-                            <CourseCard CourseNumber={CardTitle} 
-                            CourseDescription={CardText} 
-                            CourseName={CourseName} 
-                            Info1={Info1} 
-                            Body1={Body1} 
-                            Info2={Info2} 
-                            Body2={Body2}/>,
-                            <CourseCard CourseNumber={CardTitle} 
-                            CourseDescription={CardText} 
-                            CourseName={CourseName} 
-                            Info1={Info1} 
-                            Body1={Body1} 
-                            Info2={Info2} 
-                            Body2={Body2}/>,
-                            <CourseCard CourseNumber={CardTitle} 
-                            CourseDescription={CardText} 
-                            CourseName={CourseName} 
-                            Info1={Info1} 
-                            Body1={Body1} 
-                            Info2={Info2} 
-                            Body2={Body2}/>,
-                            <CourseCard CourseNumber={CardTitle} 
-                            CourseDescription={CardText} 
-                            CourseName={CourseName} 
-                            Info1={Info1} 
-                            Body1={Body1} 
-                            Info2={Info2} 
-                            Body2={Body2}/>,
-                            <CourseCard CourseNumber={CardTitle} 
-                            CourseDescription={CardText} 
-                            CourseName={CourseName} 
-                            Info1={Info1} 
-                            Body1={Body1} 
-                            Info2={Info2} 
-                            Body2={Body2}/>,
-                            <CourseCard CourseNumber={CardTitle} 
-                            CourseDescription={CardText} 
-                            CourseName={CourseName} 
-                            Info1={Info1} 
-                            Body1={Body1} 
-                            Info2={Info2} 
-                            Body2={Body2}/>,
-                            <CourseCard CourseNumber={CardTitle} 
-                            CourseDescription={CardText} 
-                            CourseName={CourseName} 
-                            Info1={Info1} 
-                            Body1={Body1} 
-                            Info2={Info2} 
-                            Body2={Body2}/>]
   const [course, setCourse] = useState("");
-  const filtered = DemoData.filter(courseObj => courseObj.CourseNumber === course)
-  console.log(filtered)
-  
-  const demoArray = ["CS180", "CS182", "CS240", "CS250", "CS251", "CS252"]
-  const outputArr = demoArray.filter(c => c === course)
+  const filtered = DemoData.filter(courseObj =>   courseObj.CourseNumber.includes(course))
   return (
     <div>
       <NavBar/>
@@ -169,10 +96,17 @@ const App = () => {
       </Row>
       <Container>
         <Row>
-          {componentsRender}
+          {filtered.map(elem => <CourseCard key={elem.id} 
+                                CourseNumber={elem.CourseNumber} 
+                                CourseName={elem.CourseName} 
+                                CourseDescription={elem.CourseDescription} 
+                                Info1={elem.Info1}
+                                Body1={elem.Body1}
+                                Info2={elem.Info2}
+                                Body2={elem.Body2}
+                                />)}
         </Row>
       </Container>
-      {outputArr}
     </div>
   )
 }
