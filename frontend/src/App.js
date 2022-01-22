@@ -1,10 +1,8 @@
 import {React, useState} from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './index.css';
 
 import { Navbar, Container, Form, FormControl, Button, Row, Col, Card, Modal} from 'react-bootstrap';
-
-
-
 
 const NavBar = () => {
   return (
@@ -18,7 +16,7 @@ const NavBar = () => {
   )
 }
 
-const CourseCard = () => {
+const CourseCard = ({CardTitle, CardSubtitle, CardText, CourseName, Info1, Body1, Info2, Body2}) => {
   const [lgShow, setLgShow] = useState(false);
   return (
     <Col md="3" style={{
@@ -26,11 +24,10 @@ const CourseCard = () => {
     }}>
       <Card style={{ width: '18rem' }}>
         <Card.Body>
-          <Card.Title>Card Title</Card.Title>
-          <Card.Subtitle className="mb-2 text-muted">Card Subtitle</Card.Subtitle>
+          <Card.Title>{CardTitle}</Card.Title>
+          <Card.Subtitle className="mb-2 text-muted">{CardSubtitle}</Card.Subtitle>
           <Card.Text>
-            Some quick example text to build on the card title and make up the bulk of
-            the card's content.
+            {CardText}
           </Card.Text>
           <Button variant="outline-secondary" onClick={() => setLgShow(true)}>Show More</Button>
           <Modal
@@ -41,10 +38,19 @@ const CourseCard = () => {
           >
             <Modal.Header closeButton>
               <Modal.Title id="example-modal-sizes-title-lg">
-                Large Modal
+                {CourseName}
               </Modal.Title>
             </Modal.Header>
-            <Modal.Body>...</Modal.Body>
+            <Modal.Body>
+              <h4>
+                {Info1}
+              </h4>
+              <h6>{Body1}</h6>
+              <h4>
+                {Info2}
+              </h4>
+              <h6>{Body2}</h6>
+            </Modal.Body>
           </Modal>
         </Card.Body>
       </Card>
@@ -52,7 +58,99 @@ const CourseCard = () => {
   )
 }
 
+
+
+
+
+
+
+const handleSubmit = (e) => {
+  e.preventDefault();
+  console.log("Clicked");
+}
+
 const App = () => {
+  const CardTitle = "Card Title"
+  const CardSubtitle = "Card Subtitle"
+  const CardText = "Some quick example text to build on the card title and make up the bulk of the card's content."
+  const CourseName = "Course Name"
+  const Info1 = "Info Item #1"
+  const Body1 = "Body"
+  const Info2 = "Info Item #2"
+  const Body2 = "Body"
+
+  const componentsRender = [<CourseCard CardTitle={CardTitle} 
+                            CardSubtitle={CardSubtitle} 
+                            CardText={CardText} 
+                            CourseName={CourseName} 
+                            Info1={Info1} 
+                            Body1={Body1} 
+                            Info2={Info2} 
+                            Body2={Body2}/>,
+                            <CourseCard CardTitle={CardTitle} 
+                            CardSubtitle={CardSubtitle} 
+                            CardText={CardText} 
+                            CourseName={CourseName} 
+                            Info1={Info1} 
+                            Body1={Body1} 
+                            Info2={Info2} 
+                            Body2={Body2}/>,
+                            <CourseCard CardTitle={CardTitle} 
+                            CardSubtitle={CardSubtitle} 
+                            CardText={CardText} 
+                            CourseName={CourseName} 
+                            Info1={Info1} 
+                            Body1={Body1} 
+                            Info2={Info2} 
+                            Body2={Body2}/>,
+                            <CourseCard CardTitle={CardTitle} 
+                            CardSubtitle={CardSubtitle} 
+                            CardText={CardText} 
+                            CourseName={CourseName} 
+                            Info1={Info1} 
+                            Body1={Body1} 
+                            Info2={Info2} 
+                            Body2={Body2}/>,
+                            <CourseCard CardTitle={CardTitle} 
+                            CardSubtitle={CardSubtitle} 
+                            CardText={CardText} 
+                            CourseName={CourseName} 
+                            Info1={Info1} 
+                            Body1={Body1} 
+                            Info2={Info2} 
+                            Body2={Body2}/>,
+                            <CourseCard CardTitle={CardTitle} 
+                            CardSubtitle={CardSubtitle} 
+                            CardText={CardText} 
+                            CourseName={CourseName} 
+                            Info1={Info1} 
+                            Body1={Body1} 
+                            Info2={Info2} 
+                            Body2={Body2}/>,
+                            <CourseCard CardTitle={CardTitle} 
+                            CardSubtitle={CardSubtitle} 
+                            CardText={CardText} 
+                            CourseName={CourseName} 
+                            Info1={Info1} 
+                            Body1={Body1} 
+                            Info2={Info2} 
+                            Body2={Body2}/>,
+                            <CourseCard CardTitle={CardTitle} 
+                            CardSubtitle={CardSubtitle} 
+                            CardText={CardText} 
+                            CourseName={CourseName} 
+                            Info1={Info1} 
+                            Body1={Body1} 
+                            Info2={Info2} 
+                            Body2={Body2}/>,
+                            <CourseCard CardTitle={CardTitle} 
+                            CardSubtitle={CardSubtitle} 
+                            CardText={CardText} 
+                            CourseName={CourseName} 
+                            Info1={Info1} 
+                            Body1={Body1} 
+                            Info2={Info2} 
+                            Body2={Body2}/>]
   return (
     <div>
       <NavBar/>
@@ -63,14 +161,14 @@ const App = () => {
         <Col xs="2" sm="3" md="3" lg="4" >
         </Col>
         <Col>
-          <Form className="d-flex">
+          <Form className="d-flex" id="myForm" onSubmit={handleSubmit}>
             <FormControl
               type="search"
               placeholder="Course Name"
               className="me-2"
               aria-label="Search"
             />
-            <Button variant="outline-secondary">Search</Button>
+            <Button form="myForm" type="submit" variant="outline-secondary">Search</Button>
           </Form>
         </Col>
         <Col xs="2" sm="3" md="3" lg="4">
@@ -78,19 +176,10 @@ const App = () => {
       </Row>
       <Container>
         <Row>
-          <CourseCard/>      
-          <CourseCard/>
-          <CourseCard/>
-          <CourseCard/>
-          <CourseCard/>
-          <CourseCard/>
-          <CourseCard/>
-          <CourseCard/>
-          <CourseCard/>
+          {componentsRender}
         </Row>
       </Container>
     </div>
-    
   )
 }
 
