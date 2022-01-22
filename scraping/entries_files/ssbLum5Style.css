@@ -1,0 +1,423 @@
+body::before {
+    position: absolute;
+    z-index: 99;
+    content: '';
+    background-color: #3B3B3B;
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    width: 100%;
+}
+
+body #banner {
+    background-image:
+    URL('../../portal/images/stripes.png');
+}
+
+font-family: deliciousSmallCaps;
+@font-face {
+    src: url(../fonts/Delicious-SmallCaps.otf );
+}
+
+@font-face {
+    font-family: deliciousRonam;
+    src: url(../fonts/Delicious-Roman.otf );
+}
+
+.site-title {
+    width: 600px;
+    position: relative;
+    top: -10px;
+}
+
+#dockbar {
+    height: 28px;
+}
+
+#banner #heading {
+    width: 550px;
+}
+
+.headerlinksdiv {
+    position: relative;
+    top: -20px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.dockbar {
+    background: #B1810B;
+    border: none;
+    padding: 0;
+}
+
+#dockbar .pin-dockbar {
+    display: none;
+}
+
+#dockbar .aui-toolbar-separator {
+    display: none;
+}
+
+#dockbar .aui-toolbar li a {
+    font-size: 12px;
+    font-weight: 400;
+}
+
+#dockbar .aui-toolbar .user-links .sign-out {
+    background: #99700A;
+    margin: 0 10px;
+    padding: 6px 10px 5px;
+}
+
+#dockbar .aui-toolbar .manage-content {
+    margin-left: 0;
+}
+
+#dockbar .aui-menu-item, #dockbar a {
+    font-size: 13px;
+    font-weight: 400;
+    text-shadow: none;
+}
+
+#dockbar .aui-menu-label {
+    font-weight: 400;
+    text-shadow: none;
+}
+
+#dockbar a:hover, #dockbar a:focus, .nav li a:hover, .nav li a:focus {
+    color: #fff;
+    text-decoration: underline;
+    background-color: black;
+}
+
+.page-customization-bar {
+    font-weight: 400;
+}
+
+/*---------- portal ui ----------*/
+body {
+    background: #EEEEEE;
+    font-family: "Museo Sans", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+}
+
+#banner {
+    background: url("/static_resources/portal/images/stripes.png") #3b3b3b;
+    padding: 0 0 1px;
+    zoom: 1;
+    height: 120px;
+    /* ie 6/7 */
+}
+
+#banner #heading {
+    float: left;
+    padding: 10px 0;
+    width: 420px;
+}
+
+#banner #heading .site-title {
+    background: transparent;
+}
+
+#banner #heading .site-title .logo {
+    margin: -10px 0 0 35px;
+}
+
+.site-title img {
+    position: relative;
+    top: -4px;
+    padding: 0px 7px 0px 0px;
+}
+
+#banner #heading .site-title .logo:after {
+    display: inline-block;
+    border-left: 1px solid #B1810B;
+    padding-left: 12px;
+    color: #FFFFFF;
+    font-size: 30px;
+    font-family: "Museo Sans", Helvetica, Arial, sans-serif;
+    font-weight: 100;
+    -webkit-font-smoothing: antialiased;
+    content: "myPurdue Self-Service";
+}
+
+#banner:before, #banner:after {
+    content: "";
+    display: table;
+}
+
+#banner:after {
+    clear: both;
+}
+
+.logo.custom-logo img {
+    height: 50px;
+    width: 165px;
+}
+
+#navigation.top-bar {
+    width: 0%;
+}
+.banner_copyright, .releasewrapperdiv, .pagefooterdiv{
+    background-color: #3B3B3B;
+}
+
+.banner_copyright h5{
+    width: 340px;
+    margin: auto;
+}
+
+.releasewrapperdiv{
+    margin: auto;
+    float: none;
+    width: 100px;
+}
+
+body .releasetext, .banner_copyright h5 {
+    color: #ccc;
+}
+
+.navbar-inverse .navbar-nav .selected a{
+    color: white;
+}
+
+.headerlinksdiv2{
+    margin: 35px 0px 0px 10px;
+}
+
+.pagetitlediv, .pagebodydiv{
+    margin-left: 10px;   
+    margin-top: 5px;
+}
+
+.ssbFooterNote{
+    font-size:0.8em;
+}
+
+.nav{
+    position: relative;
+    top: -2px;
+}
+
+.navbar {
+    position: relative;
+    top: 33px;
+}
+
+.pagefooterdiv{
+    min-width: 200px;
+}
+
+.headerlinksdiv .container{
+    margin-left:23px;
+}
+
+.container .navbar-nav li a{
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.navbar{
+    min-height: 43px;
+}
+
+body .headerwrapperdiv,
+.pagetitlediv,
+.pagebodydiv,
+.footerlinksdiv,
+.footerafterdiv,
+.globalafterdiv,
+.globalfooterdiv,
+.poweredbydiv,
+.div1, .div2, .div3, .div4, .div5, .div6,
+.banner_copyright{
+    position:relative;
+    top: -55px;
+}
+
+#ssbNavBar{
+    position: relative;
+    top: 45px;
+}
+
+.globalfooterdiv{
+    background-color: white;
+}
+
+.bottomfiller{
+    background-color: #3B3B3B;
+    height: 200px;
+    position: relative;
+    top: -55px;
+}
+
+.dddefault,.dedefault, .ddheader, .pldefault, table th.ddlabel{
+    padding-left: 5px;
+    background-color: white;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    
+}
+.ddheader{
+    padding-left: 5px;
+}
+
+html, table td.delabel{
+    background-color: white;
+}
+
+.pagebodydiv{
+    /*margin-bottom: 75px;*/
+    background-color: white;
+    min-height: 200px;
+}
+
+.motto .col-lg-4 .col-md-4 .col-sm-4{
+    height: auto;
+}
+
+.footer #accordion .motto .vertical {
+    display: none;
+}
+
+a.submenulinktext2:link, a.submenulinktext2:visited, .pagebodydiv a.submenulinktext2:hover, a.submenulinktext2:active {
+    color: #000;
+    text-decoration: none;
+}
+
+.pagebodydiv a.submenulinktext2:hover, .pageheaderlinks a.submenulinktext2:hover{
+    color: #000;
+    text-decoration: underline;
+}
+
+body a:link{
+    color: #000;
+    text-decoration: underline;
+}
+
+.globalfooterdiv a:hover{
+    color: #000;
+    text-decoration: none;
+}
+
+/* Link styling when collapsed */
+@media only screen and (max-width: 767px) {
+    .panel-title a:link{
+        color: #a3792c;
+    }  
+    .panel-body a:link{
+        color: #FFF;
+    }
+    .panel-body a:hover{
+        color: #a3792c;
+    }
+}
+
+div.submenu .navbar-nav{
+    background-color: #aaa;
+    width: 100%;
+}
+div.submenu li a:link{
+    color:#fff;
+    text-decoration: none;
+}
+
+div.submenu li a:active{
+    background-color: #666;
+}
+
+div.submenu li a:hover{
+    background-color: #666;
+}
+
+div.submenu li.selected{
+    background-color: #666;
+}
+
+div.submenu li a:visited{
+    color:#fff;
+}
+
+div.submenu li{
+    border-left:white;
+    border-left-style: solid;
+    border-left-width: 1px;
+}
+
+td.bg3{
+    background-color:#B1810B;
+}
+
+html, body{
+    background-color: #3B3B3B;
+}
+
+.banner_copyright{
+    padding-bottom: 75px;
+    font-family: 'Museo Sans', Helvetica, Arial, sans-serif;
+    margin: 10px 5px 0px 5px;
+}
+
+.banner_copyright h5{
+    font-size: 14px;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.footerlinksdiv{
+    background-color: white;
+}
+
+.infotextdiv{
+    clear:both;
+}
+
+.infotext_globalfooter{
+    float:left;
+}
+.releasetext, .banner_copyright > h5{
+    float:right;
+}
+
+.footerWrapper{
+    background-color: #3B3B3B;
+    height: 30em;
+    padding-top: 20px;
+}
+
+.infotext_globalfooter a:link{
+    color:#aaa;
+}
+
+.infotext_globalfooter{
+    color:#ccc;
+}
+
+#puNode{
+    color:#3B3B3B !important;
+}
+
+/* Override margin-left: 1%; margin-right: 2%; on web_defaultapp.css, this effects FinAid > Award Overview */
+html body{
+    margin-left:auto;
+    margin-rith:auto;
+}
+
+.site-title{
+    margin-top: 20px;
+}
+
+.banner_copyright h5, .releasetext{
+    text-align: right;
+    font-size: 12px;
+    font-weight:100
+}
+
+.banner_copyright{
+    font-size: 12px;
+}

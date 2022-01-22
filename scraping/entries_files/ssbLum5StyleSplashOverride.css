@@ -1,0 +1,3 @@
+html body::before {
+    width: 0px;
+}
