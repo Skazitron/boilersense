@@ -29,17 +29,37 @@ def get_web_data(url):
     r = requests.get(url)
     soup = bs(r.content, "html.parser")
     #-dzzyvm-0 gRjWel
-    arr_text = soup.find_all("div", class_="Comments__StyledComments-dzzyvm-0 gRjWel")
-    arr_rating = soup.find_all("div", class_="CardNumRating__CardNumRatingNumber-sc-17t4b9u-2 cDKJcc")
-    arr_quality = soup.find_all("div", class_="CardNumRating__CardNumRatingNumber-sc-17t4b9u-2 cDKJcc")
+    arr_text = soup.find_all("div", lambda class_: class_ and class_.find("Comments__StyledComments")!=-1)
+    arr_quality = soup.find_all("div",  class_=lambda class_: class_ and class_.find("RatingValues__RatingContainer")!=-1)
+    arr_rating   = soup.find_all("div", class_=lambda class_: class_ and class_.find("CardNumRating__StyledCardNumRating")!=-1)
+    arr_comment = soup.find_all("div", class_=lambda class_: class_ and class_.find("EmotionLabel__StyledEmotionLabel")!=-1)
+
+
+    # arr_text = soup.find_all("div", text="Comments__StyledComments")
+    # arr_rating = soup.find_all("div", text="CardNumRating__CardNumRatingNumber")
+    # arr_quality = soup.find_all("div", text ="CardNumRating__CardNumRatingNumber")
+    # arr_comment = soup.find_all("div", text = "EmotionLabel__StyledEmotionLabel")
+    comments = []
+
     label = []
     text = []
     qual = []
+
     for i in range(len(arr_text)):
+        # if len(comments) != len(qual):
+        #     print(link)
+        #     break
         text.append(arr_text[i].text)
         label.append(arr_rating[i].text)
         qual.append(arr_quality[i].text)
-    return label, text, qual
+        try:
+            comments.append(arr_comment[i].text)
+            print(arr_comment[i].text)
+        except:
+            print(url)
+
+
+    return label, text, qual, comments
 easyLinks = [
     'https://www.ratemyprofessors.com/ShowRatings.jsp?tid=28473',
     'https://www.ratemyprofessors.com/ShowRatings.jsp?tid=132707',
@@ -359,27 +379,26 @@ links = easyLinks + mediumLinks + hardLinks
 
 for link in links:
 
-    labels, text, qual = get_web_data(link)
+    labels, text, qual, comments = get_web_data(link)
+    #print(len(labels), len(text), len(qual), len(comments))
+    if len(comments) != len(qual):
+        print(link)
+        break
 
     for i in range(len(labels)):
         label_val = 0
         qual_label = 0
-        if(float(labels[i])<=3):
+
+        if(float(re.findall("[-+]?\d*\.\d+|\d+",labels[i])[0])<=3):
             label_val = 1
         else:
             label_val = 2
-        if(float(qual[i])<=2):
-            qual_label = 2
+        if(float(re.findall("[-+]?\d*\.\d+|\d+",qual[i])[0])<=2):
+            qual_label = 1
         else:
-            qual_label = 3
-        # elif(float(labels[i])>3 and float(labels[i])<=4):
-        #     label_val = 2
-        # elif(float(labels[i])>=4):
-            #label_val = 3
-        # if(float(labels[i])<=3.6):
-        #     label_val = 1
-        # else:
-        #     label_val = 2
-        df = df.append({"features": getFeatures(text[i]), "difficulty": label_val, "quality":qual_label}, ignore_index=True)
+            qual_label = 2
 
-df.to_csv("/Users/shellyschwartz/Downloads/boilermakeData2.csv")
+
+        df = df.append({"features": getFeatures(text[i]), "difficulty": label_val, "quality":qual_label, "comment": comments[i]}, ignore_index=True)
+
+df.to_csv("/Users/shellyschwartz/Downloads/boilermakeData3.csv")
