@@ -1,7 +1,7 @@
-import React from 'react'
+import {React, useState} from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-import { Navbar, Container, Form, FormControl, Button, Row, Col, Card} from 'react-bootstrap';
+import { Navbar, Container, Form, FormControl, Button, Row, Col, Card, Modal} from 'react-bootstrap';
 
 
 
@@ -19,6 +19,7 @@ const NavBar = () => {
 }
 
 const CourseCard = () => {
+  const [lgShow, setLgShow] = useState(false);
   return (
     <Col md="3" style={{
             paddingBottom: 30
@@ -31,8 +32,20 @@ const CourseCard = () => {
             Some quick example text to build on the card title and make up the bulk of
             the card's content.
           </Card.Text>
-          <Card.Link href="#">Card Link</Card.Link>
-          <Card.Link href="#">Another Link</Card.Link>
+          <Button variant="outline-secondary" onClick={() => setLgShow(true)}>Show More</Button>
+          <Modal
+            size="lg"
+            show={lgShow}
+            onHide={() => setLgShow(false)}
+            aria-labelledby="example-modal-sizes-title-lg"
+          >
+            <Modal.Header closeButton>
+              <Modal.Title id="example-modal-sizes-title-lg">
+                Large Modal
+              </Modal.Title>
+            </Modal.Header>
+            <Modal.Body>...</Modal.Body>
+          </Modal>
         </Card.Body>
       </Card>
     </Col>
