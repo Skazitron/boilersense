@@ -20,18 +20,22 @@ const NavBar = () => {
 
 const CourseCard = () => {
   return (
-    <Card style={{ width: '18rem' }}>
-      <Card.Body>
-        <Card.Title>Card Title</Card.Title>
-        <Card.Subtitle className="mb-2 text-muted">Card Subtitle</Card.Subtitle>
-        <Card.Text>
-          Some quick example text to build on the card title and make up the bulk of
-          the card's content.
-        </Card.Text>
-        <Card.Link href="#">Card Link</Card.Link>
-        <Card.Link href="#">Another Link</Card.Link>
-      </Card.Body>
-    </Card>
+    <Col md="3" style={{
+            paddingBottom: 30
+    }}>
+      <Card style={{ width: '18rem' }}>
+        <Card.Body>
+          <Card.Title>Card Title</Card.Title>
+          <Card.Subtitle className="mb-2 text-muted">Card Subtitle</Card.Subtitle>
+          <Card.Text>
+            Some quick example text to build on the card title and make up the bulk of
+            the card's content.
+          </Card.Text>
+          <Card.Link href="#">Card Link</Card.Link>
+          <Card.Link href="#">Another Link</Card.Link>
+        </Card.Body>
+      </Card>
+    </Col>
   )
 }
 
@@ -61,36 +65,15 @@ const App = () => {
       </Row>
       <Container>
         <Row>
-          <Col md="3" style={{
-            paddingBottom: 30
-          }}>
-            <CourseCard/>
-          </Col>
-          <Col md="3" style={{
-            paddingBottom: 30
-          }}>
-            <CourseCard/>
-          </Col>
-          <Col md="3" style={{
-            paddingBottom: 30
-          }}>
-            <CourseCard/>
-          </Col>
-          <Col md="3" style={{
-            paddingBottom: 30
-          }}>
-            <CourseCard/>
-          </Col>
-          <Col md="3" style={{
-            paddingBottom: 30
-          }}>
-            <CourseCard/>
-          </Col>
-          <Col md="3" style={{
-            paddingBottom: 30
-          }}>
-            <CourseCard/>
-          </Col>         
+          <CourseCard/>      
+          <CourseCard/>
+          <CourseCard/>
+          <CourseCard/>
+          <CourseCard/>
+          <CourseCard/>
+          <CourseCard/>
+          <CourseCard/>
+          <CourseCard/>
         </Row>
       </Container>
     </div>
