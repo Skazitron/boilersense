@@ -1,26 +1,62 @@
 [
     {
         "id":1,
-        "CardTitle": "CS180"
+        "CourseNumber": "CS180",
+        "CourseName": "Object-Oriented Programming",
+        "CardText": "Loreum Ipsum",
+        "Info1": "Info Item #1",
+        "Body1": "Body",
+        "Info2": "Info Item #2",
+        "Body2":  "Body"
     },
     {
         "id":2,
-        "CardTitle": "CS182"
+        "CourseNumber": "CS182",
+        "CourseName": "Discrete Math",
+        "CardText": "Loreum Ipsum",
+        "Info1": "Info Item #1",
+        "Body1": "Body",
+        "Info2": "Info Item #2",
+        "Body2":  "Body"
     },
     {
         "id":3,
-        "CardTitle": "CS240"
+        "CourseNumber": "CS240",
+        "CourseName": "C Programming",
+        "CardText": "Loreum Ipsum",
+        "Info1": "Info Item #1",
+        "Body1": "Body",
+        "Info2": "Info Item #2",
+        "Body2":  "Body"
     },
     {
         "id":4,
-        "CardTitle": "CS250"
+        "CourseNumber": "CS250",
+        "CourseName": "Computer Architecture",
+        "CardText": "Loreum Ipsum",
+        "Info1": "Info Item #1",
+        "Body1": "Body",
+        "Info2": "Info Item #2",
+        "Body2":  "Body"
     },
     {
         "id":5,
-        "CardTitle": "CS251"
+        "CourseNumber": "CS251",
+        "CourseName": "Data Structures and Algorithims",
+        "CardText": "Loreum Ipsum",
+        "Info1": "Info Item #1",
+        "Body1": "Body",
+        "Info2": "Info Item #2",
+        "Body2":  "Body"
     },
     {
         "id":6,
-        "CardTitle": "CS252"
+        "CourseNumber": "CS252",
+        "CourseName": "Systems Programming",
+        "CardText": "Loreum Ipsum",
+        "Info1": "Info Item #1",
+        "Body1": "Body",
+        "Info2": "Info Item #2",
+        "Body2":  "Body"
     }
 ]
