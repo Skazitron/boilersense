@@ -60,15 +60,11 @@ const CourseCard = ({CourseNumber, CourseDescription, CourseName, Info1, Body1, 
 }
 
 
-const handleSubmit = (e) => {
-  e.preventDefault();
-}
+
 
 const App = () => {  
- 
-
   const [course, setCourse] = useState("");
-  const filtered = DemoData.filter(courseObj =>   courseObj.CourseNumber.includes(course))
+  let filtered = DemoData.filter(courseObj =>  courseObj.CourseNumber.includes(course))
   return (
     <div>
       <NavBar/>
@@ -79,7 +75,7 @@ const App = () => {
         <Col xs="2" sm="3" md="3" lg="4" >
         </Col>
         <Col>
-          <Form className="d-flex" id="myForm" onSubmit={handleSubmit}>
+          <Form className="d-flex">
             <FormControl
               type="search"
               placeholder="Course Name"
@@ -88,7 +84,6 @@ const App = () => {
               value={course}
               onChange={e => setCourse(e.target.value )}
             />
-            <Button form="myForm" type="submit" variant="outline-secondary">Search</Button>
           </Form>
         </Col>
         <Col xs="2" sm="3" md="3" lg="4">
