@@ -62,13 +62,6 @@ const CourseCard = ({CardTitle, CardSubtitle, CardText, CourseName, Info1, Body1
 
 
 
-
-
-const handleSubmit = (e) => {
-  e.preventDefault();
-  console.log("Clicked");
-}
-
 const App = () => {
   const CardTitle = "Card Title"
   const CardSubtitle = "Card Subtitle"
@@ -151,6 +144,13 @@ const App = () => {
                             Body1={Body1} 
                             Info2={Info2} 
                             Body2={Body2}/>]
+  const [course, setCourse] = useState("");
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    console.log(course);
+  }
+  const demoArray = ["CS180", "CS182", "CS240", "CS250", "CS251", "CS252"]
+  const outputArr = demoArray.filter(c => c === course)
   return (
     <div>
       <NavBar/>
@@ -167,6 +167,8 @@ const App = () => {
               placeholder="Course Name"
               className="me-2"
               aria-label="Search"
+              value={course}
+              onChange={e => setCourse(e.target.value )}
             />
             <Button form="myForm" type="submit" variant="outline-secondary">Search</Button>
           </Form>
@@ -179,6 +181,7 @@ const App = () => {
           {componentsRender}
         </Row>
       </Container>
+      {outputArr}
     </div>
   )
 }
