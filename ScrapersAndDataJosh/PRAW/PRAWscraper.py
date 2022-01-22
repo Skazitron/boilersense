@@ -1,9 +1,11 @@
-from multiprocessing.spawn import get_command_line
+from asyncio.windows_events import NULL
 from os.path import isfile
 import praw
 import pandas as pd
 from time import sleep
+import datetime as dt
 import os
+from psaw import PushshiftAPI
 
 class SubredditScraper:
 
@@ -89,7 +91,10 @@ class SubredditScraper:
     def get_comments(self):
         sort, subreddit = self.set_sort()
 
-        # csv = f'{self.sub}_posts.csv'
+        # if (os.name == 'nt'):
+        #     csv = f'./ScrapersAndDataJosh\\PRAW\\{self.sub}_posts.csv'
+        # else:
+        #     csv = f'./ScrapersAndDataJosh/PRAW/{self.sub}_posts.csv'
         # df, csv_loaded = (pd.read_csv(csv), 1) if isfile(csv) else ('', 0)
 
         # print(f'csv = {csv}')
@@ -110,23 +115,24 @@ class SubredditScraper:
 
 if __name__ == '__main__':
     # Get credentials from DEFAULT instance in praw.ini
-    f = open("secrets.txt","r")
-    client_id, client_secret, user_agent, username, password = f.readLines()
+    with open("./ScrapersAndDataJosh\\PRAW\\secrets.txt","r") as f:
+        client_id, client_secret, user_agent, username, password = f.readlines()    #client_id, client_secret, user_agent, username, password
 
     reddit = praw.Reddit(
-        client_id=client_id,
-        client_secret=client_secret,
-        user_agent=user_agent,
-        username=username,
+        client_id=client_id[:-1],
+        client_secret=client_secret[:-1],
+        user_agent=user_agent[:-1],
+        username=username[:-1],
         password=password,
-)
+    ) 
 
-    SubredditScraper(
-        'Purdue',
-        lim=1,
-        mode='w',
-        sort='hot'
-    ).get_posts()
+    # SubredditScraper(
+    #     'Purdue',
+    #     lim=1,
+    #     mode='w',
+    #     sort='hot',
+    # ).get_posts()
+
     # SubredditScraper(
     #     'Purdue',
     #     lim=1,
