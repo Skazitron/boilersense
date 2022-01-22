@@ -1,15 +1,14 @@
 import requests
 from bs4 import BeautifulSoup
 from pprint import pprint
+from fake_useragent import UserAgent
+import time
+import re
 
+rmhtml = re.compile('<.*?>')
 
-with open('entries.html', 'r') as file:
-    data = file.read()
-
-soup = BeautifulSoup(data, 'html.parser')
-newdata = soup.findAll("td", {"class" : "nttitle"})
-
-
+# randomizing useragent to prevent getting locked
+ua = UserAgent()
 
 headers = {
     "Accept-Encoding": "*",
@@ -17,7 +16,24 @@ headers = {
 }
 
 
+def fetch_html(url):
+    headers["User-Agent"] = ua.random
+    url = url.strip()
+    cont = requests.get(url, headers=headers)
+    return cont.text
 
-t = requests.get("https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_course_detail?cat_term_in=202310&subj_code_in=WGSS&crse_numb_in=68100", headers=headers)
-pprint(t.content)
+def make_soup(html):
+    soup = BeautifulSoup(html, 'html.parser')
+    multisoup = soup.find_all("td", {"class": "ntdefault"})
+    if len(multisoup) > 0:
+        tex = (multisoup[0]).get_text()
+        if (tex.find("West Lafayette") != -1):
+            print(tex)
 
+
+if __name__ == "__main__":
+    count = 0
+    urlfile = open("urls.txt", "r")
+    for line in urlfile:
+        html = fetch_html(line)
+        make_soup(html)
