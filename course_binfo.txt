@@ -1,0 +1,2393 @@
+CHM 26605 - Organic Chemistry
+EAPS 69800 - Research MS Thesis
+THTR 64000 - Directing Internship
+THTR 69800 - Research MA Or MFA Thesis
+ABE 21000 - Thermodynamics Principles Of Engineering And Biological Systems
+CHM 26200 - Organic Chemistry
+EAPS 52600 - Introductory Geofluid Dynamics
+COM 61011 - Strategic Communication And Ethics
+EAPS 37500 - Great Issues - Fossil Fuels, Energy And Society
+BCM 38000 - Concrete Construction
+BCM 57200 - Construction Research Fundamentals
+ABE 32000 - Solid Modeling, Simulation, And Analysis
+COM 60511 - Strategic Communication And Professional Writing
+CHM 25600 - Organic Chemistry
+EAPS 53400 - Tropical Meteorology
+AT 35100 - Flight Instructor Flight
+ABE 42500 - Water Quality Engineering
+EAPS 51400 - Glacial And Quaternary Geology
+ME 56900 - Mechanical Behavior Of Materials
+REG 93100 - Basketball-Men
+THTR 51300 - Vocal Production For The Stage I
+ME 55700 - Design For Manufacturability
+AT 30702 - Advanced Aircraft Systems
+ABE 49900 - Thesis Research
+AT 26900 - Air Traffic Control I
+THTR 57001 - Statics And Structures For Theatre I
+ME 29601 - Experimental Courses
+TLI 45800 - Leadership For Competitive Advantage
+TLI 36700 - Teaching Design And Innovation I
+COM 32800 - Diversity At Work: A Rhetorical Approach
+HEBR 12100 - Biblical Hebrew Level I
+MGMT 52710 - Digital Marketing Applications
+COM 29199 - Cooperative Experience I
+COM 10000 - Introduction To Communication Studies
+MGMT 54700 - Computer Communications Systems
+COM 25100 - Communication, Information, And Society
+ENGL 35800 - Black Drama
+ENGL 36500 - Literature And Imperialism
+CS 38600 - Professional Practice IV
+ENGL 35100 - American Literature After 1865
+MGMT 32300 - Principles Of Marketing
+COM 49502 - Travel Writing
+ENGL 51600 - Teaching English As A Second Language: Theoretical Foundations
+ABE 69600 - Graduate Seminar
+MGMT 29110 - Integrated Business & Engineering Seminar I
+COM 49800 - Practicum In Human Relations
+CHNS 30100 - Chinese Level V
+CHNS 22400 - Chinese Level IV Business Chinese
+COM 51200 - Theories Of Interpersonal Communication
+MGMT 19500 - Cooperative Work Experience V
+ENGL 56100 - Modern British Poetry
+LING 57000 - Field Methods In Linguistics
+MGMT 19200 - Cooperative Work Experience II
+LING 59100 - Special Topics In Phonology
+CS 25200 - Systems Programming
+CS 29299 - Cooperative Experience II
+ENGL 32200 - Word, Image, Media
+BME 56100 - Preclinical And Clinical Study Design
+CS 65500 - Advanced Cryptology
+ME 64000 - Structural Acoustics
+AAE 57500 - Introduction To Satellite Navigation And Positioning
+BME 39699 - Professional Practice Internship
+AAE 64600 - Elastic Wave Propagation
+BTNY 55200 - Molecular Approaches In Plant Biology
+CM 56000 - Academic Writing Seminar I
+BME 47000 - Biomolecular Engineering
+CS 54200 - Distributed Database Systems
+MGMT 61602 - Seminar In Capital Markets II
+MGMT 60000 - Accounting For Managers
+CM 69800 - Research MS Thesis
+AAE 61300 - Viscous Flow Theory
+AT 24800 - Commercial Flight II
+ENGL 23700 - Introduction To Poetry
+ASM 44100 - Methods Of Teaching Agricultural Mechanics
+AT 65900 - Airport And Transportation Sustainability
+BTNY 69100 - Skills For Success In Grad School
+BME 19500 - Selected Topics In Biomedical Engineering
+ASM 49800 - Directed Experience In Teaching Mechanized Agriculture
+ASM 35000 - Safety In Agriculture
+BME 29000 - Frontiers In Biomedical Engineering
+BME 25600 - Physiological Modeling In Human Health
+ASM 34500 - Power Units And Power Trains
+ASM 49600 - Project Planning And Capstone Project
+BTNY 66000 - Scientific Writing
+ASM 42200 - Advanced Machine Technology For Agricultural Crop Production
+AT 64000 - Aviation And Aerospace Sustainability
+ENGL 23800 - Introduction To Fiction
+AT 24700 - Aircraft Operating Systems
+CS 58400 - Theory Of Computation And Computational Complexity
+MGMT 59699 - MS Internship
+AAE 60700 - Variational Principles Of Mechanics
+AT 10000 - Introduction To Aviation Technology
+CM 56500 - Academic Writing Seminar II
+BTNY 55300 - Plant Growth And Development
+AAE 64200 - Graduate Professional Practice
+MGMT 61601 - Seminar In Capital Markets I
+CS 54300 - Introduction To Simulation And Modeling Of Computer Systems
+ME 65000 - Computational Fracture Mechanics
+CS 66200 - Pattern Recognition And Decision-Making Processes
+BME 49800 - Biomedical Engineering Projects
+BME 40100 - Mathematical & Computational Analysis Of Complex System Dynamics In Biology, Medicine, & Healthcare
+ENGL 30900 - Digital Design And Production
+AAE 56800 - Applied Optimal Control And Estimation
+BME 55600 - Introduction To Clinical Medicine For Engineering Solutions
+BME 35600 - Mathematical Models And Methods In Physiology
+ENGL 50900 - Advanced Fiction Writing
+CS 25100 - Data Structures And Algorithms
+CS 19700 - Freshman Honors Seminar
+MGMT 19300 - Cooperative Work Experience III
+ENGL 55200 - Studies In Major American Authors
+ENGL 56300 - Historical Linguistics
+LING 56500 - Sociolinguistics
+CHNS 20700 - Intermediate Chinese For Heritage Students
+MGMT 19400 - Cooperative Work Experience IV
+MGMT 29050 - Professional Internship
+CHNS 28500 - Chinese Calligraphy
+ENGL 51300 - English Phonology
+ABE 69400 - Graduate Research Training
+MGMT 31000 - Financial Management
+LING 31100 - Fundamentals Of Phonology And Morphology
+COM 49503 - Public Relations For Social Change
+ENGL 35200 - Native American Literature
+ENGL 36600 - Postcolonial Literatures
+COM 25000 - Mass Communication And Society
+ENGL 35900 - Black Women Writers
+COM 29299 - Cooperative Experience II
+MGMT 54600 - Decision Support And Expert Systems
+COM 21200 - Approaches To The Study Of Interpersonal Communication
+COM 30300 - Intercultural Communication
+COM 32900 - History Of The Mass Media
+TLI 45560 - Professional Internship In Human Resources
+HEBR 10200 - Modern Hebrew II
+GS 21000 - Leadership Development Seminar
+ME 29700 - Mechanical Engineering Sophomore Projects
+TLI 45810 - Internship Program
+AT 26700 - Fixed And Rotary Wing Assemblies
+THTR 57002 - Statics And Structures For Theatre II
+ME 55600 - Lubrication, Friction & Wear
+THTR 51400 - Vocal Production For The Stage II
+REG 93200 - Basketball-Women
+ABE 50100 - Welding Engineering
+AT 30300 - Aircraft Service
+ABE 42600 - Ecological Restoration Engineering
+AT 34500 - Aviation Marketing
+THTR 49000 - Special Topics In Theatre
+EAPS 51500 - Geodata Science
+BCM 54000 - Law For Construction Managers
+EAPS 53300 - Atmospheric Physics II
+CHM 25601 - Organic Chemistry Laboratory
+COM 60611 - Seminar In Financial And Investor Relations
+ABE 31400 - Design Of Electronic Systems
+COM 61200 - Seminar: Special Topics In Interpersonal Communication
+EAPS 52500 - Boundary Layer Meteorology
+BCM 37500 - Estimating
+EAPS 36400 - Natural Hazards: Science And Society
+THTR 69700 - MFA Terminal Project
+ME 52500 - Combustion
+CHM 26300 - Organic Chemistry Laboratory
+ABE 20500 - Computations For Engineering Systems
+EAPS 69100 - Seminar In Earth Science
+CHM 26700 - Organic Chemistry Laboratory Honors
+THTR 63300 - Interpretive Acting Techniques
+ABE 22600 - Biotechnology Laboratory I
+CHM 26500 - Organic Chemistry Laboratory
+THTR 67000 - Script Interpretation
+BCM 30101 - Introduction To Construction Company Financial Management
+THTR 61300 - Classical Text I
+EAPS 32500 - Aviation Meteorology
+COM 60411 - Seminar In Communication Research Methods
+EAPS 53500 - Atmospheric Observations And Measurements
+BCM 51000 - Topics In Environmentally Sustainable Construction, Design And Development
+EAPS 39100 - Topics In Earth And Atmospheric Sciences
+EAPS 35400 - Earth And Planetary Geophysics
+BCM 36000 - Residential Construction
+EAPS 52700 - Principles Of Terrestrial Ecosystem Ecology
+COM 61000 - Special Topics In Public Relations
+AT 30802 - Aircraft Materials Processes
+ABE 49800 - Undergraduate Research In Agricultural And Biological Engineering
+THTR 52400 - Creating A Character II
+ME 57000 - Machine Design
+AT 35200 - Flight Instructor Lectures
+ABE 40600 - Ag/Biol Engineering Ambassador Leadership Seminar
+ME 28600 - Industrial Practice II
+HEBR 12200 - Biblical Hebrew Level II
+TLI 36100 - Engineering And Technology Education Instructional Planning And Evaluation
+IDE 48300 - Multidisciplinary Engineering Analysis And Decision Making
+TLI 45700 - Technology Policy And Law
+GS 29000 - Study Skills Seminar
+TLI 35540 - Staffing Organizations
+COM 30400 - Quantitative Methods For Communication Research
+MGMT 52900 - Marketing Consulting Projects
+COM 21000 - Debating Public Issues
+MGMT 56900 - Ethical And Sustainable Supply Chain Management
+ENGL 37000 - Nineteenth-Century American Literature
+ENGL 69900 - Research PhD Thesis
+GS 11900 - Introduction To Academic Programs At Purdue
+CS 39000 - Topics In Computer Sciences
+ME 41300 - Noise Control
+ABE 68000 - Bioseparations And Bioprocess Engineering:Principles, Practice And Economics
+CS 33400 - Fundamentals Of Computer Graphics
+LING 39800 - Special Topics In Linguistics I
+ENGL 51200 - English Syntax And Syntactic Theory
+HSOP 69000 - Special Problems
+MGMT 19700 - Fundamentals Of The Accounting Profession
+CHNS 20100 - Chinese Level III
+ABE 54000 - Principles Of Systems & Synthetic Biology
+COM 50200 - Classroom Communication
+LING 54100 - Historical Linguistics And Language Change
+CHNS 28000 - Topics in Chinese Civilization and Culture
+MGMT 29120 - Integrated Business & Engineering Seminar II
+LING 59300 - Special Topics In Semantics
+COM 59700 - Special Topics In Communication
+BME 39500 - Selected Topics In Biomedical Engineering
+BTNY 12000 - Principles Of Plant Biology I
+BME 50100 - Multivariate Analyses In Biostatistics
+IE 30000 - Honors Program Seminar
+ME 62500 - Advanced Combustion
+MGMT 62500 - Marketing Research
+ME 59700 - Advanced Mechanical Engineering Projects I
+CM 52500 - Managing Construction Quality And Production
+BME 56200 - Regulatory Issues Surrounding Approval Of Biomedical Devices
+CM 59800 - Directed MS Project
+AAE 61500 - Aeroacoustics
+MGMT 59000 - Directed Readings In Management
+CS 59000 - Topics In Computer Sciences
+ME 58000 - Nonlinear Engineering Systems
+CS 55500 - Cryptography
+MGMT 61400 - Investments
+AAE 64800 - Modeling Damage And Strengthening Mechanisms In Materials
+CM 55500 - Construction Leadership And Marketing
+ASM 49900 - Thesis Research
+BME 20100 - Biomolecules: Structure, Function, And Engineering Applications
+ENGL 23200 - Thematic Studies In Literature
+BTNY 69900 - Research PhD Thesis
+AT 67500 - Aviation Safety Program Development
+ASM 49000 - Special Problems
+ENGL 23500 - Introduction To Drama
+BTNY 60500 - Diagnosis Of Plant Diseases
+ENGL 30400 - Advanced Composition
+BTNY 61300 - Advanced Plant Pathology
+AT 68100 - Seminar In Aviation Technology
+ASM 49100 - Special Topics
+CHM 10000 - Preparation For General Chemistry
+ASM 51000 - Agrosecurity-Emergency Management For Agricultural Production Operations
+BME 20400 - Biomechanics Of Hard And Soft Tissues
+MGMT 61500 - International Financial Management
+CS 54701 - Information Retrieval
+CM 55000 - Risk Management In Construction
+AAE 65400 - Fracture Mechanics
+AAE 62400 - Laminar-Turbulent Transition
+CM 59000 - Special Problems In Building Construction Management Technology
+ME 57900 - Fourier Methods In Digital Signal Processing
+CS 58800 - Randomized Algorithms
+MGMT 59100 - Launching Global Leaders
+ME 59500 - Special-Topic Minicourses
+MGMT 62600 - Seminar In Marketing Models
+BME 56300 - Quality Systems For Regulatory Compliance
+CM 52000 - Preconstruction Project Management
+BME 51100 - Biomedical Signal Processing
+BTNY 11000 - Introduction To Plant Science
+BME 39000 - Professional Development And Design In Biomedical Engineering
+ME 61500 - Aeroacoustics
+IE 33000 - Probability And Statistics In Engineering II
+ENGL 53500 - Restoration And Early Eighteenth-Century Literature
+ENGL 48800 - Internship In Professional Writing
+LING 57600 - Latin American Indigenous Languages And Cultures
+ENGL 56000 - Modern American Poetry
+LING 59400 - Special Topics In Historical Linguistics
+CHNS 28100 - Introduction To Chinese Food Culture
+COM 50000 - Introduction To Graduate Studies In Communication
+ABE 54500 - Design Of Off-Highway Vehicles
+MGMT 29130 - Integrated Business & Engineering Seminar III
+MGMT 20000 - Introductory Accounting
+CHNS 20200 - Chinese Level IV
+ENGL 51500 - Advanced Professional Writing
+LING 20100 - Introduction To Linguistics
+HSOP 69600 - Seminar In Pharmacy Administration
+ME 39399 - Professional Practice Extensive Co-Op III
+LING 36800 - Sociolinguistic Study Of African American English
+ABE 69100 - Special Topics
+CS 39100 - Junior Resources Seminar
+ENGL 36000 - Gender And Literature
+ENGL 69800 - Research MA Or MFA Thesis
+MGMT 56800 - Supply Chain Analytics
+ME 32300 - Mechanics Of Materials
+ENGL 36700 - Mystery And Detective Fiction
+COM 30301 - Mentored Intercultural Communication Experience
+COM 20400 - Critical Perspectives On Communication
+MGMT 53000 - Financial Statement Analysis
+MGMT 55200 - Mentoring And Socialization
+TLI 35530 - Strategic Planning In Human Resources
+TLI 45590 - Foundations Of Human Resources Capstone
+IDE 48400 - Multidisciplinary Engineering Design Methodology
+GS 29001 - Academics Success Skills
+ME 30000 - Thermodynamics II
+HEBR 20100 - Modern Hebrew Level III
+ME 28500 - Industrial Practice I
+TLI 35600 - Global Technology Leadership
+ME 57100 - Reliability Based Design
+ABE 39699 - Professional Practice Internship
+AT 35300 - Multi-Engine Flight
+ABE 49500 - Select Topics In Agricultural And Biological Engineering
+AT 30900 - Unmanned Autonomous Aerial Systems
+THTR 52300 - Creating A Character I
+BCM 36200 - Construction Competition
+EAPS 36000 - Great Issues In Science And Society
+COM 60911 - Strategic Public Relations
+EAPS 52900 - Modeling Ecosystems And Biogeochemical Cycles
+EAPS 53600 - Introduction To General Circulation
+COM 60311 - Seminar In Crisis Communication
+EAPS 39500 - Astrobiology
+BCM 53500 - Construction Accounting And Financial Management
+EAPS 32700 - Climate, Science And Society
+ME 53500 - Design And Modeling Of Fluid Power Systems
+THTR 61400 - Classical Text II
+CHM 26800 - Organic Chemistry Laboratory Honors
+CHM 26400 - Organic Chemistry Laboratory
+ABE 22700 - Biotechnology Laboratory II
+BCM 31500 - Mechanical Construction Estimating
+THTR 67100 - Modern Theory And Criticism
+BCM 48701 - Construction Capstone
+COM 60000 - Foundations Of Human Communication Inquiry I
+EAPS 54200 - Economic Geology: Petroleum
+EAPS 52300 - Radar Meteorology
+COM 62100 - Seminar: Special Topics In Rhetorical Theory
+BCM 41200 - Field Engineering
+ME 52600 - Spray Applications And Theory
+ABE 20200 - Thermodynamics In Biological Systems II
+COM 65500 - Health Advocacy
+BCM 35501 - Construction Site Supervision
+ME 53102 - Particle, Powder, And Compact Characterization Laboratory
+THTR 53200 - Professional Issues In Theatre
+ME 56100 - Optimal Design: Theory With Practice
+AT 31900 - Unmanned Aerial Systems Applications, Data And Documentation
+ABE 48400 - Project Planning And Management
+AT 34001 - Aerospace Business Statistics
+ABE 43500 - Hydraulic Control Systems For Mobile Equipment
+THTR 46800 - Problems In Theatre Design
+COM 10200 - Introduction To Communication Theory
+MGMT 54500 - Systems Development
+TLI 25500 - Foundations Of Human Resource Development
+TLI 35550 - Compensation And Rewards
+IDE 36000 - Multidisciplinary Engineering Statistics
+HEBR 10100 - Modern Hebrew Level I
+ME 28900 - Industrial Practice V
+GS 40400 - Horizons Advanced Career Preparation
+TLI 45820 - Internship Program Seminar
+GS 19900 - Strategies For A Successful First Year
+CS 38100 - Introduction To The Analysis Of Algorithms
+ENGL 37300 - Science Fiction And Fantasy
+MGMT 58600 - Python Programming
+CHNS 10100 - Chinese Level I
+ABE 65100 - Environmental Informatics
+LING 51100 - Phonology I: Descriptive Analysis
+MGMT 24200 - Contemporary Problems In Personal Finance For Minorities
+MGMT 29000 - Problems In Management
+COM 49600 - Special Topics In Corporate Communication
+CHNS 30500 - Introduction To Classical Chinese
+ABE 69800 - Research MS Thesis
+ENGL 51100 - Semantics
+ME 39599 - Professional Practice Extensive Co-Op V
+PES 14600 - Advanced Golf Applications
+HSOP 50100 - Food And Drug Law I
+ENGL 51800 - Teaching English As A Second Language: Principles And Practices
+CHM 69600 - Special Topics In Chemistry
+CS 29199 - Cooperative Experience I
+ENGL 54700 - British Romanticism
+LING 68900 - Seminar In Linguistics
+ENGL 55700 - Nineteenth-Century African-American Narrative
+LING 56300 - Language Acquisition
+MGMT 60200 - Valuation And Financial Statement Analysis
+CS 57900 - Bioinformatics Algorithms
+AAE 59700 - Independent Study In Aerospace Engineering
+AAE 69000 - Advanced Aeronautical Engineering Projects
+CM 53000 - Construction Operations And Strategic Management
+CS 56900 - Introduction To Robotic Systems
+MGMT 61000 - Financial Management
+ME 61200 - Continuum Mechanics
+MGMT 63900 - Advanced Auditing And Professional Practice
+BTNY 20800 - Introduction To Plant Science Research
+BME 36000 - Introduction To Biomedical Imaging
+ENGL 32800 - English Language II: Structure And Meaning
+BME 55500 - Magnetic Resonance Imaging Theory
+ME 60500 - Convection Of Heat And Mass
+ENGL 26700 - World Literature: From 1700 A.D. To The Present
+CHM 11100 - General Chemistry
+ASM 59000 - Special Problems
+ENGL 22900 - Creole Languages And Cultures
+BTNY 56100 - Survey Of Mathematical Biology
+ASM 42100 - Senior Seminar
+ENGL 24000 - British Literature Before 1789
+ASM 42000 - Electric Power And Controls
+AT 69900 - Research PhD Thesis
+BTNY 55800 - Pathogens Of Plants
+ENGL 23000 - Great Narrative Works
+ASM 55000 - Grain Drying And Storage
+ENGL 27600 - Shakespeare On Film
+BME 55300 - Biomedical Optics
+ENGL 32700 - English Language I: History And Development
+BME 36600 - Foundations Of Biomedical Data Science
+ME 60600 - Radiation Heat Transfer
+MGMT 63800 - Pricing Strategies And Analysis
+CM 45000 - Construction Capstone II
+BME 52800 - Measurement And Stimulation Of The Nervous System
+BME 38399 - Professional Practice Co-Op III
+CM 53500 - Construction Accounting And Financial Management
+AAE 67500 - Advanced Signals And Systems For Satellite Navigation
+MGMT 60900 - Seminar in External Reporting II
+ME 59200 - Fundamentals Of Particle Image Velocimetry
+CS 58000 - Algorithm Design, Analysis, And Implementation
+MGMT 60100 - Managerial Accounting
+AAE 59500 - Aerospace Seminar
+AT 10200 - Aviation Business
+LING 56000 - Service Learning In Languages And Linguistics
+COM 55900 - Current Trends In Mass Communication Research
+LING 62900 - Seminar In Syntax
+ENGL 47000 - Advanced Topics In Rhetorical Studies
+ENGL 55300 - Colonial And Early American Literature
+CS 29100 - Sophomore Development Seminar
+ENGL 54800 - Victorian Literature
+ME 39600 - Professional Internship II
+CHM 69800 - Research MS Thesis
+HSOP 49000 - Special Topics
+PES 12000 - Officiating
+ENGL 51000 - History Of The English Language
+ABE 69700 - Doctoral Professional Development
+MGMT 28800 - Programming For Business Applications
+CHNS 30200 - Chinese Level VI
+COM 49700 - Special Topics In Mass Communication
+ABE 62700 - Colloidal Phenomena In Bioprocessing
+MGMT 22000 - Making The Business Case
+MGMT 58800 - Business Insights With Spreadsheets And Macro Programming
+ENGL 37401 - Studies In British Literary History
+GS 20000 - Preparing Tomorrow's Leaders: Purpose And Connection
+CS 38003 - Python Programming
+GS 39501 - Understanding Your Undergraduate Research Experience II
+TLI 45830 - Service Learning
+IDE 30100 - Professional Preparation In Interdisciplinary Engineering
+TLI 35560 - Employment And Labor Law For The Human Resource Professionals
+ME 29000 - Global Engineering Professional Seminar
+GS 49501 - Beyond Undergraduate Research
+MGMT 53200 - Forensic Accounting And Fraud Examination
+TLI 26200 - Foundations Of Integrated STEM Education
+MGMT 54400 - Database Management Systems
+ABE 44000 - Cell And Molecular Design Principles
+AT 33800 - Airline Management
+ME 56700 - Dynamical Problems In Design
+ME 56000 - Kinematics
+THTR 53300 - Acting Technique
+ABE 48500 - Agricultural Engineering Project Management And Design
+AT 31100 - Aerospace Internship
+CHM 29199 - Cooperative Experience I
+COM 67400 - Seminar: Special Topics In Organizational Communication
+BCM 35000 - Construction Site Planning
+THTR 58000 - Period Style For The Designer
+EAPS 30100 - Oil !
+CHM 26100 - Organic Chemistry
+ABE 20100 - Thermodynamics In Biological Systems I
+COM 62111 - Seminar In Strategic Communication And Social Media
+EAPS 52100 - Atmospheric Chemistry
+BCM 38501 - Soils In Construction
+BCM 47500 - Construction Costs
+EAPS 54100 - Geodetic Data And Applications
+COM 60100 - Foundations Of Human Communication Inquiry II
+EAPS 35200 - Structural Geology
+BCM 41700 - Design/Build For Mep Contractors
+EAPS 51800 - Soil Biogeochemistry
+COM 62511 - Survey Design, Analysis, And Reporting For Strategic Communication
+ABE 39499 - Professional Practice Extensive Co-Op IV
+CHM 20000 - Fundamentals Of Chemistry
+COM 60211 - Seminar In Global Strategic Communication
+EAPS 53900 - Mesoscale Meteorology
+BCM 49700 - Special Topics In Construction
+THTR 59000 - Directed Study Of Special Theatre Problems
+CHM 29000 - Selected Topics In Chemistry For Lower-Division Students
+EAPS 59100 - Advanced Topics In Earth And Atmospheric Sciences
+CHM 25701 - Organic Chemistry Laboratory
+AT 29900 - Aviation Technology
+THTR 55800 - Advanced Problems In Theatre Technology
+ME 56400 - Vibrations Of Discretized Systems
+REG 94000 - Swimming-Men
+AT 32700 - Advanced Transport Flight Operations
+ABE 45300 - Leadership In Biotechnology
+AT 30901 - Introduction To UAS Sensor Technology
+ABE 49000 - Professional Practice In Agricultural And Biological Engineering
+THTR 52600 - Advanced Stage Movement
+EAPS 45000 - Physics And Chemistry Of Solid Earth
+MGMT 53700 - Persuasive Communications
+TLI 46000 - Teaching Design And Innovation II
+COM 32000 - Small Group Communication
+GS 29501 - Understanding Your Undergraduate Research Experience I
+ME 29299 - Professional Practice Extensive Co-Op II
+ME 28800 - Industrial Practice IV
+TLI 35580 - The Individual And Organizational Performance
+CS 38001 - C++ Programming
+ENGL 33900 - Twentieth-Century British Literature
+ENGL 35400 - Asian American Literature
+COM 49505 - Sports Communication
+CHNS 31300 - Reading And Writing Practice
+MGMT 26100 - Introduction To Supply Chain Management
+MGMT 20100 - Management Accounting I
+CHNS 10200 - Chinese Level II
+COM 52000 - Small Group Communication
+HSOP 50200 - Food And Drug Law II
+MGMT 36100 - Operations Management
+ABE 69900 - Research PhD Thesis
+CS 28401 - Professional Practice Part-Time
+CS 24200 - Introduction To Data Science
+ENGL 55800 - American Literature In The Later Nineteenth Century
+LING 59800 - Special Topics In Linguistics
+CS 56500 - Programming Languages
+MGMT 61100 - Advanced Corporate Finance
+AAE 66600 - Nonlinear Dynamics, Systems, And Control
+CM 54500 - Construction Management Training And Development
+BTNY 47500 - Honors Course - Upper Division
+AT 10600 - Basic Aircraft Science
+AAE 58500 - Air Transportation Systems
+MGMT 60300 - Taxes And Business Strategy
+CS 57800 - Statistical Machine Learning
+JPNS 20200 - Japanese Level IV
+ME 60800 - Numerical Methods In Heat, Mass, And Momentum Transfer
+AAE 55300 - Elasticity In Aerospace Engineering
+BTNY 20700 - The Microbial World
+BME 38900 - Junior Experimental Design Laboratory
+BME 52100 - Biosensors: Fundamentals And Applications
+ME 61400 - Computational Fluid Dynamics
+BTNY 56200 - Plant Hormone Biology
+ENGL 24900 - Great British Books
+AT 69000 - Independent Study In Air Transportation
+ASM 39000 - Agricultural Systems Management Co-Op
+AT 20700 - Introduction To Aircraft Systems
+CHM 11200 - General Chemistry
+ENGL 23100 - Introduction To Literature
+ASM 53000 - Power And Machinery Management
+ASM 54000 - Geographic Information System Application
+CHM 11500 - General Chemistry
+AT 20802 - Aircraft Materials
+AT 69800 - Research MS Thesis
+ASM 40000 - Agricultural Systems Management Study Abroad
+ENGL 24100 - British Literature After 1789
+BTNY 59000 - Special Problems
+REG ISS - Weeks Of Welcome
+ENGL 30600 - Introduction To Professional Writing
+BTNY 12100 - Principles Of Plant Biology II
+ME 61300 - Advanced Engineering Acoustics
+JPNS 20100 - Japanese Level III
+AAE 55400 - Fatigue Of Structures And Materials
+BME 55100 - Tissue Engineering
+BME 38000 - Professionalization In Biomedical Engineering
+AAE 59000 - Projects In Aeronautical Engineering
+AT 10300 - Aerospace Vehicle Propulsion And Tracking Systems
+BTNY 42000 - Plant Cellular And Developmental Biology
+CS 57700 - Natural Language Processing
+MGMT 60600 - Seminar In External Reporting I
+MGMT 61200 - Financial Management III
+CS 56000 - Reasoning About Programs
+CM 54000 - Law For Construction Managers
+AAE 66800 - Hybrid Systems: Theory And Analysis
+ENGL 55400 - American Literary Culture 1820-1860
+LING 61900 - Seminar In Phonology
+CS 25000 - Computer Architecture
+ENGL 49000 - Worksite Internship Practicum
+CS 29000 - Topics In Computer Sciences
+HSOP 45200 - Social Aspects Of Pharmacy Practice
+CHM 69900 - Research PhD Thesis
+HSOP 55600 - Healthcare Economics And Public Policy
+ME 39499 - Professional Practice Extensive Co-Op IV
+MGMT 21200 - Business Accounting
+COM 51800 - Theories Of Persuasion
+CHNS 10700 - Chinese For Heritage Students
+CHNS 33000 - Introduction To Chinese Cinema
+COM 49504 - Social Media For Social Good
+MGMT 28500 - Knowledge Management
+ENGL 37100 - Twentieth-Century American Literature
+CS 45600 - Programming Languages
+CS 37300 - Data Mining And Machine Learning
+CS 38002 - Advanced Java Programming
+ME 28700 - Industrial Practice III
+GS 49000 - Directed Reading In General Studies
+TLI 35570 - Job Analysis And Job Design
+TLI 45900 - Technology Focus Seminar
+MGMT 52610 - Data-Driven Marketing
+MGMT 53900 - Analytics For Social Media Marketing
+COM 11400 - Fundamentals Of Speech Communication
+COM 27100 - Podcasting
+ASM 10400 - Introduction To Agricultural Systems
+MGMT 53100 - Government/Not-For-Profit Accounting
+ABE 48600 - Agricultural Engineering Design
+AT 31000 - Aerospace Enterprise Organization
+ME 55900 - Micromechanics Of Materials
+EAPS 43400 - Weather Analysis And Forecasting
+THTR 52500 - Theatrical Characterization
+THTR 45800 - Problems In Theatre Technology
+REG 93900 - Softball
+ME 56500 - Vehicle Dynamics
+ABE 45000 - Finite Element Method In Design And Optimization
+AT 33502 - Avionics Systems
+AT 30000 - Global Aviation Systems
+THTR 55600 - Advanced Stage Makeup
+CHM 25700 - Organic Chemistry
+EAPS 60000 - Writing Successful Science Proposals
+ME 52900 - Sustainable Energy Options And Analysis
+ME 53300 - Turbomachinery II
+THTR 59700 - Production And Design Seminar
+CHM 28400 - Cooperative Work Experience III
+EAPS 54000 - Introduction To Geodesy
+COM 60111 - Seminar In Strategic Communication
+EAPS 41900 - Internship In Environmental Geosciences
+BCM 49900 - Special Assignments
+BCM 45500 - Construction Company Management
+EAPS 35300 - Earth And Planetary Surface Processes
+CHM 19700 - Chemistry Freshman Honors Research
+ABE 39599 - Professional Practice Extensive Co-Op V
+COM 62411 - Focus Groups And Interviewing For Strategic Communication
+EAPS 52000 - Theory Of Climate
+ME 51800 - Analysis Of Thermal Systems
+EEE 69800 - Research MS Thesis
+CHM 34800 - Bioinorganic Chemistry
+AT 47200 - Advanced Composite Technology
+SCI 10000 - Multicultural Leadership Seminar
+AT 44502 - Aircraft Electronics
+ILS 49000 - Independent Study In Information Science
+ME 50600 - Two-Phase Flow And Heat Transfer
+ME 50000 - Advanced Thermodynamics
+IE 69000 - Advanced Topics In Industrial Engineering
+MSL 20200 - Leadership And Teamwork
+AT 39300 - Industrial Practice III
+AAE 35201 - Structural Analysis I Laboratory
+AT 36302 - Fundamentals Of Powerplant Systems
+THTR 38100 - History Of Theatre II
+TLI 52500 - Molecular Basis Of Manufacturing Pharmaceuticals
+ME 19800 - PMEA Leadership Program
+ENGL 42000 - Business Writing
+TLI 49900 - Special Topics In Technology Leadership & Innovation
+COM 38100 - Gender And Feminist Studies In Communication
+MGMT 44500 - Introduction To Investments And Portfolio Management
+MGMT 46700 - Big Data & Cloud Computing
+RUSS 40200 - Russian Level VIII
+ENGL 66800 - Seminar In Interpretation And Cultural Theory
+ENGL 69100 - Seminar In The English Language Arts
+COM 41600 - United States Politics And The Media
+RUSS 58100 - Russian Culture
+ENGL 63500 - Seminar In English Literature 1660-1783
+CS 49700 - Honors Research Project
+CHM 64400 - Solid State Chemistry
+ENGL 62100 - Written Communication For International Graduate Students
+ENGL 60611 - Technical Communication
+ME 44000 - Automotive Prime Movers: Green Engines And Clean Fuel
+CDIS 23900 - Introduction To Disability Studies
+CHM 66800 - Physical Organic Chemistry
+CHM 63200 - Membranes: Structure And Function
+MGMT 42110 - Marketing Analytics
+MGMT 39599 - Extensive Cooperative Experience V
+ENGL 46200 - The Bible As Literature: The Old Testament
+MUS 38100 - Music History I: Antiquity To Mozart
+ENGL 58300 - U S Ethnic/Multicultural Literature
+MGMT 43902 - Real Estate Capital Markets & Securitization
+ENGL 59900 - Academic Language And Content Area Learning
+ME 66700 - Advanced Dynamical Problems In Machine Design
+MGMT 64900 - Global Marketing Management
+THTR 20100 - Theatre Appreciation
+LC 59000 - Directed Reading In Foreign Languages
+BME 69900 - Research PhD Thesis
+LC 65900 - Seminar In Literature And Culture Of The African Diaspora
+BME 58300 - Biomaterials
+THTR 16000 - Introduction To Scene Design And Technology
+IE 47400 - Industrial Control Systems
+MGMT 67000 - Business Analytics
+IE 53600 - Stochastic Models In Operations Research I
+JPNS 59600 - Special Topics In Japanese Linguistics.
+AAE 41600 - Viscous Flows
+AAE 39399 - Professional Practice Extensive Co-Op III
+IE 49900 - Research In Industrial Engineering
+MGMT 65420 - Leadership
+ENGT 29000 - Special Topics In ENGT
+EEE 35000 - Introduction To Environmental And Ecological Engineering
+AT 53000 - Multi-Cultural Issues In Team Operations
+ENGL 21900 - Figures Of Myth And Legend III: Magic And Marvels
+NRES 41000 - Research In Natural Resources And Environmental Science
+AT 57400 - Exploratory Studies In Aviation Human Factors
+ENGL 20500 - Introduction To Creative Writing
+ENGT 10700 - Industrial Technology Principles Of Engineering
+ENGL 20200 - Engaging English
+ENGL 20400 - Special Topics In Writing
+AT 58100 - Workshop In Aviation Technology
+NRES 40000 - Natural Resources And Environmental Science Study Abroad
+ENGT 10600 - Industrial Technology Digital Electronics
+LC 10100 - Special Topics In Foreign Languages I
+ENGT 22670 - Sustainable Energy Technologies: An International Perspective
+ENGL 21800 - Figures Of Myth And Legends II: Heroes And Villains
+AT 53100 - International Civil Aviation Regulatory Systems
+EEE 30000 - Environmental And Ecological Systems Modeling
+AAE 39499 - Professional Practice Extensive Co-Op IV
+MGMT 65430 - Negotiations In Organizations
+ASL 39000 - Undergraduate Research In American Sign Language
+IE 52500 - Healthcare Delivery Systems
+JPNS 59400 - Special Topics In Japanese Literature
+IE 53700 - Discrete Optimization Models And Algorithms
+MGMT 67100 - Quantitative Methods II
+AAE 41800 - Zero-Gravity Flight Experiment
+BME 59500 - Selected Topics In Biomedical Engineering
+LC 65000 - Topics In Theory
+IE 48100 - Introduction To System Simulation
+THTR 16100 - Introduction To Costume Design And Technology
+MGMT 65000 - Strategic Management I
+ME 66400 - Vibrations Of Continuous Systems
+LC 57500 - Theories Of Foreign Language Acquisition
+ENGL 59700 - Contemporary Black Feminist Literature
+MUS 27000 - Computer Skills In Music
+MUS 37800 - Jazz History
+MGMT 43901 - Real Estate Investment & Development
+MGMT 40100 - Krannert Executive Forum
+CHM 63100 - Magnetic Resonance Spectroscopy:
+MGMT 42210 - International Marketing
+ENGL 60700 - The Theory And Craft Of Creative Writing
+CHM 65200 - Synthetic Organic Chemistry
+CDIS 29000 - Special Topics In Critical Disability Studies
+CHM 64200 - Advanced Inorganic Chemistry
+ME 41800 - Engineering Of Environmental Systems And Equipment
+ENGL 62200 - Issues In Composition Studies: Classical Period To The Renaissance
+ENGL 63300 - Seminar In English Literature Before 1660
+CS 50010 - Foundational Principles Of Information Security
+ENGL 69000 - Internship In Second Language Studies/ESL
+RUSS 59000 - Directed Reading In Russian
+ENGL 39300 - Interdisciplinary Approaches To Environmental And Sustainability Studies
+COM 41700 - Training And Development In Organizations
+ENGL 38700 - History Of Film Since 1950
+ENGL 66700 - Seminar In Poetics And Aesthetics
+MGMT 47000 - Transport Management I
+RUSS 40100 - Russian Level VII
+COM 37800 - Introduction To Health Communication
+MGMT 44690 - Negotiation And Decision Making
+TLI 49800 - Undergraduate Research In Technology Leadership And Innovation
+TLI 52400 - The Documents And Dialogues Of Drug Delivery And Registration
+AT 36500 - Instrument Flight Instructor Flight
+CHM 47509 - Professional Practice III
+THTR 38000 - History Of Theatre I
+THTR 36300 - Sound Design
+AAE 35200 - Structural Analysis I
+AT 39400 - Industrial Practice IV
+MSL 20100 - Individual Leadership Studies
+IE 69600 - Graduate Professional Practice
+ME 49900 - Research In Mechanical Engineering II
+AT 44200 - Turbojet Flight Engine Procedures Laboratory III
+CHM 33300 - Principles Of Biochemistry
+ME 50500 - Intermediate Heat Transfer
+ILS 49500 - Special Topics In Information And Data Science
+EAPS 22100 - Survey Of Atmospheric Science
+ME 51700 - Micro/Nanoscale Physical Processes
+AT 46800 - Transport Aircraft Operations Lab IV
+EEE 69900 - Research PhD Thesis
+AT 44900 - Airline Transport Lectures
+EEE 69500 - Experimental Courses
+CHM 34200 - Inorganic Chemistry
+AT 47500 - Aviation Law
+MSL 10200 - Basic Leadership
+EAPS 10000 - Planet Earth
+ILS 17500 - Information Strategies For Hospitality & Tourism Management
+EEE 43000 - Industrial Ecology And Life Cycle Analysis
+CHM 43800 - Introduction To Molecular Biotechnology
+IE 69800 - Research MS Thesis
+CHM 48700 - Cooperative Work Experience V
+AT 36201 - Aviation Operations
+AT 38800 - Large Aircraft Systems
+THTR 36100 - Costume Design
+AT 41901 - Unmanned Aerial Systems Capstone II
+ENGL 42100 - Technical Writing
+TLI 52000 - Foundations Of Innovation Studies
+COM 35600 - Problems In Advertising
+MGMT 49300 - Storytelling With Data
+ME 26300 - Introduction To Mechanical Engineering Design, Innovation And Entrepreneurship
+TLI 52600 - Digital Innovation And Transformation
+COM 36199 - Professional Practice Parallel Co-Op Semester I
+MGMT 46600 - Project Management
+EPCS 20200 - Sophomore Participation In EPICS
+MGMT 44434 - Human Resources Analytics
+COM 37500 - Conflict And Negotiation
+ENGL 39100 - Composition For English Teachers
+RUSS 56200 - The Structure Of Russian II: Morphology
+ENGL 69200 - Scholarly Writing And Publishing
+ENGL 66900 - Introduction To Visual Theory And Visual Culture
+BAND 44000 - Renaissance Ensemble
+CS 47300 - Web Information Search And Management
+CHM 67100 - Advanced Physical Chemistry
+ENGL 60600 - Seminar In Poetry Writing
+ME 43300 - Principles Of Turbomachinery
+MGMT 39010 - Accounting Internship
+ENGL 62000 - Classroom Communication In ESL For Teaching Assistants
+CHM 64600 - Kinetics And Mechanisms Of Inorganic Reactions
+MGMT 39499 - Extensive Cooperative Experience IV
+MGMT 42000 - Consumer Analytics
+MUS 23300 - Music Theory IV: Contemporary Music
+ENGL 58500 - Creative Nonfiction Writing
+MUS 37500 - Selected Topics In Music
+ENGL 44200 - Shakespeare
+THTR 16300 - Introduction To Sound Design And Technology
+JPNS 36100 - Elementary Survey Of Japanese Linguistics
+LC 63000 - Comparative Literature: Function And Methods
+AAE 53800 - Air Breathing Propulsion
+LC 56500 - Sociolinguistics
+BME 69800 - Research MS Thesis
+ME 67500 - Multivariable Control System Designs
+THTR 23300 - Acting I: Acting Technique
+ASL 36200 - The Structure Of American Sign Language II: Syntax, Semantics And Language Use
+IE 53200 - Reliability
+MGMT 65470 - Talent Management
+AAE 38399 - Professional Practice Co-Op III
+CM 10000 - Introduction To Construction Management
+LC 47500 - Theories Of Teaching World Languages
+NRES 20000 - Introduction To Environmental Careers
+AAE 41200 - Introduction To Computational Fluid Dynamics
+JPNS 57500 - Theories Of Japanese Language Acquisition
+IE 54100 - Nature-Inspired Computation
+IE 64600 - Advanced Decision Theory
+ENGT 10300 - Industrial Technology Exploring Civil Engineering And Architecture
+NRES 42000 - Environmental Internship Reporting
+AT 57300 - Managing The Risk Of Organizational Accidents
+EEE 35500 - Engineering Environmental Sustainability
+AT 52800 - Management And Design Of Training Systems
+ENGT 18000 - Engineering Technology Foundations
+MGMT 68600 - Knowledge Management Systems
+AT 49700 - Applied Research Project
+AT 49600 - Applied Research Proposal
+AT 52600 - Aviation Leadership
+EEE 36000 - Environmental And Ecological Engineering Laboratory
+MGMT 68700 - Design For Instincts: Social Networks and Engagements
+ENGT 18100 - Engineering Technology Applications
+ENGT 10500 - Industrial Technology Introduction To Design
+IE 65600 - Research Seminar In Human Factors
+AT 57200 - Human Error And Safety
+NRES 45000 - Soil Conservation And Water Management
+AAE 40000 - Undergraduate Senior Seminar
+NRES 12500 - Environmental Science And Conservation
+LC 49000 - Special Topics In Foreign Languages And Literatures
+IE 53800 - Nonlinear Optimization Algorithms And Models
+JPNS 59000 - Directed Reading In Japanese
+MGMT 67200 - Advanced Business Analytics
+MGMT 65460 - Talent Acquisition
+IE 53000 - Quality Control
+ASL 36400 - Introduction To Structure Of American Sign Language
+CM 11000 - Construction OSHA Ten-Hour Certification
+AAE 38299 - Professional Practice Co-Op II
+BME 69700 - Directed Reading In Biomedical Engineering
+LC 57000 - Introduction To Semiotics
+THTR 21300 - Voice For The Actor
+ME 67700 - Nonlinear Feedback Controller Design
+JPNS 36200 - The Structure Of Japanese II: Advanced Sentence Structure And Applied Linguistics
+THTR 16200 - Introduction To Light Design And Technology
+AAE 53700 - Hypersonic Propulsion
+BME 58100 - Fundamentals Of MEMS And Micro-Integrated Systems
+LC 63900 - Seminar In Comparative Literature
+MUS 37600 - World Music
+ENGL 46000 - Studies In Women's Literature
+MUS 25000 - Music Appreciation
+ENGL 56900 - Contemporary Criticism And Theory
+MGMT 41601 - Corporate Mergers And Acquisitions
+COM 42300 - Leadership, Communication And Organizations
+MGMT 39399 - Cooperative Experience III
+ENGL 61900 - Qualitative Research In Second Language Studies
+MGMT 39000 - Junior Level Problems In Management
+CHM 64700 - Transition Metal And Organometallic Chemistry
+COM 46399 - Professional Practice Parallel Co-Op Semester III
+CHM 67200 - Quantum Chemistry
+ME 43400 - Gas Turbines For Power And Propulsion
+ENGL 60511 - Editing And Publishing
+ENGL 41100 - Studies In Major Authors
+CS 51500 - Numerical Linear Algebra
+ENGL 67200 - Seminar In Women's Literature And Feminist Theory
+ENGL 38600 - History Of Film To 1950
+BAND 44100 - Renaissance Ensemble
+RUSS 56100 - The Structure Of Russian I: Phonology And Syntax
+ENGL 39200 - Young Adult Literature
+MGMT 44433 - Leading And Working In Teams
+EPCS 30100 - Junior Participation In EPICS
+COM 37600 - Communication And Gender
+COM 36299 - Professional Practice Parallel Co-Op Semester II
+MGMT 46501 - Strategic Sourcing And Procurement
+ME 27000 - Basic Mechanics I
+TLI 52700 - Behavioral Analytics
+TLI 52100 - Drug Development
+MGMT 49200 - Intellectual Property Management
+AT 41600 - Airline Indoctrination
+AT 38700 - Turbine Aircraft Simulation Lab
+THTR 36200 - Light Design
+AT 35900 - Airport Management
+CHM 48100 - Environmental Chemistry
+SCI 19100 - Part-Time Curricular Practical Training
+IE 69700 - Seminar
+ILS 10300 - Introduction To Data Lifecycle Management
+CHM 44400 - Cosmochemistry
+EEE 39699 - Professional Practice Internship
+AT 47600 - Aircraft Gas Turbine Engine Technology II
+CHM 34201 - Inorganic Chemistry Laboratory
+EEE 69000 - Environmental And Ecological Engineering Graduate Seminar
+ME 50700 - Laser Processing
+AT 45000 - Airline Transport Flight
+MSL 30200 - Leadership And Ethics
+IE 67400 - Cyber Methods For Advanced Production Control
+SCI 21000 - Teaming Principles
+EEE 59500 - Environmental And Ecological Engineering Projects
+CHM 39399 - Cooperative Experience III
+AT 45400 - Human Factors In Aviation
+ME 51000 - Gas Dynamics
+AT 46700 - Transport Aircraft Operations Lab III
+CHM 37000 - Topics In Physical Chemistry
+AT 43800 - Airline Operations
+AT 36600 - Multi-Engine Flight Instructor Flight
+THTR 35400 - Painting For The Stage
+AT 38201 - Advanced Flight Instructor Lecture
+CHM 51300 - Chemical Literature
+SCI 49000 - Topics In Science For Undergraduates
+MGMT 46100 - Management Operations
+COM 36001 - Mock Trial Practicum
+BAND 11100 - Symphony Orchestra
+MGMT 44710 - Competitive Strategy
+ME 20000 - Thermodynamics I
+TLI 49000 - Independent Study In Technology Leadership And Innovation
+TLI 62600 - Life Of A Faculty Entrepreneur: Discovery, Delivery, Translation
+ENGL 41400 - Studies In Literature And Culture
+MGMT 50700 - Advanced Federal Income Taxes
+CS 50011 - Introduction To Systems For Information Security
+CS 50300 - Operating Systems
+ENGL 68100 - Hutton Lectures In Rhetoric And Composition
+CS 49000 - Topics In Computer Sciences For Undergraduates
+RUSS 42400 - Business Russian
+ENGL 39600 - Studies In Literature And Language
+BAND 33100 - Summer Jazz Bands
+ENGL 38000 - Issues In Rhetoric And Public Life
+ENGL 67800 - Seminar In Modern American Literature
+MGMT 40300 - Database Management Systems
+BAND 48000 - Wind Ensemble IV
+COM 41900 - Judgment And Decision Making
+MGMT 41300 - Corporate Finance
+ENGL 60711 - Designing Documents, Interfaces, And Graphics
+MGMT 39100 - Strategic Thinking And Decision-Making
+COM 44700 - The Television Documentary
+CHM 67900 - Chemical Thermodynamics
+CHM 64100 - Advanced Inorganic Chemistry
+ENGL 61300 - Middle English Language
+ENGL 43400 - Science And Medical Writing
+MUS 29200 - Music, Media, And Technology
+ENGL 46300 - The Bible As Literature: The New Testament
+AAE 36100 - Introduction To Random Variables In Engineering
+LC 26700 - World Literature: From 1700 A D To The Present
+NRES 38010 - Hazardous Waste Handling
+ASL 30100 - American Sign Language V
+IE 49000 - Special Topics In Industrial Engineering
+MGMT 65900 - Strategic Management II
+JPNS 69800 - Research MA Thesis
+IE 55600 - Job Design
+AAE 42100 - Flight Dynamics And Control
+LC 67900 - Seminar In Linguistics
+BME 60000 - Mentoring For Combined Degree (MD/PhD) Students in BME
+THTR 15003 - Introduction To Rigging For Theatre
+ME 69900 - Research PhD Thesis
+JPNS 56000 - Survey Of Japanese Linguistics
+ME 68900 - Adaptive Control
+AAE 51400 - Intermediate Aerodynamics
+LC 51900 - Teaching Of Foreign Languages
+BME 69000 - Seminar In Biomedical Engineering
+ENGT 58100 - Workshop In Engineering Technology
+AT 52400 - Managerial Economic Decision Making
+NRES 49700 - Current Topics in Environmental Sciences
+AT 54800 - Aircraft Asset Management
+ENGT 39000 - Special Topics In Engineering Technology
+IE 58300 - Design And Evaluation Of Material Handling Systems
+EEE 29500 - Experimental Course
+ENGL 22600 - Narrative Medicine
+AT 53200 - Contemporary Issues In Transportation Security
+ASM 69900 - ASM Research PhD Thesis
+IE 58200 - Advanced Facilities Design
+ENGT 29900 - Engineering Technology Project
+AT 53300 - Aviation Graduate Professional Practice Internship
+ENGL 22500 - Literature, Inequality, And Injustice
+EEE 29299 - Professional Practice Extensive Co-Op II
+AT 54900 - Aircraft Leasing
+NRES 48500 - Environmental Communications
+ENGT 57100 - Applied Nanotechnology
+AT 52500 - Process Improvement And Simulation
+THTR 25300 - Survey Of Audio Production
+ME 68700 - Laser Diagnostics For Reacting Flows
+JPNS 54300 - Modern Japanese Popular Literature And Culture
+BME 69500 - Advanced Topics In Biomedical Engineering
+LC 49900 - Research In Foreign Languages
+AAE 51500 - Rotorcraft Aerodynamics
+BME 62600 - Engineering Nanomedical Systems
+LC 66500 - Methods Of Sociolinguistics Analysis
+ME 69800 - Research MS Thesis
+IE 55800 - Safety Engineering
+JPNS 67900 - Seminar In Japanese Linguistics
+MGMT 66900 - Operations Management: Practice And Models
+AAE 43800 - Air-Breathing Propulsion
+CM 15000 - Construction Management Fundamentals
+NRES 38500 - Environmental Soil Chemistry
+LC 26600 - World Literature: From The Beginnings to 1700 A D
+AAE 36400 - Control System Analysis
+MGMT 66000 - Introduction To Operations Management
+IE 49500 - Industrial Practices Seminar
+ASL 28000 - American Deaf Community: Language, Culture, And Society
+ENGL 58000 - Theories Of Modernity And Postmodernity
+ME 47500 - Automatic Control Systems
+ENGL 57300 - Tragedy
+ENGL 44400 - Milton
+ENGL 43300 - Writing Proposals And Grants
+CHM 63800 - Biophysical Chemistry
+ENGL 61400 - Middle English Literature
+MGMT 39200 - Optimizing Personal Brand & Image
+ENGL 60811 - Entrepreneurship Communication
+CHM 67605 - Molecular Spectroscopy
+MGMT 41310 - Financial Data Analysis And Modeling
+ME 46300 - Engineering Design
+MGMT 40500 - Six Sigma And Quality Analytics
+BAND 48100 - Ensemble Colloquium
+ENGL 37900 - The Short Story
+ENGL 67700 - Seminar In Modern Literature
+BAND 33000 - Summer Concert Bands
+RUSS 48000 - Russian Civilization
+CS 50500 - Distributed Systems
+CS 50023 - Data Engineering I
+COM 33701 - Producing Digital Advertising
+TLI 62579 - Global, Legal And Ethical Issues In Technology Leadership
+ME 19900 - How Stuff Works
+TLI 48800 - Technology Leadership And Innovation Capstone
+MGMT 44810 - Technology Strategy
+MGMT 46200 - Advanced Manufacturing Planning And Control Systems
+BAND 11200 - American Music Review
+COM 36000 - Forensics Practicum
+THTR 35300 - Theatre Audio Techniques I
+CHM 53300 - Introductory Biochemistry
+AT 38300 - Instrument And Multiengine Instructor Flight
+AT 36900 - Air Traffic Control
+THTR 39000 - Directed Study Of Special Theatre Problems
+AT 43900 - Aviation Command Leadership
+THTR 29000 - Special Topics In Theatre
+AT 46600 - Transport Aircraft Operations Lecture IV
+IDIS 11000 - Freshman Success Course I
+AT 45300 - Aviation Global Experience
+ME 50900 - Intermediate Fluid Mechanics
+IE 68000 - Advanced Simulation Design And Analysis
+MSL 49000 - Directed Studies In Military Science
+CHM 38600 - Cooperative Work Experience IV
+EEE 59800 - Environmental And Ecological Engineering Projects
+MSL 30100 - Leadership And Problem Solving
+SCI 19500 - Special Topics In Science
+IDIS 29000 - Interdisciplinary Topics
+IE 67000 - Advanced Topics In Manufacturing Engineering
+ME 50300 - Micro-And-Nano-Scale Energy Transfer Processes
+MSL 35000 - American Military History And Leadership
+IDIS 49100 - Special Topics In Interdisciplinary Studies
+AT 46200 - Occupational Certification And Licensure
+ME 51300 - Engineering Acoustics
+BCM 17500 - Construction Materials And Methods
+ME 50800 - Heat Trans In Biological Systems
+EAPS 12000 - Introduction To Geography
+AT 45100 - Airport Operations
+CHM 32100 - Analytical Chemistry I
+AT 38502 - Design Support Analysis
+CHM 50200 - Modern Chemistry In The High School
+THTR 43300 - Acting IV: Acting Shakespeare
+AAE 30000 - Undergraduate Junior Seminar
+AT 37200 - Aircraft Maintenance Practices
+MGMT 45500 - Legal Background For Business I
+RUSS 30100 - Russian Level V
+COM 36099 - Professional Practice Parallel Co-Op Summer II
+BAND 11000 - Marching Band
+MGMT 46400 - Logistics: Concepts And Models
+TLI 54000 - Smart Manufacturing Enterprise: Organizational Behavior And Leadership In The Digital Enterprise
+ENGL 41300 - Studies In Literature And History
+TLI 48590 - Organizational Leadership Capstone I
+ENGL 42201 - Writing For The Health And Human Sciences
+CS 53600 - Data Communication And Computer Networks
+ENGL 65700 - Seminar In American Literature 1630-1900
+CS 51400 - Numerical Analysis
+CS 50025 - Foundations Of Decision Making
+ENGL 67300 - Seminar In Postcolonial Studies
+COM 40800 - News Magazine Production
+ENGL 38100 - The British Novel
+RUSS 49800 - Topics In Russian Culture
+MGMT 41500 - International Financial Management
+MUS 23200 - Music Theory III
+CHM 60500 - Safety In The Chemistry Laboratory
+BAND 47100 - Ensemble Colloquium
+MGMT 41150 - Futures And Options
+ENGL 61800 - Quantitative Research In Second Language Studies
+CHM 63400 - Biochemistry: Structural Aspects
+CHM 67300 - Computational Quantum Chemistry
+ME 43000 - Power Engineering
+ENGL 60911 - User Experience And Design Thinking
+ENGL 60500 - Computers In Language And Rhetoric
+ME 47300 - Engineering Design Using Modern Materials
+ENGL 57800 - Early Twentieth-Century American Fiction
+MUS 32400 - Teaching Music In The Elementary School
+MGMT 44431 - Compensation: Total Rewards
+ENGL 57000 - Introduction To Semiotics
+AAE 44000 - Spacecraft Attitude Dynamics
+MGMT 66700 - International Operations Management
+IE 54600 - Economic Decisions In Engineering
+ASL 10100 - American Sign Language I
+IE 48600 - Work Analysis And Design II
+ASL 30200 - American Sign Language Advanced-Level VI
+MGMT 65700 - Manufacturing Strategy And Process Innovation
+AAE 38199 - Professional Practice Co-Op I
+LC 56100 - Introduction To The Linguistic Analysis Of Foreign Languages
+BME 69699 - Biomedical Engineering Professional Practice Graduate Internship
+IE 38399 - Professional Practice Co-Op III
+ME 68000 - Bifurcations And Chaos
+MGMT 65410 - Training And Development
+THTR 15002 - Introduction To Scenery Construction Tools And Techniques
+ME 69600 - Advanced Professional Internship
+LC 69800 - Research MA Thesis
+BME 64600 - Deep Learning - Theory And Practice Of Deep Neural Networks
+EEE 29000 - Introduction to Environmental And Ecological Engineering Seminar
+AT 54400 - Aircraft Lifecycle Management Innovations
+ENGL 22300 - Literature And Technology
+ENGT 39900 - Engineering Technology Project
+MSL 10100 - Foundations of Officership
+ENGT 10100 - Industrial Technology Biotechnical Studies
+NRES 47000 - Fundamentals Of Planning
+AT 55100 - Graduate Aviation Research Seminar
+ENGT 10200 - Industrial Technology Aerospace Studies
+ENGL 20300 - Introduction To Research For Professional Writers
+AT 55000 - Critical Systems Thinking
+NRES 48000 - Hazardous Waste Certification Renewal
+ENGL 22400 - Literature, Money, And Markets
+AT 54200 - Aviation Fuels And Exhaust Emissions
+EEE 29199 - Professional Practice Extensive Co-Op I
+ENGT 40500 - Entrepreneurial Capstone I
+ME 69700 - Advanced Mechanical Engineering Projects II
+THTR 15001 - Introduction To Drafting
+MGMT 65390 - HR Analytics
+BME 63000 - Introduction To Biomedical Imaging Systems
+LC 69900 - Research PhD Thesis
+BME 69600 - Advanced Biomedical Engineering Projects
+LC 56300 - Historical Linguistics
+THTR 23500 - Vocal/Physical Preparation
+ME 68100 - Finite And Boundary Element Methods
+IE 38300 - Integrated Production Systems I
+MGMT 65500 - Competitive Strategy
+ASL 36100 - The Structure Of American Sign Language I: Phonology And Morphology
+IE 48400 - Integrated Production Systems II
+AAE 36401 - Control Systems Laboratory
+AAE 43900 - Rocket Propulsion
+ASL 10200 - American Sign Language II
+IE 54500 - Engineering Economic Analysis
+MUS 34100 - Music Composition I
+MGMT 44432 - Employee And Leadership Development
+ENGL 57900 - Modern British Fiction
+CHM 67500 - Chemical Kinetics
+ENGL 60900 - Seminar In Fiction Writing
+ENGL 61500 - A Reading Of Beowulf
+CHM 63500 - Biochemistry: Dynamic Aspects
+BAND 47000 - Wind Ensemble III
+CHM 61000 - Topics In Chemical Education
+MGMT 41100 - Investment Management
+MGMT 41350 - Venture Capital And Entrepreneurial Finance
+ENGL 39900 - Beyond English
+RUSS 49700 - Topics In Russian Literature
+ENGL 67400 - Seminar In Language Testing
+ENGL 38200 - The American Novel
+COM 40700 - Introduction To New Media/Social Media Production
+CS 50024 - Data Engineering II
+ENGL 66500 - Seminar In Comparative Literature
+CS 51000 - Software Engineering
+CS 54100 - Database Systems
+TLI 48595 - Organizational Leadership Capstone II
+ENGL 41200 - Studies In Genre
+TLI 62500 - Research In Open Innovation I
+COM 36100 - Multiplatform Journalism
+MGMT 46300 - Supply Chain Analytics
+MGMT 45200 - Manufacturing Strategy And Process Innovation
+COM 39399 - Cooperative Experience III
+RUSS 30200 - Russian Level VI
+THTR 43400 - Advanced Acting Skills
+CHM 46200 - Intermediate Organic Chemistry
+AT 37002 - Advanced Aircraft Powerplants
+AAE 30100 - Signal Analysis For Aerospace Engineering
+CHM 49900 - Special Assignments
+AT 38500 - Design Support Analysis
+THTR 36000 - Scenic Design
+EAPS 11800 - Introduction To Earth Sciences
+CHM 32300 - Analytical Chemistry I Honors
+AT 45200 - Aviation Global Experience Seminar
+CHM 37200 - Physical Chemistry
+AT 46500 - Transport Aircraft Operations Lecture III
+BCM 11201 - Construction Surveying Fundamentals
+ME 51400 - Fundamentals Of Wind Energy
+ME 50400 - Automotive Control
+IDIS 49000 - Directed Reading in Interdisciplinary Studies
+SCI 20100 - Special Topics: Integrated Science And Engineering Learning Community
+IE 65900 - Human Aspects In Computing
+EEE 39000 - Environmental And Ecological Engineering Professional Practice Seminar
+CHM 39599 - Extensive Cooperative Experience V
+EEE 56000 - Environmental And Ecological Engineering In-Context
+ME 51100 - Heat Transfer In Electronic Systems
+ILS 23000 - Data Science And Society: Ethical Legal Social Issues
+AT 45500 - Introduction To Data Acquisition
+ILS 69000 - Independent Study In Information Sciences
+EAPS 12500 - Environmental Science And Conservation
+THTR 27100 - Interpreting The Play Script
+AT 43700 - Airline Maintenance Management
+AT 40500 - Turbojet Copilot Practicum I
+THTR 33300 - Acting II: Scene Study
+SCI 90400 - E&AS New Stdnt Session
+AAE 20401 - Aeromechanics II Laboratory
+AAE 33300 - Fluid Mechanics
+SCI 39599 - Extensive Cooperative Experience V
+BAND 11400 - Basic Jazz
+RUSS 33000 - Russian And East European Cinema
+RUSS 20200 - Russian Level IV
+CS 52900 - Security Analytics
+MGMT 47800 - Experiential Project In Analytics
+MGMT 50600 - Auditing
+TLI 66200 - Philosophy Of Technology
+COM 33600 - Advertising Media Strategy
+ENGL 62500 - Seminar On Empirical Research In Writing
+ENGL 64800 - Seminar In Victorian Literature
+BAND 12100 - Symphony Orchestra
+CS 48900 - Embedded Systems
+ENGL 67900 - Seminar In Modern British Fiction
+BAND 35000 - Wind Ensemble I
+MUS 16100 - Class Piano And Musicianship I
+CHM 61100 - Formulas For Successful Teaching
+CHM 68200 - Statistical Thermodynamics
+MGMT 39090 - Marketing/Sales Internship
+MGMT 38199 - Professional Practice Co-Op I
+ENGL 60211 - Science Writing
+ENGL 59000 - Directed Reading
+ENGL 43201 - Editing And Publishing
+MGMT 44362 - Leadership & Organizational Change
+MGMT 42500 - Marketing Research
+MGMT 66400 - Supply Chain Management
+LC 23900 - Women Writers In Translation
+NRES 38000 - Hazardous Waste Certification Renewal
+LC 33300 - The Middle Ages On Film
+IE 56100 - Introduction To Convex Optimization
+IE 39399 - Professional Practice Extensive Co-Op III
+JPNS 28000 - Introduction To Modern Japanese Civilization
+MGMT 65360 - Industrial Relations I
+AAE 52100 - Plasma Laboratory
+CM 25000 - Intermediate Construction Management
+AAE 51200 - Computational Aerodynamics
+MGMT 64100 - Options And Futures
+THTR 25600 - Stage Make-Up
+IE 37000 - Manufacturing Processes I
+JPNS 49000 - Special Topics In Japanese Language
+ME 69000 - Individual Study In Mechanical Engineering
+AT 49000 - Aviation Project
+AT 52100 - Resource Analysis And Optimization
+ENGL 10800 - Accelerated First-Year Composition
+ENGT 55000 - Manufacturing System Design For Sustainability
+MGMT 69900 - Research PhD Thesis
+IE 63000 - Multiple Objective Optimization
+NRES 49800 - Individual Studies In Environmental Science
+ENGL 22700 - Elements Of Linguistics
+IE 58000 - Systems Simulation
+MGMT 68300 - Information Technology For Innovations And Competitive Advantage
+ENGL 22800 - Language And Social Identity
+IE 58100 - Simulation Design And Analysis
+IE 63200 - Scheduling Models
+EEE 25000 - Environmental, Ecological, and Engineering Systems
+AT 52000 - Operational Assessment And Improvement
+ENGT 56100 - Metrology Concepts And Applications
+MARS 22000 - Introduction To Medieval And Renaissance Studies
+AT 48700 - Transport Aircraft Simulation Laboratory
+AAE 51100 - Introduction To Fluid Mechanics
+ME 69100 - Mechanical Engineering Graduate Seminar
+JPNS 52100 - Teaching Japanese As A Foreign Language
+THTR 25400 - Drafting For Theatre
+MGMT 64000 - Financial Modeling
+MGMT 65350 - Staffing Systems
+JPNS 30100 - Japanese Level V
+IE 38600 - Work Analysis And Design I
+AAE 52000 - Experimental Aerodynamics
+LC 33800 - Language Through Films
+IE 55900 - Cognitive Engineering Of Interactive Software
+MGMT 66100 - Management Of Operating Systems
+NRES 33800 - Environmental Field Skills
+CM 20000 - Intermediate Pre-Construction Management
+LC 26100 - Introduction To The Linguistic Study Of Foreign Languages
+MGMT 42610 - Brand Management
+GSLA 48001 - Senior Interdisciplinary Capstone Project In Global Studies II
+MGMT 44428 - Human Resources Management
+ENGL 60311 - Medical And Healthcare Writing
+MGMT 37500 - Real Estate Law
+CHM 69500 - Seminar
+MGMT 39080 - Manufacturing, Operations, Supply Chain Internship
+CHM 61500 - Principles Of NMR Spectroscopy
+CHM 57900 - Computational Chemistry
+MUS 13300 - Music Theory II
+ENGL 68000 - Seminar In Rhetoric And Composition
+BAND 35100 - Instrument Ensemble Colloquium
+COM 40900 - Video Journalism
+BAND 12200 - American Music Review
+ENGL 64900 - Seminar In English Literature 1880-1920
+ENGL 40700 - Intermediate Poetry Writing
+ENGL 62600 - Postmodernism And Issues In Composition Studies
+MGMT 50500 - Management Accounting II
+COM 33700 - Advanced Digital Video Production
+RUSS 10100 - Russian Level I
+CS 53000 - Introduction To Scientific Visualization
+ENGL 42400 - Writing For High Technology Industries
+MGMT 47500 - Machine Learning For Business
+EPCS 10100 - First Year Participation In EPICS
+RUSS 21100 - Conversation Supplement To Russian Level III
+MUS 38400 - Digital Record And Production II
+RUSS 34100 - Russian Literature In The Nineteenth Century
+BAND 11300 - Jazz Ensemble
+SCI 39500 - Special Topics In Science
+AAE 33301 - Fluid Mechanics Laboratory
+AAE 25100 - Introduction To Aerospace Design
+SCI 90300 - C S New Studnt Session
+AT 40400 - Turbojet Copilot Operations
+THTR 33400 - Acting III: Acting For The Camera
+AT 43500 - Supervised  Instructional Experience
+ILS 63100 - Digital And Analog Archives
+ILS 20100 - Introduction To Digital Humanities
+EAPS 11200 - Earth Through Time
+AT 45900 - Airport Manager Certification
+SCI 29000 - Special Topics In Science
+EEE 54400 - Environmental Organic Chemistry
+EAPS 10400 - Oceanography
+CHM 39699 - Professional Practice Internship
+EEE 38500 - Environmental Soil Chemistry
+EEE 49800 - Environmental And Ecological Engineering Projects
+EEE 38299 - Professional Practice Co-Op II
+CHM 39500 - Chemistry Honors Seminar
+IDIS 59000 - Directed Reading In Interdisciplinary Studies
+MSL 40200 - Officership
+ILS 69500 - Special Topics In Information And Data Science
+EAPS 12900 - Earth System Dynamics
+CHM 37301 - Physical Chemistry Laboratory
+EAPS 11600 - Earthquakes And Volcanoes
+ILS 28000 - Understanding Your Undergraduate Research Experience I
+AT 40000 - Aviation Professional Issues
+AT 43300 - Supervised Aviation Experience
+THTR 27000 - Theatrical Materials And Techniques I
+AAE 33401 - Aerodynamics Laboratory
+SCI 39399 - Cooperative Experience III
+AT 37600 - Aircraft Gas Turbine Engine Technology I
+SCI 90100 - Biol New Stdnt Session
+AAE 29299 - Professional Practice Extensive Co-Op II
+THTR 44000 - Directing: Page To Stage
+RUSS 29800 - Special Topics In Russian
+COM 39499 - Extensive Cooperative Experience IV
+MGMT 45600 - Legal Foundations For Business II
+EPCS 49000 - EPICS Special Topics Course
+RUSS 36100 - The Structure Of Russian I: Sound System And Sentence Structure
+MUS 49000 - Guided Reading In Music
+MGMT 50300 - Advanced Accounting
+MGMT 47300 - Data Mining
+CS 53500 - Interactive Computer Graphics
+ENGL 40600 - Review Writing
+ENGL 62800 - Natural Language Processing
+CS 50100 - Computing For Science And Engineering
+BAND 34100 - Renaissance Ensemble
+BAND 12000 - Applied Music Studies
+COM 41100 - Communication And Social Networks
+CHM 62000 - Spectrochemical Instrumentation
+ME 44400 - Computer-Aided Design And Prototyping
+MGMT 41200 - Financial Institutions And Markets
+MUS 16200 - Class Piano And Musicianship II
+CHM 59900 - Special Assignments
+COM 44900 - Media Management
+MGMT 37000 - Real Estate Fundamentals
+MGMT 39060 - Human Resource Internship
+ENGL 61100 - Old English Language
+COM 44400 - Introduction To Communication And Social Entrepreneurship
+ENGL 59200 - Postcolonial Studies
+ENGL 60411 - Writing Proposals And Grants
+MGMT 42810 - Pricing Strategy And Analysis
+MGMT 44430 - Staffing: Talent Acquisition
+MUS 35100 - Studio Piano
+GSLA 39100 - Special Topics In Global Studies
+ASL 20200 - American Sign Language IV
+AAE 45000 - Spacecraft Design
+LC 33100 - Comparative Literature In Translation
+LC 23700 - Our Common Bond: Languages And Cultures In A Global Context
+NRES 28000 - Hazardous Waste Handling
+MGMT 64200 - Portfolio Management
+JPNS 48500 - Culinary Culture Of Japan
+IE 38199 - Professional Practice Co-Op I
+CM 33100 - Design And Construction II
+AAE 50700 - Principles Of Dynamics
+AAE 51800 - Low-Gravity Fluid Dynamics
+CM 30000 - Advanced Pre-Construction Management
+BME 65800 - Cell And Tissue Culture: Techniques And Application Module
+JPNS 24100 - Introduction To The Study Of Japanese Literature
+IE 39499 - Professional Practice Extensive Co-Op IV
+MGMT 65370 - Industrial Relations II
+ENGT 50900 - Applied Computational Methods
+ENGL 11100 - American Language And Culture For International Students II
+AT 50700 - Quantitative Research Methodologies In Transportation
+AT 48000 - Advanced Aviation Manufacturing (Lean Six Sigma Methodologies)
+ENGT 59000 - Special Problems In Engineering Technology
+IE 57900 - Design And Control Of Production And Manufacturing Systems
+ENGT 48000 - Engineering Technology Capstone I
+MGMT 68200 - Digital Business And Information Strategies
+AT 54600 - Aviation Financial Instruments And Operations
+IE 59000 - Topics In Industrial Engineering
+IE 58800 - e-Work And e-Service
+MGMT 68000 - Introduction To Information Technology
+ENGT 40600 - Entrepreneurial Capstone II
+IE 57800 - Applied Ergonomics
+AT 54700 - Airline Revenue Management
+AT 48100 - Aviation Safety Problems
+ENGT 58300 - Applied Engineering Statistics For Industry
+ENGT 50700 - Fundamentals Of Collaborative Leadership And Agile Strategy For Engineering Technology
+AT 50800 - Quality And Productivity In Industry And Technology
+ENGL 11000 - American Language And Culture For International Students I
+BME 68300 - Polymers In Biomedical And Pharmaceutical Systems
+AAE 51900 - Hypersonic Aerothermodynamics
+MGMT 65380 - Compensation And Reward Systems
+IE 39599 - Professional Practice Extensive Co-Op V
+JPNS 23000 - Japanese Literature In Translation
+IE 38299 - Professional practice Co-Op II
+JPNS 48000 - Japanese Civilization
+MGMT 64300 - Financial Risk Management
+AAE 50800 - Optimization In Aerospace Engineering
+CM 33000 - Design And Construction I
+NRES 33700 - Environmental Hydrology
+LC 23500 - East Asian Literature In Translation
+ASL 20100 - American Sign Language III
+LC 28000 - Special Topics In Languages And Cultures
+AAE 45100 - Aircraft Design
+MGMT 44429 - Talent Management
+GSLA 48000 - Senior Interdisciplinary Capstone Project In Global Studies I
+MUS 34200 - Music Composition II
+CS 15900 - C Programming
+ENGL 46600 - Cultural Encounters
+MGMT 42710 - Digital Marketing Strategy
+ENGL 60400 - Introduction To Inquiry In Second Language Studies
+ENGL 59100 - Introduction To Composition Theory
+ENGL 61200 - Old English Literature
+MGMT 39070 - Management Information Systems Internship
+MGMT 37300 - Accounting Information Systems & Data Analytics
+MGMT 41250 - Fixed Income Securities
+CHM 58100 - Atmospheric Chemistry
+COM 43500 - Communication And Emerging Technologies
+MUS 17100 - Jazz Improvisation I
+CHM 61600 - Advanced Experimental Nuclear Magnetic Resonance Spectroscopy
+CS 48700 - Professional Practice V
+BAND 11900 - Varsity Band
+BAND 34000 - Renaissance Ensemble
+ENGL 62700 - Seminar In Linguistics
+CS 50200 - Compiling And Programming Systems
+MGMT 47400 - Predictive Analytics
+CS 53100 - Computational Geometry
+MGMT 50400 - Tax Accounting
+EPCS 41200 - Senior Design Participation In EPICS
+MUS 59000 - Special Problems In Music
+RUSS 34200 - Revolution, Repression, Renewal: Soviet Literature And Beyond
+RUSS 21200 - Conversation Supplement To Russian Level IV
+MGMT 45900 - International Management
+AAE 29199 - Professional Practice Extensive Co-Op I
+SCI 90200 - Chem New Stdnt Session
+AT 38100 - Aviation Security
+SCI 39499 - Extensive Cooperative Experience IV
+AAE 33400 - Aerodynamics
+AT 43400 - Supervised Flight Instructional Experience
+THTR 32300 - Acting: Movement For The Actor
+AT 40300 - Airman Certification Procedures
+ILS 29000 - Independent Study In Information Science
+EAPS 11700 - Introduction To Atmospheric Science
+EAPS 13700 - Freshman Seminar In Earth, Atmospheric, And Planetary Sciences
+BCM 10001 - Introduction To Construction
+CHM 37300 - Physical Chemistry
+IDIS 59100 - Selected Topics In Interdisciplinary Studies
+CHM 39499 - Extensive Cooperative Experience IV
+EEE 38399 - Professional Practice Co-Op III
+MSL 40100 - Leadership And Management
+ME 49200 - Technology And Values
+EEE 53000 - Life Cycle Assessment: Principles And Applications
+IDIS 20100 - Introduction To Digital Humanities
+ILS 63000 - Digital Humanities Foundations
+EAPS 11100 - Physical Geology
+ILS 48000 - Beyond Undergraduate Research
+CHM 33900 - Biochemistry: A Molecular Approach
+EEE 47200 - Community-Engaged Engineering & Design
+CHM 37400 - Physical Chemistry
+ME 49700 - Mechanical Engineering Projects
+EEE 39499 - Professional Practice Extensive Co-Op IV
+CHM 42400 - Analytical Chemistry II
+AAE 34000 - Dynamics And Vibrations
+AT 39600 - Turbine Aircraft Flight Laboratory
+SCI 29299 - Cooperative Experience II
+SCI 90600 - Phys New Stdnt Session
+AAE 20300 - Aeromechanics I
+AT 41001 - Aerospace Innovation
+THTR 33600 - Rehearsal And Performance II
+AT 42101 - Managerial Economics In Aviation
+ME 27400 - Basic Mechanics II
+CS 52500 - Parallel Computing
+COM 33000 - Theories Of Mass Communication
+CS 52700 - Software Security
+COM 35100 - Mass Communication Ethics
+MGMT 48400 - Management Of Entrepreneurial Ventures
+EPCS 10200 - First Year Participation In EPICS
+RUSS 11200 - Conversation Supplement To Russian Level II
+RUSS 38100 - Russian Culture And Civilization II
+COM 37200 - Communication In  Relationships
+EPCS 30200 - Junior Participation In EPICS
+MGMT 47200 - Advanced Spreadsheet Modeling And Simulation
+ENGL 38900 - Literature For Children
+BAND 36000 - Wind Ensemble II
+BAND 11500 - String Orchestra
+CS 47800 - Introduction to Bioinformatics
+COM 41500 - Discussion Of Technical Problems
+ENGL 40800 - Creative Writing Capstone
+ENGL 63100 - World Englishes
+ENGL 62400 - Issues In Composition Studies: Modern Period
+MGMT 38299 - Professional Practice Co-Op II
+COM 45300 - Reporting Of Science News
+MGMT 39030 - Industrial Management Internship
+MGMT 42310 - Global Marketing Management
+CHM 62400 - Particle Spectroscopy
+MUS 13200 - Music Theory I
+CHM 56000 - Organic Spectroscopic Analysis
+MGMT 43700 - Social Media Marketing
+MUS 38200 - Music History II: Beethoven To The Present
+MGMT 44301 - Management Of Human Resources
+ENGL 59500 - Contemporary American Fiction
+GSLA 30100 - Theories Of Global Studies
+ENGL 60111 - Introduction To Scientific, Technical, Medical, And Healthcare Writing
+LC 59300 - Special Topics In Literature
+CM 35000 - Advanced Construction Management
+AAE 45400 - Design Of Aerospace Structures
+MGMT 64810 - Marketing Analysis And Planning
+JPNS 36300 - Relationship Of Japanese Language And Society
+IE 34300 - Engineering Economics
+JPNS 30200 - Japanese Level VI
+IE 47200 - Imagine, Model, Make
+MGMT 65340 - Staffing Tools
+AAE 53200 - Orbit Mechanics
+LC 36100 - Sound And Form In Language
+LC 20200 - Special Topics In Foreign Languages IV
+NRES 23000 - Survey Of Meteorology
+AAE 39699 - Professional Practice Internship
+IE 56600 - Production Management Control
+MGMT 68400 - Information Risk Management
+ENGT 10800 - Industrial Technology Computer-Integrated Manufacturing
+MGMT 68800 - Developing A Global Business Strategy
+LC 20100 - Special Topics In Foreign Languages III
+IE 63300 - Dynamic Programming
+AT 60700 - Aviation Applications Of Bayesian Inference
+ENGL 10600 - First-Year Composition
+AT 49900 - Aviation Technology
+ENGT 48100 - Engineering Technology Capstone II
+MARS 42000 - Medieval And Renaissance Studies Seminar
+AT 49300 - Industrial Practice V
+AT 49200 - Aircraft Airworthiness Assurance
+ENGL 19500 - Introducing English
+AT 49800 - Aviation Technology Capstone
+ENGT 49000 - Special Topics In Engineering Technology
+IE 63400 - Integer Programming
+LC 10200 - Special Topics In Foreign Languages II
+MGMT 69000 - Advanced Problems In Management
+ENGT 10900 - Industrial Technology Engineering Design And Development
+AT 59000 - Special Problems In Aviation Technology
+IE 57000 - Manufacturing Process Engineering
+AAE 39599 - Professional Practice Extensive Co-Op V
+NRES 21000 - Natural Resource Information Management
+LC 23000 - Crossing Borders: Introduction To Comparative Literature
+LC 36800 - Sociolinguistic Study Of African American English
+MGMT 65330 - HR Strategy
+IE 47000 - Manufacturing Processes II
+JPNS 31300 - Intermediate Reading In Japanese I
+CM 23301 - Mechanical, Electrical And Piping Systems In The Built Environment
+AAE 52300 - Introduction To Remote Sensing
+AAE 45300 - Matrix Methods In Aerospace Structures
+CM 36200 - Construction Competition
+LC 59600 - Special Topics In Linguistics
+IE 33600 - Operations Research - Stochastic Models
+JPNS 39900 - Special Study Abroad Credit In Japanese
+MGMT 64700 - Financial Engineering
+GSLA 10100 - Global Awareness
+ENGL 43900 - Topics In Disability Studies
+ENGL 59600 - Advanced Studies In Literature Or Language
+CS 10100 - Digital Literacy
+MGMT 44310 - China, America And Artificial Intelligence
+MGMT 43800 - Pricing Strategies
+MUS 38300 - Digital Audio Recording And Production I
+MUS 11200 - Fundamentals Of Music
+ME 45500 - Vehicle Design And Fabrication
+MGMT 42300 - New Product Development
+CHM 62900 - Chromatographic Methods Of Analysis
+COM 42700 - Careers, Communication Issues And Strategies
+MGMT 39020 - Management Internship
+MGMT 38200 - Management Information Systems
+COM 45600 - Advertising Writing
+ENGL 64700 - Seminar In The Romantic Movement
+RUSS 59600 - Special Topics In Russian Linguistics
+BAND 11600 - Symphonic Band
+BAND 36100 - Instrument Ensemble Colloquium
+ENGL 39000 - Practicum In Tutoring Writing
+COM 37400 - Social Interaction Skills: Assessment And Development
+RUSS 39900 - Special Study Abroad Credit In Russian
+MGMT 47100 - Transport Management II
+EPCS 40100 - Senior Participation In EPICS
+EPCS 11100 - First Year Participation In EPICS I
+RUSS 20100 - Russian Level III
+IDE 49500 - Special Topics In Interdisciplinary Engineering
+COM 35200 - Mass Communication Law
+CS 52800 - Network Security
+MGMT 47900 - Data Visualization
+MGMT 49400 - IBE Capstone
+AT 42001 - General Aviation Operations
+AT 40900 - Unmanned Aerial Systems Project Planning And Management
+AAE 20400 - Aeromechanics II
+SCI 90500 - Math New Stdnt Session
+SCI 29199 - Cooperative Experience I
+AT 39500 - Turbine Aircraft Simulation Laboratory
+AAE 35103 - Aerospace Systems Design
+THTR 36800 - Theatre Production II
+EEE 39399 - Professional Practice Extensive Co-Op III
+CHM 37401 - Physical Chemistry Laboratory
+EEE 45600 - Wastewater Treatment Processes
+ME 49800 - Research In Mechanical Engineering I
+ILS 39500 - Special Topics In Information And Data Science
+EAPS 10900 - The Dynamic Earth
+CHM 33901 - Biochemistry Laboratory
+EAPS 69900 - Research PhD Thesis
+EAPS 20000 - Water World: Processes And Challenges In Global Hydrology
+ILS 59500 - Special Topics In Information And Data Science
+EAPS 10500 - The Planets
+ILS 29500 - Special Topics In Information And Data Science
+ILS 51200 - Information Strategies For Science, Technology, And Engineering Research
+ME 52200 - Indoor Environmental Analysis And Design
+EAPS 13800 - Thunderstorms And Tornadoes
+AT 47900 - Control Tower Operator
+EEE 39500 - Experimental Course
+CHM 43300 - Biochemistry
+ILS 18000 - Preparing For Your Undergraduate Research Experience
+ME 49601 - Experimental Courses
+IE 69900 - Research PhD Thesis
+EEE 48000 - Environmental And Ecological Engineering Senior Design
+CHM 37509 - Professional Practice II
+CHM 49000 - Selected Topics In Chemistry For Upper-Division Students
+SCI 90900 - Sci New Stdnt Session
+AAE 20000 - Undergraduate Sophomore Seminar
+AAE 33900 - Aerospace Propulsion
+SCI 29500 - Intercultural Leadership Seminar
+AT 42201 - Aerospace Risk Management
+AT 41101 - Aerospace Internship II
+MGMT 48800 - Data-Driven Decisions In Digital Markets
+TLI 52300 - Quality Management, Audits And Inspections
+CS 52600 - Information Security
+IDE 48500 - Multidisciplinary Engineering Design Project
+CS 52300 - Social, Economic, And Legal Aspects Of Security
+EPCS 41100 - Senior Design Participation In EPICS
+RUSS 38000 - Russian Culture And Civilization I
+RUSS 11100 - Conversation Supplement To Russian Level I
+EPCS 20100 - Sophomore Participation In EPICS
+BAND 11800 - Collegiate Band
+COM 41200 - Theories Of Human Interaction
+BAND 43100 - Summer Jazz Bands
+ENGL 63000 - Seminar In Second Language Writing
+MGMT 39040 - Economics Internship
+COM 46099 - Professional Practice Parallel Co-Op Summer III
+CHM 65100 - Advanced Organic Chemistry
+MGMT 38399 - Professional Practice Co-Op III
+ME 45200 - Machine Design II
+CHM 54800 - Radiochemistry
+CHM 62200 - Chemical Aspects Of Mass Spectrometry
+MGMT 43907 - Advanced Topics In Real Estate
+MGMT 43600 - Financial Reporting Frameworks
+ENGL 58900 - Directed Writing
+ENGL 44100 - Chaucer's Canterbury Tales
+ENGL 59400 - Contemporary Poetry
+AAE 53400 - Spacecraft Electric Propulsion
+CM 21000 - Construction Management Portfolio I
+IE 39699 - Professional Practice Internship
+JPNS 34100 - Japanese Literature I: Modern Japanese Literature
+MGMT 65200 - Entrepreneurship
+THTR 16400 - Introduction To Theatre Organization And Management
+MGMT 64400 - Venture Capital And Investment Banking
+IE 33200 - Computing In Industrial Engineering
+JPNS 40200 - Japanese Level VIII
+AAE 49000 - Special Problems In Aeronautical Engineering
+LC 23300 - Love, Sex, And Gender In Western European Literature
+NRES 25500 - Soil Science
+IE 53300 - Industrial Applications Of Statistics
+LC 39900 - Special Study Abroad Credit In Foreign Languages
+ENGL 21700 - Figures Of Myth And Legend I: Monsters
+MGMT 69200 - Managerial Communication Skills
+IE 63900 - Combinatorial Optimization
+IE 57700 - Human Factors In Engineering
+EEE 38199 - Professional Practice Co-Op I
+AT 49401 - Capstone Project Proposal
+ENGT 50100 - Graduate Research Seminar
+AT 50500 - Research Methods In Aviation
+ENGT 49900 - Engineering Technology Project
+AT 50600 - MS Capstone Research Project
+AT 49501 - Applied Capstone Research Project
+THTR 13300 - Survey Of Acting
+IE 57400 - Industrial Robotics And Flexible Assembly
+EEE 38000 - Environmental Chemodynamics
+ENGL 21500 - Inventing Languages
+IE 63500 - Theoretical Foundations Of Optimization
+MGMT 69100 - Special Problems In Management
+MGMT 67700 - Seminar In Quantitative Methods In Management Research
+NRES 12100 - Stepping Stones To Environmental Science
+LC 37100 - Phonetics Of Foreign Languages
+NRES 27000 - Landscape-Level Planning
+LC 23100 - Fairytale, Folktale, Fable
+IE 53500 - Linear Programming
+JPNS 40100 - Japanese Level VII
+IE 33500 - Operations Research - Optimization
+MGMT 64500 - Mergers, Acquisitions, And Corporate Control
+AAE 49700 - Independent Study In Aerospace Engineering
+CM 33200 - Architectural Design, Construction Techniques And Society
+AAE 53500 - Propulsion Design, Build, Test
+MGMT 65310 - Human Resource Systems
+JPNS 33000 - Japanese Cinema
+IE 43100 - Industrial Engineering Design
+ENGL 59300 - Contemporary British Fiction
+ENGL 60100 - Teaching Literature At The College Level
+ENGL 44000 - Chaucer's Troilus And Criseyde
+MGMT 42910 - Experiential Marketing
+MGMT 43905 - Real Estate Industry Project
+ME 48900 - Introduction To Finite Element Analysis
+CHM 62100 - Advanced Analytical Chemistry
+CHM 53800 - Molecular Biotechnology
+MUS 10100 - Recitals Class
+CHM 64800 - Bioinorganic Chemistry
+MGMT 38800 - Python For Business
+MGMT 39050 - Finance Internship
+ENGL 40900 - Intermediate Fiction Writing
+ENGL 64200 - Seminar In Shakespeare
+ENGL 62900 - Seminar In English As A Second Language
+ENGL 40201 - English Capstone
+BAND 43000 - Summer Concert Bands
+COM 39599 - Extensive Cooperative Experience V
+CS 47100 - Introduction to Artificial Intelligence
+ENGL 69600 - Seminar In Literature
+CS 48300 - Introduction To The Theory Of Computation
+BAND 11700 - Concert Band
+RUSS 10200 - Russian Level II
+EPCS 12100 - First Year Participation In EPICS II
+EPCS 40200 - Senior Participation In EPICS
+RUSS 36200 - The Structure Of Russian II: Wordforms And Word Formation
+COM 33200 - Television Production
+CS 52000 - Computational Methods In Optimization
+ENGL 41900 - Multimedia Writing
+MGMT 49000 - Problems In Industrial Management
+IDE 48700 - Multidisciplinary Engineering Senior Professional Development
+COM 35300 - Problems In Public Relations
+TLI 52200 - Good Regulatory Practice
+AT 41200 - Aviation Finance
+AT 42700 - Transport Aircraft Maintenance Practices
+THTR 26300 - Introduction To Sound Studios
+AAE 33800 - Thermal Sciences
+SCI 91000 - Integrated Science And Engineering Learning Community Orientation
+CHM 49400 - Junior-Senior Chemistry Seminar
+CHM 37409 - Professional Practice I
+EEE 49500 - Experimental Course
+EEE 39599 - Professional Practice Extensive Co-Op V
+ME 50100 - Statistical Thermodynamics
+ILS 19500 - Special Topics In Information And Data Science
+EAPS 19100 - Introductory Topics In Earth And Atmospheric Science
+ILS 59000 - Independent Study In Information Sciences
+AT 47700 - Aircraft Maintenance Practicum
+IDIS 10100 - Perspectives Contemporary Issues
+ILS 38000 - Understanding Your Undergraduate Research Experience II
+EAPS 10600 - Geosciences In The Cinema
+EAPS 55000 - Advanced Geophysical Field Studies.
+ABE 29199 - Professional Practice Extensive Co-Op I
+CHM 22400 - Introductory Quantitative Analysis
+ME 55400 - Intellectual Property For Engineers
+ME 54100 - Engineering Design: A Decision-Based Perspective
+ABE 38199 - Professional Practice Coop I
+CHM 18300 - Cooperative Work Experience I
+COM 69800 - Research MA Or MS Thesis
+EAPS 58000 - Geodynamics
+BCM 21601 - Electrical Construction
+EAPS 24400 - Earth Materials II
+EAPS 31201 - Earth Systems Science For Elementary Teachers
+BCM 34100 - Advanced Topics In Healthcare Construction Management
+COM 65200 - Communication Education And Training
+CHM 29400 - Sophomore Chemistry Seminar
+AT 28600 - National Airspace Systems Operations
+THTR 55100 - Advanced Costume Techniques
+CAND 99400 - Graduation Only
+THTR 56100 - Advanced Costume Design
+AT 24802 - Commercial Flight II Under Federal Aviation Regulations Part 141
+AT 32001 - Advanced Aviation Operations
+EAPS 43100 - Synoptic Laboratory I
+ME 56200 - Advanced Dynamics
+REG 91000 - Glee Club
+THTR 53600 - Advanced Problems In Acting
+REG 93600 - Golf-Men
+EAPS 47400 - Sedimentation And Stratigraphy
+TLI 30000 - Organizational Leadership Coaching
+TLI 21300 - Project Management
+COM 31100 - Copy Editing
+MGMT 53500 - International Law For Managers
+ME 29199 - Professional Practice Extensive Co-Op I
+MGMT 50900 - International Accounting
+IDE 29199 - Professional Practice Five-Session Co-Op I
+IDE 38399 - Professional Practice Three-Session Coop III
+MGMT 52100 - Brand Management
+GS 40500 - Advancing Tomorrow's Leaders: Preparing For Employment And Life After College
+ENGL 33500 - Restoration And Eighteenth-Century English Literature
+ENGL 34200 - Legal Fictions
+GS 19700 - Purdue Promise First-Year Experience Course
+MGMT 56100 - Logistics
+COM 25700 - Public Relations Techniques
+CS 44000 - Large Scale Data Analytics
+ENGL 37800 - Studies In American Literary History
+MGMT 58500 - Information Technology Project Management
+MGMT 24300 - Contemporary Thought Of Minorities In Management
+ME 35401 - Machine Design Laboratory
+ABE 59100 - Special Topics
+ABE 51500 - Molecular Basis Of Manufacturing
+LING 52100 - Syntax I: Syntactic Analysis
+ME 38199 - Professional Practice Co-Op I
+MGMT 35100 - Intermediate Accounting II
+ASAM 34200 - Special Topics In Asian American Studies
+COM 49000 - Internship In Communication
+PES 11700 - Team Movement Forms
+MGMT 29299 - Cooperative Experience II
+ENGL 52800 - Medieval English Literature
+LING 69000 - Individual Seminar
+CS 17700 - Programming With Multimedia Objects
+CHNS 59400 - Special Topics In Chinese Literature
+ENGL 49200 - Literature In The Secondary Schools
+COM 57600 - Health Communication
+BTNY 35000 - Biotechnology In Agriculture
+BTNY 49800 - Research In Plant Science
+BME 40500 - Biomedical Engineering Design Project
+AAE 69800 - Research MS Thesis
+BTNY 27500 - Honors Course - Lower Division
+BME 54000 - Biomechanics
+AAE 55500 - Mechanics Of Composite Materials
+MGMT 63500 - Accounting Information Systems
+CS 59799 - Graduate Professional Practice
+MGMT 61901 - Seminar In Managerial Finance III
+AAE 54800 - Mechanical Behavior Of Aerospace Materials
+ENGL 32900 - English Language III: Sound And Form
+CM 48100 - Emerging Topics In Construction
+BME 20700 - Bioinstrumentation And Circuit Theory
+HEBR 28400 - Ancient Near Eastern History And Culture
+REG 94500 - Volleyball
+ENGL 26600 - World Literature: From The Beginnings To 1700 A.D.
+ASM 21100 - Technical Graphic Communications
+BME 30400 - Biomedical Transport Fundamentals
+AT 14502 - Private Pilot Flight Under Federal Aviation Regulations Part 141
+ASM 59100 - Special Topics
+AT 20900 - Civilian Unmanned Aerial Systems
+AT 21000 - Ground Trainer I
+ASM 69800 - Research MS Thesis
+AT 20200 - Aerospace Vehicle Systems Design, Analysis And Operations
+HEBR 22200 - Biblical Hebrew Level IV
+ASM 21600 - Introduction To Surveying
+BME 30500 - Bioinstrumentation Circuit And Measurement Principles
+ENGL 26400 - The Bible As Literature
+BME 21400 - Introduction To Biomechanical Analysis
+ENGL 28600 - The Movies
+MGMT 61902 - Seminar In Managerial Finance IV
+ENGL 33000 - Games And Diversity
+AAE 55000 - Multidisciplinary Design Optimization
+AAE 55600 - Aeroelasticity
+BTNY 26200 - Plant Structure And Tissue Biology
+CS 59300 - New Topics In CS
+ME 58800 - Mechatronics - Integrated Design Of Electro-Mechanical Systems
+CS 57300 - Data Mining
+AAE 69900 - Research PhD Thesis
+BME 41000 - Neural Engineering
+BTNY 49700 - Undergraduate Seminar
+BTNY 30500 - Plant Evolution And Taxonomy
+COM 58200 - Descriptive/Experimental Research In Communication
+CHNS 49300 - Special Topics In Chinese Literature
+COM 55800 - Historical Trends In Mass Communication Research
+CS 18000 - Problem Solving And Object-Oriented Programming
+CS 28400 - Professional Practice III
+ENGL 50200 - Practicum In Teaching College Composition
+PES 11800 - Horseback Riding
+COM 48900 - Research Experience In Communication
+CS 35500 - Introduction To Cryptography
+ME 39699 - Professional Practice Internship
+MGMT 29300 - Diversity In The Workplace
+MGMT 35200 - Strategic Management
+ASAM 49000 - Special Topics In Asian American Studies
+ABE 52200 - Ecohydrology
+ME 35400 - Machine Design
+MGMT 25400 - Legal Foundations Of Business I
+LING 50100 - Language Acquisition
+ABE 62600 - Life Of A Faculty Entrepreneur; Discovery, Delivery, Translation
+CS 39599 - Extensive Cooperative Experience V
+MGMT 58200 - Management Of Organizational Data
+COM 21700 - Science Writing And Presentation
+ENGL 37700 - Modern And Contemporary Poetry
+ENGL 34100 - Topics In Science, Literature, And Culture
+GS 19501 - Preparing For Your Undergraduate Research Experience
+IDE 38500 - Design Methodologies For Diverse Stakeholders
+GS 41000 - Advancing Tomorrow's Scholars: Graduate And Professional School Preparation
+MGMT 52200 - New Product Development
+IDE 29299 - Professional Practice Five-Session Co-Op II
+TLI 20000 - Organization Leadership Mentorship
+MGMT 53600 - Employment Law For Managers
+ME 31500 - Heat And Mass Transfer
+TLI 29900 - Special Topics In Technology Leadership & Innovation
+REG 93500 - Football
+AT 32501 - Advanced Aviation Meteorology
+THTR 53500 - Vocal/Physical Preparation
+REG 90200 - CS Bridge Program
+ME 56300 - Mechanical Vibrations
+THTR 56000 - Advanced Scenic Design
+CAND 99300 - Exam Only
+AT 24900 - Instrument Flight Lectures
+AT 29000 - Aviation Project
+THTR 55000 - Advanced Scenery Technology
+BCM 34500 - Scheduling
+EAPS 31500 - Biogeochemistry
+CHM 29299 - Cooperative Experience II
+COM 65100 - Organizational Culture And Internal Communication
+EAPS 60200 - New Graduate Student Seminar
+EAPS 58300 - Geology Of Landfills
+COM 69500 - Curricular Practical Training
+BCM 23000 - Mechanical And Electrical Systems
+ME 54000 - Internal Combustion Engines
+CHM 13600 - General Chemistry Honors
+ABE 38299 - Professional Practice Co-Op II
+ABE 29299 - Professional Practice Extensive Co-Op II
+EAPS 55600 - Planetary Geology
+ME 55300 - Product And Process Design
+ABE 39399 - Professional Practice Extensive Co-Op III
+COM 63200 - Seminar: Special Topics In Mass Communication
+CHM 18400 - Cooperative Work Experience II
+BCM 46200 - Residential Design Build
+ME 53800 - Air Breathing Propulsion
+ABE 30300 - Applications Of Physical Chemistry To Biological Processes
+CHM 24100 - Introductory Inorganic Chemistry
+EAPS 65000 - Advanced Topics In Geophysics
+COM 64600 - Strategic Corporate Branding
+EAPS 31000 - Introductory Statistics For Geosciences
+BCM 34000 - Introduction To Healthcare Construction Management
+BCM 21500 - Mechanical Construction
+ME 53100 - Characteristics Of Particles, Powders, And Compacts
+EAPS 24300 - Earth Materials I
+COM 67600 - Seminar: Special Topics In Health Communication
+EAPS 59000 - Field Geology North America
+AT 25300 - Instrument Flight
+THTR 56200 - Advanced Light Design
+THTR 55300 - Theatre Audio Technology II
+AT 29400 - Industrial Practice II
+ABE 45700 - Transport Operations In Food And Biological Engineering I
+REG 93700 - Golf-Women
+EAPS 43200 - Synoptic Laboratory II
+REG 91100 - Purduettes
+ASM 20100 - Construction And Maintenance
+TLI 15200 - Business Principles For Organizational Leadership
+TLI 26500 - Teaching The TE Of STEM
+MGMT 52500 - Marketing Analytics
+TLI 46100 - Engineering/Technology Teacher Lab Planning
+IDE 38299 - Professional Practice Three-Session Coop II
+GS 17500 - Information Strategies
+ENGL 34300 - Labor And Literature
+COM 22400 - Communicating In The Global Workplace
+CS 44800 - Introduction To Relational Database Systems
+COM 26100 - Introduction To Digital Video Production
+ME 38299 - Professional Practice Co-Op II
+CHNS 34200 - Chinese Literature II: Modern Chinese Literature
+ABE 51400 - Documents And Dialogues Of Drug Development And Registration
+LING 51200 - Phonology II: Theoretical Approaches
+ABE 59000 - Special Problems
+LING 49900 - Research In Linguistics
+MGMT 29450 - Leadership Development To Bridge Gender Divide
+CS 35300 - Principles Of Concurrency And Parallelism
+COM 49100 - Special Topics In Communication
+PES 11600 - Individualized And Dual Movement Forms II
+ASAM 34000 - Contemporary Issues In Asian American Studies
+HSOP 48200 - Marketing Pharmaceutical Products
+MGMT 35500 - Consulting Tools And Skills
+ENGL 54300 - Shakespeare In Critical Perspective
+CS 24000 - Programming In C
+COM 57400 - Organizational Communication
+CS 18300 - Professional Practice I
+BTNY 49900 - Thesis Research
+ME 58600 - Microprocessors In Electromechanical Systems
+MGMT 60800 - Selected Research Topics In Accounting
+BTNY 39000 - Selected Topics In Plant Science
+AT 10901 - Introduction To Unmanned Aerial System Operations
+BME 49500 - Selected Topics In Biomedical Engineering
+AAE 55200 - Nondestructive Evaluation Of Structures And Materials
+BME 38199 - Professional Practice Co-Op I
+JPNS 10100 - Japanese Level I
+ME 61000 - Boundary Layer Theory
+MGMT 61802 - Seminar In Managerial Finance II
+MGMT 63450 - Financial Statement Analysis And Valuation
+CS 61500 - Numerical Methods For Partial Differential Equations I
+AAE 56000 - System-Of-Systems Modeling And Analysis
+BME 31400 - Experimental Methods In Biomechanics
+ASM 22200 - Crop Production Equipment
+HEBR 38000 - Israel And The Modern World: Cinema, Literature, History And Politics
+REG 94600 - Wrestling
+ENGL 27900 - The American Short Story In Print And Film
+AT 21900 - Unmanned Aerial Systems Design, Build, Test
+ENGL 25000 - Great American Books
+AT 20501 - Statics For Aerostructures
+CHM 11600 - General Chemistry
+AT 20300 - Aviation Operations Management
+AT 21100 - Ground Trainer II
+ENGL 28000 - Games, Narrative, Culture
+ENGL 26200 - Greek And Roman Classics In Translation
+BME 30600 - Biotransport Laboratory
+ASM 22100 - Career Opportunities Seminar
+HEBR 38300 - Kabbalah And Jewish Mysticism:  Secret Knowledge In Judaism
+CS 62600 - Advanced Information Assurance
+MGMT 63410 - Communications For Accountants
+AAE 55800 - Finite Element Methods In Aerospace Structures
+CM 43300 - Risk Management And Legal Issues In Design And Construction Integration
+BME 38299 - Professional Practice Co-Op II
+AAE 55100 - Design Theory And Methods For Aerospace Systems
+MGMT 61801 - Seminar In Managerial Finance I
+ME 61100 - Principles Of Turbulence
+JPNS 10200 - Japanese Level II
+MGMT 60700 - Seminar in Internal Accounting
+ME 57300 - Interactive Computer Graphics
+AT 11600 - Aircraft Science For Engineering Technology
+BTNY 40000 - Botany And Plant Pathology Study Abroad
+BTNY 50400 - Advanced Weed Science
+ME 58700 - Engineering Optics
+MGMT 10000 - Introduction To Management
+CS 18200 - Foundations Of Computer Science
+COM 56500 - Sociolinguistics
+CS 23500 - Introduction To Organizational Computing
+ENGL 50500 - Approaches To Teaching College English
+ENGL 54400 - Milton
+ENGL 50100 - Introduction To English Studies
+COM 47800 - Health Communication Campaigns
+HSOP 46800 - Community Pharmacy Management
+CS 30700 - Software Engineering I
+ASAM 24000 - Introduction To Asian American Studies
+MGMT 35300 - Intermediate Accounting For Non-Accounting Majors
+MGMT 29400 - Navigating Gender In The Workplace
+PES 11500 - Individual And Dual Movement Forms I
+COM 49101 - Boiler Communication
+CS 35400 - Operating Systems
+LING 50000 - Introduction To Linguistics
+ABE 58500 - Soil Microbiology
+ME 38399 - Professional Practice Co-Op III
+ABE 51300 - Quality Management, Audits, Inspections
+CHNS 34100 - Chinese Literature I: Traditional Chinese Literature
+COM 26099 - Professional Practice Parallel Co-Op Summer I
+MGMT 56000 - Manufacturing Planning And Control
+MGMT 58100 - Big Data Technologies
+CS 39700 - Honors Seminar
+ENGL 33700 - Nineteenth-Century English Literature
+ENGL 34400 - Environmental Ethics, Policy, And Sustainability
+MGMT 51100 - Fixed Income Securities
+MGMT 52300 - Digital Marketing Strategy
+IDE 38199 - Professional Practice Three-Session Coop I
+COM 31800 - Principles Of Persuasion
+TLI 46200 - Methods Of Teaching Engineering/Technology Education
+TLI 29000 - Independent Study In Technology Leadership And Innovation
+ME 30800 - Fluid Mechanics
+TLI 16100 - Prototyping In Engineering/Technology Education
+ASM 10500 - Computing Technology With Applications
+REG 91200 - Purdue Bells
+EAPS 43300 - Synoptic Lab III
+ABE 46000 - Sensors And Process Control
+EAPS 49700 - Earth And Atmospheric Sciences Undergraduate Readings And Research
+REG 93800 - Soccer
+THTR 55400 - Advanced Theatre Drafting
+AT 29300 - Industrial Practice I
+AT 25200 - Aviation Projects
+THTR 56300 - Advanced Sound Design
+EAPS 23000 - Laboratory In Atmospheric Science
+ME 53101 - Particle, Powder, And Compact Characterization
+BCM 21200 - Construction Layout
+EAPS 58400 - Hydrogeology
+COM 68200 - Seminar: Special Topics In Quantitative Research
+COM 65000 - Communication And Leadership
+EAPS 62000 - Aerosols, Clouds And Climate
+BCM 33100 - Demolition And Restoration Project Management
+EAPS 30900 - Computer-Aided Analysis For Geosciences
+EAPS 42000 - Global Change Modeling
+ABE 30100 - Numerical And Computational Modeling In Biological Engineering
+CHM 19400 - Freshman Chemistry Orientation
+COM 64011 - Seminar In Advertising
+ABE 38399 - Professional Practice Co-Op III
+ME 53900 - Introduction To Scientific Machine Learning
+BCM 45701 - Construction Safety
+EAPS 31900 - Exploring Earth Through Time
+THTR 65800 - Special Problems In Technology
+BCM 31600 - Electrical Construction Estimating
+EAPS 65700 - Geophysical Inverse Theory
+COM 64200 - Persuasive Communication
+EAPS 57300 - Basin Analysis
+EAPS 38500 - Principles Of Engineering Geology
+ABE 33600 - All Terrain Vehicle Design
+CHM 12901 - General Chemistry With A Biological Focus
+COM 60811 - Leadership And Global Strategic Communication
+ABE 30700 - Momentum Transfer In Food And Biological Systems
+CHM 25501 - Organic Chemistry Laboratory
+ME 54900 - Practical Experience In Vibrations
+BCM 58100 - Workshop In Building Construction Management Technology
+REG 93401 - Cross Country Men 2
+EAPS 51000 - Climate Time Series Analysis
+ABE 51200 - Good Regulatory Practices
+REG 93000 - Baseball
+CAND 99200 - Degree Only
+THTR 56900 - Special Problems In Audio Production
+AT 26200 - Basic Aircraft Powerplant Technology
+AT 28100 - Traffic Control II
+THTR 54500 - Directional Process In Production
+COM 31500 - Speech Communication Of Technical Information
+IDE 39399 - Professional Practice Five-Session Co-Op III
+TLI 45580 - Human Resource Information Systems And People Analytics
+LING 69900 - Research PhD Thesis
+TLI 31500 - New Product Development
+ME 35200 - Machine Design I
+MGMT 57100 - Data Mining
+MGMT 56400 - Management Of Service Operations
+CS 43400 - Advanced Computer Graphics
+ENGL 35000 - American Literature Before 1865
+GS 12001 - Summer Start Seminar II
+ENGL 33300 - Renaissance English Literature
+COM 49501 - Sports Media Relations
+CS 34800 - Information Systems
+LING 32100 - Foundations Of Syntax And Semantics
+MGMT 30500 - Business Statistics
+MGMT 33900 - Krannert Mentoring & Leadership Program
+ABE 52700 - Computer Models In Environmental And Natural Resources Engineering
+LING 53100 - Semantics I: Lexical And Sentential Semantics
+ME 37500 - Measurement And Control Systems II
+ABE 55700 - Transport Operations In Food And Biological Systems II
+LING 49000 - Directed Reading In Linguistics
+CHNS 23000 - Chinese Literature In Translation
+CHNS 49000 - Special Topics In Chinese Language
+COM 52700 - Introduction To Cultural Studies In Communication
+CS 19100 - Freshman Resources Seminar
+MGMT 19100 - Cooperative Work Experience I
+ENGL 53100 - The Rise Of The Novel
+ENGL 50700 - Advanced Poetry Writing
+MGMT 62000 - Marketing Management
+AAE 54600 - Aerospace Structural Dynamics And Stability
+CM 49900 - Special Topics In Construction
+CM 40000 - Construction Capstone I
+AAE 56500 - Guidance And Control Of Aerospace Vehicles
+MGMT 63000 - Legal And Social Foundations Of Management
+IE 20000 - Industrial Engineering Seminar
+CS 64100 - Multimedia Database Systems
+MGMT 61701 - Seminar In Capital Markets III
+BTNY 55000 - Biology Of Fungi
+BME 45000 - Deep Learning For Medical Imaging
+CM 58100 - Workshop In Building Construction Management Technology
+BTNY 30400 - Introductory Weed Science
+BME 48901 - Senior Design Project
+ME 57600 - Computer Control Of Manufacturing Processes
+AT 24300 - Commercial Flight I
+BTNY 69700 - Seminar In The Plant Sciences
+AT 14400 - Private Pilot Lectures
+ENGL 23400 - Literature And The Environment
+REG 94400 - Track And Field 1
+ASM 29100 - Special Topics
+BME 30100 - Bioelectricity
+ENGL 25700 - Literature Of Black America
+ENGL 30100 - Ways Of Reading
+REG 94300 - Tennis-Women
+ASM 33300 - Facilities Planning And Management
+AT 14500 - Private Pilot Flight
+BTNY 69800 - Research MS Thesis
+AT 24302 - Commercial Flight I Under Federal Aviation Regulations Part 141
+BME 49000 - Professional Elements Of Design
+BTNY 30200 - Plant Ecology
+ME 57500 - Theory And Design Of Control Systems
+ME 58100 - Numerical Methods In Mechanical Engineering
+MGMT 61702 - Seminar In Capital Markets IV
+CM 57000 - Analysis Of Research In Construction
+BME 46000 - Cardiovascular Mechanical Support And Devices
+BTNY 53500 - Plant Disease Management
+AAE 56700 - Introduction To Applied Stochastic Processes
+CM 39000 - Construction Work Experience I
+CS 63800 - Multimedia Networking And Operating Systems
+IE 23000 - Probability And Statistics In Engineering I
+MGMT 63100 - The Legal And Social Foundations Of Management II
+MGMT 62100 - Marketing Management II
+CS 69900 - Research PhD Thesis
+CM 49000 - Construction Work Experience II
+ENGL 53800 - English Drama From The Restoration To The Modern Period
+MGMT 19000 - Freshman Level Problems In Management
+CS 19300 - Tools
+COM 53100 - Special Topics In Mass Communication
+CHNS 40200 - Chinese Level VIII
+ENGL 56500 - Sociolinguistics
+ME 36500 - Measurement And Control Systems I
+CHNS 24100 - Introduction To The Study Of Chinese Literature
+ABE 55800 - Process Design For Food And Biological Systems
+LING 52200 - Syntax II: Issues In Syntax
+ABE 52900 - Nonpoint Source Pollution Engineering
+MGMT 35000 - Intermediate Accounting I
+CS 31400 - Numerical Methods
+PES 11100 - Lifetime Fitness
+LING 31500 - Elements Of Phonetics
+COM 49500 - Special Topics In Public Relations And Rhetorical Advocacy
+MGMT 30600 - Management Science
+ENGL 33200 - Games And User Experience (UX)
+GS 12000 - Summer Start Seminar
+COM 25600 - Introduction To Advertising
+MGMT 56200 - Project Management
+CS 43900 - Introduction To Data Visualization
+MGMT 57000 - Spreadsheet Modeling And Simulation
+TLI 31400 - Leading Innovation In Organizations
+LING 69800 - Research MA Thesis
+TLI 45570 - Global Human Resources
+IDE 39499 - Professional Practice Five-Session Coop IV
+COM 31400 - Advanced Presentational Speaking
+MGMT 52020 - Analytics For Marketing Managers
+AT 28500 - ATC Procedures and Weather
+THTR 54000 - Advanced Directing
+THTR 56800 - Advanced Problems In Design
+CAND 99100 - Candidate
+AT 26502 - Aircraft Electrical Systems
+ABE 51100 - Drug Development
+REG 92000 - Welcoming Convocation
+EAPS 42300 - Atmospheric Dynamics II
+EAPS 50900 - Data Analysis Techniques In Earth And Atmospheric Sciences
+REG 93400 - Cross Country Women 1
+CHM 25500 - Organic Chemistry
+ABE 30800 - Heat And Mass Transfer In Food And Biological Systems
+COM 60711 - Strategic Communication And Fundraising Management
+BCM 90000 - BCM Student Meeting
+EAPS 39000 - Geologic Field Methods
+CHM 12600 - Introduction To Chemistry II
+ABE 37000 - Biological/Microbial Kinetics And Reaction Engineering
+EAPS 57700 - Remote Sensing Of The Planets
+COM 69900 - Research PhD Thesis
+BCM 25001 - Construction Project And Administrative Management
+BCM 31700 - Mechanical And Electrical Construction Management
+THTR 66900 - Tutorial Internship For MFA
+COM 64100 - Integrated Marketing Communication
+EAPS 68000 - Contaminant Hydrogeology
+BCM 28500 - Construction Mechanics
+EAPS 22700 - Introduction To Atmospheric Observation And Measurements
+ABE 29000 - Sophomore Seminar
+CHM 26505 - Organic Chemistry
+EAPS 55900 - Topics In Seismology
+EAPS 65300 - Fracturing Of Rocks
+COM 64400 - Strategic Personal Branding
+BCM 33000 - Introduction To Demolition And Reconstruction Management
+ABE 30500 - Physical Properties Of Biological Materials
+ABE 33000 - Design Of Machine Components
+EAPS 53200 - Atmospheric Physics I
+EAPS 42100 - Atmospheric Thermodynamics
+REG 91300 - University Choir
+AT 35800 - History Of Flight
+REG 93300 - Cheer 1
+ME 57200 - Analysis And Design Of Robotic Manipulators
+THTR 53800 - Acting For The Camera
+AT 27800 - Nondestructive Testing For Aircraft
+AT 25400 - Commercial Flight Lectures
+THTR 56400 - Theatrical Rendering
+COM 32400 - Introduction To Organizational Communication
+HEBR 22100 - Biblical Hebrew Level III
+MGMT 51300 - Student Managed Investment Fund
+MGMT 52000 - Pricing Strategy And Analysis
+COM 31200 - Rhetoric In The Western World
+IDE 39699 - Professional Practice Internship
+TLI 35510 - Training And Talent Development
+MGMT 55500 - Leading Management Of Diversity And Inclusion In Organizations
+ME 30801 - Fluid Mechanics Laboratory
+TLI 10000 - Organizational Leadership Orientation
+CS 42600 - Computer Security
+MGMT 56500 - Strategic Sourcing And Procurement
+COM 25300 - Introduction To Public Relations
+MGMT 57200 - Six Sigma And Quality Management
+CS 40800 - Software Testing
+ENGL 33100 - Medieval English Literature
+CS 39499 - Extensive Cooperative Experience IV
+ENGL 34500 - Games And World Building
+COM 46400 - American Political Communication
+MGMT 33100 - Development And Impact of Equal Employment Law
+MGMT 30400 - Introduction To Financial Management
+PES 11400 - Exercise And Conditioning
+ABE 58000 - Process Engineering Of Renewable Resources
+MGMT 29199 - Cooperative Experience I
+COM 50700 - Introduction To Semiotics
+ABE 53100 - Instrumentation And Data Acquisition
+LING 53200 - Semantics II: Formal And Grammatical Semantics
+CS 19000 - Topics In Computer Sciences
+MGMT 11000 - Introduction To Management And Information Strategies
+CHNS 39900 - Special Study Abroad Credit In Chinese
+COM 59000 - Directed Study Of Special Problems
+ENGL 54100 - Studies In Chaucer's Canterbury Tales
+ENGL 53200 - The English Novel In The Nineteenth Century
+MGMT 63400 - Business Law For Accountants
+CS 63500 - Capturing And Rendering Real-World Scenes
+IE 29299 - Professional Practice Extensive Co-Op II
+ENGL 31700 - Craft Of Poetry From a Writer's Perspective
+AAE 56400 - Systems Analysis And Synthesis
+AAE 54500 - Dynamic Behavior of Materials
+CM 51000 - Topics In Environmentally Sustainable Construction, Design And Development
+CS 69000 - Seminar On Topics In Computer Sciences
+MGMT 62300 - Business Marketing
+CS 59100 - Seminar
+ME 57700 - Human Motion Kinetics
+AAE 63200 - Advanced Orbital Dynamics
+BTNY 28500 - Plants And Civilization
+BME 48900 - Senior Design Project Lab
+BTNY 50500 - Advanced Biology Of Weeds
+ME 58400 - System Identification
+AT 12700 - Publications Records And Regulations
+BME 20600 - Biomechanics And Biomaterials Laboratory
+AT 23300 - Ethics And Aviation
+ASM 49500 - Agricultural Systems Management Capstone Project
+ENGL 25800 - Nobel Prize Winners In Literature
+BME 29600 - Biomedical Engineering Projects
+ASM 24500 - Materials Handling And Processing
+HEBR 38500 - The Holocaust In Modern Hebrew Literature
+REG 94100 - Swimming-Women
+BME 29500 - Selected Topics In Biomedical Engineering
+ASM 23600 - Environmental Systems Management
+REG 94200 - Tennis-Men
+ASM 49400 - Project Planning And Management
+AT 22300 - Human Factors For Flight Crews
+BME 20500 - Biomolecular And Cellular Systems Laboratory
+AT 11901 - Unmanned Aerial Systems: Safety And Risk Management
+BME 44000 - Computational Mechanics In Biomedical Engineering
+BTNY 52500 - Intermediate Plant Pathology
+ME 58500 - Instrumentation For Engineering Measurements
+ME 57800 - Digital Control
+CS 59200 - Computer Science Seminar
+BME 48800 - Preliminary Senior Project Design
+BTNY 30100 - Introductory Plant Pathology
+AAE 62600 - Turbulence And Turbulence Modeling
+CM 51100 - Energy Conserving Building Retrofit
+BME 56400 - Ethical Engineering Of Medical Technologies
+AAE 53900 - Advanced Rocket Propulsion
+MGMT 62200 - Marketing Strategy
+CS 69800 - Research MS Thesis
+IE 29199 - Professional Practice Extensive Co-Op I
+CS 63600 - Internetworking
+MGMT 63350 - Accounting Data Analytics
+AAE 56100 - Introduction To Convex Optimization
+CM 41000 - Construction Management Portfolio II
+ENGL 31600 - Craft Of Fiction From A Writer's Perspective
+ENGL 53400 - Seventeenth-Century Literature
+ENGL 49400 - Research Practicum For Undergraduates
+ENGL 50600 - Introduction To English And General Linguistics
+COM 58500 - Qualitative Methods In Communication Research
+LING 59000 - Directed Reading In Linguistics
+CHNS 40100 - Chinese Level VII
+MGMT 17500 - Information Strategies For Management
+CS 18400 - Professional Practice II
+MGMT 29140 - Integrated Business & Engineering Seminar IV
+ABE 53000 - Plant Phenotyping Technologies
+COM 50800 - Nonverbal Communication In Human Interaction
+LING 49800 - Special Topics In Linguistics II
+ABE 56000 - Biosensors: Fundamentals and Applications
+ME 36300 - Principles And Practices Of Manufacturing Processes
+MGMT 29500 - Career Readiness & Exploration
+PES 11200 - Aquatic Movement Forms
+CS 35200 - Compilers: Principles And Practice
+COM 46499 - Professional Practice Parallel Co-Op Semester IV
+MGMT 32400 - Marketing Management
+ME 41500 - Energy Systems Engineering
+CS 39399 - Cooperative Experience III
+MGMT 57300 - Optimization Modeling With Spreadsheets
+CS 40700 - Software Engineering Senior Project
+CS 42200 - Computer Networks
+COM 25200 - Writing For Mass Media
+MGMT 56600 - Global Supply Chain Management
+ME 30900 - Fluid Mechanics
+TLI 11200 - Foundations Of Organizational Leadership
+TLI 35520 - Organization Development And Change
+MGMT 55400 - Managing Global Organizational Behavior & Human Resources
+IDE 39599 - Professional Practice Five-Session Coop V
+COM 32500 - Interviewing: Principles And Practice
+HEBR 20200 - Modern Hebrew Level IV
+AT 25302 - Instrument Flight Under Federal Aviation Regulations Part 141
+THTR 56700 - Model Construction
+THTR 53900 - Period Style For The Actor
+AT 27200 - Introduction To Composite Technology
+AT 35400 - Turbine Flight Operations Lecture
+EAPS 50700 - Introduction To Analysis And Computing With Geoscience Data
+THTR 51000 - Stage Dialects
+REG 93301 - Cheer 2
+REG 91400 - Heart & Soul
+EAPS 42200 - Atmospheric Dynamics I
+EAPS 53000 - Extreme Weather And Climate: Science And Risk
+CHM 12500 - Introduction To Chemistry I
+ABE 32500 - Soil And Water Resource Engineering
+ABE 30400 - Bioprocess Engineering Laboratory
+COM 64500 - Healthcare Communication
+EAPS 65200 - Folding Of Rocks
+BCM 32000 - Introduction To Disaster Restoration And Reconstruction Management
+EAPS 32000 - Physics Of Climate
+EAPS 22500 - Science Of The Atmosphere
+BCM 27500 - Construction Plans And Measurements
+EAPS 55700 - Introduction To Seismology
+CHM 26600 - Organic Chemistry Laboratory
+ABE 28100 - Professional Internship
