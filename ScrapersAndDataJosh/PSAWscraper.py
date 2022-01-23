@@ -21,9 +21,6 @@ def soupScrape():
 
 
 def redditScrape():
-    start_epoch=int(dt.datetime(2010, 1, 1).timestamp())
-
-    comments = []
 
     def findSynonyms():
         for synonym in synonyms:
@@ -36,14 +33,21 @@ def redditScrape():
                 return 1
         return 0
 
+    start_epoch=int(dt.datetime(2021, 11, 1).timestamp())
+
+    comments = []
+
     print("Starting reddit crawl...")
+
+    course = '\"ma261 curve\"'
 
     for submission in api.search_submissions(
         after=start_epoch,
         subreddit='Purdue',
-        q="MA261|ma261|Ma261",
+        q=course,
         limit=10000
     ):
+        print(submission.title)
         if len(re.compile("\\D{2,4}\\d{3,5}").findall(submission.title)) == 1:
             for comment in api.search_comments(
                 subreddit='Purdue',
@@ -54,13 +58,14 @@ def redditScrape():
                 time.sleep(0.1)
         time.sleep(1)
 
-    df = pd.DataFrame(columns=['comments'])
-    df['comments'] = comments
-    if (os.name == 'nt'):
-        csv = f'./ScrapersAndDataJosh\\PSAWcomments.csv'
-    else:
-        csv = f'./ScrapersAndDataJosh/PSAWcomments.csv'
-    df.to_csv(csv)
+    # df = pd.DataFrame(columns=['comments'])
+    # df['comments'] = comments
+    # strippedCourse = re.sub(r'\W+', '', course)
+    # if (os.name == 'nt'):
+    #     csv = f'./ScrapersAndDataJosh\\{strippedCourse}_comments.csv'
+    # else:
+    #     csv = f'./ScrapersAndDataJosh/{strippedCourse}_comments.csv'
+    # df.to_csv(csv)
 
 
 if __name__ == '__main__':
