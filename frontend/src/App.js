@@ -60,11 +60,9 @@ const CourseCard = ({CourseNumber, CourseDescription, CourseName, Info1, Body1, 
 }
 
 
-
-
 const App = () => {  
   const [course, setCourse] = useState("");
-  let filtered = DemoData.filter(courseObj =>  courseObj.CourseNumber.includes(course))
+  let filtered = DemoData.filter(courseObj =>  courseObj.CourseNumber.includes(course) || courseObj.CourseName.includes(course))
   return (
     <div>
       <NavBar/>
@@ -72,8 +70,7 @@ const App = () => {
         paddingTop: 20,
         paddingBottom: 30
       }}>
-        <Col xs="2" sm="3" md="3" lg="4" >
-        </Col>
+        <Col xs="2" sm="3" md="3" lg="4" ></Col>
         <Col>
           <Form className="d-flex">
             <FormControl
@@ -86,8 +83,7 @@ const App = () => {
             />
           </Form>
         </Col>
-        <Col xs="2" sm="3" md="3" lg="4">
-        </Col>
+        <Col xs="2" sm="3" md="3" lg="4"></Col>
       </Row>
       <Container>
         <Row>
