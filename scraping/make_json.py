@@ -1,7 +1,16 @@
 import json
 import os
+import re
 
-outp = open("idNums.txt", "w")
+extract_credit = re.compile("([0-9])+\.([0-9])+")
+
+print(extract_credit.match("How do yaa do boye. 3.00"))
+
+rcn = re.compile("Credit Hours: ([0-9])+\.([0-9])+\.")
+
+
+mainObject = {}
+
 
 dirname = "clean_html"
 for filename in os.listdir(dirname):
@@ -11,9 +20,22 @@ for filename in os.listdir(dirname):
         plaintext = f.read()
 
         alllines = plaintext.splitlines()
-        # outp.write((alllines[0]) + "\n") 
-        ar = alllines[0]
+        spltline = alllines[0].split(" - ")
+        insidedict = {}
+        insidedict["courseName"] = spltline[1].replace('\n', '')
         
-
-        for line in alllines:
-            print(line.strip())
+        i = 0
+        while i < len(alllines):
+            if alllines[i].find("Credit Hours:") != -1:
+                credsent = rcn.match(alllines[i])
+                cred = extract_credit.match(alllines[i])
+                alllines[i] = re.sub(rcn, '', alllines[i])
+                curstring = ""
+                while alllines[i]:
+                    curstring += alllines[i]
+                    i+=1
+                insidedict["description"] = curstring.strip()
+            i+=1
+        mainObject[spltline[0]] = insidedict
+        print(mainObject)
+        break
