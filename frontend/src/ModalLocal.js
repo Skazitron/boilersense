@@ -17,16 +17,16 @@ const ModalLocal = () => {
          >
            <Modal.Header closeButton>
              <Modal.Title id="example-modal-sizes-title-lg">
-                 {`${course["courseNum"] ? course["courseNum"] : "{COURSENUM}"}: ${course["courseName"] ? course["courseName"] : "{COURSENAME}"}`}
+                 {`${course && course["courseNum"] ? course["courseNum"] : "{COURSENUM}"}: ${course && course["courseName"] ? course["courseName"] : "{COURSENAME}"}`}
              </Modal.Title>
            </Modal.Header>
            <Modal.Body>
                <div>
                 
-                <p>Description: {course.description ? course.description : "Failed to retrieve course description"}</p>
-                <p>Credits: {course.credits ? course.credits : "Failed to retrieve course credits"}</p>
-                <p>Department: {course.department ? course.department : "Failed to retrieve course department"}</p>
-                <p>Offered By: {course.offeredby ? course.offeredby : "Failed to retrieve course offered by"}</p>
+                <p>Description: {course && course.description ? course.description : "Failed to retrieve course description"}</p>
+                <p>Credits: {course && course.credits ? course.credits : "Failed to retrieve course credits"}</p>
+                <p>Department: {course && course.department ? course.department : "Failed to retrieve course department"}</p>
+                <p>Offered By: {course && course.offeredby ? course.offeredby : "Failed to retrieve course offered by"}</p>
 
                </div>
             </Modal.Body>
