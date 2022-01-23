@@ -3,8 +3,12 @@ from flask import request
 import json
 from flask import jsonify
 from Catalog import Catalog
+from flask_cors import CORS
+
 
 app = Flask(__name__)
+CORS(app)
+
 jsonfile = open("idData.json", "r")
 jsonnames = json.load(jsonfile)
 
