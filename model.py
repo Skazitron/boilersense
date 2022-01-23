@@ -12,8 +12,8 @@ training_data["comment"] = training_data2["comment"]
 print(training_data)
 #comments_df = pd.read_csv("./ScrapersAndDataJosh/PSAWcomments.csv")
 
-comments_df = pd.read_csv("/Users/shellyschwartz/Downloads/red_courses_new2.csv")
-
+gen_eds = pd.read_csv("/Users/shellyschwartz/Downloads/red_courses_new3.csv")
+others = pd.read_csv("./ScrapersAndDataJosh/reddit_comments.csv")
 #target can be comment, quality, or difficulty
 def train_model_and_get_pred(df, target, df_test, col):
     #cleaning
@@ -61,6 +61,8 @@ def train_model_and_get_pred(df, target, df_test, col):
     # report.loc['Avg/Total', 'Support'] = report['Support'].sum()
 
     return predictions
+comments_df = pd.concat([others, gen_eds])
+comments_df = comments_df.drop_duplicates()
 qual_preds = train_model_and_get_pred(training_data, "quality", comments_df, "review")
 diff_preds = train_model_and_get_pred(training_data, "difficulty", comments_df, "review")
 comments_preds = train_model_and_get_pred(training_data, "difficulty", comments_df, "review")
