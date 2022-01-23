@@ -11,4 +11,9 @@ for filename in os.listdir(dirname):
         plaintext = f.read()
 
         alllines = plaintext.splitlines()
-        outp.write((alllines[0]) + "\n") 
+        # outp.write((alllines[0]) + "\n") 
+        ar = alllines[0]
+        
+
+        for line in alllines:
+            print(line.strip())
