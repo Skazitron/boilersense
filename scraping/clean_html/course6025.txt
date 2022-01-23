@@ -1,0 +1,31 @@
+MFET 24400 - Automated Manufacturing II
+
+Credit Hours: 3.00.  Shop floor components of computer-integrated manufacturing are introduced. Emphasis is focused on current applications and programming practices of various computer automated manufacturing processes and technologies. Topics include: CAD/CAM integration, computer-assisted numerical control programming, computer-assisted quality control, and automatic identification. Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MET 24500 Minimum Grade of D-
+
+

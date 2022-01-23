@@ -1,0 +1,42 @@
+MFET 25000 - Smart Manufacturing Cloud Computing Applications
+
+Credit Hours: 3.00.  This course introduces concepts and principles of cloud computing and the virtualization of computing resources and services for smart manufacturing applications. The fundamental topics of cloud computing will be addressed, including virtually processing, storing, modeling and analyzing of data in the cloud environment. Fundamental concepts about cloud tools, applications, and services from a production and manufacturing perspective will be presented. Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  State the challenges and advantages of cloud computing in smart manufacturing.
+2.  Explain the concepts and principles of cloud computing such as a scalability, elasticity, agility, fault tolerance, disaster recovery and networking. 
+3.  Recognize the models, tools, and service types offered by the different cloud platforms for smart manufacturing applications. 
+4.  Select strategies for managing and optimizing cloud computing resources for different manufacturing applications. 
+5.  Apply techniques in clouding computing to model and manage manufacturing data. 
+6.  Build manufacturing apps using cloud based platform tools and services.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  CS 17700 Minimum Grade of D- or Undergraduate level  CNIT 15501 Minimum Grade of D-
+
+

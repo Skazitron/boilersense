@@ -1,0 +1,40 @@
+ECE 60400 - Electromagnetic Field Theory
+
+Credit Hours: 3.00.  Review of general concepts (Maxwell's equations, materials interaction, boundary conditions, energy flow); statics (Laplace's equation, Poisson's equation); distributed parameter systems (classification of solutions, transmission lines, and wave-guides); radiation and antennas (arrays, reciprocity, Huygen's principle); a selected special topic (e.g., magnetostatics, waves in anisotropic media and optical fibers).  Offered in alternate years.  Prerequisite: Master's student standing or higher.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      PU Fort Wayne
+
+      IUPUI
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

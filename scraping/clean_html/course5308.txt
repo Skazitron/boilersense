@@ -1,0 +1,43 @@
+ECE 61014 - Electromagnetic And Electromechanical Component Design
+
+Credit Hours: 3.00.  This course focuses on the design of electromagnetic and electromechanical systems, with power applications. The course includes optimization methods, modeling techniques for design (as opposed to for simulation), and the formulation of design problems as optimization problems. Prerequisite by Topic: Knowledge of the use of field and co-energy techniques to calculate force/torque, Understanding of theory of operation of permanent magnet ac machines (brushless dc machines), basic knowledge of electromagnetic fields.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand multi-objective design techniques as they relate to the design of power magnetic devices.
+2.  Understand the use of computationally efficient methods of solving field problem including analytical methods and magnetic equivalent circuits.
+3.  Understand loss mechanisms in power magnet devices including hysteresis, eddy current, and resistive losses.
+4.  Understand design of distributed conductors systems such as rotating electric machinery.
+5.  Understand working practices on homework, exams, and projects.
+6.  Understand how to compete component architectures in a rigorous and meaningful way.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

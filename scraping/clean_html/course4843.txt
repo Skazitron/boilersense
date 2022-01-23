@@ -1,0 +1,64 @@
+CNIT 47000 - Incident Response Management
+
+Credit Hours: 3.00.  This course will bridge business operations to IT support of the critical systems that support day-to-day operations. Techniques to detect anomalous behaviors through the configuration and monitoring of modern Intrusion Detection systems, analyzing and decoding network flows, system logs, and reports is covered along with appropriate remediation actions. Multiple approaches, theories, standards, and suggestions for incident response handling will be examined.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Detail incident handling and response process models.
+2.  Align IT incident response strategies with business requirements.
+3.  Detect common attack techniques, malicious applications, network activities, and anomalies.
+4.  Perform vulnerability and risk assessments of business and computing assets.
+5.  Evaluate continuous process improvement by discovering incident root causes.
+6.  Design, assess, and apply appropriate enterprise-level disaster recovery plans.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 32000 Minimum Grade of C- and (Undergraduate level  CNIT 34400 Minimum Grade of C- or Undergraduate level  CNIT 34500 Minimum Grade of C-) and Undergraduate level  CNIT 45500 Minimum Grade of C- [may be taken concurrently]
+
+

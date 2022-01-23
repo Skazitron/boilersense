@@ -1,0 +1,66 @@
+CNIT 27200 - Database Fundamentals
+
+Credit Hours: 3.00.  A study of relational database concepts. These concepts include data design, modeling, and normalization; the use of Structured Query Language (SQL) to define, manipulate, and test the database; programmatic access to a database and practical issues that database developers must handle.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Practice Study Observation 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Credit By Exam, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Explain the principles and characteristics of good relational database design.
+2.  Design entity relationship models for a business problem domain.
+3.  Build data models that solve business problems.
+4.  Compare and contrast components of Structured Query Language (SQL).
+5.  Write SQL queries in a multiple table environment.
+6.  Explain the concept of database transactions, and demonstrate the proper use of commits and rollbacks.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 18000 Minimum Grade of C- and (Undergraduate level  CNIT 15500 Minimum Grade of C- or Undergraduate level  CNIT 15501 Minimum Grade of C-) and Undergraduate level  CNIT 28000 Minimum Grade of C- [may be taken concurrently]
+
+

@@ -1,0 +1,77 @@
+ME 51400 - Fundamentals Of Wind Energy
+
+Credit Hours: 3.00.  Basic operating principles and analysis of performance characteristics of gas turbine engines for aircraft and vehicular propulsion and stationary power. Turbojet, turbofan, turboshaft cycle analysis. Analysis of flow through compressors, turbines, combustors, inlets, nozzles, and regenerators. Component machine and off-design performance. Inspection trip to industrial plan required.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Mechanical Engr 
+
+Department: Mechanical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1. Introduce students to the technology and economics of converting wind energy to electricity.
+2. Inform students to the environmental concerns of wind energy.
+3. Understand principles of wind turbine aerodynamics.
+4. Develop the ability to design optimum blading.
+5. Develop the ability to evaluate a potential site in terms of wind energy.
+6. Understand wind turbine structural dynamics issues.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ME 30900 Course
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ME
+30900
+
+
+Minimum Grade of 
+B
+
+May not be taken concurrently.
+)
+
+
+

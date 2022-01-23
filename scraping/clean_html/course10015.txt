@@ -1,0 +1,159 @@
+HSCI 31300 - Principles Of Radiation Detection And Measurement
+
+Credit Hours: 2.00.  Course presents an introduction to the principles of radiation detection and measurement, including statistical models, counting statistics, error analysis, detection limits, ionization chambers, proportional counters, GM counters, scintillation counters, gamma-ray spectroscopy, solid-state detectors, TLDs, track-etch and bubble detectors. Typically offered Fall.
+
+    2.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Health & Human Sci 
+
+Department: Health Sciences 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Prerequisites:
+
+HSCI 31300 Requisites
+
+
+General Requirements:
+
+ ( 
+Rule:  1.: MA 162,164,166,169,171,173,181  for a total of 1 conditions
+)
+
+MA
+16200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+MA
+16400
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+MA
+16600
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+MA
+16900
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+MA
+17100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+MA
+17300
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+MA
+18100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+End of rule  1.
+
+and
+Rule:  2A.: PHYS 15200 or 17200  for a total of 1 conditions
+
+PHYS
+15200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+PHYS
+17200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+End of rule  2A.
+
+or
+Rule:  2B.: PHYS 16200 and  16300  for a total of 1 conditions
+
+PHYS
+16200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+PHYS
+16300
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+End of rule  2B.
+
+or
+Rule:  3.: NUCL 20000  for a total of 1 conditions
+
+NUCL
+20000
+
+
+Minimum Grade of 
+C
+
+May not be taken concurrently.
+End of rule  3.
+
+

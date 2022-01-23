@@ -1,0 +1,30 @@
+CHE 65600 - Advanced Process Control
+
+Credit Hours: 3.00.  Topics in linear and nonlinear system theory applied to automatic control of processes. Subjects include stability analyses, phase plane methods, statistical disturbances, sampled systems, theoretical and experimental determination of process dynamics, optimization, and computer control. Prerequisite: CHE 45600.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Chemical Engineering 
+
+Department: Chemical Engineering 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

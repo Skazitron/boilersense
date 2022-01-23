@@ -1,0 +1,59 @@
+ECET 17900 - Introduction To Digital Systems
+
+Credit Hours: 3.00.  This course introduces computing systems and defines the major classes of computing devices. Sequential and concurrent operations, along with logic and control structures, are covered. Knowledge of fundamental computing principles is discovered. Common software tools are used to create, test, and debug systems. Systems are constructed from standard blocks with a focus on subsystem operation and performance, troubleshooting/debugging and testing. Common applications of embedded systems are introduced.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Describe the major classes of computing devices and the primary applications of each.
+2.  Describe and distinguish the basic building blocks of conditional and unconditional logic.
+3.  Convert numbers between number systems (bases) and compute arithmetic operations.
+4.  Describe and distinguish the relationships between concurrent and sequential events.
+5.  Describe and distinguish the primary tools used to create, test, and debug computing system hardware and software components.
+6.  Construct hardware and software components comprised of logical building blocks from given requirements.
+7.  Troubleshoot hardware and software systems comprised of logical building blocks by using logical deduction.
+8.  Apply embedded microcomputer systems to solve problems.
+
+
+
+
+Prerequisites: 
+
+ (   (Undergraduate level  ENGT 18000 Minimum Grade of D- and Undergraduate level  ENGT 18100 Minimum Grade of D-) or Undergraduate level  ECET 12000 Minimum Grade of D- or Undergraduate level  ECET 22400 Minimum Grade of D- or (Undergraduate level  ECE 20001 Minimum Grade of D- and Undergraduate level  ECE 20007 Minimum Grade of D-)   ) and (Undergraduate level  CNIT 10500 Minimum Grade of D- or Undergraduate level  CSCI C1010 Minimum Grade of D- or Undergraduate level  CSCI C1050 Minimum Grade of D- or Undergraduate level  CS 15900 Minimum Grade of D- or Undergraduate level  CS 15800 Minimum Grade of D- or Undergraduate level  CS 24000 Minimum Grade of D-)
+
+

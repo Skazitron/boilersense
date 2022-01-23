@@ -1,0 +1,40 @@
+NUCL 64000 - Fast Reactor Theory
+
+Credit Hours: 3.00.  Course is designed to teach reactor physics specific to fast spectrum reactors and the associated computational methods. Topics include breeding and actinide burning capabilities, core design implications, and reactivity feedback mechanisms. Computational methods will be specific to fast reactor physics analysis and include the fast neutron spectrum calculation, group constant generation and reactivity feedback calculations for Doppler, thermal expansions, and sodium void. Prerequisites: NUCL 51100 and advanced engineering mathematics covering complex analysis, partial differential equations, and integral equations.  Typically offered Fall Spring Summer.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Nuclear Engineering 
+
+Department: Nuclear Engineering 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Repeatable for Additional Credit: Yes - May be repeated an unlimited number of times
+
+
+Learning Outcomes: 
+1.  Demonstrate essential knowledge of fast reactor theory.
+2.  Demonstrate working knowledge of the associated computational methods and codes.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

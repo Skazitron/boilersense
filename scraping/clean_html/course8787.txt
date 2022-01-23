@@ -1,0 +1,41 @@
+ECON 46300 - Advanced Data Analysis And Machine Learning
+
+Credit Hours: 3.00.  This is an advanced applied econometrics course that introduces students to a variety of techniques and methods for the empirical study of economic data. This course focuses on the practical aspects of economic data analysis, including data organization (such as merging and appending datasets) and the implementation of econometric models. This course will cover multivariate linear regression, non-linear least squares, models for binary and categorical outcomes, model selection using machine learning, and panel data models. As part of the course, students will learn to conduct empirical analysis of economic data using Stata, a statistical software package.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Management 
+
+Department: School of Mgmt Adm & Instr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Explore and organize economic data.
+2.  Apply a variety of econometric techniques including: multivariate linear regression, non-linear least squares, models for binary outcomes (including logit and probit models), and models for panel data (including linear random effects and fixed effects models).
+3.  Understand the fundamentals of machine learning and use machine learning for model selection.
+4.  Interpret and critique the results from econometric estimations.
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  ECON 36000 Minimum Grade of C-
+
+

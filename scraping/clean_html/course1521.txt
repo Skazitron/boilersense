@@ -1,0 +1,53 @@
+MGMT 47400 - Predictive Analytics
+
+Credit Hours: 3.00.  Students build and evaluate predictive models to support regression-type and classification-type business problems using popular industry tools (e.g., RStudio, SAS Enterprise Miner). Methods covered include multiple linear regression, ridge regression, lasso, CART, logistic regression, LDA/QDA, SVM, and ensemble methods such as random forests. Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Management 
+
+Department: School of Mgmt Adm & Instr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Generate a valid predictive analytics solution by following a structured process.
+2.  Demonstrate practical understanding of frequently used predictive analytics techniques.
+3.  Demonstrate a working knowledge of RStudio and SAS Enterprise Miner to build an access predictive models.
+4.  Demonstrate project poster and presentation of a predictive analytics solution to a business problem.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Management-BSIM
+
+      Management-BS
+
+      Accounting-BS
+
+      Economics-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  MGMT 30500 Minimum Grade of C- or Undergraduate level  STAT 35000 Minimum Grade of C- or Undergraduate level  STAT 50100 Minimum Grade of C- or Undergraduate level  STAT 51100 Minimum Grade of C-
+
+

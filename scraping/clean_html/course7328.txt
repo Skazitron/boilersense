@@ -1,0 +1,63 @@
+MSE 52400 - Mechanical Behavior Of Polymers
+
+This course will focus on the mechanical properties and behaviors of polymeric materials. The course will utilize fundamental solid and fluid mechanics to understand the response of bulk polymers (solid and liquid, above and below Tg). The impact of deformation rate and temperature on the mechanical response of polymers will be covered in detail. The course will start with an overview of linear elastic mechanics, move to rubber elasticity, and then viscoelasticity (concentrating on time-temperature superposition). We will also cover fluid dynamics and the rheology of non-Newtonian fluids. We will conclude with a section on deformation, yield, and fracture mechanisms (focusing on those phenomena that are unique to polymers such as rubber cavitation, drawing, and crazing).
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Materials Engr 
+
+Department: Materials Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Demonstrate fundamental understanding of solid mechanics:  draw a free body diagram and employ the correct equations of state to solve two- and three-dimensional statics and solids problems.
+2.  Articulate in rubber elasticity.
+3.  Utilize time-temperature superposition to generate a master curve to fully describe the mechanical response of a viscoelastic material. Apply "spring and dashpot" models to describe nonlinear materials responses. 
+4.  Describe a rheology experiment of a non-Newtonian fluid:  interpret and analyze raw rheology data, identify key phase transitions. 
+5.  Solve simple fracture mechanics problems. 
+6.  Demonstrate an understanding of polymer deformation mechanisms. 
+7.  Apply polymer yield criteria to predict failure resulting from a given loading scenario.
+
+
+
+
+Prerequisites:
+
+GR-MSE 52400 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MSE
+38200
+
+
+May not be taken concurrently.
+)
+
+
+

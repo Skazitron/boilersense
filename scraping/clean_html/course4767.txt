@@ -1,0 +1,44 @@
+CNIT 18000 - Introduction To Systems Development
+
+Credit Hours: 3.00.  This course introduces information systems development. Topics include types of information systems, system development, database management systems, and problem solving.  Students will read/create UML, ERD, and data flow diagrams to model information system objects, data, processes, and logic.  Labs emphasize modeling and SQL/QBE querying to prepare students for later systems, programming, and database classes. Given user requirements students will design, construct, and test a personal computer information system. PC literacy required.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Credit By Exam, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Dual Campus
+
+      Kokomo
+
+      Lafayette
+
+      Richmond
+
+      South Bend
+
+
+

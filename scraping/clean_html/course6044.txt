@@ -1,0 +1,40 @@
+MFET 36400 - Intelligent Manufacturing Systems II
+
+Credit Hours: 3.00.  Artificial intelligence (AI), machine learning (ML), industrial IoT (IIoT), and big data are applied to enable predictive analytics with machine learning for optimizing processes and operation in a horizontally-integrated smart manufacturing value-chain network. Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Integrate cloud platforms with industrial big data, advanced analytics, AI/ML, and IIoT in a horizontally integrated supply chain network.
+2.  Implement data, analytics, and machine learning to create insights and drive decision-making in a horizontally integrated value chain network.
+3.  Describe how intelligent systems are connected to physical assets via IIoT infrastructure to automate inventory, and asset management across a manufacturing value chain network.
+4.  Apply predictive modeling, analytics, and AI/ML techniques to optimize material management, production planning, scheduling, and supply operations across a manufacturing value chain network.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MFET 35200 Minimum Grade of D- and Undergraduate level  MFET 36300 Minimum Grade of D- and Undergraduate level  IET 21400 Minimum Grade of D-
+
+

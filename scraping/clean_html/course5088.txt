@@ -1,0 +1,156 @@
+ECE 31032 - Power Systems Engineering
+
+Credit Hours: 3.00.  Introduction to the economic operation of power systems, three-phase circuit analysis, modeling of transformers and transmission lines, steady-state network analysis using a power flow, analysis during faults and state estimation.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand the function of the main components in a power system, and the basis of their circuit models.
+2.  Build a system representation from components' circuit models and to apply solution techniques to certain operational needs.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Elec & Computer Engr
+
+
+Prerequisites:
+
+ECE 31032 Requisites
+
+
+General Requirements:
+
+ ( 
+Course or Test: 
+ECE
+20001
+
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ECE
+20100
+
+
+May not be taken concurrently.
+ )and( 
+Course or Test: 
+PHYS
+27200
+
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+PHYS
+24100
+
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+PHYS
+25100
+
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+PHYS
+26100
+
+
+May not be taken concurrently.
+ )and( 
+Course or Test: 
+MA
+26100
+
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+17400
+
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+18200
+
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+27101
+
+
+May not be taken concurrently.
+ )and( 
+Course or Test: 
+MA
+26200
+
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+26500
+
+
+May not be taken concurrently.
+and
+Course or Test: 
+MA
+26600
+
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+26500
+
+
+May not be taken concurrently.
+and
+Course or Test: 
+MA
+36600
+
+
+May not be taken concurrently.
+)
+
+
+

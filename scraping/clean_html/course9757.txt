@@ -1,0 +1,30 @@
+MA 61500 - Numerical Methods For Partial Differential Equations I
+
+Credit Hours: 3.00.  (CS 615)  Finite element method for elliptic partial differential equations; weak formulation; finite-dimensional approximations; error bounds; algorithmic issues; solving sparse linear systems; finite element method for parabolic partial differential equations; backward difference and Crank-Nicholson time-stepping; introduction to finite difference methods for elliptic, parabolic, and hyperbolic equations; stability, consistency, and convergence; discrete maximum principles.  Prerequisite: MA 51400, 52300. Typically offered Spring.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Science 
+
+Department: Mathematics 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

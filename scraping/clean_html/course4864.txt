@@ -1,0 +1,44 @@
+CNIT 53100 - Information Technology Requirements Analysis And Modeling
+
+Credit Hours: 3.00.  This course introduces and develops the skills that business analysts will need to solve business problems and effectively model and analyze stakeholder requirements in order to define workable solutions and effective communicate customer needs. Permission of department required.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Apply business and requirements modeling techniques to solicit and support business analysis and problem solving.
+2.  Categorize, select and use specific visual modeling techniques to elicit, understand and communicate business requirements.
+3.  Research and analyze, then discuss in intelligent conversation, the techniques and tools used for modeling to support business requirements.
+4.  Perform general modeling techniques in combination with Visual Modeling learned from the resources provided for analyzing requirements and creating a requirements toolbox for a proposed solution.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

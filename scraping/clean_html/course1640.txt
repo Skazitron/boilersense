@@ -1,0 +1,41 @@
+MGMT 64000 - Financial Modeling
+
+Credit Hours: 2.00 or 3.00.  This course provides an introduction to financial modeling using computer applications. The first part of the course covers how to use Microsoft Excel to analyze historical and pro forma financial statements, stock return data, linear regression analysis, Monte Carlo simulations, Pivot Tables and also covers many advanced functions within Excel. The second part of the course provides an introduction to using SAS to analyze financial data and more advanced regression techniques. Prerequisites: MGMT 61000 (Note: students who have not taken MGMT 61000 may enroll with instructor permission). Typically offered Fall Spring Summer.
+
+    2.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Management 
+
+Department: School of Mgmt Adm & Instr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Gain experience using Excel to solve complex problems and build financial models.
+2.  Learn how to use Excel and other software to build, test and run regression analysis with financial data.
+3.  Provide an introduction to using SAS for analyzing financial data.
+4.  Learn how to implement Monte Carlo simulations using Excel for financial applications.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

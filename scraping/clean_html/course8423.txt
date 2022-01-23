@@ -1,0 +1,62 @@
+CGT 11301 - Product Data Management
+
+Credit Hours: 3.00.  This course provides an understanding of the types of data generated and used in the product lifecycle, the current tools and methodologies in the management of that data, and system analysis and implementation techniques for using PDM as the backbone supporting a company's product development and implementation activities. Interaction between various enterprise systems is discussed.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Recitation, Studio 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Develop a significant understanding of concepts, applications, and procedures involved in the controlling, protecting, and accessing product definition data.
+2.  Understand and apply Product Data Management (PDM) technologies and methods in a Product Lifecycle Management (PLM) environment.
+3.  Use a PDM system from the end-user perspective, simulating various workflows.
+4.  Understand basic principles of project management.
+5.  Understand the creation and importance of object metadata.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Graphics Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CGT 10301 Minimum Grade of C-
+
+

@@ -1,0 +1,45 @@
+CNIT 22700 - Introduction To Bioinformatics
+
+Credit Hours: 2.00.  Survey course in Bioinformatics for information technology specialists including topics such as: virtual bio-instrumentation, data reduction and mining algorithms and tools, data visualization, pattern matching, modeling and simulation, computational methods, and collaborative application environments.
+
+    0.000 OR     2.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      South Bend
+
+
+
+Prerequisites: 
+
+ Undergraduate level  IT 22700 Minimum Grade of D-
+
+

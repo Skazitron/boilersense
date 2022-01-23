@@ -1,0 +1,62 @@
+CNIT 46000 - High Performance Computing Systems
+
+Credit Hours: 3.00.  This course provides an introduction to high performance, cluster, and grid computing from a systems perspective. The driving outcome for this course is for students to understand and apply high performance computing concepts, architectures, and software components to develop and operate a high performance computing environment. Topics include: high performance computer architectures, network architectures for High Performance Computing (HPC), commodity and open-source cluster architectures, and software systems.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1. Understand factors that motivate the use and development of high performance computers and supercomputing systems.
+2. Demonstrate skill in developing high performance computing systems.
+3. Understand the continuum of high performance computing architectures.
+4. Understand appropriateness of each architecture type to problem solving for a wide variety of applications.
+5. Understand the effects of communications architecture and performance characteristics on application performance.
+6. Demonstrate the use of commodity components in high performance computing and the trends and forces that motivate their use.
+7. Demonstrate the use of tools and techniques of cluster and high performance computing.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 34000 Minimum Grade of C-
+
+

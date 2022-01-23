@@ -1,0 +1,50 @@
+ECE 30412 - Electromagnetics II
+
+Credit Hours: 3.00.  Electromagnetics II builds on Electromagnetics I (ECE 31100) and  emphasizes time-varying electromagnetic fields. Both fundamental understanding and an appreciation for applications that span all technologies related to electrical and computer engineering are emphasized. The topics covered include:  Maxwell's equations, plane waves, transmission lines, waveguides and cavities, and antennas and radiation. Applications addressed relate to photonics, communications, and imaging and sensing. More generally, illustrations cover the basic principles on which devices and systems used every day operate.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand time-varying fields and Maxwell's equations.
+2.  Understand plane electromagnetic waves.
+3.  Understand the theory and application of transmission lines.
+4.  Understand waveguides and cavity resonators.
+5.  Understand antennas and radiating systems.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      Computer Engineering
+
+      Electrical Engineering
+
+
+Prerequisites: 
+
+ Undergraduate level  ECE 31100 Minimum Grade of D- or Undergraduate level  ECE 30411 Minimum Grade of D-
+
+

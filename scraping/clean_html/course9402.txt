@@ -1,0 +1,41 @@
+ECET 63800 - Selected Topics In Sensor Networks
+
+Credit Hours: 3.00. 	This course examines general sensor network concepts, with a focus on a particular area of research and development. Current applications are studied, culminating with the analysis, characterization and/or examination of a sensor network. Permission of instructor required.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.	Identify and describe sensor network applications.
+2.	Identify and describe key performance issues and tradeoffs in the design and application of sensor networks.
+3.	Identify and describe the main areas of research focus in sensor networks and whey they are important.
+4.	Identify, describe, and apply tools used in sensor network analysis, simulation, characterization, control, and information retrieval.
+5.	Analyze, calculate and simulate or measure critical performance metrics of sensor networks and their components (nodes, gateways, etc.).
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

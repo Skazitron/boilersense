@@ -1,0 +1,30 @@
+STAT 66700 - Measure-Theoretic Statistics: Decision Theoretic And Classical
+
+Credit Hours: 3.00.  Decision theoretic approach to statistical problems, complete class theorems, Bayes and minimax procedures, sequential decision problems, sufficiency, comparison of experiments, invariance; most stringent, similar, unbiased, likelihood ratio tests; efficiency, Cramer-Rao inequality, estimation analogues of good tests; confidence sets.  Prerequisite: MA 57100, STAT 52800, 53900, 57600. Typically offered Fall.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Science 
+
+Department: Statistics 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

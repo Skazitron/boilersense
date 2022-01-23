@@ -1,0 +1,31 @@
+ECE 43500 - Object-Oriented Design Using C++ And Java
+
+Credit Hours: 3.00.  Review of OO design with C++ and Java. Difficulties caused by multiple inheritances in C++.  Taking advantage of Run-Time Identification in C++. Multi-threading, AWT, and Network Programming in Java.  Discussion of Java applets, beans, and servlets. Unified modeling language.  Use-case analysis.  Constructing conceptual models. System sequence diagrams. "Gang of Four" design patterns. Case studies. Permission of instructor required.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Prerequisites: 
+
+ Undergraduate level  ECE 30862 Minimum Grade of D-
+
+

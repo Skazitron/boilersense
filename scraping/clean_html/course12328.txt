@@ -1,0 +1,41 @@
+AGEC 55200 - Introduction To Mathematical Programming
+
+Credit Hours: 3.00.  Introduction to constrained and optimization problems and their solution using mathematical programming techniques. Theory and implementation of linear, quadratic, and integer programming methods are examined. Applications to farm management, diet and feed rations, spatial market equilibrium, agricultural sector analysis, and other problems from agricultural economics. Use of computer software packages for practical problems.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture, Practice Study Observation, Recitation 
+
+
+Offered By: College of Agriculture 
+
+Department: Agricultural Economics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

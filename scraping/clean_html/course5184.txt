@@ -1,0 +1,40 @@
+ECE 45700 - Electronic Design Laboratory
+
+Credit Hours: 1.00.  Laboratory exercises illustrating the design and application of electronic circuits. Case studies of circuits presently in existing instruments, such as the color television receiver sampling oscilloscope, are used as a basis for the circuits investigated or designed. Pulse and analog circuits studied, as well as high voltage and power supplies. Signal processing, modulation, and sampling are used to demonstrate the circuits as interconnected into a complete system.
+
+    1.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      PU Fort Wayne
+
+      West Lafayette
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Elec & Computer Engr
+
+
+Prerequisites: 
+
+ Undergraduate level  ECE 45500 Minimum Grade of D- [may be taken concurrently] and (Undergraduate level  ECE 20008 Minimum Grade of D- or Undergraduate level  ECE 20800 Minimum Grade of D-)
+
+

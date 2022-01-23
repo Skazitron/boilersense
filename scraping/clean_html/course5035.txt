@@ -1,0 +1,74 @@
+ECE 20001 - Electrical Engineering Fundamentals I
+
+Credit Hours: 3.00.  This course covers fundamental concepts and applications for electrical and computer engineers as well as for engineers who need to gain a broad understanding of these disciplines. The course starts by the basic concepts of charge, current, and voltage as well as their expressions with regards to resistors and resistive circuits. Essential concepts, devices, theorems, and applications of direct-current (DC), 1st order, and alternating-current (AC) circuits are subsequently discussed. Besides electrical devices and circuits, basic electronic components including diodes and transistors as well as their primary applications are also discussed.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture, Recitation 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Ability to analyze linear resistive circuits.
+2.  Ability to analyze 1st order linear circuits with sources and/or passive elements.
+3.  Ability to analyze electronic circuits with diodes and transistors.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Aero and Astro Engr
+
+      School of Biomedical Engr
+
+      School of Civil Engineering
+
+      School of Chemical Engineering
+
+      Construction Engineering Mgmt
+
+      First Year Engineering
+
+      School of Elec & Computer Engr
+
+      College of Engineering
+
+      Div of Environ & Ecol Engr
+
+      School of Interdisciplnry Engr
+
+      School of Industrial Engr
+
+      School of Mechanical Engr
+
+      School of Materials Engr
+
+      School of Nuclear Engineering
+
+      School of Agr and Bio Engr
+
+
+Prerequisites: 
+
+ (Undergraduate level  ENGR 13100 Minimum Grade of D- or Undergraduate level  ENGR 14100 Minimum Grade of D- or Undergraduate level  ENGR 16100 Minimum Grade of D- or Undergraduate level  ENGR 13300 Minimum Grade of D-) and (   (Undergraduate level  ENGR 16100 Minimum Grade of D- and Undergraduate level  ENGR 16200 Minimum Grade of D-) or Undergraduate level  PHYS 17200 Minimum Grade of D- or Undergraduate level  PHYS 15200 Minimum Grade of D-) and (Undergraduate level  MA 16600 Minimum Grade of C- or Undergraduate level  MA 16200 Minimum Grade of C-) and (Undergraduate level  MA 26100 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MA 17400 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MA 18200 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MA 27101 Minimum Grade of D- [may be taken concurrently])
+
+

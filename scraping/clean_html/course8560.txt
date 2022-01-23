@@ -1,0 +1,80 @@
+CGT 52100 - Advanced Real-Time Computer Graphics
+
+Credit Hours: 3.00. This course focuses on a working knowledge of real-time rendering and shaders using GPI. Students will learn how to program advanced computer graphics techniques and how to benefit from the existing graphics hardware in an efficient way. The main focus is on programming modern graphical processing units (GPUs) using the GLSL, CG and OpenGL. Students will learn what the data-flow programming model is, and how to write vertex, geometry, tessellation, and fragment shaders. Another output is using texturing and lighting on the low level of the GPU and the next step is to provide animations using vertex shaders. Advanced texturing techniques such as bump mapping or environment mapping will be explained. Permission of instructor required. Typically Fall Spring Summer.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand the OpenGL pipeline and the OpenGL API.
+2.  Understand and apply the most advanced GPU features such as shaders and FBOs. 
+3.  Advanced Modeling: understand and actively apply modeling techniques such as surface skinning, vertex shaders, tessellation surfaces, etc.
+4.  Advanced Transformations: understand and actively apply modeling and viewing transformations, bounding volume hierarchies and quaternions.
+5.  Lighting: understand and actively apply Phong illumination model to surfaces on the shaders levels. Using advanced lighting techniques such as photon maps and volumetric ray casting 
+on the GPU.
+6.  Texturing: understand and actively apply texturing, 2D image manipulation, multiple reflections using shaders, bump mapping on the GPU and shadow generation. 
+7.  Level of Detail: understand and actively apply level of detail techniques. 
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-CGT 52100 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CGT
+52000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

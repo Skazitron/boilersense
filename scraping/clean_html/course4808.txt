@@ -1,0 +1,61 @@
+CNIT 34600 - Wireless Networks
+
+Credit Hours: 4.00.  This course introduces wireless networking. Topics include fundamental wireless communication concepts, wireless local area networks (LANs), and cellular systems. Wireless specific protocol elements are addressed in typical application environments. Data communications in multiple wireless environments are emphasized. In the laboratory section, students implement wireless solutions and integrate them into wired LAN environments.
+
+    0.000 OR     4.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Understand basic wireless data and telecommunications terminology and jargon.
+2.  Understand the basic underpinnings of important wireless technology, security, and management issues.
+3.  Implement 802.11 networks in multiple different scenarios.
+4.  Conduct successful site surveys with different 802.11 equipment and standards.
+5.  Discuss wireless data and telecommunication issues with professionals in an informed and intelligent manner.
+6.  Know how and where to seek further information concerning more advanced topics not covered in this class without feeling overwhelmed.
+7.  Formulate a checklist regarding existing and/or new wireless data/telecommunication systems and infrastructure.
+8.  Demonstrate an understanding of medium characteristics, modulation and multiplexing techniques, physical layer framing structures used in wireless networks.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ (Undergraduate level  CNIT 24000 Minimum Grade of C- or Undergraduate level  CNIT 34400 Minimum Grade of C-) and Undergraduate level  CNIT 24200 Minimum Grade of C-
+
+

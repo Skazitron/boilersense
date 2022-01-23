@@ -1,0 +1,51 @@
+CHE 34800 - Chemical Reaction Engineering
+
+Credit Hours: 4.00.  Application of kinetic rate equations, mass balances and energy balances to the analysis and design of chemical reactors involving homogeneous and heterogeneous chemical reactions. Chemical equilibria, kinetic rate equations for homogeneous and heterogeneously catalyzed reactions, design of ideal isothermal reactors, effects of non-isothermal operation, effects of diffusion in porous catalysts and non-ideal mixing in continuous flow reactors.
+
+    0.000 OR     4.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Recitation 
+
+
+Offered By: School of Chemical Engineering 
+
+Department: Chemical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Apply fundamental material balances to derive the design equations for CSTR, PFR, PBR, and batch reactors.
+2.  Derive rate expressions from both elementary steps and reaction kinetics data for both homogeneous and heterogeneous reactions.
+3.  Use material and energy balances with kinetic data for both single and multiple reactions to design and analyze the behavior of isothermal and non-isothermal reactors.
+4.  Utilize effectiveness factors governing the coupling of reaction and diffusion in the description of heterogeneously catalyzed reactions.
+5.  Work professionally and ethically in teams to conduct reaction-based laboratory experiments.
+6.  Effectively report results in written form and practice safety as an integral part of laboratory work. 
+7.  Apply appropriate computational tools for the solution of chemical reaction engineering problems. 
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Chemical Engineering
+
+
+Prerequisites: 
+
+ Undergraduate level  CHE 21100 Minimum Grade of C- and (Undergraduate level  MA 26600 Minimum Grade of C- [may be taken concurrently] or Undergraduate level  MA 30300 Minimum Grade of C- [may be taken concurrently] or Undergraduate level  MA 36600 Minimum Grade of C- [may be taken concurrently] or Undergraduate level  ME 58100 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MA 51400 Minimum Grade of C- [may be taken concurrently])
+
+

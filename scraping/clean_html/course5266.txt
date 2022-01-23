@@ -1,0 +1,72 @@
+ECE 55200 - Introduction To Lasers
+
+Credit Hours: 3.00.  An introduction to lasers and laser applications which does not require a knowledge of quantum mechanics as a prerequisite. Topics include: the theory of laser operation; some specific laser systems; nonlinear optics; optical detection; and applications to optical communications, holography, laser-driven fusion, and integrated optics.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ECE 31100 Course
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ECE
+31100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

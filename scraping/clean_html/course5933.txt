@@ -1,0 +1,67 @@
+ENGR 16200 - Honors Introduction To Innovation And The Physical Science Of Engineering Design II
+
+Credit Hours: 4.00.  Students will take an in-depth and holistic approach to integrating multiple disciplines perspectives while constructing innovative engineering solutions to open-ended problems. The students continue to explore more complicated models of physical systems, especially internal energy, entropy, models of gases and fluids, and statistical thermodynamics. The students will extend the concepts learned in ENGR 16100 and continue to develop skills in project management, engineering fundamentals, oral and graphical communication, logical thinking, teamwork, and modern engineering tools (e.g. Matlab, and Python). In addition, students will learn how to use hypothesis testing to make informed, quantitative decisions. Finally, they will build systems that incorporate feedback control in an effort to identify and characterize physical material systems. Typically offered Fall.
+
+    0.000 OR     4.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: College of Engineering 
+
+Department: College of Engineering Admin 
+
+
+Course Attributes: Honors, Lower Division, GTC-Science, UC-Science 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Utilize knowledge of the engineering education process, courses, and options, and engineering job functions and roles to prepare a final course of study for academic and career success (3).
+2.  Develop a unified approach to microscopic and macroscopic behavior of gases and fluids, especially the use of statistics and quantized atomic levels to motivate basic thermodynamic theories (10).
+3.  Apply the unified approach to material interactions to a broad array of applications including asteroids, black holes, nuclear fission and fusion, quantization in atoms and molecules, and heat capacity (7).
+4.  Model natural phenomena using computer simulations (7).
+5.  Integrate engineering ethics, including social, safety, and sustainability issues into engineering thinking and engineering problem solving to ensure that the broader impacts of engineering work are consistently evaluated and accounted for (3).
+6.  Display proficiency in the applications of engineering content knowledge including statistics, statics, mechanics of materials, the universal accounting equation, electrical theory, and design of experiments (8).
+7.  Employ academic and career success strategies including managing your personal learning approach, using time management techniques, and seeking opportunities for self-improvement to thoughtfully pursue course activities and the course as a whole (2).
+8.  Plan and implement systematic design processes using formal project management and design tools such as work breakdown structures and House of Quality to design innovative products and systems (2).
+9.  Investigate and decompose systems in order to design and construct mathematical or computer models that can be employed to better understand or control the systems (6).
+10.  Analyze and translate problems into algorithms composed of logical constructs and be able to create programming-language-independent system charts and flow diagrams embodying those algorithms (5).
+11.  Demonstrate professional communications skills in the areas of technical writing, presentations, and interpersonal communication, to produce engineering reports, convey engineering findings and evidence in writing, verbally, and graphically to readers or audiences, and to work with other members of the class (3).
+12.  Work alongside individuals with diverse backgrounds in teams, learn interdependently in the team environment, give and demand accountability, and accomplish engineering tasks, while recognizing teaming as an open-ended problem that needs to be actively managed and reflected upon (3).
+13.  Investigate engineering problems to reach evidence-based conclusions, drawing upon one or more sources of information and data interpretation skills including interpolation, regression, curve fitting, statistics, and data cleaning (3).
+14.  Apply fundamental engineering skills and knowledge relating to units, dimensions, estimation, spatial reasoning, graphical representation, significant digits, and the problem presentation method to engineering challenges (2).
+
+
+
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      First Year Engineering
+
+      Pre Agr & Biol Engineering
+
+Must be assigned to one of the following Cohorts:      
+
+      Honors College
+
+
+Prerequisites: 
+
+ Undergraduate level  ENGR 16100 Minimum Grade of C-
+
+

@@ -1,0 +1,68 @@
+ECE 56800 - Embedded Systems
+
+Credit Hours: 3.00.  This course provides an introduction to the design of embedded and ubiquitous computing systems including their hardware and software architectures, design methodologies and tools, and communication protocols. The lectures are organized into three parts namely, (a) basic design principles including specification and modeling, hardware components and platforms, software organization, embedded and real-time operating systems, interfacing with external environments using sensors and actuators, and communication in distributed embedded systems, (b) advanced topics such as energy management, safety and reliability, and security, and (c) case-studies of real-world systems from a variety of embedded application domains such as biomedical devices, smart cards and RFID, networked sensors, personal computing devices, home appliances and electronics, mobile robotics, etc. In addition to hands-on programming assignments using off-the-shelf embedded system development kits, the course will feature a comprehensive project where students will design, implement, and evaluate a prototype embedded system.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR -ECE56800 Course
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ECE
+43700
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

@@ -1,0 +1,40 @@
+MFET 64200 - Programming Robotics And Cyber-Physical Systems With The Robotics Commons
+
+Credit Hours: 3.00.  Robot Operating System (ROS) is an open-source programming platform that allows the sharing of software packages for more in-depth exploration of complex software projects involving robotics and cyber-physical systems.  The basic tools of simulation, visualization, computer vision, simultaneous localization and mapping (SLAM), path planning, manipulation, grasping, and social interaction in robotic systems will be presented in the context of advanced projects with a publishable result. Students will develop complex, independent projects as part of the class that will result in a final report in the form of a publication-worth paper suitable for submission to an international conference. Student knowledge of a procedural programming language, familiarity with robotics, and a rudimentary understanding of linear algebra is assumed.  Prerequisites:  ECE 56900.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Design and analyze ROS software consisting of pre-written packages and custom packages to implement complex robotic applications on arms and vehicles.
+2.  Apply advanced software engineering techniques to designing and documenting software.
+3.  Synthesize 2-D and 3-D computer vision techniques for 2-D and 3-D sensors for control of robots and systems in 3-D.
+4.  Analyze papers from the contemporary robotics and CPS literature and synthesize critiques of the contributions.
+5.  Develop advanced projects and defend their contributions.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

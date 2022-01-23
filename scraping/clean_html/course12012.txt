@@ -1,0 +1,30 @@
+CE 67500 - Finite Element Analysis
+
+Credit Hours: 3.00.  Theoretical basis of the finite element method; elements for use in the solution of two- and three-dimensional stress problems, plate-bending problems and shell problems; static and dynamic loadings; vibration and stability problems; geometrical or material nonlinearities; flow problems. Prerequisite: CE 57700 or 57800.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Civil Engineering 
+
+Department: Lyles School of Civil Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

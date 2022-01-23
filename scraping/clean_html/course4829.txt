@@ -1,0 +1,69 @@
+CNIT 42000 - Basic Cyber Forensics
+
+Credit Hours: 3.00.  This course introduces students to the fundamentals of cyber forensics and cyber-crime scene analysis. The various laws and regulations dealing with computer forensic analysis are discussed. Students are introduced to the emerging international standards for cyber forensic analysis, as well as a formal methodology for conducting computer forensic investigations.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Identify the role of computers as an integral part of an information system.
+2.  Define terminology associated with information systems and computers. 
+3.  Identify the various components of a computer system. 
+4.  Demonstrate proficiency in the use of various business application packages.
+5.  Discuss various social issues associated with computers and information systems. 
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+Must be enrolled in one of the following Classifications:      
+
+      Senior 105+ hours
+
+      Senior 90 - 104 hours
+
+      Junior: 60 - 74 hours
+
+      Junior: 75 - 89 hours
+
+
+Prerequisites: 
+
+ 
+
+

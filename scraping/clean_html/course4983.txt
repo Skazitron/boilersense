@@ -1,0 +1,106 @@
+STAT 54500 - Introduction To Computational Statistics
+
+Credit Hours: 3.00. This introductory course covers the fundamentals of computing for statistics and data analysis. It starts with a brief overview of programming using a general purpose compiled language (C) and a statistics-oriented interpreted language (R). The course proceeds to cover data structures and algorithms that are directly relevant to statistics and data analysis and concludes with a computing-oriented introduction to selected statistical methods. A significant part of the course involves programming and hands-on experimentation demonstrating the covered techniques, ration, and Markov chain Monte Carlo methods. Typically offered Fall.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Statistics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Given a straightforward data manipulation problem, decide on what elementary data structures to use, write down an algorithm for a solution as a pseudocode, and analyze its computational complexity.
+2.  Implement an algorithm using C and/or R code, understand, modify, and if needed perform basic debugging of the existing code. 
+3.  Understand and implement the computational techniques of numerical optimization, matrix manipulation, sampling, logistic regression, and EM algorithm. 
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-STAT 54500 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+51600
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+STAT
+51700
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Rule: 1.: CS 15900 or 17700  for a total of 1 conditions
+)
+
+CS
+15900
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+CS
+17700
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+End of rule 1.
+
+
+

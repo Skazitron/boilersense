@@ -1,0 +1,41 @@
+BME 48900 - Senior Design Project Lab
+
+Credit Hours: 2.00. The biomedical engineering design process is completed starting from a preliminary system design. Student will work with their teammates to implement (e.g. build, test, iterate and evaluate) a solution to address a biomedical engineering problem statement and meet the technical specifications set forth. The resulting project design is presented and evaluated through an oral presentation, laboratory demonstration, and a final written document.
+
+    2.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory 
+
+
+Offered By: School of Biomedical Engr 
+
+Department: Weldon Schl of Biomedical Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+Students will have demonstrated the ability to: 
+1. Integrate and apply knowledge and skills obtained in earlier work with new concepts and practices essential to the design and testing of a system or device to meet desired needs. 
+2. Implement the engineering design process and project management within the context of relevant design constraints. 
+3. Effectively communicate skills in oral and written form, both individually and as part of a team. 
+4. Explain/discuss realistic design constraints, including regulatory issues, societal influences, and ethical and professional responsibilities of biomedical engineers, as related to the engineering design process.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  BME 48800 Minimum Grade of D- [may be taken concurrently]
+
+

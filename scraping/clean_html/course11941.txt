@@ -1,0 +1,107 @@
+CE 51300 - Lighting In Buildings
+
+Credit Hours: 3.00.  This course focuses on the design of illumination systems in buildings (electric and natural lighting) in order to achieve energy efficiency and visual comfort. The first part of the course includes analytical lighting calculation techniques, visual perception, radiative transfer, lamp characteristics, electric lighting system design and control for calculation of required indoor  illuminance levels. The second part of the course covers daylighting (natural lighting) systems, including state-of-the-art daylighting prediction models as well as design and control of such devices and advanced metrics. The course also has a lab section, in which the students learn how to work with lighting and daylighting tools and build their own computational transient lighting models in open programming languages, in order to design illumination systems and predict electricity consumption and potential energy savings.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: School of Civil Engineering 
+
+Department: Lyles School of Civil Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand fundamental illumination concepts.
+2.  Design and assess the performance of electric and natural lighting systems in buildings.
+3.  Calculate fundamental illuminance, non-point sources, radiant energy, lamp types, lighting controls, interior lighting design, daylight prediction models, optical properties of windows, advanced metrics and shading devices. 
+4.  Build and solve lighting and daylighting models using advanced software and programming techniques to design lighting systems and calculate energy savings from the use of natural light and lighting controls. 
+5.  Design a project, submit a project report and make an oral presentation (only individual projects are allowed). The project themes cover a wide variety of lighting/daylighting design and control such as: daylighting and lighting design of commercial buildings, measurements/monitoring of lighting levels in laboratory settings, prediction of potentional energy savings, impact of shading design and control, and advanced dayligthing system modeling. 
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Aero and Astro Engr
+
+      School of Biomedical Engr
+
+      School of Civil Engineering
+
+      School of Chemical Engineering
+
+      Construction Engineering Mgmt
+
+      School of Elec & Computer Engr
+
+      School of Engineering Educ
+
+      Div of Environ & Ecol Engr
+
+      Graduate School
+
+      School of Industrial Engr
+
+      School of Mechanical Engr
+
+      School of Materials Engr
+
+      School of Nuclear Engineering
+
+      School of Agr and Bio Engr
+
+Must be enrolled in one of the following Classifications:      
+
+      Senior 105+ hours
+
+      Graduate
+
+      Senior 90 - 104 hours
+
+
+Prerequisites:
+
+GR-CE 51300 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CE
+41300
+
+
+Minimum Grade of 
+D-
+
+May be taken concurrently.
+)
+
+
+

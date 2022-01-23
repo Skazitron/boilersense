@@ -1,0 +1,32 @@
+ECE 67800 - Radar Engineering
+
+Credit Hours: 3.00.  An introduction to the system aspects of modern radar engineering. The theoretical basis for radar performance analysis is developed and applied to radars designed for a variety of different applications. Consideration is given to system parameters such as receiver noise, antenna characteristics, operating frequency, target characteristics, transmitted signal modulation, and methods of detection. Attention is given to radars for special purposes, such as automatic range and angle tracking, moving target indication, and resolution enhancement through synthetic aperture techniques. Offered in alternate years. Prerequisite: ECE 60000.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

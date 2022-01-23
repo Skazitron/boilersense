@@ -1,0 +1,58 @@
+CNIT 38000 - Advanced Analysis And Design
+
+Credit Hours: 3.00.  This course is an advanced study of system analysis and design methods and techniques used by systems analysts to develop information systems. Object-oriented tools and the Unified Modeling Language (UML) will be used for describing object structure and behavior, and use cases will be used for modeling functional processes. Topics include rapid development concepts, application architecture and system design, transition from object-oriented analysis and models to components and services, graphical user interface design, web interface design, prototyping, and commercial software package integration. Emphasis is also placed on the use of an object-oriented CASE tool. This course surveys other important skills for the systems analyst, such as fact-finding (requirements discovery), communications, project management, and cost-benefit analysis.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Identify appropriate tools for modeling and implementing various systems aspects.
+2.  Apply use case and object modeling using Unified Modeling Language (UML) to a systems project.
+3.  Understand the Systems Development Life Cycle (SDLC) as an analytical problem solving approach to systems development.
+4.  Apply systems development tools and techniques during various stages of systems development.
+5.  Develop a system concept based on a given set of system requirements.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 28000 Minimum Grade of C-
+
+

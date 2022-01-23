@@ -1,0 +1,39 @@
+CGT 27500 - Data Visualization II
+
+Credit Hours: 3.00.  This course provides a practical introduction to exploratory data analysis and data mining to better inform data visualization applications. The course introduces a practical approach for making sense out of data. Students are introduced to issues inherent to the data analysis process or data mining projects. The course covers: (1) how to prepare data prior to analysis, (2) how to generate summaries of the data, (3) how to identify non-trivial facts, patterns and relationships in the data and (4) how to create models from the data to better understand the data and make predictions. After data is analyzed students will use the data visualization process and techniques to visually represent the data. The course will also introduce the use of high-level programming languages for data analysis and data visualization.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Prepare data prior to analysis.
+2.  Identify patterns and relationships in the data.
+3.  Use programming languages for visualizing data at an introductory level.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  CGT 27000 Minimum Grade of D-
+
+

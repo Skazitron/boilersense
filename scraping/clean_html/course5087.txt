@@ -1,0 +1,51 @@
+ECE 30862 - Object-Oriented Programming In C++ And Java
+
+Credit Hours: 3.00.  C++ and Java programming languages, including classes, inheritance, encapsulation, polymorphism, class derivation, abstract classes, interfaces, static class members, object construction and destruction, namespaces, exception handling, function, overloading and overriding, function name overload resolution, container classes, and template classes.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1. An understanding of the concepts of inheritance and polymorphism.
+2.  An ability to overload operators in C++. 
+3. An understanding of the difference between function overloading and function overriding.
+4. An ability to incorporate exception handling in object-oriented programs.
+5. An ability to use template classes and the STL Library in C++.
+6. An ability to write object-oriented programs of moderate complexity in Java.
+7. An ability to write programs with multiple threads and use synchronization among threads.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Elec & Computer Engr
+
+
+Prerequisites: 
+
+ Undergraduate level  ECE 26400 Minimum Grade of D-
+
+

@@ -1,0 +1,104 @@
+MGMT 47200 - Advanced Spreadsheet Modeling And Simulation
+
+Credit Hours: 3.00.  This course covers up-to-date and practical spreadsheet modeling tools that can be applied to a wide variety of business problems from finance, marketing, and operations. The topical coverage consists of the following five modules: (1) Excel functions, skills and financial models; (2) deterministic and stochastic optimization techniques to determine the best managerial actions under internally-and/or externally-imposed constraints; (3) probability distribution fitting techniques to find the most likely description of the uncertainty in future business; (4) simulation modeling techniques to discover and analyze the risk and uncertainties in business environment and processes; (5) application of spreadsheet modeling and simulation techniques in forecasting asset dynamics( stock price) and pricing options and real investment opportunities. This course provides hands-on experience of computer application using Microsoft Excel and the spreadsheet add-ins @RISK,RISKOptimizer, SimQuick, etc.  Typically offered Fall Spring.
+
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Management 
+
+Department: School of Mgmt Adm & Instr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Acquire advanced Excel skills to quickly build business spreadsheets that easily convey information and significance to the reader.
+2.  Construct complex deterministic and stochastic computer models to aid in the decision making process.
+3.  Use simulation modeling to identify and assess the risks in decisions and processes.
+4.  Conduct financial analysis including asset and options pricing.
+5.  Become skilled in the use of @RISK, RiskOptimizer, SolverTable, SimQuick and other software packages in making and analyzing business decisions.
+
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      Accounting
+
+      Actuarial Science
+
+      Advanced Accountancy
+
+      Economics Honors
+
+      Economics
+
+      Finance
+
+      General Management
+
+      IM/Analytical Consulting
+
+      IM/Computer Science
+
+      IM/Data Analytics
+
+      IM/Economics
+
+      IM/Economics Honors
+
+      IM/Engineering
+
+      IM/Financial Engineering
+
+      IM/Interdisciplinary
+
+      IM/Mgmt Info Systems
+
+      IM/Manufacturing Mgmt
+
+      IM/Manufac & Svc Operations
+
+      IM/Quantitative Methods
+
+      IM/Science
+
+      IM/Sci, Tech, Engr & Math
+
+      Industrial Management
+
+      Management
+
+      Marketing
+
+      IM/Oper & Supply Chain Mgmt
+
+      Supply Chain Info & Analytics
+
+      Strategy & Organiz Mgmt
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MGMT 30500 Minimum Grade of C- [may be taken concurrently] or Undergraduate level  ECON E2700 Minimum Grade of C- [may be taken concurrently] or Undergraduate level  STAT 35000 Minimum Grade of C- [may be taken concurrently]
+
+

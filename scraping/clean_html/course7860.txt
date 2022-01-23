@@ -1,0 +1,49 @@
+HDFS 62700 - Multilevel Modeling In Developmental And Family Research
+
+Credit Hours:  3.00.  This course gives students a basic grounding in the class of statistical techniques known as multilevel modeling (MLM), also known as hierarchical linear modeling (HLM), mixed models, or random coefficient models. Primary discussions will be on applications of these models to the study of marriages, relationships, families, aging, and child and adult development, but also will touch on biomedical, educational, and economic examples. The focus is on three types of multilevel models: growth-curve models, organizational models, and daily experience models. Students will also learn how to use SAS Proc Mixed for conducting MLM analyses. Students are assumed to have taken at least two graduate statistics courses and have a solid understanding of regression analysis.  Prerequisites:  STAT 50100 and STAT 50200 or HDFS 61300 and PSY 63100.  Typically offered Fall.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Health & Human Sci 
+
+Department: Human Dev and Family Studies 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Repeatable for Additional Credit: Yes - May be repeated up to 1 times
+
+
+Learning Outcomes: 
+1.  Acquire a basic-to-intermediate understanding of the logic of multi-level modeling, grasp the underpinning statistics of MLM, and develop a sense as to when (and when not) to use the model.
+2.  Apply MLM to relevant questions in their area of research interest.
+3.  Critically read and evaluate empirical journal articles that use MLM.
+4.  Acquire basic programming skills for conducting MLM.
+5.  Select the appropriate methods of data analysis, given multivariate data and study objectives.
+6.  Employ statistical software to carry out statistical analyses,
+7.  Interpret and explain the results of statistical analyses, and
+8.  Write concise and effective summaries of results using APA style.
+
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

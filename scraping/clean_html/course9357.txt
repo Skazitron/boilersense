@@ -1,0 +1,57 @@
+ECET 43600 - Electrical Power Transmissions, Distribution, And Smart Control
+
+Credit Hours: 3.00.  A course on the simple modeling and simulation of the power grid systems, power flow analysis, and advanced meter infrastructure (AMI). The fundamentals learned in this course will be useful in the study of the effects of distributed energy resources and storage in Smart Grid environment.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Explain the role of components of electrical power transmission and distribution network.
+2.  Identify characteristics of DC and AC transmission lines and cable systems. 
+3.  Identify the characteristics of various power system loads and power quality issues. 
+4.  Calculate and simulate power flow in a power systems network. 
+5.  Explain how to stabilize power systems. 
+6.  Apply Advanced Meter Infrastructure (AMI) as it is used in Smart Grid applications. 
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  ECET 37600 Minimum Grade of D-
+
+

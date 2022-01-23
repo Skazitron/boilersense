@@ -1,0 +1,57 @@
+MFET 28800 - Smart Manufacturing Operational And Information Networks
+
+Credit Hours: 3.00.  This course examines the concepts, devices, and common practices associated with modern industrial communication systems and networks.  Network devices, intelligent sensors, operations software and controls components are presented. Students learn how connect and provision devices, establish communications between devices and databases, and configure systems for reliable and secure operation.  Industrial standards, practices and safety are emphasized throughout the course.  Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+      Vincennes
+
+
+Learning Outcomes: 
+1.  Identify, describe and apply the OSI model of communications in operational technology (OT) and information technology (IT) systems.
+2.  Describe, implement and analyze the performance of various communication protocols in industrial applications.
+3.  Describe, utilize and analyze data structures and datatypes used in industrial controls control applications.
+4.  Interpret and develop communication networks for industrial controls applications.
+5.  Identify, describe, and utilize appropriate industrial standards (safety, electrical, mechanical, security) in the design of industrial control applications.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 16100 Minimum Grade of D-
+
+

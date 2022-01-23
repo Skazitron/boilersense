@@ -1,0 +1,32 @@
+ECE 61500 - Nonlinear Optics
+
+Credit Hours: 3.00.  An in-depth study of nonlinear optics. After a review of linear effects, several nonlinear optical processes and applications are discussed. These include electro-optic switches and modulators, harmonic light generators, sum and difference frequency mixing, parametric amplifiers and oscillators, and phase conjugate mirrors. Discussions of nonlinear spectroscopy include topics such as two-photon absorption, saturation spectroscopy, Raman spectroscopy and double-optical resonance measurements. Photon echoes and other transient effects, and surface effects are also discussed. Offered in alternate years. Prerequisite:  ECE 55200, 60400.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

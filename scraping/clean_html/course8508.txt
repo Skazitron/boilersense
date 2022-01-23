@@ -1,0 +1,63 @@
+CGT 37000 - Interactive Data Visualization
+
+Credit Hours: 3.00.  Data visualization is the art and science of putting quantitative numbers into pictorial or graphical format that are easy for users to understand, use, and take action upon the data. In this course, we will learn basic data visualization design principles, theories, data management skills, and fundamental web technologies to design and develop web based interactive date visualizations. The students will be able to design the proper visual representations of the data based on the data's characteristics, business needs, and prospective users.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Studio 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Demonstrate understating of different types of data, their characteristics, relations, and business purpose.
+2.  Compare and choose proper visualization methods to represent the data based on the characteristic and purpose.
+3.  Apply perception theories and design principles in visualization design.
+4.  Utilize web toolkits and technologies to develop simple data visualization.
+5.  Develop an interaction information visualization system to represent data from different aspects.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Graphics Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CGT 14100 Minimum Grade of C- and Undergraduate level  CGT 27000 Minimum Grade of C-
+
+

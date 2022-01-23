@@ -1,0 +1,125 @@
+STAT 50200 - Experimental Statistics II
+
+Credit Hours: 3.00.  Regression with several explanatory variables. Regression diagnostics. Analysis of variance for factorial designs. Multiple comparisons. Analysis of covariance. Repeated measures designs. Extensive use of the SAS statistical software.  Intended primarily for students who have not had calculus. Not open to students in mathematical sciences or engineering. Typically offered Summer Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture, Practice Study Observation 
+
+
+Offered By: College of Science 
+
+Department: Statistics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Produce and identify advanced statistical analyses.
+2.  Learn and understand advanced statistical terminology and concepts.
+3.  Use SAS to run advanced statistical analyses and interpret corresponding SAS output.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-STAT 50200 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+35000
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+50100
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+50300
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+51100
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+30300
+
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+35500
+
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CS
+35500
+
+
+May not be taken concurrently.
+)
+
+
+

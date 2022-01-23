@@ -1,0 +1,52 @@
+CHE 32000 - Statistical Modeling And Quality Enhancement
+
+Credit Hours: 3.00.  Statistical modeling methods, design of experiments, error analysis, curve fitting and regression, analysis of variance, confidence intervals, quality control and enhancement: emphasizes preparation for designing chemical engineering laboratory experiments and analyzing data.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture, Practice Study Observation 
+
+
+Offered By: School of Chemical Engineering 
+
+Department: Chemical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Utilize the concepts of probability for use with the normal and t distributions, confidence intervals, and hypothesis testing. 
+2.  Apply least squares fitting of data by use of linear algebra with computers.
+3.  Apply regression and model building from data with experimental error obtained with replicates to establish an adequate model.
+4.  Design experiments for single and multiple factors and apply regression to model the results.
+5.  Apply propagation of error and sources of variation or variance components.
+6.  Apply statistical quality control and improvement with various charts such as average, range, and cusum (concepts of consumer and producer risk and capability index are included).
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Chemical Engr-BSE
+
+      Biological Engineering-BSE
+
+
+Prerequisites: 
+
+ Undergraduate level  CHE 20500 Minimum Grade of C or Undergraduate level  ABE 20100 Minimum Grade of D- and (Undergraduate level  CHM 26100 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  CHM 25500 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  CHM 25700 Minimum Grade of D- [may be taken concurrently]) and (Undergraduate level  MA 26200 Minimum Grade of C- [may be taken concurrently] or Undergraduate level  MATH 26200 Minimum Grade of C- or Undergraduate level  MA 26500 Minimum Grade of C- [may be taken concurrently] or Undergraduate level  MA 35100 Minimum Grade of C- [may be taken concurrently])
+
+

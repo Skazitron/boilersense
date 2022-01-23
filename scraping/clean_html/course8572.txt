@@ -1,0 +1,43 @@
+CGT 57500 - Data Visualization Tools And Applications
+
+Credit Hours: 3.00.  This course provides hands-on experience in data visualization tools and applications. The course is designed for students with little or no background in Data Visualization. It introduces students to design principles for creating meaningful displays of quantitative and qualitative data to facilitate insight and decision-making. The goal is to introduce visualization as a tool, explore and identify which visualization tools are better suited to visualize different types of data, and understand the role visualization plays in understanding what the data represent. This course gives students an in-depth view of the various branches of visualization and the visualization tools in each area. After taking the course students will be able to evaluate data visualization tools and determine which tool to use for different types of data. This course is targeted towards students interested in using visualization in their own work and future academic courses.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Assess the visualization process.
+2.  Assess the applicability of various visualization tools.
+3.  Evaluate different techniques of visual representation.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

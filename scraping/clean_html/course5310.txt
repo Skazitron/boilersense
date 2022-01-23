@@ -1,0 +1,42 @@
+ECE 61020 - Operation Of Modern Power Systems
+
+Credit Hours: 3.00.  Overview of modern power system operations. Economic dispatch of assets as a constrained optimization problem, and
+solution methods. The unit commitment problem formulation, and solution methods. Power flow solution methods. Security-constrained
+economic dispatch and unit commitment. The optimal power flow. Automatic generation control. Operation of power markets. Prerequisites: ECE 43200. Co-Requisites: ECE 58000.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: Dept of Elec & Comp Engr Tech 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Read and communicate the findings of the latest power system operations, control, and economics literature.
+2.  Write software to perform various modern power system functions, such as: security-constrained economic dispatch and unit commitment, dc or ac power flow analysis, and optimal power flow.
+3.  Appreciate the computational challenges related to large-scale electric power systems analysis.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

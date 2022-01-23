@@ -1,0 +1,37 @@
+ECON 69200 - Advanced Topics In Time Series
+
+Credit Hours: 2.00 or 3.00.  This course covers a set of selected topics of current interest in eco-nomic forecasting. It is designed for students interested in conducting theoretical research related to the development and evaluation of new forecasting techniques as well as those inclined towards the application of state-of-the-art techniques to economic data. Prerequisite: ECON 67000 and ECON 67100 and ECON 67200 and ECON 67300.
+
+    2.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Management 
+
+Department: Dept of Economics 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Organize data into an easy to interpret manner.
+2.  Understand the role of factor models as a tool for dimension reduction in the analysis of large-dimensional data as well as a device for modeling cross-sectional correlation in panel data analysis when the cross-sectional and time series dimensions are comparable in magnitude.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

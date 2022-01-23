@@ -1,0 +1,41 @@
+CNIT 16100 - Introduction To Programming And Data Management For Smart Manufacturing
+
+Credit Hours: 3.00.  This course introduces a programming language and provides an overview of coding, data analysis and data manipulation in a database. Topics include fundamentals of programming, introduction to data manipulation and analysis, and an introduction to relational databases and the Structured Query Language (SQL).
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Credit By Exam, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand, write, modify  and debug computer programs to solve small to intermediate business problems in the Smart Manufacturing Domain.
+2.  Use built-in tools and data structure in the programming language to perform indexing, dropping entries, sorting, and filtering the data.
+3.  Use built-in methods and SQL query capabilities to access, manipulate and analyze manufacturing or supply chain data.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Freshman: 0 - 14 hours
+
+

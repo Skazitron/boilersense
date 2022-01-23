@@ -1,0 +1,30 @@
+STAT 63800 - Stochastic Processes I
+
+Credit Hours: 3.00.  (MA 638) Advanced topics in probability theory which may include stationary processes, independent increment processes, Gaussian processes; martingales, Markov processes, ergodic theory.  Prerequisite: STAT 53900. Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Science 
+
+Department: Statistics 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

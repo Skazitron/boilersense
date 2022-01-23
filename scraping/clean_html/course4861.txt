@@ -1,0 +1,80 @@
+CNIT 52300 - File System Forensics
+
+Credit Hours: 3.00.  The plethora of strategies to store information in different formats continues to expand. This course examines the various media and strategies of storing information and the processes of documenting the collection, imaging, and processing of forensic evidence. Topics include file formats, file systems, hardware, and software involved in forensic investigation. The overall pattern of forensic evidence in file systems will be examine along with the acquisition, analysis, and reporting of evidence artifacts found in file systems.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Identify and repair corrupted file systems.
+2.  Examine and analyze file systems using a multiple-tool approach.
+3.  Demonstrate how to locate deleted and hidden data.
+4.  Report and explain their findings and conclusions in a digital investigation.
+5.  Present and communicate the digital forensics process for an investigation.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Classifications:      
+
+      Senior 105+ hours
+
+      Senior 90 - 104 hours
+
+      Junior: 60 - 74 hours
+
+      Junior: 75 - 89 hours
+
+
+Prerequisites:
+
+GR-CNIT 52300 Requisites
+
+
+General Requirements:
+
+ ( 
+Course or Test: 
+CNIT
+42000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CNIT
+55600
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

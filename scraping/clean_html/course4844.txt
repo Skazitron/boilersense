@@ -1,0 +1,62 @@
+CNIT 47100 - Vulnerability Analysis And Testing
+
+Credit Hours: 3.00.  This course will focus on advanced security techniques often referred to as vulnerability analysis or network penetration testing (pen testing). Students will learn the methods, techniques, and tools to test the security of computer networks, infrastructure and applications. The activities will be based in an environment that allows testing and "hacking" that does not risk possible legal, ethical, and network availability issues.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Apply extensive knowledge of current security standards and methodologies.
+2.  Understand the increasing need for LAN and WAN network management and available methods.
+3.  Demonstrate the differences between wireless and wire-line security and network penetration and compromise points.
+4.  Create secure network environments based on specifications and scenarios.
+5.  Actively test various network designs and scenarios for sensitivity to know vulnerabilities and take corrective actions in a timely manner.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 37000 Minimum Grade of C- and Undergraduate level  CNIT 45500 Minimum Grade of C-
+
+

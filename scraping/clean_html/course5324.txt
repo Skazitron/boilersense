@@ -1,0 +1,30 @@
+ECE 63800 - Principles Of Digital Color Imaging Systems
+
+Credit Hours: 3.00.  Basic principles of color science: physiology of the human eye, trichromatic and color opponent models for color, and uniform color spaces. Color reproduction in electronic imaging systems: color models for input and output devices, color imaging system calibration, color quantization and halftoning, and color printing. Color appearance and computational color: color appearance models, models for color constancy, and physics-based models for color. Offered in alternate years. Prerequisite: MA 51100 and Master's student standing or higher.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

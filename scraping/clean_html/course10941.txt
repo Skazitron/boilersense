@@ -1,0 +1,43 @@
+CHE 55700 - Intelligent Systems In Process Engineering
+
+Credit Hours: 3.00.  Introduction to artificial intelligence concepts and techniques and their application to important problems in process systems engineering. Topics covered include: introduction to artificial intelligence, knowledge representation and search, knowledge-based systems, neural networks, genetic algorithms, inexact reasoning techniques, industrial case studies in process fault diagnosis and control, design and synthesis, planning and scheduling, AI languages, tools, and environments.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Chemical Engineering 
+
+Department: Chemical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Freshman: 15 - 29 hours
+
+      Junior: 75 - 89 hours
+
+      Sophomore: 45 - 59 hours
+
+      Junior: 60 - 74 hours
+
+      Freshman: 0 - 14 hours
+
+      Sophomore: 30 - 44 hours
+
+

@@ -1,0 +1,59 @@
+CGT 46000 - Building Information Modeling For Commercial Construction
+
+Credit Hours: 3.00.  The study of commercial jobsite planning and coordination. Trade coordination, visualization, and communication are emphasized. Activities include collision detection reports, construction animations, and professional presentations.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Dept Credit, Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Be familiar with the current technologies in BIM and what is utilized for MEP systems.
+2.  Incorporate BIM principles into current AEC projects.
+3.  Develop independent and teamwork skills for BIM, involving architects, clients, and other users of construction graphics.
+4.  Incorporate multiple file formats into one that will evaluate MEP and structural systems collisions.
+5.  Embed and link vital information required for estimation and tendering.
+6.  Explain how BIM is used in industry.
+7.  Assess a BIM project and develop a BIM project assessment.
+8.  Become aware of BIM career opportunities.
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  CGT 36000 Minimum Grade of C-
+
+

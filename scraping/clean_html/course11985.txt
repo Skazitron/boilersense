@@ -1,0 +1,68 @@
+CE 57300 - Structural Dynamics
+
+Credit Hours: 3.00.  Analysis of structural members and systems subject to dynamic loads such as wind and earthquake loads; basic theory for single-degree-of-freedom and multi-degree-of-freedom analytical models of civil engineering structures; free vibration, harmonic and transient excitation, foundation motion, resonance spectrum, Lagrange's equation, modal analysis, lumped parameter methods, computer methods.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Civil Engineering 
+
+Department: Lyles School of Civil Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-CE 57300 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CE
+47400
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

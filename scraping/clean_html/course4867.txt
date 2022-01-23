@@ -1,0 +1,41 @@
+CNIT 54100 - Cyberlearning Research And Development
+
+Credit Hours: 3.00.  This design-based research course explores and applies methodological and theoretical perspectives to the research, design, and evaluation of learning experiences and environments that integrate computational thinking or cyberlearning within a certain STEM discipline. Design-based research seeks to shape and even engineer learning environments and experiences "in the wild." Is a series of approaches with the intent of producing new theories, artifacts, and practices that account for and potentially impact learning and teaching in naturalistic settings.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Identify the theoretical foundations for the design of cyberlearning environments that enable learners to use their bodies and minds to learn through making, programming, experimenting, constructing, and inventing, so that the interaction results in deeper and authentic learning in STEM.
+2.  Design a learning experience, environment, or assessment tool that explores a particular pedagogical method, learning strategy, or other theoretical framework that conveys or assess STEM related concepts or that uses cyberlearning as an affordance to access of knowledge or new knowledge development in a specific STEM discipline.
+3.  Apply design-based research as a methodological perspective to the design and investigation of learning experiences and environments that integrate cyberlearning.
+
+
+
+Prerequisites: 
+
+ Graduate level  EDPS 53300 Minimum Grade of D- or Graduate level  EDCI 51500 Minimum Grade of D- or Graduate level  ENE 50300 Minimum Grade of D- or Graduate level  STAT 50100 Minimum Grade of D- or Graduate level  STAT 51100 Minimum Grade of D-
+
+

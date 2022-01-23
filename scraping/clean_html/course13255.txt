@@ -1,0 +1,30 @@
+NUCL 61200 - Applied Reactor Analysis
+
+Credit Hours: 3.00.  Reactor physics analysis of existing reactors and critical experiments through the use of digital computers and reactor programs. One-, two-, and three-dimensional solutions of the diffusion and transport equations. Calculation methods for lifetime effects on excess reactivity, power distribution, breeding ratio, and temperature, void, and Doppler coefficients of reactivity. Fuel shuffling and safety calculations for fuel handling and storage.  Concurrent Prerequisite:  NUCL 61000. Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Nuclear Engineering 
+
+Department: Nuclear Engineering 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

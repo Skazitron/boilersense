@@ -1,0 +1,81 @@
+CS 53000 - Introduction To Scientific Visualization
+
+Credit Hours: 3.00.  Teaches the fundamentals of scientific visualization and prepares students to apply these techniques in fields such as astronomy, biology, chemistry, engineering, and physics. Emphasis is on the representation of scalar, vector, and tensor fields; data sampling and resampling; and reconstruction using multivariate finite elements (surfaces, volumes, and surfaces on surfaces).
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Computer Science 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Learn basic notions of human vision and color perception that inform the design of effective visual representations.
+2.  Know different models of color perception and understand their connection to the anatomy of the visual system.
+3.  Be familiar with several color spaces and know their perceptual properties.
+4.  Know how to devise effective color scales suitable for different data mapping needs.
+5.  Learn the data structures and data reconstruction techniques that are needed to create continuous visual representations of discrete simulation or experimental datasets.
+6.  Be familiar with the main grid types used in numerical simulations, know what data structures can be used to represent them in memory, and the associated footprint.
+7.  Know various data interpolation methods and understand their relationship with grid topology.
+8.  Know how to efficiently solve the point location problem, whereby the cell must be determined that encloses an arbitrary spatial location.
+9.  Learn the main visualization techniques for scalar, vector, and tensor datasets.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+Must be enrolled in one of the following Majors:      
+
+      Computer Science
+
+
+Prerequisites:
+
+GR-CS 25100 Course
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CS
+25100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

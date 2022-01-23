@@ -1,0 +1,95 @@
+AGRY 54500 - Remote Sensing Of Land Resources
+
+Credit Hours: 3.00.  Application of remote sensing and spatial databases for observing and managing land resources within the Earth System; analysis and interpretation of remotely sensed data in combination with field observations and other data sources; conceptualization and design of a global earth resources information system.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Agronomy 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Evaluate, analyze, and apply the fundamentals of remote sensing related to sensor technologies, Multispectral/hyperspectral imaging, active and passive radar, LIDAR, GPS, preprocessing of remote sensing image data, Radiometric and geometric correction, data enhancement for visual interpretation, extraction of information from data, spatial and spectral feature extraction for analysis, Unsupervised and supervised classification, terrain modeling and sources of remote sensing data/information.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-AGRY 54500 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+AGRY
+27000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Rule: 1.: AGRY 10500 and AGRY 25500  for a total of 2 conditions
+)
+
+AGRY
+10500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+AGRY
+25500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+End of rule 1.
+
+
+

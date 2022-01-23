@@ -1,0 +1,45 @@
+STAT 47500 - Life Contingencies II
+
+Credit Hours: 2.00.  This course covers advanced life contingencies topics such as multiple decrement models, joint life models, pension models, and profit emergence and testing for insurance products. It builds on the basic life contingent models learned in STAT 47200. Permission of instructor required. Typically offered Spring.
+
+    2.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Statistics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Repeatable for Additional Credit: Yes - May be repeated an unlimited number of times
+
+
+Learning Outcomes: 
+1.  Develop the theory and knowledge that actuarial students need to apply basic life contingencies to more sophisticated and complicated models. 
+2.  Calculate expected values, variances, and other moments for situations involving multiple decrements, joint and survivor life functions, pension plans, and other insurance products.
+3.  Determine the distributions of losses for these situations and use those distributions to calculate premiums, reserves, and capital needs. 
+4.  Use statistical models to determine the premiums necessary using standard profit testing techniques.
+5.  Analyze the expected profit for each year and determine the source of profit within each year.
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  STAT 47200 Minimum Grade of D- or Undergraduate level  STAT 47201 Minimum Grade of D-
+
+

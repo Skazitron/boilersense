@@ -1,0 +1,85 @@
+ME 51800 - Analysis Of Thermal Systems
+
+Credit Hours: 3.00.  Modeling and optimization of thermal systems with a focus on heat-pumping equipment, such as vapor compression, absorption, and some advanced heat-pumping cycles. Students combine the use of thermodynamics, heat transfer, fluid mechanics, and numerical methods to develop and apply mathematical models for the analysis and optimization of specific equipment. Offered in alternate years.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Mechanical Engr 
+
+Department: Mechanical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Develop a comprehensive understanding of the fundamentals of thermal systems' modeling and analysis.
+2.  Develop a detailed understanding of vapor compression systems, absorption systems, and other advanced heat pumping equipment.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ME 51800 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ME
+30000
+
+
+Minimum Grade of 
+B
+
+May not be taken concurrently.
+and
+Course or Test: 
+ME
+31500
+
+
+Minimum Grade of 
+B
+
+May not be taken concurrently.
+)
+
+
+

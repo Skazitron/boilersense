@@ -1,0 +1,58 @@
+ECET 36400 - Fundamentals Of Electromagnetics
+
+Credit Hours: 3.00.  This course introduces the fundamentals of electromagnetics in both theory and application. Wave propagation, transmission lines, port parameters, antenna theory, and antenna design are studied. Other topics include Maxwell's equations, propagation losses, RF signal measurement, impedance matching, and Smith chart applications.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Demonstrate knowledge of transmission line theory and application.
+2.  Apply and analyze transmission line systems using Smith carts.
+3.  Demonstrate the fundamentals and use of port parameters.
+4.  Design impedance matching networks using analytical methods and Smith charts.
+5.  Demonstrate and apply electromagnetic theory.
+6.  Describe and apply the fundamentals of electromagnetic wave propagation.
+7.  Design, simulate and analyze antennas.
+8.  Use RF simulation software for the analysis and design of RF circuits.
+9.  Demonstrate the use of RF laboratory equipment including the vector network analyzer, spectrum analyzer and RF generator.
+
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  ECET 27700 Minimum Grade of D- or Undergraduate level  ECET 22400 Minimum Grade of D-) and (Undergraduate level  MA 16020 Minimum Grade of D- or Undergraduate level  MA 16021 Minimum Grade of D- or Undergraduate level  MA 22000 Minimum Grade of D-) and (Undergraduate level  PHYS 21900 Minimum Grade of D- or Undergraduate level  PHYS 20200 Minimum Grade of D- or Undergraduate level  PHYS 22100 Minimum Grade of D- or Undergraduate level  PHYS 24100 Minimum Grade of D- or Undergraduate level  PHYS 25100 Minimum Grade of D- or Undergraduate level  PHYS 27200 Minimum Grade of D- or Undergraduate level  PHYS P2020 Minimum Grade of D- or Undergraduate level  PHYS P2220 Minimum Grade of D-)
+
+

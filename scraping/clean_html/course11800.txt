@@ -1,0 +1,40 @@
+CE 21101 - Thermal And Energy Sciences
+
+Credit Hours: 3.00.  This course includes applications of thermal science and energy fundamentals to civil engineering topics. Emphasis is placed on fundamental concepts of properties of materials, work, heat, internal energy, entropy, equilibrium, and relations derived from the first and second laws of thermodynamics. Example applications include: power plants; fluid flow in ducts/pipes; thermal properties of building/construction materials and processes; geothermal systems; heating, ventilation, and air conditioning (HV AC) processes; energy balances in buildings; refrigeration; hydroelectric power; contaminant transport in air, water, and soil; climate change; the urban heat island effect; and energy use in the transportation sector.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Civil Engineering 
+
+Department: Lyles School of Civil Engr 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Explain the principles of mass and energy conservation and their use in civil engineering applications.
+2.  Evaluate thermodynamic systems and several forms of work, energy, and heat transfer.
+3.  Apply conservation of mass and energy for closed systems and control volume processes.
+4.  Explain the second law of thermodynamics, entropy changes, and device efficiencies.
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  CHM 11500 Minimum Grade of C- or Undergraduate level  CHM 12300 Minimum Grade of C-) or (Undergraduate level  CHM 11100 Minimum Grade of C- and Undergraduate level  CHM 11200 Minimum Grade of C-) and (Undergraduate level  MA 26100 Minimum Grade of C- [may be taken concurrently] or Undergraduate level  MATH 26100 Minimum Grade of C- [may be taken concurrently] or Undergraduate level  MA 26300 Minimum Grade of C- [may be taken concurrently] or Undergraduate level  MA 18200 Minimum Grade of C- [may be taken concurrently] or Undergraduate level  MA 27100 Minimum Grade of C- [may be taken concurrently])
+
+

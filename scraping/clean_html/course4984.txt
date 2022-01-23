@@ -1,0 +1,74 @@
+STAT 54600 - Computational Statistics
+
+Credit Hours: 3.00. The course focuses on two fundamental aspects in computational statistics: (1) what to compute and (2) how to compute. The first is covered with a brief review of advanced topics in statistical inference, including Fisher's fiducial inference, Bayesian and frequenstist methods, and the Dempster-Shafer (DS) Theory. The second is discussed in detail by examining exact, approximation, and interactive simulation methods for statistical inference with a variety of commonly used statistical models. The emphasis is on the EM-type and quasi-Newton algorithms, numerical differentiation and integration, and Markov chain Monte Carlo methods. Typically offered Spring Summer.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Science 
+
+Department: Statistics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Master commonly used numerical matrix operations, including the sweep operator, Cholesky decomposition, eigenvalue decomposition, and single value decomposition. 
+2.  Understand statistical thinking in development of interactive numerical methods. 
+3.  Apply optimization algorithms such as quasi-Newton and conjugate gradient methods. 
+4.  Implement EM-type algorithms for maximum likelihood estimation when expanded complete-data models are available, including commonly used statistical models. 
+5.  Create random number generators. 
+6.  Implement the Gibbs sampler and Metropolis-Hastings algorithms for Bayesian data analysis.  
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Statistics-PHD
+
+      Statistics-MS
+
+
+Prerequisites:
+
+GR-STAT 54600 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+54500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

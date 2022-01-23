@@ -1,0 +1,60 @@
+IET 33620 - Total Productive Maintenance
+
+Credit Hours: 3.00.  This course emphasizes the importance of effective maintenance planning and execution for efficient and economical operation of service or technology systems. A systems approach to maintenance planning is taken. Maintenance activities are discussed from reliability and productivity perspectives in the context of technology systems. Semester-long, team based research project is typically required. Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Recitation 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Indianapolis
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+      Vincennes
+
+
+Learning Outcomes: 
+1.  Differentiate and describe the various types of maintenance activities.
+2.  Explain the organization and control of the maintenance function.
+3.  Explain the role of maintenance in safety and productivity.
+4.  Relate the importance of the operating equipment history.
+5.  Explain the role of computerized maintenance management systems (CMMS).
+6.  Communication maintenance concepts clearly and effectively.
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  PHYS 15200 Minimum Grade of D- or Undergraduate level  PHYS 17200 Minimum Grade of D- or Undergraduate level  PHYS 22000 Minimum Grade of D-) and (Undergraduate level  TLI 31600 Minimum Grade of D- or Undergraduate level  STAT 30100 Minimum Grade of D- or Undergraduate level  IT 34200 Minimum Grade of D- or Undergraduate level  IET 31600 Minimum Grade of D-)
+
+

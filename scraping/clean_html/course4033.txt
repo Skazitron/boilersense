@@ -1,0 +1,64 @@
+BME 55500 - Magnetic Resonance Imaging Theory
+
+Credit Hours: 3.00.  This course covers fundamental aspects of magnetic resonance imaging systems with an emphasis on theory, methodology, and instrumentation. Key principles are derived from the Bloch equations and Maxwell's equations. Topics include pulse sequences, signal acquisition, spatial encoding in k-space, image reconstruction, and tissue contrast. Major components of the MRI scanner are examined, including the static magnet, gradient and shim coils, transmit and receive chains, and radiofrequency coils and arrays. Learning outcomes are assessed by solving problem sets integrating theory with practical applications. As a final research project, students survey recent literature to identify a specialized topic of interest and deliver a peer-evaluated presentation to the class.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: School of Biomedical Engr 
+
+Department: Weldon Schl of Biomedical Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Formulate and solve MRI spin and relaxation problems using the Bloch Equations.
+2.  Formulate and solve MRI magnetic field problems using Maxwell's Equations.
+3.  Analyze radiofrequency coils with sources and passive elements.
+4.  Synthesize research knowledge from recent MRI literature.
+5.  Communicate a specialized topic related to MRI to an audience.
+
+
+
+
+Prerequisites:
+
+GR-BME 55500 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ECE
+30100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

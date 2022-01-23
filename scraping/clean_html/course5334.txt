@@ -1,0 +1,30 @@
+ECE 65600 - Electronic Transport In Semiconductors
+
+Credit Hours: 3.00.  A treatment of the microscopic and phenomenological physics of carrier transport in bulk semiconductors and in semiconductor devices. The Boltzmann transport equation is introduced as are techniques for solving it analytically and numerically. The physics of carrier scattering in common semiconductors is explored. Theoretical treatments of low and high field transport are compared with measured results. Balance equations are derived as moments of the Boltzmann Transport Equation and are applied to the analysis of sub-micron semiconductor devices. Students are expected to be able to apply elementary concepts of quantum mechanics and solid state physics. Offered every third semester.  Prerequisite: ECE 60600.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

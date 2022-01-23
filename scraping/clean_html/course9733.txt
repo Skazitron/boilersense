@@ -1,0 +1,42 @@
+MA 54300 - Ordinary Differential Equations And Dynamical Systems
+
+Credit Hours: 3.00.  This course focuses on the theory of ordinary differential equations and methods of proof for developing this theory. Topics include basic results for linear systems, the local theory for nonlinear systems (existence and uniqueness, dependence on parameters, flows and linearization, stable manifold theorem) and the global theory for nonlinear systems (global existence, limit sets and periodic orbits, Poincare maps). Permission of instructor required.  Typically offered Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Science 
+
+Department: Mathematics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Know and understand the central results and methods of proof in the theory of ordinary Differential Equations.
+2.  Gain deeper understanding of mathematical analysis more generally.
+3.  Gain facility in constructing, writing and presenting proofs.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

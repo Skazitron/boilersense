@@ -1,0 +1,32 @@
+ECE 63900 - Error Control Coding
+
+Credit Hours: 3.00.  The theory and practice of error control coding is examined. The study includes the arithmetic of Galois fields as well as linear block, cyclic, and convolutional codes. Some applications of codes in digital communication systems and in computer systems are presented.  Offered every third semester. Concurrent prerequisite: ECE 60000.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

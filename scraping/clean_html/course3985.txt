@@ -1,0 +1,46 @@
+BME 36600 - Foundations Of Biomedical Data Science
+
+Credit Hours: 3.00. This course presents foundational data science methods for analysis of complex biological datasets encountered in biomedical engineering research and applications. After a brief (1-2 weeks) introduction and review of mathematical concepts necessary for data science, the course will cover representative areas of regression, supervised machine learning, unsupervised machine learning, model evaluation, and uncertainty quantification. Assignments and exams will focus on practical examples spanning basic science, engineering, and medical applications.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Biomedical Engr 
+
+Department: Weldon Schl of Biomedical Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Identify the appropriate statistical tests to analyze data fitting a given probability distribution.
+2.  Propose an analysis plan for large datasets that tests a hypothesis or answers an exploratory analysis question.
+3.  Implement the appropriate computational model for their analysis plan and interpret the model results with appropriate consideration of uncertainty.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      Biomedical Engineering
+
+
+Prerequisites: 
+
+ Undergraduate level  STAT 35000 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  STAT 51100 Minimum Grade of D- [may be taken concurrently]
+
+

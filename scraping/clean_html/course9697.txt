@@ -1,0 +1,41 @@
+MA 44200 - Honors Real Analysis II
+
+Credit Hours: 3.00.  Real analysis in one and n-dimensional Euclidean spaces--continued from MA 44000. Topics include mappings of Euclidean spaces and their derivatives, multivariable chain rule, inverse function theorem and implicit function theorem, sets with content and integration in n dimensions, the integrability theorem, Jacobian and change of variables theorem, related topics. Typically offered Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Mathematics 
+
+
+Course Attributes: Honors, Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Determine points at which derivatives exist and compute linear approximations for mappings of Euclidean spaces.
+2.  Perform rigorous applications of the multivariable chain rule, inverse function theorem and implicit function theorem in Euclidean spaces.
+3.  Apply the integrability theorem on the existence of Riemann integrals of functions in bounded sets in Euclidean spaces.
+4.  Perform rigorous applications of the change of variables theorem for integrals of functions on smooth transformations of domains in a Euclidean spaces.
+
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  MA 26500 Minimum Grade of B- or Undergraduate level  MA 35100 Minimum Grade of B-) and Undergraduate level  MA 44000 Minimum Grade of C-
+
+

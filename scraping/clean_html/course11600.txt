@@ -1,0 +1,39 @@
+PSY 62901 - fMRI Design And Analysis
+
+Credit Hours: 3.00.  Introduces students to the design of fMRI experiments and fMRI data analysis. Covered topics include an introduction to MR physics, block designs, rapid-event related designs, data preprocessing, and standard analyses using the general linear model. Advanced analysis techniques such as functional connectivity and multivariate pattern analysis and common pitfalls in design and analysis will also be covered. Prerequisites: Required: Basic knowledge of inferential statistics. Recommended: Familiarity with the general linear mode (GLM) and signal processing. Permission of department required. Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Health & Human Sci 
+
+Department: Psychological Sciences 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand how to design fMRI experiments.
+2.  Perform fMRI analysis.
+3.  Interpret the results of fMRI data analysis.
+4.  Understand and avoid pitfalls related to fMRI data analysis.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

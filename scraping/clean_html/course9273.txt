@@ -1,0 +1,56 @@
+ECET 27900 - Embedded Digital Systems
+
+Credit Hours: 3.00.  A course emphasizing the advanced applications of embedded digital systems. Topics include embedded system architecture, use of advanced programmable counter/timer arrays, analog interfaces, serial communication, and interrupts.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Individual Study, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Credit By Exam, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Solve problems by the application of C programs emphasizing I/O and peripherals.
+2.  Demonstrate knowledge and skill in the application of parallel ports, counter-timers, programmable counter arrays, serial ports and interrupts.
+3.  Demonstrate a conceptual understanding of embedded microcontroller system hardware system design.
+4.  Demonstrate the use of software development tools such as an editor, an assembler, a C compiler, a linker and locator, an object-to-hex converter, etc.
+5.  Demonstrate fluency in the language of advanced microprocessors.
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  ECET 17900 Minimum Grade of D-
+
+

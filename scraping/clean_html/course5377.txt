@@ -1,0 +1,36 @@
+TDM 31100 - Corporate Partners V
+
+Credit Hours: 3.00.  Students in The Data Mine Corporate Partners Learning Community will work in groups with Corporate Partner mentors on a variety of projects.  They will analyze real data related to questions that the Corporate Partner proposes.  Most projects will last for a full academic year (late August through late April), with multiple reports and presentations given more frequently.  The mentor is expected to meet with the students weekly by Microsoft Teams, or (more rarely) in person. Students are expected to actively participate in these meetings and in all individual and group work.  The goal of the course is to help students build impactful industry related skills in data science, visualization, and data engineering. The Data Mine staff also has data scientists who can assist students with technical questions focused on the skills being built and the research conducted. Students can work on real-world industry facing issues that have a high value add for the corporate partner.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: No College Designated 
+
+Department: The Data Mine 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Discover data science and professional development opportunities in order to prepare for a career. 
+2.  Explain the difference between research computing and basic personal computing data science capabilities in order to know which system is appropriate for a data science project.
+3.  Design efficient search strategies in order to acquire new data science skills.
+4.  Devise the most appropriate data science strategy in order to answer a research question.
+5.  Apply data science techniques in order to answer a research question about a big data set.
+
+
+

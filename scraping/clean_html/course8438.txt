@@ -1,0 +1,64 @@
+CGT 20301 - Model-Based Definition
+
+Credit Hours: 3.00.  This course provides experience in the development of model-based product definition through the use of contemporary modeling tools and the application of ASME dimensional standards. This course also covers product data exchange and interoperability standards from the perspective of neutral and proprietary data formats and models. Long-term archival concepts are also covered.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Recitation, Studio 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Explain the significance of 2D and 3D CAD model standards relative to industrial practice.
+2.  Describe the elements and process of 3D model-based definition.
+3.  Incorporate model-based definition techniques into the CAD model database and technical documentation when creating geometry.
+4.  Implement modeling techniques that support long-term archival of product data.
+5.  Develop standard parts libraries which incorporate industrial standard parts specifications.
+6.  Select appropriate file format(s) for the communication of CAD data through different toolsets and data exchange media.
+7.  Develop basic literacy in interpreting technical documentation.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Graphics Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CGT 11301 Minimum Grade of C-
+
+

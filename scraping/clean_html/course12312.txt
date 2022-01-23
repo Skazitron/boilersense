@@ -1,0 +1,39 @@
+AGEC 45100 - Applied Econometrics
+
+Credit Hours: 3.00.  Application of strategies to economic problems. Simple and multiple regression, dummy variables, logit analysis, time series, and forecasting.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Recitation 
+
+
+Offered By: College of Agriculture 
+
+Department: Agricultural Economics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Learn how to estimate and interpret linear regression models.
+2.  Learn how to test hypotheses based on regression coefficients.  
+3.  Learn how to develop forecasts abased on regression models.
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  STAT 22500 Minimum Grade of D- or Undergraduate level  STAT 51600 Minimum Grade of D- or Undergraduate level  STAT 41600 Minimum Grade of D- or Undergraduate level  STAT 31100 Minimum Grade of D-) or (Undergraduate level  STAT 30100 Minimum Grade of D- or Undergraduate level  STAT 35000 Minimum Grade of D- or (Undergraduate level  STAT 50100 Minimum Grade of D- or Undergraduate level  STAT 51100 Minimum Grade of D- or Undergraduate level  STAT 50300 Minimum Grade of D- or Undergraduate level  STAT 35000 Minimum Grade of D-) or Undergraduate level  STAT 51100 Minimum Grade of D- or Undergraduate level  STAT 30100 Minimum Grade of D- or Undergraduate level  STAT E2700 Minimum Grade of D- or Undergraduate level  STAT 26000 Minimum Grade of D-) or Undergraduate level  STAT 50100 Minimum Grade of D-
+
+

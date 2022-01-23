@@ -1,0 +1,76 @@
+NUCL 55200 - Thermal-Hydraulics And Reactor Safety
+
+Credit Hours: 3.00.  Applications of thermal-sciences to nuclear reactor safety design and risk assessment. Emphasis on illustrating the use of basic principles in quantitative safety assessments of practical and current interest. The basic topics revolve around multiphase transients and applications which include study of accident analysis and its applications to licensing for light water reactor systems and for liquid metal fast breeder reactor. Typically offered Spring.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Nuclear Engineering 
+
+Department: Nuclear Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-NUCL 55200 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+NUCL
+35000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+NUCL
+35100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

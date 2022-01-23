@@ -1,0 +1,51 @@
+ECE 20875 - Python For Data Science
+
+Credit Hours: 3.00.  This course will introduce Python programming to students through data science problems. Students will learn Python concepts as well as introductory data science topics, and will use their knowledge of Python (and prior programming experience) to implement data analyses.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand of regular expressions [1, 2].
+2.  Use Python to write data analyses [1, 2, 6].
+3.  Explain when data analyses are appropriate [1, 2, 3, 6].
+4.  Explain the results of data analyses [2, 3, 5].
+5.  Incorporate classes in their Python programs [1, 2, 6].
+6.  Incorporate associative arrays in their programs [1, 2, 6].
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Elec & Computer Engr
+
+
+Prerequisites: 
+
+ Undergraduate level  CS 15900 Minimum Grade of C-
+
+

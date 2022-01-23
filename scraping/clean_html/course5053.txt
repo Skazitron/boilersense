@@ -1,0 +1,57 @@
+ECE 26400 - Advanced C Programming
+
+Credit Hours: 3.00.  Continuation of a first programming course. Topics include files, structures, pointers, and the proper use of dynamic data structures. A basic knowledge of the UNIX operating system and an introductory C programming course; C programming knowledge should include basic syntax, control structures, and file I/O, as well as experience in declaring and using functions.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Credit By Exam, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      IUPUI
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Ability to read and write C programs that use files.
+2.  Ability to read and write C programs that use structures.
+3.  Ability to read and write C programs that use dynamic data structures.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Elec & Computer Engr
+
+      School of Biomedical Engr
+
+
+Prerequisites: 
+
+ Undergraduate level  CS 15900 Minimum Grade of C-
+
+

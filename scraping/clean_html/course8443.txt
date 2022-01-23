@@ -1,0 +1,62 @@
+CGT 21301 - Simulation And Visualization Applications
+
+Credit Hours: 3.00.  This course provides an investigation of predictive and documentary capabilities of engineering simulation and visualization tools. The course is based on concepts derived from theoretical computer graphics and related industrial standards, as well as the use of the geometric model-based product definition.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Recitation, Studio 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Describe the processes of simulation and visualization methods and tools.
+2.  Select and use appropriate simulation and visualization tools for specific PLM tasks.
+3.  Describe the role of product data models to enhance the processes of engineering design optimization and verification.
+4.  Develop skills of communication and project management through written assignments, individual, and group projects.
+5.  Define and apply the fundamentals of technical simulation and visualization with CAx tools in a PLM environment.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Graphics Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CGT 11301 Minimum Grade of C-
+
+

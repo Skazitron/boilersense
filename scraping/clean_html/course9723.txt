@@ -1,0 +1,44 @@
+MA 52700 - Advanced Mathematics For Engineers And Physicists I
+
+Credit Hours: 3.00.  MA 52700 is not a prerequisite for MA 52800; these courses can be taken independently. Topics in MA 52700 include linear algebra, systems of ordinary differential equations, Laplace transforms, Fourier series and transforms, and partial differential equations. MA 51100 is recommended. Typically offered Fall.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Indiana College Network, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Mathematics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Know the theory of systems of linear equations.
+2.  Know the theory of eigenvalues and eigenvectors and will apply it to solve systems of ordinary differential equations and to analyze qualitative features.
+3.  Know theorectical properties of Laplace transforms and how to use them.
+4.  Know the basic theory of Fouries series and transforms, and how to apply these to solve partial different equations.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

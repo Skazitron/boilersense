@@ -1,0 +1,68 @@
+CNIT 24200 - System Administration
+
+Credit Hours: 3.00.  This course provides a comprehensive introduction to system administration. Topics include authentication and authorization, directory services, system management and system security. Emphasis is placed on enterprise level systems.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1. Explain systems administration concepts as they apply to business environments.
+2. Design, construct and administer an enterprise-class application environment using Windows-based client and server software.
+3. Describe, install and maintain an enterprise-class application environment in a virtualized environment.
+4. Plan and execute a cutover from a physical computing environment to a virtualized computing environment.
+5. Troubleshoot and solve operating system installation and operational problems (client and server) in a Windows environment.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+May not be enrolled as the following Classifications:      
+
+      Freshman: 15 - 29 hours
+
+      Freshman: 0 - 14 hours
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 17600 Minimum Grade of C-
+
+

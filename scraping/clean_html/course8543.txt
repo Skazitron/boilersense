@@ -1,0 +1,63 @@
+CGT 47000 - Data Visualization Studio
+
+Credit Hours: 3.00.  This course will teach students design and develop interactive data visualization systems to communicate and analyze complicated datasets. Students will learn interaction and visual design principles, draw from human perception and cognition theories, and focus on hands-on practice of developing interactive data visualization systems that enable users to see, understand, and analyze complex data and relations. At the end of the class, students will apply the design principles and use proper technologies to create a comprehensive interactive visualization system for data analysis.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Studio 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Demonstrate understanding of design principles from perspectives of human perception, cognition, and design.
+2.  Choose the correct visual format based on the data, relations, and data usage.
+3.  Recognize the common problems in information visualization dashboard design.
+4.  Demonstrate the ability to process, filter, and transform data for visualization.
+5.  Utilize proper visual forms, visual analysis techniques, and practices for analyzing basic types of data and data relationships.
+6.  Develop complex interactive information visualizations system with multiple visualizations for communication and data analysis.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Graphics Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CGT 27000 Minimum Grade of C-
+
+

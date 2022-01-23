@@ -1,0 +1,65 @@
+CGT 35300 - Principles Of Interactive And Dynamic Media
+
+Credit Hours: 3.00.  This course explores the development of interactive and dynamic media components for web and interactive media products.  The course examines the design, creation and integration of  2D animation, 2D games, text, sound, video, programming, and databases for use in web and other interactive media.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Credit By Exam, Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+      Kokomo
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Develop skills and proficiency in creating professional vector animations and interactive components using HTML5, jQuery, JavaScript, and CSS.
+2.  Demonstrate understanding of JavaScript programming.
+3.  Develop beginning to moderately complex games.
+4.  Integrate HTML5 and jQuery with PHP, MySQL, and XML.
+5.  Further understand the emerging capabilities of delivering Web content.
+6.  Further examine the advantages, disadvantages, and limitations of Rich Internet Applications on the Web.
+7.  Extend the students ability to systematically develop content for the Web, from concept to implementation.
+8.  Further the students cognitive skills in problem solving, debugging, and programming.
+
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Graphics Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CGT 14100 Minimum Grade of C- and Undergraduate level  CGT 35600 Minimum Grade of C- [may be taken concurrently]
+
+

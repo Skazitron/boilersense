@@ -1,0 +1,65 @@
+TECH 49700 - Senior Design Project
+
+Credit Hours: 2.00.  Teams will develop innovative solutions based on proposal outcomes in TECH 49600 for current issues in the engineering technology profession, workplace, or community.  Project deliverable, presentation, and written report are required.  Typically offered Fall Spring Summer.
+
+    2.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Individual Study, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Purdue Polytechnic Inst Admin 
+
+
+Course Attributes: Dept Credit, Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Present reports (oral or written) at each stage of the project.
+2.  Determine if the functional specifications of a project based on abstract concepts.
+3.  Design a block diagram for a project.
+4.  Determine the theoretical design based on functional specifications.
+5.  Write and implement a project test-plan.    
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Classifications:      
+
+      Senior 105+ hours
+
+      Senior 90 - 104 hours
+
+
+Prerequisites: 
+
+ Undergraduate level  TECH 49600 Minimum Grade of D- [may be taken concurrently]
+
+

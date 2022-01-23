@@ -1,0 +1,57 @@
+CNIT 15500 - Introduction to Object-Oriented Programming
+
+Credit Hours: 3.00.  This course introduces fundamental software development concepts common to most programming languages. Topics include: problem solving and algorithm development, debugging, programming standards, variable, data types, operators, decisions, repetitive structures, modularity, array, user interface construction, software testing and debugging. A broad range of examples will be used throughout the course to show how each programming concept applies to real life problems.
+
+
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Practice Study Observation 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Credit By Exam, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Dual Campus
+
+      Kokomo
+
+      Lafayette
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Define key application development terms.
+2.  Explain the importance of programming to different domain areas.
+3.  Identify advantages and disadvantages of using an IDE to write program code.
+4.  Use debugging tools to find program errors.
+5.  Use data types, variable, constants, arithmetic operators, logical operators, decision, loop, function, and arrays when writing computer programs.
+
+
+
+

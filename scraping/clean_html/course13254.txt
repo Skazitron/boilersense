@@ -1,0 +1,41 @@
+NUCL 61000 - Nuclear Reactor Theory II
+
+Credit Hours: 3.00.  This course covers advanced reactor physics topics including the neutron transport theory, slowing down and resonance escape, and generalized perturbation theory. The neutron transport theory is the fundamental theory describing the neutron flux behaviors in nuclear systems. The slowing down and resonance escape calculations are essential for generating the multi-group cross sections required in the whole-core neutron transport calculations. The generalized perturbation theory is a powerful method for determining the changes in response parameters due to the variations in nuclide densities and microscopic cross sections. Prerequisites: NUCL 51000 and advanced engineering mathematics covering complex analysis, partial differential equations, and integral equations.. Typically offered Fall Spring Summer.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Nuclear Engineering 
+
+Department: Nuclear Engineering 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Repeatable for Additional Credit: Yes - May be repeated up to 1 times
+
+
+Learning Outcomes: 
+1.  Demonstrate knowledge on advanced reactor physics topics (neutron transport theory, slowing down and resonance escape, and generalized perturbation).
+2.  Use computational methods to determine information regarding the aforementioned reactor physics topics.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

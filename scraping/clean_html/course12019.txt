@@ -1,0 +1,30 @@
+CE 68901 - Plasticity Theory
+
+Credit Hours: 3.00.  The course covers stress analysis, strains analysis, elastic and inelastic constitutive relations, with emphasis on plasticity, and the solution of plastic boundary-value problems for a wide range of materials, including metals, soils and alloys of various types. Specific topics covered by the course include: tensors, stress analysis, strain analysis, laws of thermodynamics, basic concepts from elasticity, viscoplasticity as an extension of viscoelastic concepts, classical plasticity, principle of maximum plastic dissipation, Drucker's inequality, yield function and yield surface, flow rule, hardening rule, classical models (Tresca, Von Mises, Mohr-Coulomb, Drucker-Prager), bounding-surface plasticity, thermodynamics and constitutive models, causes of plasticity at the microstructural level, noncoaxial plasticity, limit analysis, method of characteristics (slipline method) and cavity expansion analysis. Prerequisite:  AAE 55300 or ME 61200.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Civil Engineering 
+
+Department: Lyles School of Civil Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

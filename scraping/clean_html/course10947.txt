@@ -1,0 +1,30 @@
+CHE 61100 - Molecular Thermodynamics
+
+Credit Hours: 3.00.  This course aims at providing a systematic treatment of the microscopic foundation of thermodynamics as well as a working knowledge of the statistical formalism needed to predict microscopic properties from molecular interactions. Topics covered include kinetic theory of gases, statistical-mechanical ensembles and their correspondence with thermodynamics, ideal and imperfect gases, distribution function theory of liquids, lattice models of liquid and polymer solutions, and molecular simulation methods. Offered in alternating years.  Prerequisite: CHE 61000.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Chemical Engineering 
+
+Department: Chemical Engineering 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

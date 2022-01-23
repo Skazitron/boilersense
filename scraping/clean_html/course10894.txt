@@ -1,0 +1,51 @@
+CHE 21100 - Introductory Chemical Engineering Thermodynamics
+
+Credit Hours: 4.00.  Basic principles and concepts of thermodynamics applied to chemical engineering problems; use of basic thermodynamic functions of enthalpy, entropy, free energy to solutions, phase equilibria, and chemical equilibria; thermodynamic processes and efficiencies; equations of state; and relation of macroscopic to molecular properties.
+
+    0.000 OR     4.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture, Practice Study Observation, Recitation 
+
+
+Offered By: School of Chemical Engineering 
+
+Department: Chemical Engineering 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Apply the First Law of thermodynamics in the analysis of closed and open systems.
+2.  Apply the Second Law of thermodynamics in the analysis of closed and open systems, and reversible and irreversible processes, including power cycles. 
+3.  Derive and apply thermodynamic relations and relationships between thermodynamic potentials. 
+4.  Estimate the physical properties of ideal and non-ideal fluids.
+5.  Use chemical potentials, fugacities and activity coefficients to analyze the phase equilibrium behavior of ideal and non-ideal fluids.
+6.  Use chemical potentials, fugacities and activity coefficients to evaluate single and multi-component chemical reaction equilibria for ideal and non-ideal fluids.
+7.  Utilize computational tools in the solution of thermodynamics problems).
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Chemical Engineering
+
+
+Prerequisites: 
+
+ Undergraduate level  CHE 20500 Minimum Grade of C and (Undergraduate level  MA 26100 Minimum Grade of C- or Undergraduate level  MATH 26100 Minimum Grade of C- or Undergraduate level  MA 18200 Minimum Grade of C- or Undergraduate level  MA 17400 Minimum Grade of C- or Undergraduate level  MA 27100 Minimum Grade of C- or Undergraduate level  MA 26300 Minimum Grade of C- or Undergraduate level  MA 17200 Minimum Grade of C-)
+
+

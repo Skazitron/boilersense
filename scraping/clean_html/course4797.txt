@@ -1,0 +1,68 @@
+CNIT 32500 - Object-Oriented Application Development
+
+Credit Hours: 3.00.  This course focuses on using object-oriented programming languages in the development of modern, business applications. Topics include object-oriented design, encapsulation, object interfaces, inheritance, aggregation, abstract classes, polymorphism, data structures, and exception handling.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Individual Study, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Understand object-oriented concepts and architectures.
+2.  Understand software development motivations to use object-oriented design and development.
+3.  Demonstrate how to design and create classes and objects.
+4.  Understand the use of polymorphism and overloading.
+5.  Demonstrate how to design and use inheritance.
+6.  Understand how to apply a high-level integrated development environment to develop systems.
+7.  Demonstrate how to design, use and extend exception handling.
+8.  Demonstrate how to design, use and extend textual and binary data streams.
+9.  Understand how to integrate persistent data storage using RDBMS
+10. Understand the development of distributed systems and n-level architectures.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 25500 Minimum Grade of C- or Undergraduate level  CNIT 25501 Minimum Grade of C-
+
+

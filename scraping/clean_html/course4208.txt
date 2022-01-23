@@ -1,0 +1,89 @@
+ABE 54000 - Principles Of Systems & Synthetic Biology
+
+Credit Hours: 3.00.  Synthetic biology harnesses the power and adaptability of biology to engineer living systems that address grand societal challenges. This course introduces students to fundamental concepts and techniques in this interdisciplinary discipline, and studies state-of-the-art techniques from the primary literature. The course follows the standard Design-Build-Test-Learn (DBTL) cycle of contemporary practice and includes topics such as biological circuit design, advanced DNA assembly techniques, genome editing technologies, next generation sequencing, and directed evolution.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Ag & Biological Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Identify and select biological parts needed for a specific engineering objective.
+2.  Use modern DNA assembly techniques to build biological circuits and designs.
+3.  Describe the performance of biological circuits and their components.
+4.  Design biological circuits for specific applications.
+5.  Evaluate design performance with modern analytical techniques.
+6.  Discuss the ethical concerns of engineering biology.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ABE 54000 Requisites
+
+
+General Requirements:
+
+ ( 
+Course or Test: 
+BIOL
+23000
+
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+BCHM
+56100
+
+
+May not be taken concurrently.
+ )and( 
+Course or Test: 
+MA
+16000
+
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+16500
+
+
+May not be taken concurrently.
+)
+
+
+

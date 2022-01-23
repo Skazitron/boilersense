@@ -1,0 +1,135 @@
+MGMT 40500 - Six Sigma And Quality Analytics
+
+Credit Hours: 3.00.  The course is an undergraduate elective offered as part of the Center for Manufacturing Management Enterprises (CMME) quality initiatives. Provides an overview of various tools and methods for total quality management. Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Management 
+
+Department: School of Mgmt Adm & Instr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Make data driven conclusions and decisions for quality management operations through working on various business cases.
+2.  Apply previously gained statistical knowledge to understand and to analyze data.
+3.  Gain some advanced analytical technics such as Analysis of Variances (ANOVA) and Design of Experiment (DOE) to optimize obtaining data and learnings.
+4.  Master a simple yet powerful MINITAB software to carry out complex tasks.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      Accounting
+
+      Advanced Accountancy
+
+      Economics Honors
+
+      Economics
+
+      Finance
+
+      General Management
+
+      IM/Analytical Consulting
+
+      IM/Computer Science
+
+      IM/Data Analytics
+
+      IM/Economics
+
+      IM/Economics Honors
+
+      IM/Engineering
+
+      IM/Financial Engineering
+
+      IM/Interdisciplinary
+
+      IM/Mgmt Info Systems
+
+      IM/Manufacturing Mgmt
+
+      IM/Manufac & Svc Operations
+
+      IM/Operations Management
+
+      IM/Quantitative Methods
+
+      IM/Science
+
+      IM/Sci, Tech, Engr & Math
+
+      Industrial Management
+
+      Management
+
+      Marketing
+
+      IM/Oper & Supply Chain Mgmt
+
+      Supply Chain Info & Analytics
+
+      Strategy & Organiz Mgmt
+
+
+Prerequisites:
+
+MGMT 40500 Requisites
+
+
+General Requirements:
+
+ ( 
+Course or Test: 
+MGMT
+30500
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+35000
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ECON
+E2700
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+)
+
+
+

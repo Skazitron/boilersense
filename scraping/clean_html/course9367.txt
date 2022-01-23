@@ -1,0 +1,58 @@
+ECET 46000 - Project Design And Development
+
+Credit Hours: 3.00.  An extensive individual or small group design project is carried out with guidance from a faculty advisor. This course includes determining customer requirements, considering design alternatives, prototyping, project integration, and testing. The project is completed as a robust prototype. The course concludes with a formal written report and a presentation of the project to faculty and invited industrial guests.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Travel Time 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  From a formal project proposal, create a functional prototype to solve the given problem.
+2.  Utilize a software scheduling package to plan and track the progress of a project.
+3.  Weigh design alternatives for customer requirements, efficiency, reliability, and cost.
+4.  Apply formal test procedures to the developed prototype.
+5.  Analyze the data acquired during testing of the prototype.
+6.  Present a project orally to a specific audience.
+7.  Write a technical report including conclusions and recommendations for further work.
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  ECET 43000 Minimum Grade of D-
+
+

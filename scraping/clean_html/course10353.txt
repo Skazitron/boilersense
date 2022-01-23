@@ -1,0 +1,61 @@
+MET 21300 - Dynamics
+
+Credit Hours: 3.00.  Kinematics and kinetics principles of rigid-body dynamics are introduced. Emphasis is on the analysis of bodies in plane motion. Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Dept Credit, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      IUPUI
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Identify the type of solution method required for dynamics problems.
+2.  Use kinematics, work/energy principles, conservation of energy, impulse/momentum, or conservation of momentum to solve dynamics problems.
+3.  Identify the correct coordinate system type for various dynamics problems.
+4.  Calculate the mass moment of inertia for basic and composite shapes.
+5.  Use mass moment of inertia when solving a dynamics problem.
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  MA 16010 Minimum Grade of D- or Undergraduate level  MA 22100 Minimum Grade of D- or Undergraduate level  MATH 22100 Minimum Grade of D- or Undergraduate level  MA 22700 Minimum Grade of D- or Undergraduate level  MA 16100 Minimum Grade of D- or Undergraduate level  MATH M1190 Minimum Grade of D- or Undergraduate level  MA 16500 Minimum Grade of D- or Undergraduate level  MA 16300 Minimum Grade of D-) and (Undergraduate level  MET 11100 Minimum Grade of D- or Undergraduate level  MET 11800 Minimum Grade of D-)
+
+

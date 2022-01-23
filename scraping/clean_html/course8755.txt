@@ -1,0 +1,61 @@
+ECON 36000 - Econometrics
+
+Credit Hours: 3.00.  This course examines the statistical techniques economists use to analyze data, estimate causal effects, make predictions, and test economic theory. It emphasizes estimating multiple regression models including models of firm output, product prices, and wages. Students learn to make statistical and practical inferences about the true causal relationships. The course covers the data analysis skills required for careers as a consultant, financial analyst, researcher, or economist in the private and public sectors. The skills practiced in the course include using statistical software to analyze data.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Management 
+
+Department: School of Mgmt Adm & Instr 
+
+
+Course Attributes: S General Education, Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Model economic relationships in a regression framework.
+2.  Estimate economic models using the assigned statistical software.
+3.  Perform statistical and practical inference based on the results of empirical analysis.
+4.  Communicate empirical results clearly and concisely, in graphs, tables and writing.
+5.  Derive properties of estimators (unbiasedness, consistency, efficiency) and evaluate the characteristics of specific empirical models.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Management-BSIM
+
+      Economics-BS
+
+      Management-BS
+
+      Accounting-BS
+
+      Economics-BA
+
+
+Prerequisites: 
+
+ Undergraduate level  ECON 26000 Minimum Grade of C- or Undergraduate level  STAT 35000 Minimum Grade of C- or Undergraduate level  STAT 51100 Minimum Grade of C- or Undergraduate level  MGMT 30500 Minimum Grade of C-
+
+

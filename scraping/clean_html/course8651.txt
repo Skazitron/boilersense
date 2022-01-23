@@ -1,0 +1,38 @@
+NS 35000 - Naval Ship Systems-Engineering
+
+Credit Hours: 3.00. In this course, students learn detailed ship design, hydrodynamic forces, stability, propulsion, electrical theory and distribution, hydraulic theory and ship control, and damage control. The course includes basic concepts of theory/design of steam, gas turbine, diesel, and nuclear propulsion.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Naval Science 
+
+
+Course Attributes: Credit By Exam, Dept Credit, Military, Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Explain the first and second laws of thermodynamics and how they apply to naval ship systems.
+2.  Understand the difference between thermal and mechanical energy and how to transfer between the two to produce propulsion.
+3.  Explain how energy is stored onboard US naval vessels and the ways that stored energy is converted into propulsion.
+4.  Describe each step of a thermodynamic cycle and be able to apply them to various heat engines.
+5.  Draw the steam cycle on a temperature/entropy graph and describe each process.
+6.  Describe the role of various auxiliary equipment in a propulsion plant.
+7.  Describe the basic damage control process and the initial ship-wide response to fire and flooding.
+
+
+

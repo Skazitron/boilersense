@@ -1,0 +1,93 @@
+ECON 37300 - Computational Economics
+
+Credit Hours: 3.00.  The main goal of this course is to introduce economics students to the computation, programming, and data analysis in Python. In the first part of the course, we will cover basic programming techniques  and the use of popular Python packages for data analysis. In the second part of the course, we will consider more advanced programming techniques including numerical methods, dynamic programming, and simulation-based methods. Throughout the course we will consider a number applications related to microeconomics, macroeconomics, and econometrics covered in the Economics program curriculum.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Management 
+
+Department: School of Mgmt Adm & Instr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Have a working knowledge of programming techniques in Python.
+2.  Use scientific computing packages to analyze economic data.
+3.  Possess an understanding of numerical methods used to solve economic models.
+4.  Use visualization tools to communicate computational results.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      Accounting
+
+      Economics Honors
+
+      Economics
+
+      Finance
+
+      General Management
+
+      IM/Analytical Consulting
+
+      IM/Computer Science
+
+      IM/Data Analytics
+
+      IM/Economics
+
+      IM/Economics Honors
+
+      IM/Engineering
+
+      IM/Financial Engineering
+
+      IM/Mgmt Info Systems
+
+      IM/Manufac & Svc Operations
+
+      IM/Operations Management
+
+      IM/Quantitative Methods
+
+      IM/Science
+
+      IM/Sci, Tech, Engr & Math
+
+      Industrial Management
+
+      Management
+
+      Marketing
+
+      IM/Oper & Supply Chain Mgmt
+
+      Supply Chain Info & Analytics
+
+      Strategy & Organiz Mgmt
+
+
+Prerequisites: 
+
+ Undergraduate level  STAT 30300 Minimum Grade of C- or Undergraduate level  MGMT 30500 Minimum Grade of C- or Undergraduate level  STAT 35000 Minimum Grade of C- or Undergraduate level  STAT 51100 Minimum Grade of C-
+
+

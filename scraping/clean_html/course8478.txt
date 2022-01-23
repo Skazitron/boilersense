@@ -1,0 +1,62 @@
+CGT 31301 - The Business Of Managing Digital Product Data
+
+Credit Hours: 3.00.  This course provides experience in the business-related aspects of PLM tools and methods. Topics include identifying specifications and roles for system users within an organization, creating database models for digital product information, workflows, virtual machine installation and configuration of PLM systems, budgeting, and benchmarking.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Recitation, Studio 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Identify specifications and requirements for users of PLM systems.
+2.  Identify user roles and create them with appropriate permissions in a PLM system.
+3.  Install and configure a PLM system to be used by student teams.
+4.  Develop the product data model consistent with user requirements.
+5.  Conduct basic benchmarking and budgeting activities for a PLM deployment.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Graphics Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CGT 11301 Minimum Grade of C-
+
+

@@ -1,0 +1,66 @@
+CNIT 55700 - Advanced Research Topics In Cyber Forensics
+
+Credit Hours: 3.00.  Provides students at the advanced degree level the opportunity to expand their knowledge of cyber forensics. Students are expected to have fundamental understanding of cyber forensics and digital forensic science. The emphasis is on directed learning and scholarly inquiry. Possible research topics range from law and public policy to software and/or hardware development. Permission of instructor required.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Individual Study, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-CNIT 55600 Crs Min Grd B-
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CNIT
+55600
+
+
+Minimum Grade of 
+B-
+
+May not be taken concurrently.
+)
+
+
+

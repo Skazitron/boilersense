@@ -1,0 +1,188 @@
+CS 18200 - Foundations Of Computer Science
+
+Credit Hours: 3.00.  Logic and proofs; sets, functions, relations, sequences and summations; number representations; counting; fundamentals of the analysis of algorithms; graphs and trees; proof techniques; recursion; Boolean logic; finite state machines; pushdown automata; computability and undecidability.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture, Practice Study Observation 
+
+
+Offered By: College of Science 
+
+Department: Computer Science 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1. Understand discrete mathematical tools, facts, and reasoning relevant to computer science.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Fields of Study (Major, Minor,  or Concentration):
+
+      Computer Science
+
+      Computer Science Honors
+
+      Data Science
+
+      Data Science First Year
+
+      IM/Computer Science
+
+
+Prerequisites:
+
+CS 18200 Requisites
+
+
+General Requirements:
+
+ ( 
+Course or Test: 
+CS
+18000
+
+
+Minimum Grade of 
+C
+
+May not be taken concurrently.
+ )and( 
+Course or Test: 
+MA
+16100
+
+
+Minimum Grade of 
+C
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+16300
+
+
+Minimum Grade of 
+C
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+16500
+
+
+Minimum Grade of 
+C
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+16700
+
+
+Minimum Grade of 
+C
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+22100
+
+
+Minimum Grade of 
+C
+
+May not be taken concurrently.
+and
+Course or Test: 
+MA
+22200
+
+
+Minimum Grade of 
+C
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+16021
+
+
+Minimum Grade of 
+C
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+22300
+
+
+Minimum Grade of 
+C
+
+May not be taken concurrently.
+and
+Course or Test: 
+MA
+22400
+
+
+Minimum Grade of 
+C
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+16010
+
+
+Minimum Grade of 
+C
+
+May not be taken concurrently.
+and
+Course or Test: 
+MA
+16020
+
+
+Minimum Grade of 
+C
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MATH
+16500
+
+
+Minimum Grade of 
+C
+
+May not be taken concurrently.
+)
+
+
+

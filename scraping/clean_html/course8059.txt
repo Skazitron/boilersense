@@ -1,0 +1,42 @@
+CPB 62600 - Design And Analysis Of Epidemiologic Studies
+
+Credit Hours: 3.00.  Focuses on epidemiologic study design and applications of statistical software to the analysis of data derived from health research. Includes an overview of epidemiologic study designs, frequency and association measures, generalized linear models and survival analysis. Hands-on computer laboratories are provided using data derived from field studies. Prerequisites: One graduate level course in biostatistics.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Laboratory, Lecture 
+
+
+Offered By: Veterinary Medicine 
+
+Department: Comparative Pathobiology 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand and apply different epidemiologic study designs to their own disciplines and research.
+2.  Identify and apply appropriate statistical methods to analyze data collected from different epidemiologic studies.
+3.  Use available software programs to analyze data collected from health research.
+4.  Interpret results from analysis of epidemiologic data.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

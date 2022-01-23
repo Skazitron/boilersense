@@ -1,0 +1,52 @@
+CHE 30600 - Design Of Staged Separation Processes
+
+Credit Hours: 3.00.  The application of equilibria and mass and energy balances for the design of staged separation processes. Use of various equilibrium data and thermodynamic principles for the design of batch and continuous distillation, absorption, stripping, and extraction systems. Stagewise calculations and graphical methods for design of binary systems. Design of multicomponent separators. Determination of stage efficiency and column size.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture, Practice Study Observation 
+
+
+Offered By: School of Chemical Engineering 
+
+Department: Chemical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Utilize the concepts and relations of phase equilibria, particularly VLE, in the analysis, design, and simulation of separation processes.
+2.  Use mass and energy balances in the analysis of separation processes.
+3.  Use the McCabe-Thiele diagram for the solution of problems in binary separations.
+4.  Use reflux and multi-stage cascades to increase separation of a given component.
+5.  Use process simulators for binary and multi-component systems to solve, understand, and design separation processes. 
+6.  Apply the basic principles of distillation, absorption/stripping, extraction and other unit operations for the solution of problems in separations.
+7.  Identify the safety aspects of various separation processes.
+8.  Communicate effectively the results of a designed separation process in writing. 
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Chemical Engineering
+
+
+Prerequisites: 
+
+ Undergraduate level  CHE 20500 Minimum Grade of C and Undergraduate level  CHE 21100 Minimum Grade of C-
+
+

@@ -1,0 +1,62 @@
+CNIT 34500 - Internetwork Design And Implementation
+
+Credit Hours: 4.00.  This is an advanced course in network architecture. Students learn to design and implement local and wide area networks capable of simultaneous transport of real-time traffic and multiprotocol data over packet-switched and circuit-switched networks. An emphasis is placed on the integration of diverse communications technologies, while considering the effects of engineering decisions on overall performance, from both business and technology perspectives.
+
+    0.000 OR     4.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Understand the operation of shortest path spanning trees in internetworks.
+2.  Perform IP subnetworking to correctly size and allocate addressing to network devices.
+3.  Perform IP supernetworking to correctly size and allocate addressing to network devices.
+4.  Identify the correct network architecture to deploy a given set of requirements.
+5.  Deploy dynamic routing protocols.
+6.  Design, deploy, test, and maintain enterprise-class internetworks.
+7.  Demonstrate an understanding of medium characteristics, modulation and multiplexing techniques, physical layer framing structures used in data networks.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 24000 Minimum Grade of C- and Undergraduate level  CNIT 24200 Minimum Grade of C-
+
+

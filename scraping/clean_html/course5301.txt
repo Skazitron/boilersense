@@ -1,0 +1,41 @@
+ECE 60421 - Nanophotonics And Metamaterials
+
+Credit Hours: 3.00.  The course will cover nanoscale processes and devices and their applications for manipulating light on the nanoscale. The following topics will be covered: Fundamentals, Maxwell's equations, light-matter interaction, dispersion, EM properties of nanostructures; Photonic crystals and photonic crystal fibers; Photonic and plasmonic nanocircuits; Silicon nanophotonics; Metal optics; Manipulating light with plasmonic nanostructures; Plasmonic nano-sensors; Near-field optics; Metamaterials: artificial magnetism and negative refractive index; Metamaterials: superlens and hyperlens; Transformation optics and cloaking; Nanolasers; Tunable and active plasmonic materials; Refractory plasmonics; Plasmonics for energy conversion, data storage and biomed applications; Metasurfaces; Intro to quantum photonics. Prerequisites by Topic: Basic knowledge of electromagnetism and solid state materials, Maxwell equations and band structure of solids.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Derive, calculate and analyze the optical properties of metals including plasma frequency, relaxation time, dielectric constant, reflection and transmission coefficients.
+2.  Derive and analyze the optical properties of nanophotonic systems including color centers in solids, metallic nanoparticles, metal-dielectric slabs, thin metal films, metamaterial slabs with negative refraction.
+3.  Analyze surface plasmon polariton waveguides and waveguide properties.
+4.  Articulate the fundamentals of optics of structured media.
+5.  Demonstrate an understanding of novel concepts in photonics, including photonic crystals, metamaterials, nanoscale interconnects, metal optics, transformation optics, nanolasers, nanosensors, super- and hyperlens and quantum nanophotonics.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

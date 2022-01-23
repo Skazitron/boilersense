@@ -1,0 +1,43 @@
+MA 27101 - Honors Multivariate Calculus
+
+Credit Hours: 5.00.  This course is the Honors version of MA 26100, Multivariate Calculus; it will also include a review of infinite series. The course is intended for first-year students who have credit for Calculus I and II. There will be a significant emphasis on conceptual explanation, but not on formal proof. Permission of department is required. Typically offered Fall.
+
+    0.000 OR     5.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture, Recitation 
+
+
+Offered By: College of Science 
+
+Department: Mathematics 
+
+
+Course Attributes: Honors, Lower Division, GTC-Quantitative Reasoning, UC-Quantitative Reasoning 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Know techniques of vector algebra and be able to apply these to the geometry of space; in particular they will be able to find equations for lines and planes in space. 
+2.  Find equations for standard surfaces in space. 
+3.  Use vector methods to analyze motion in space, and calculate arc length and curvature. 
+4.  Acquire a conceptual and computational knowledge of infinite series; in particular they will be able to test for convergence, and to do calculations with power series. 
+5.  Understand the meaning of partial derivatives in various situations, and will be able to calculate with them. 
+6.  Know the multivariable chain rule and its meaning, and will be able to apply it to calculate derivatives in various situations. 
+7.  Know the meaning of directional derivatives and how to calculate them.
+8.  Find tangent planes. 
+9.  Find and classify extreme values and saddle points and use the method of Lagrange multipliers. 
+10.  Know the meaning of multiple integrals and how to calculate them.
+11.  Know the meaning of line integrals and surface integrals and how to calculate them.
+12.  Know Green's theorem, Stokes' theorem, and the divergence theorem and their applications.
+
+
+

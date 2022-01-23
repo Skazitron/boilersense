@@ -1,0 +1,43 @@
+NUCL 62000 - Advanced Topics In Radiation Damage
+
+Credit Hours: 3.00.  Materials phenomena unique to nuclear reactor environments are examined quantitatively. The relation between these phenomena and the structure and properties of engineering materials is discussed. Coupled phenomena are considered in relation to materials modeling codes.  Prerequisite:  NUCL 42000 and NUCL 52000 (or other related/similar courses). Typically offered Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Nuclear Engineering 
+
+Department: Nuclear Engineering 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Learn performance of nuclear materials in reactor environments.
+2.  Learn the effects of various radiations on materials damage and lifetime.
+3.  Learn methods and techniques to extend the lifetime, safety, and reliability of reactor components.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+Must be enrolled in one of the following Majors:      
+
+      Nuclear Engineering
+
+

@@ -1,0 +1,33 @@
+MA 50400 - Real Analysis
+
+Credit Hours: 3.00.  Completeness of the real number system, basic topological properties, compactness, sequences and series, absolute convergence of series, rearrangement of series, properties of continuous functions, the Riemann-Stieltjes integral, sequences and series of functions, uniform convergence, the Stone-Weierstrass theorem, equicontinuity, and the Arzela-Ascoli theorem. Typically offered Fall.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Science 
+
+Department: Mathematics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

@@ -1,0 +1,43 @@
+ABE 31400 - Design Of Electronic Systems
+
+Credit Hours: 3.00.  Fundamental aspects of circuits, microprocessors, transducers, sensors, instrumentation, and data acquisition are presented, with particular emphasis on electronic systems used in agricultural, biological, and food applications. Laboratory exercises used to apply the course material to constructing and testing circuits, microprocessor controlled systems, and the data collection and monitoring of systems.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Ag & Biological Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  An ability to apply knowledge of mathematics, science, and engineering.
+2.  An ability to design and conduct experiments, as well as to analyze and interpret data.
+3.  An ability to design a system, component, or process to meet desired needs within  realistic constraints such as economic, environmental, social, political, ethical, health and safety, manufacturability, and sustainability.
+4.  An ability to identify, formulate, and solve engineering problems. 
+5.  A recognition of the need for, and an ability to engage in life-long learning. 
+6.  An ability to use the techniques, skills, and modern engineering tools necessary for engineering practice.   
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MA 26200 Minimum Grade of D- or Undergraduate level  MA 26600 Minimum Grade of D-
+
+

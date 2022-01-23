@@ -1,0 +1,61 @@
+CNIT 42500 - Software Development For Mobile Devices II
+
+Credit Hours: 3.00.  This programming course teaches students the skills necessary to develop complex applications for mobile computing devices (e.g. smartphones and tablet computers).  This course gives students hands-on experience developing mobile applications that use advanced features found on the latest mobile computing devices.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1. Develop applications for mobile devices that use advance features of mobile devices.
+2. Develop apps that use more than one processing thread.
+3. Develop apps that communicate with code running on a server.
+4. Understand ways to earn money from a mobile application.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 35500 Minimum Grade of C-
+
+

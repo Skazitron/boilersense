@@ -1,0 +1,38 @@
+ECE 60874 - Mobile Computing Systems
+
+Credit Hours: 3.00.  This course will introduce the technologies of mobile computing systems for various applications, including multimedia, cloud services, location-based services, data collections and privacy. This course will include both hands-on assignments writing mobile applications as well as reading recently published papers on the technologies. The students will design mobile services and present their projects.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Examine recent technologies in mobile computing.
+2.  Design mobile services and present their projects.
+3.  Plan for data collection and respect users' privacy.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

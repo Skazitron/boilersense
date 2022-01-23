@@ -1,0 +1,38 @@
+CS 43400 - Advanced Computer Graphics
+
+Credit Hours: 3.00.  Advanced concepts and techniques of computer graphics. The course covers, in complete detail, going from a scene representation to a raster image without using OpenGL or other graphics packages. The course develops a complete graphics implementation in which the students implement every aspect of the graphics pipeline. This involves a substantial software project in C/C++.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture, Practice Study Observation 
+
+
+Offered By: College of Science 
+
+Department: Computer Science 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Computer Science-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CS 33400 Minimum Grade of C
+
+

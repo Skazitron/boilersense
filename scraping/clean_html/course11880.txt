@@ -1,0 +1,31 @@
+CE 40800 - Geographic Information Systems In Engineering
+
+Credit Hours: 3.00.  This course provides an introduction to the application of geographic information systems (GIS) to civil engineering problems. GIS is a tool for analysis, modeling, and evaluation of civil engineering problems. The design of spatial databases, assembly of requisite data, and the development of analysis tools within GIS are presented. This course will address: definition of spatial data, data types, spatial relationships, computer operation on spatial data, topology in spatial data, representation of features in a GIS, data models, data dictionaries, data capture techniques; database types, composition of spatial queries, analysis of engineering data using a GIS, complex analysis of polygon and linear features, presentation of results, use of a GIS as an engineering model test bed.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: School of Civil Engineering 
+
+Department: Lyles School of Civil Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MA 26100 Minimum Grade of C- or Undergraduate level  MA 27100 Minimum Grade of C- or Undergraduate level  MA 18200 Minimum Grade of C- or Undergraduate level  MA 17400 Minimum Grade of C- or Undergraduate level  MA 26300 Minimum Grade of C-
+
+

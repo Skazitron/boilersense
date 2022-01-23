@@ -1,0 +1,53 @@
+CE 33500 - Civil Engineering Materials
+
+Credit Hours: 4.00.  An introduction to the relationships between fundamental structure of materials and their properties presented through a combination of materials science and engineering approaches. Emphasis on materials of particular interest for civil engineering applications, including metals, aggregates, portland cement concrete, bituminous materials, asphalt binders, asphalt mixtures, wood, polymers, composites, and masonry. Laboratory exercises illustrate atomic structure, elastic and inelastic properties, and demonstrate applications of selected principles of mechanics, testing of aggregates, as well as designing and testing of asphalt and concrete mixtures.
+
+    0.000 OR     4.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: School of Civil Engineering 
+
+Department: Lyles School of Civil Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Formulate equations that describe the properties of composite materials based on boundary conditions, assumptions and constituent properties.
+2.  Design and conduct experiments, as well as to analyze and interpret data.
+3.  Use non-destructive tests to estimate material properties.
+4.  Use non-destructive test to locate flaws in engineering systems.
+5.  Compare and contrast strength of materials and fracture mechanics solutions.
+6.  Use mathematics, science and engineering principles to estimate the influence of cracks on the mechanical response of engineering materials.
+7.  Use scientific and engineering principles to predict the elastic and viscoelastic of a material.
+8.  Interpret engineering properties from test data.
+9.  Use standardized test procedures to describe the properties of engineering materials.
+10.  Use mathematical, scientific and engineering principles to compute the influence of material proportions on the structure property relationships for concrete materials.
+11.  Design the proportions for a concrete mixture.
+12.  Explain the relationship between the properties of an asphalt mixture and its performance.
+13.  Select engineering materials for specific applications.
+14.  Communicate effectively using graphs.
+15.  Communicate effectively using an executive summary.
+16.  Communicate effectively using an engineering report.
+17.  Communicate the expected accuracy obtained from engineering data.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  CE 27000 Minimum Grade of C-
+
+

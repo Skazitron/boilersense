@@ -1,0 +1,47 @@
+BME 36000 - Introduction To Biomedical Imaging
+
+Credit Hours: 3.00. The main focus of this course is on basic principles and modes of major bioimaging modalities.  This course covers image characterization, interactions of electromagnetic radiation with tissue, fundamental principles in imaging and detection, and modes of imaging modalities (e.g. reflection, transmission, absorption, and emission).  Conventional bioimaging modalities will be used to teach the topics.  This course is particularly aimed at students in science and engineering interested in gaining a conceptual understanding of several critical biological and biomedical imaging methods, including optical microscopy, ultrasound, X-ray imaging, computed tomography, nuclear medicine, magnetic resonance imaging, and mobile health. Overall, this course provides a conceptual framework for biomedical imaging in a reasonably concise and understandable format (with minimal mathematical approaches).
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Biomedical Engr 
+
+Department: Weldon Schl of Biomedical Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Explain the principles of conventional Bioimaging modalities.
+2.  Distinguish advantages and disadvantages of each modality.
+3.  Describe utilizations of imaging in biological and medical fields.
+4.  Determine appropriate bioimaging methods for particular studies and applications.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      Biomedical Engineering
+
+
+Prerequisites: 
+
+ Undergraduate level  BME 20700 Minimum Grade of D- and Undergraduate level  ECE 30100 Minimum Grade of D- [may be taken concurrently]
+
+

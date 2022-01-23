@@ -1,0 +1,42 @@
+IT 65800 - Biometric Systems Interoperability: Applications And Challenges
+
+Credit Hours: 3.00. This course provides a technology neutral approach to the discussion of biometric system interoperability. It examines the issues of biometric sub-systems of different biometric modalities and sub-systems of the general biometric model. Students will be able to critically evaluate the impact of interoperability of sub-systems on the performance of the entire system. Prerequisites: IT 54500 and either IT 50700 or STAT 50100. Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Technology Ldrshp & Innovatn 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand sub-systems of a generic biometric system model.
+2.  Understand sub-systems of different biometric modalities: fingerprint, face, iris, and hand recognition.
+3.  Ability to critically evaluate the impact of interoperability of sub-systems on performance of the entire system.
+4.  Ability to present findings in a clear and coherent manner.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

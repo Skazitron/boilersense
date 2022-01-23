@@ -1,0 +1,66 @@
+CGT 35600 - Web Programming, Development And Data Integration
+
+Credit Hours: 3.00.  A course focusing on the development of dynamic content and applications to facilitate information distribution. The course stresses development strategies for managing the rapidly changing information of corporations and organizations for just-in-time distribution, using authoring programs to create interactive multimedia products that utilize database management systems, file systems, and XML to provide a method for visualizing and manipulating that data.  Significant time is spent on intermediate to advanced programming and scripting.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Individual Study, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Dept Credit, Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      IUPUI
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+      Kokomo
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Demonstrate an understanding of how to use server-side technology to develop dynamic web sites and personalize content for users.
+2.  Integrate server-side and client side technology in developing web applications.
+3.  Demonstrate an understanding of the logic behind web applications. 
+4.  Cerate projects using server-side technologies to be used in an advanced Web project.
+5.  Utilize custom COM objects for file uploading, sending emails, and other purposes.  
+6.  Show understanding of basic database design, theory, and application. 
+7.  Design and create databases in SQL Server (or equivalent robust DBMS)
+8.  Use SQL SELECT, INSERT, UPDATE, DELETE, and CREATE statements appropriately.     
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Graphics Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CGT 21500 Minimum Grade of C- or Undergraduate level  CS 18000 Minimum Grade of C- or Undergraduate level  CS 15800 Minimum Grade of C- or Undergraduate level  CS 15900 Minimum Grade of C-
+
+

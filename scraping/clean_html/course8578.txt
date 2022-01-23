@@ -1,0 +1,39 @@
+CGT 62000 - Graphics Processing Unit Computing
+
+Credit Hours: 3.00.  This course provides a working knowledge of general-purpose graphics processing unit computing (GPGPU) using CUDA, OpenCL,  and C++. OpenCL and CUDA are the platform independent industrial standard API and leading edge technology for GPGPU. The course focuses on utilizing, GPU for advanced tasks of scientific computing on parallelization of creating real-time and interactive applications and is structured into several blocks; parallel programming and synchronization tasks, GPU architecture, CUDA programming model, the OpenCL programming model. Permission of instructor required.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand the Graphics Processing Unit Computing models.
+2.  Understand the modern Graphic Processing Units.
+3.  Parallelize sequential tasks and apply them to the Graphics Processing Unit Computing model.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

@@ -1,0 +1,74 @@
+MGMT 53900 - Analytics For Social Media Marketing
+
+Credit Hours: 2.00 or 3.00.  The objective of this course is to equip students with tools and develop marketing skills required to address current marketing problems.  The approach is to learn R software for conducting basic scraping on social media sites to understand user behavior and sentiment. In addition, Python will be used for web-scraping data from various websites and websites with dynamic content. The goal is to become familiar with such qualitative techniques as: word clouds, cluster dendrograms, sentiment analysis, and other methods. Occasional homework assignments or check points will be given to gain deeper understanding of the materials covered in class.
+
+    2.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Management 
+
+Department: Dept of Management 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Learn how to collect and analyze consumer behavior and sentiment from social media platforms.
+2.  Gain experience in understanding online consumer search terms and related consumer trends.
+3.  Learn to become a marketing manager who would monitor competitors' products and pricing actions on the online space.
+4.  Be exposed to the challenges of recent online platforms where websites use dynamic content to increase user interactivities.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Economics-MS
+
+      Economics-ND
+
+      Economics-PHD
+
+      Management Exec-MBA
+
+      Management Exec-MS
+
+      Management Exec-ND
+
+      International Mgmt Masters-MBA
+
+      Management-MBA
+
+      Management-MS
+
+      Management-MSIA
+
+      Management-ND
+
+      Management-PHD
+
+      Org Behav and HR Mgmt-ND
+
+      Org Behav HR Mgmt-PHD
+
+      Economics-MA Teaching
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

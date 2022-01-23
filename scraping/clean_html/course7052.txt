@@ -1,0 +1,50 @@
+HTM 25500 - Advanced Spreadsheet Techniques For Hospitality And Tourism Management
+
+Credit Hours: 2.00.  This course builds upon information and skills obtained in an entry level-computing course.  It will take students to the next level by introducing them to more advanced techniques used in Hospitality, Tourism, Retail, and Sales Management. Typically offered Fall Spring.
+
+    2.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Health & Human Sci 
+
+Department: School of Hosp & Tourism Mgmt 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Demonstrate proper utilization of spreadsheet techniques to effectively organize and analyze data for management presentations.
+2.  Explain the purpose of selected spreadsheet techniques and describe how they are used in Hospitality, Tourism, Retail, and Sales Management.
+3.  Demonstrate advanced spreadsheet techniques, such as: Advanced Spreadsheet Formulas; Statistical Analysis; Validating Data Entry; Conditional Formatting; Advanced Charting Techniques; Pivot Tables; Spreadsheet Dashboards; Recording and Using Spreadsheet Macros; Power Query; Advanced Cell/Column/Row/Table Formatting; Creating Templates.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      Hospitality & Tourism Mgmt
+
+      Retail Management
+
+      Selling & Sales Management
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 13600 Minimum Grade of D- or Undergraduate level  CS 23500 Minimum Grade of D-
+
+

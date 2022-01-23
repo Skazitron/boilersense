@@ -1,0 +1,134 @@
+ECE 30416 - Basics Of Engineering Optics
+
+Credit Hours: 3.00.  Basic control over propagation, reflection, refraction of optical radiation are covered. Applications to optical instrumentation such as microscopy, polarization optics such as wave plates, thin films, and holography are discussed. Geometrical optics including lenses, mirrors, prisms; Huygens' principle, Fermat principle; rays; incoherent light. Physical Optics including gratings, interferometers, diffraction elements, polarizers; Huygens-Fresnel principle. Waves, amplitude and phase, coherent light. Law of reflection and refraction, interference, diffraction, polarization.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Analyze simple optical systems including dielectric slabs, thin lenses, and reflectors.
+2.  Model Gaussian beams and the transformation of beams.
+3.  Analyze and design polarization systems, including polarizers and wave plates.
+4.  Know of optical interferometers and the operations of interferometers such as the Michelson, Fabry-Perot and double-slit.
+5.  Analyze diffraction patterns.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Elec & Computer Engr
+
+
+Prerequisites:
+
+ECE 30416 Requisites
+
+
+General Requirements:
+
+ ( 
+Course or Test: 
+ECE
+30100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )and( 
+Course or Test: 
+ECE
+30411
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ECE
+31100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )and( 
+Course or Test: 
+MA
+26200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+26500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+MA
+26600
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+26500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+MA
+36600
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

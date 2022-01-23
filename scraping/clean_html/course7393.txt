@@ -1,0 +1,49 @@
+HORT 53100 - Applied Plant Genomics
+
+Credit Hours: 2.00.  This course aims to provide students an introduction to the theory and practice of functional genomics in plants. The course is centered around the many forms in which DNA sequencing technologies are applied to understand plant genomes, their variation and their function. The course will cover concepts in plant genome sequencing, transcriptome profiling and functional enrichment analyses in sets of genes. This is a full semester course that meets twice a week for: 1. A lecture that covers the rationale and theory of the topic and 2. A hands-on lab section that provides experiential learning with the computational tools and packages used in plant genomics and transcriptomics. Typically offered Fall.
+
+    0.000 OR     2.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Hort & Landscape Architecture 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Describe and compare the chemistry, data yield, and cost of first generation, next generation and third generation sequencing technologies, and their applications in plant genome sequencing.
+2.  Obtain and understand the information on genome sequences and gene annotations for a sequenced plant genome.
+3.  Design and perform a transcriptome analysis pipeline.
+4.  Describe the statistical basis of gene enrichment analysis.
+5.  Apply standard gene group analysis tools to perform GO term analysis, motif analysis, pathway analysis, gene list overlapping and gene regulatory network analysis to interpret a gene list resulting from a functional genomics project.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

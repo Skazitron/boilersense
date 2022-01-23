@@ -1,0 +1,64 @@
+CS 58400 - Theory Of Computation And Computational Complexity
+
+Credit Hours: 3.00.  The theory of general purpose programming systems. Recursive and partial-recursive functions; recursive and recursively enumerable sets. The Church-Turing thesis. The recursion theorem, Rogers' translation theorem, Rice's undecidability theorem. The general theory of computational complexity: there are no general solutions to natural optimization problems. Complexity for specific models of computation: the polynomial complexity classes P, NP, and PSPACE; NP-hard and PSPACE-hard problems, inherently exponential problems.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Computer Science 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Computer Science-PHD
+
+      Computer Science-MS
+
+      Computer Science-MS
+
+
+Prerequisites:
+
+GR-CS 48300 Course
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CS
+48300
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

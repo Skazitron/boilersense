@@ -1,0 +1,33 @@
+MA 58500 - Mathematical Logic I
+
+Credit Hours: 3.00.  Propositional and predicate calculus; the Gdel completeness and compactness theorem, primitive recursive and recursive functions; the Gdel incompleteness theorem; Tarski's theorem; Church's theorem; recursive undecidability; special topics such as nonstandard analysis. Typically offered Fall.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Science 
+
+Department: Mathematics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

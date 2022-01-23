@@ -1,0 +1,53 @@
+MET 22000 - Heat And Power
+
+Credit Hours: 3.00.  Heat/Power is an introduction to the principles of thermodynamics and heat transfer. Basic thermodynamic processes are used to evaluate the performance of energy-based systems such as internal combustion engines, power plants, and refrigeration equipment. Typically offered Fall Spring.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Dept Credit, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      IUPUI
+
+      West Lafayette
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Determine properties of gases, steam, and refrigerants.
+2.  Analyze fixed mass and steady flow control volume systems and devices.
+3.  Apply fundamental concepts of the 2nd Law of Thermodynamics to heat-work energy conversion and thermal efficiency.
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  ENGT 18000 Minimum Grade of D- or Undergraduate level  MET 16200 Minimum Grade of D- or Undergraduate level  MET 16000 Minimum Grade of D-) and (Undergraduate level  PHYS 22000 Minimum Grade of D- or Undergraduate level  PHYS 21800 Minimum Grade of D- or Undergraduate level  PHYS 17200 Minimum Grade of D-) and (Undergraduate level  MA 16010 Minimum Grade of D- or Undergraduate level  MA 22100 Minimum Grade of D- or Undergraduate level  MA 16100 Minimum Grade of D- or Undergraduate level  MA 16500 Minimum Grade of D- or Undergraduate level  MA 18100 Minimum Grade of D- or Undergraduate level  MA 22700 Minimum Grade of D- or Undergraduate level  MA 16300 Minimum Grade of D- or Undergraduate level  MA 19000 Minimum Grade of D-)
+
+

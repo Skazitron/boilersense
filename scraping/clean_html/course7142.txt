@@ -1,0 +1,75 @@
+HTM 54200 - Strategic Revenue Management In The Hospitality Industry
+
+Credit Hours: 3.00.  In this course, we will treat revenue management as a strategic platform for maximizing property-wide incomes, thus property value. The course is designed to provide students the theoretical foundation, tactical tools, and practical applications of revenue management. At the end of the course, students should be able to identify the problems and challenges during the implementation of revenue management systems and anticipates future trends and prospects. Typically offered Fall Spring Summer.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning 
+
+
+Offered By: College of Health & Human Sci 
+
+Department: School of Hosp & Tourism Mgmt 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Describe the evolution and fundamental concepts of revenue management.
+2.  Apply the concepts of constrained capacity, opportunity costs, demand uncertainty, market segmentation, and differential pricing in setting prices.
+3.  Forecast demand based on historical data and advanced booking data.
+4.  Explain Littlewood's Rule and its implications on capacity allocation problems.
+5.  Use Littlewood's Rule to calculate the optimal protection level of a two-class capacity allocation problem.
+6.  Describe the ideas behind Expected Marginal Seat Revenue Heuristics.
+7.  Set booking limits with overbooking policies.
+8.  Identify the trends and management issues of distribution channels.
+9.  Identify organizational issues and consumer responses of implementing revenue management.
+10.  Apply revenue management in restaurants, function spaces, and other non-room operations.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Hosp Tour Mgmt-MS
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+
+Prerequisites:
+
+GR-HTM 54200  Requisites
+
+
+General Requirements:
+
+ ( 
+Course or Test: 
+HTM
+50300
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

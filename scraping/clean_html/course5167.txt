@@ -1,0 +1,49 @@
+ECE 43300 - Power Electronics
+
+Credit Hours: 3.00.  Introduction to the fundamental operating principles of power conditioning circuits that are currently being used to effect power flow from AC to DC and vice versa. Emphasis is on the relationship between form and function of these circuits. Circuits discussed will include AC/DC line-commutated converters, DC/DC converters, DC/variable frequency converters, resonant converters, and AC/AC converters. Computer simulations will be used as a part of the coursework.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Apply knowledge obtained in earlier coursework and to obtain new knowledge necessary to design and test a microcontroller-based digital system.
+2.  Understand the engineering design process. 
+3.  Function on a multidisciplinary team. 
+4.  Be aware of professional and ethical responsibility. 
+5.  Communicate effectively, in both oral and written form. 
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Elec & Computer Engr
+
+
+Prerequisites: 
+
+ Undergraduate level  ECE 20002 Minimum Grade of D- or Undergraduate level  ECE 25500 Minimum Grade of D-
+
+

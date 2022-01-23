@@ -1,0 +1,40 @@
+CGT 67000 - Applications In Visual Analytics
+
+Credit Hours: 3.00.  Visual Analytics (VA) provides a fast way for people to make sense of large number of data, and has applications in many sectors. This course will introduce Visual Analytics through foundational theories and a broad range of techniques and tools, focusing on using visualization methods to reason and solve complex problems in a wide variety of applications. Visual analytics is the science of analytical reasoning facilitated by interactive visual interfaces that synthesize human and computational ability to attack large complex problems.  It is concerned with analytical reasoning, interaction, data transformations, data visualization, analytic reporting, and technology transition. While the different visual analytics applications share common theories and strategies, each of them has its unique data composition, visual representations, and analytical needs and strategies. Through survey and study a broad range of visual analytics applications, students will be able to apply visual analytics on their own applications, analyze and break down a complex analytical problem into proper components and steps, evaluate different visual analytic techniques and strategies, and finally design and develop an effective visual analytics solution toward the problem.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Describe the purposes, foundational theories, research components, and process of visual analytics.
+2.  Select proper visualization forms from visual analytics tools to answer specific reasoning questions.
+3.  Apply information visualization and visual analytics approaches to analyze complex problems from data processing, transformation, to visualization, and analysis.
+4.  Compare, analyze and assess different visual analytics approaches from various aspects such as effectiveness, efficiency, scalability, learnability, and user experience.
+5.  Develop a visual analytics solution and evaluate its efficacy in solving a complex domain problem.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

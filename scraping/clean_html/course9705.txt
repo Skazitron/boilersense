@@ -1,0 +1,38 @@
+MA 47201 - Actuarial Models- Life Contingencies
+
+Credit Hours: 4.00.  Mathematical foundation of actuarial science, emphasizing probability models for life contingencies as the basis for analyzing life insurance and life annuities and determining premiums and reserves. This course provides the background for Course MLC of the Society of Actuaries and Course 3L of the Casualty Actuarial Society. Typically offered Fall.
+
+    4.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Individual Study, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Mathematics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand and use decrement models in conjunction with interest rate models to evaluate insurance, annuities, and investments. 
+2.  Apply models to calculate actuarial values, gross and net premiums, and benefit and expense reserves. Among the decrement models learned will be standard mortality, models, static mortality table models, and continuous time Markov chains in both a single decrement and multiple decrement environment.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MA 37300 Minimum Grade of C- and (Undergraduate level  MA 41600 Minimum Grade of C- or Undergraduate level  STAT 41600 Minimum Grade of C- or Undergraduate level  STAT 51600 Minimum Grade of C-)
+
+

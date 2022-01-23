@@ -1,0 +1,46 @@
+CNIT 48200 - Six Sigma Data Quality For Continuous Improvement
+
+Credit Hours: 3.00.  A study of data quality for Six Sigma level of improvement, applying a Six Sigma DMAIC (Define, Measure, Analyze, Improve and Control) improvement methodology, utilizing information tools and techniques. The course addresses advanced topics in statistical based continuous improvement, data quality; and Big Data Analytics concepts, as pertains to systematic problems. An embedded certificate in SS is included in the body of knowledge.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Explain how Six Sigma principles are used for continuous improvement.
+2.  Apply the DMAIC and Big Data approach in solving team based, project based problems.
+3.  Demonstrate understanding of data quality principles as applied to compelling business cases.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 28000 Minimum Grade of C- and (Undergraduate level  STAT 22500 Minimum Grade of D- or Undergraduate level  STAT 30100 Minimum Grade of D- or Undergraduate level  STAT 50100 Minimum Grade of D- or Undergraduate level  STAT 51100 Minimum Grade of D-)
+
+

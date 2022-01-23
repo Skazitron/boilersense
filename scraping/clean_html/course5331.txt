@@ -1,0 +1,32 @@
+ECE 64800 - Wavelet, Time-Frequency, And Multirate Signal Processing
+
+Credit Hours: 3.00.  Advanced topics in signal processing, including time-frequency analysis, multiscale edge detection, wavelet bases and filter banks, and techniques for approximation, estimation, and compression using wavelets. Offered in alternate years. Prerequisite: ECE 53800.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      IUPUI
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

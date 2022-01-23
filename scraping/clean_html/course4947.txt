@@ -1,0 +1,46 @@
+STAT 47901 - Short Term Actuarial Models
+
+Credit Hours: 4.00.  This course aligns with one of the Society of Actuaries examinations. The course will cover the learning objectives for a portion of the Society of Actuaries Examination STAM. Permission of department required. Permission of instructor required. Typically offered Spring.
+
+    4.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Statistics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Repeatable for Additional Credit: Yes - May be repeated an unlimited number of times
+
+
+Learning Outcomes: 
+1.  Calculate moments, percentiles, and generating functions.
+2.  Describe how changes in the parameters affect the distribution.
+3.  Recognize classes of distributions, including extreme value distributions, and their relationships.
+4.  Create new distributions by multiplication by a constraint, raising to a power, exponentiation, and mixing.
+5.  Identify the applications to which each distribution may apply and explain why.
+6.  Apply the distribution to an application, given the parameters.
+7.  Compare two distributions based on various characteristics of their tails, including moments, ratios of moments, limiting tail behavior, hazard rate function, and mean excess function.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  STAT 41700 Minimum Grade of C-
+
+

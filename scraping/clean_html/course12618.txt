@@ -1,0 +1,59 @@
+IET 43630 - Design Of Experiments
+
+Credit Hours: 3.00.  Introduction to statistical design of experiments. The course examines the difference between single, multivariate, and factorial experimental designs. Concepts of optimization and response surface methodologies are introduced. The course focuses on interpreting and communicating experimental results. Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Recitation 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Indianapolis
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+      Vincennes
+
+
+Learning Outcomes: 
+1.  Formulate hypotheses to address a specific problem.
+2.  Design an appropriate experiment to test a hypothesis.
+3.  Differentiate between main effects and interaction effects.
+4.  Distinguish between control factors and error factors.
+5.  Interpret and communicate experimental results.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  TLI 31600 Minimum Grade of D- or Undergraduate level  STAT 30100 Minimum Grade of D- or Undergraduate level  IET 31600 Minimum Grade of D-
+
+

@@ -1,0 +1,43 @@
+ECE 57300 - Compilers And Translator Writing Systems
+
+Credit Hours: 3.00.  This course presents the concepts needed to efficiently design and implement translators. Basic compiler/translation theory and technology are briefly reviewed, after which the course focuses on software tools for the automatic construction of translators, as well as more complex concepts involving the construction of compiler symbol tables, etc. Using C on ECN UNIX, each student will construct a simple lexical-recognizer generator, parser generator, and code-generator generator. Basic understanding of compilers and  proficiency in C language required.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      IUPUI
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

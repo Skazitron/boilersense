@@ -1,0 +1,41 @@
+FNR 35950 - Spatial Ecology Laboratory
+
+Credit Hours: 1.00.  The lab will focus on the use and application of spatial databases that are common in natural resource management settings. Introduction to the principles of landscape ecology and biogeography with a laboratory devoted to the analysis of spatial data using geographic information systems and other database tools.  Landscape ecology focuses on the important relationships of landscape structure (pattern, heterogeneity) and ecological processes (movement of animals, hydrologic dynamics) and how this information is used for natural resource management.  Biogeography examines ecological patterns and processes at larger scales (generally at subcontinental to global) for the purposes of managing plants and animals of global importance. In the last 15 years, tremendous efforts have been made to create spatial databases that help support research and management of natural resources at various scales. Typically offered Fall.
+
+    1.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory 
+
+
+Offered By: College of Agriculture 
+
+Department: Forestry and Natural Resources 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Know methods to quantify landscape pattern.
+2.  Use GIS to conduct simple and moderately complex analyses using common public domain databases.
+3.  Know where to get important geospatial data from the internet.
+4.  Work with US government data and understand the various levels of aggregation of spatial data.
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  FNR 21000 Minimum Grade of C- and Undergraduate level  MA 16010 Minimum Grade of C-
+
+

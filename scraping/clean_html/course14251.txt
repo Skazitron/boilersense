@@ -1,0 +1,43 @@
+ENTM 64200 - Analysis Of Ecological Data
+
+Credit Hours: 3.00.  Intermediate course in analysis options for biological and ecological data. Topics include: univariate, multivariate, parametric and non-parametric analysis and their basis; advanced graphical techniques; basic mapping with and without geographical information systems; simulation modeling; associated coding for open source platforms. A previous graduate-level course in statistics is required. Working knowledge of ANOVA, t-tests, linear regression, and assumptions and distributions of test statistics for these is assumed. Typically offered Spring.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Entomology 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Know data and analysis requirements when planning experiments and observational studies.
+2.  Apply several univariate and multivariate statistical analyses.
+3.  Model or simulate simple biological or ecological systems.
+4.  Use several different graphing techniques including mapping, three-dimensional plots, and animations.
+5.  Write code to accomplish 1-4 within open-source software.
+6.  Develop critical thinking skills.
+7.  Foster creativity by finding alternative solutions to analytical challenges.
+8.  Develop both the written and the technical side of communication skills.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

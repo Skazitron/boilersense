@@ -1,0 +1,41 @@
+CNIT 55500 - Advanced Network Security
+
+Credit Hours: 3.00.  Advanced conceptual and technological aspects of network security for voice and data networks. Deals with the advanced analysis, design, implementation, and management issues surrounding effective network security. Technology research and presentation of results, as well as security technology implementation, are required course outcomes. Permission of department required.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

@@ -1,0 +1,47 @@
+HORT 53000 - Introduction To Computing For Biologists
+
+Credit Hours: 3.00.  This course will teach the basic skills and knowledge required to operate in UNIX environment and program in Python. The course is designed to teach graduate, and advanced undergraduate students in plant and animal sciences the skill set required to analyze and interpret their own datasets. The lectures and associated lab section will provide students hands-on experience in working within a high-performance computing environment to analyze genome scale datasets. Typically offered Spring.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Individual Study, Laboratory, Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Hort & Landscape Architecture 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Define their biological data analysis as a computational problem.
+2.  Identify portions of the analysis that will benefit from parallelization.
+3.  Write one or more scripts that use the computational power provided by compute clusters to analyze large biological data sets in a speedy manner.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

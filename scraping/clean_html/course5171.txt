@@ -1,0 +1,42 @@
+ECE 43800 - Digital Signal Processing With Applications
+
+Credit Hours: 4.00.  The course is presented in five units. Foundations: the review of continuous-time and discrete-time signals and spectral analysis; design of finite impulse response and infinite impulse response digital filters; processing of random signals. Speech processing; vocal tract models and characteristics of the speech waveform; short-time spectral analysis and synthesis; linear predictive coding. Image processing: two-dimensional signals, systems and spectral analysis; image enhancement; image coding; and image reconstruction. The laboratory experiments are closely coordinated with each unit. Throughout the course, the integration of digital signal processing concepts in a design environment is emphasized.
+
+    0.000 OR     4.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Elec & Computer Engr
+
+
+Prerequisites: 
+
+ Undergraduate level  ECE 30100 Minimum Grade of D- and (Undergraduate level  ECE 20008 Minimum Grade of D- or Undergraduate level  ECE 20800 Minimum Grade of D-) and Undergraduate level  ECE 30200 Minimum Grade of D-
+
+

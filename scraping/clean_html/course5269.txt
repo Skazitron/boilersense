@@ -1,0 +1,66 @@
+ECE 55700 - Integrated Circuit Fabrication Laboratory
+
+Credit Hours: 3.00.  Laboratory exercises in the fabrication and testing of silicon integrated circuits. Both bipolar and MOS integrated circuit test chips are fabricated and tested. Laboratory technique, the technology of integrated circuit fabrication, and electrical characterization are emphasized. Permission of department required.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ECE 30500 Course
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ECE
+30500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

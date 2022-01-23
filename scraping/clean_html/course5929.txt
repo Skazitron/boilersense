@@ -1,0 +1,58 @@
+ENGR 14100 - Honors Creativity And Innovation In Engineering Design I
+
+Credit Hours: 3.50. This course introduces students to the engineering professions using multidisciplinary, societally relevant content. Students develop engineering approaches to systems, generate and explore creative and innovative ideas, and use of computational methods to support design decisions. Design challenges and projects engage students in innovative thinking across the engineering disciplines at Purdue. Students experience the process of design and analysis in engineering including how to work effectively in teams. Students also develop skills in project management, engineering fundamentals, oral and graphical communication, logical thinking, and modern engineering tools (e.g., Excel, LabView, MATLAB, and Python). Typically offered Fall Spring.
+
+    3.500 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Studio 
+
+
+Offered By: College of Engineering 
+
+Department: College of Engineering Admin 
+
+
+Course Attributes: Honors, Lower Division, GTC-Information Literacy, UC-Information Literacy 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Describe the engineering disciplines at Purdue and the interrelationships among them as well as know what graduates of at least three disciplines of engineering do. 
+2.  Understand and apply engineering fundamentals and basic engineering science concepts to model, analyze, predict build, and evaluate an object of engineering interest using a design process. 
+3.  Develop the ability to evaluate complex systems.
+4.  Develop strategies to facilitate generating creative ideas for complex design challenges. 
+5.  Show how the engineering problem solving is related to the design process. 
+6.  Use the engineering problem solving process to translate written problem statement into a mathematical model that is suitable for algorithmic development. 
+7.  Communicate technical information to justify decision made during a problem solving situations (e.g. design, troubleshoot, or product selection).
+8.  Develop a logical and systematic problem solving process and use that process for software development, which includes sequential structures, conditional structures, and repetition structures. 
+9.  Implement simple algorithmic forms of engineering models/problems using the most appropriate computer tool (LabVIEW, MATLAB, and Python).
+10. Perform basic file management tasks using an appropriate computer tool.
+11. Demonstrate appropriate knowledge and behaviors for effective and ethical membership on a technical team (il.e., teaming skills).
+12. Develop skills for cross-cultural communication. 
+13. Exhibit a work ethic appropriate for the engineering profession. 
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      First Year Engineering
+
+      Pre Agr & Biol Engineering
+
+Must be assigned to one of the following Cohorts:      
+
+      Honors College
+
+

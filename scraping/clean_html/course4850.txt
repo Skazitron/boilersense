@@ -1,0 +1,46 @@
+CNIT 48300 - Applied Machine Learning
+
+Credit Hours: 3.00.  In the past decade, we have observed the expeditious evolution and tremendous applications of machine learning, such as unmanned vehicle, autonomous language translation, and smart healthcare. This course will introduce both the fundamental knowledge and design/application insights of machine learning techniques via a series of hands-on real-world examples. The overall aim is to provide the students with a good understanding of machine learning technologies, building machine learning models, and applying machine-learning technologies to address real-world problems. In this course, students will also have an opportunity to explore the cutting-edge machine learning technologies, such as deep learning, adversarial attacks, and meta learning, and develop their own machine learning-based solutions.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Demonstrate both the fundamental knowledge and design/application insights of the state-of-the-art machine learning techniques.
+2.  Implement machine learning models.
+3.  Apply machine learning techniques to solve real-world problems.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 25501 Minimum Grade of C- and (Undergraduate level  STAT 22500 Minimum Grade of D- or Undergraduate level  STAT 30100 Minimum Grade of D-)
+
+

@@ -1,0 +1,43 @@
+ECE 58000 - Optimization Methods For Systems And Control
+
+Credit Hours: 3.00.  Introduction to optimization theory and methods, with applications in systems and control. Nonlinear unconstrained optimization, linear programming, nonlinear constrained optimization, various algorithms and search methods for optimization, and their analysis. Examples from various engineering applications are given. Elements of linear algebra and calculus of several variables and some experience with MATLAB  helpful.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Indiana College Network, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      IUPUI
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

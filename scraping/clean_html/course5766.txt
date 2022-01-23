@@ -1,0 +1,37 @@
+PHYS 30700 - Mathematical Methods Of Physics II
+
+Credit Hours: 3.00. Discussion of wide-ranging physics problems from mechanics, E&M, thermal, and modern physics with emphasis on reviews and introductions of mathematical methods and techniques that are essential in such discussion. Relevant mathematical methods include vectors, matrices and normal modes as well as ordinary and partial differential equations. Intended primarily for sophomore physics majors. Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Physics and Astronomy 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Students will acquire capacity to apply essential mathematical methods and techniques to physics problems.
+
+
+
+Prerequisites: 
+
+ (   (Undergraduate level  PHYS 24100 Minimum Grade of D- and Undergraduate level  PHYS 25200 Minimum Grade of D-) or (Undergraduate level  PHYS 26100 Minimum Grade of D- and Undergraduate level  PHYS 25200 Minimum Grade of D-) or Undergraduate level  PHYS 25100 Minimum Grade of D- or Undergraduate level  PHYS 27200 Minimum Grade of D-) and (Undergraduate level  MA 26100 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MA 17400 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MA 18200 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MA 26300 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MA 27100 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MA 27101 Minimum Grade of D- or Undergraduate level  MATH 26100 Minimum Grade of D- [may be taken concurrently])
+
+

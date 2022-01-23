@@ -1,0 +1,32 @@
+ECE 63400 - Digital Video Systems
+
+Credit Hours: 3.00.  Digital video systems. Characteristics of basic analog video systems, including bandwidth constraints, color encoding, and composite signal formation. Digital video concepts with emphasis on processing of time-varying images. Topics include: filtering, enhancement, restoration, and motion estimation and prediction. Digital video compression techniques, including intraframe coding approaches, with particular emphasis on JPEG. MPEG1 and MPEG2 video compression standards. Low bit rate approaches, including H.261, H.263, and MPEG4. Applications include: video servers, transmission systems, high definition television, multimedia systems, and videoconferencing systems. Offered in alternate years. Concurrent prerequisite: ECE 60000.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

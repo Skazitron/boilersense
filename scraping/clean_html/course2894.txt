@@ -1,0 +1,48 @@
+CS 35300 - Principles Of Concurrency And Parallelism
+
+Credit Hours: 3.00.  Important concepts, models, algorithms, abstractions, and implementation aspects of concurrent and parallel programs. Topics include: techniques used to describe concurrent programs (e.g., threads, events, co-routines, continuations), abstractions for shared-memory and message-passing programs, relaxed memory models, livelock and deadlock detection, lock-free algorithms, data races and atomicity, scheduling techniques, process calculi, and software transactions.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Computer Science 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  This course provides students the vocabulary and concepts to better understand how to design and program scalable multicore processors.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      Computer Science
+
+      Computer Science Honors
+
+      Computer Sci/Softwr Engr
+
+
+Prerequisites: 
+
+ Undergraduate level  CS 25100 Minimum Grade of C and Undergraduate level  CS 25200 Minimum Grade of C and Undergraduate level  CS 35200 Minimum Grade of C
+
+

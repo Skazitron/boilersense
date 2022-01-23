@@ -1,0 +1,140 @@
+MGMT 54400 - Database Management Systems
+
+Credit Hours: 3.00.  Covers the theory and practice of database design and usage. Students will learn the importance of data modeling concepts and how to use these effectively and how to plan and design a database, including issues such as data security and control. The following course is recommended: MGMT 29000 Programming for Business Applications or CS 15900 or CS 17700 or CNIT 17500, all with a C- or higher.  Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Management 
+
+Department: School of Mgmt Adm & Instr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand why database management is important and what it entails.
+2.  Analyze the database requirements of a business scenario and represent these requirements by means of entity-relationship (ER) diagrams.
+3.  Translate an ER diagram into normalized relations for a relational DBMS.
+4.  Design and implement an Oracle database.
+5.  Write simple and relatively complex data retrieval and maintenance commands in the SQL language.
+6.  Use Microsoft Access as a front end to a server database in Oracle.
+7.  Appreciate major data administration tasks, including security control, backup and recovery, and concurrency control.  
+8.  Be familiar with data warehousing and its basic conceptual design.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Economics-BS
+
+      Economics-CPOSTB
+
+      Economics-CPOSTB
+
+      Economics-MA Teaching
+
+      Economics-MS
+
+      Economics-MS
+
+      Economics-MS
+
+      Economics-PHD
+
+      Management-BS
+
+      Management-CPOSTB
+
+      Management-CPOSTB
+
+      Management Exec-MBA
+
+      Management-BSIM
+
+      International Mgmt Masters-MBA
+
+      Management-MBA
+
+      Management-MBA
+
+      Management-MBA
+
+      Management-MS
+
+      Management-MS
+
+      Management-PHD
+
+      Management Exec-MBA
+
+      Management Exec-MBA
+
+      International Mgmt Masters-MBA
+
+      International Mgmt Masters-MBA
+
+      Org Behav HR Mgmt-PHD
+
+      Accounting-BS
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-MGMT 54400 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MGMT
+38200
+
+
+Minimum Grade of 
+C-
+
+May be taken concurrently.
+)
+
+
+

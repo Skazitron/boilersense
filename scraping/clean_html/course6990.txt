@@ -1,0 +1,41 @@
+BCHM 61200 - Bioinformatic Analysis of Genome Scale Data
+
+Credit Hours: 3.00.  This course provides a hands-on experience for life science researchers in the bioinformatic analysis of genome-scale data. The various disciplines in the life sciences are generating a wealth of experimental and annotation data. Today's graduate students need experience with modern tools that can help them to access, explore, analyze, interpret and manage the data that they generate in the lab. Students will use the R programming language and packages from Bioconductor, the R bioinformatics project, as their principal tools for this course. Students will develop workflows in R that bridge established algorithms for bioinformatics such as limma, edgeR or DESeq2, incorporating methods to import, QC, transform and visualize genome-scale datasets derived from next generation sequencing experiments.  A critical aspect of bioinformatics that is often inadequate is workflow documentation. This course will use Rmarkdown to integrate computer code,  data and results to manage complex bioinformatics projects. The class has lecture, lab and distance components. Lectures will focus on the theoretical and biological aspects of bioinformatics analysis using recent examples from the literature. In lab, students will work on programming exercises or projects using published datasets. Advanced students will also have the opportunity to work with their own data. Distance instruction will include R tutorials and videos that students can work through at their own pace (subject to completion deadlines).  Particular emphasis will be placed on the theoretical and practical limitations of next generation sequencing data. No prior computer programming experience is required, but it is assumed that students have a firm grasp of the fundamental principles of molecular biology and how they relate to complex processes such as gene expression and genome organization. Permission of instructor required.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Biochemistry 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Write R scripts that utilize Bioconductor packages for bioinformatic analyses.
+2.  Access genome-scale data sets from public repositories and import this data into R for further analysis.
+3.  Visualize genome-scale data sets for both quality control and presentation purposes.
+4.  Implement strategies to deal with genome-scale datasets including parallel computing.
+5.  Able to critically evaluate the bioinformatic methods and data from publications.
+6.  Implement "literate programming" with Rmarkdown to document and share their bioinformatics projects.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

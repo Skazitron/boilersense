@@ -1,0 +1,54 @@
+MET 16000 - Analytical And Computational Tools In MET
+
+Credit Hours: 3.00.  The skills needed to solve technical problems in mechanical engineering technology are developed. Instruction is given in analytical and computational problem-solving techniques. The electronic calculator, the factor-label method of unit conversions, engineering graphs, and the computer are used to solve problems. Computer emphasis is on spreadsheet analysis, graphics, and generation of technical reports through the integrated use of software packages.  Credit will not be granted for MET 16000 and MET 16200 or MET 16300. Typically offered Fall Spring.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Dept Credit, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Apply the general solution format known as GFSA: GIVEN-FIND-SOLUTION-ANSWER.
+2.  Demonstrate capability to solve first order linear equations, exponential algebra, logarithmic coordinates and evaluation of radical expressions.
+3.  Apply conventional and scientific notation in conjunction with appropriate significant figures.
+4.  Apply the technique of linear regression to numerical data.
+5.  Demonstrate the technique of power regression applied to exponential equations and their graphs.
+6.  Apply both single and double linear interpolations of tabular data.
+7.  Conduct spreadsheet analysis, develop graphics, and generate technical reports through the integrated use of computer software packages.
+
+
+

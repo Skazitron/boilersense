@@ -1,0 +1,37 @@
+ECON 69300 - Bayesian Econometrics I
+
+Credit Hours: 2.00 or 3.00.  This is a first course in Bayesian Econometrics. The overarching goal of the course is to expose students to the Bayesian perspective and get them up-to-speed with modern Bayesian simulation methods. Prerequisite: ECON 67100 or equivalent.
+
+    2.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Management 
+
+Department: Dept of Economics 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Explain the Bayesian approach to estimation and inference.
+2.  Develop posterior simulators to estimate commonly-used models.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

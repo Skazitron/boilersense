@@ -1,0 +1,68 @@
+ECE 56300 - Programming Parallel Machines
+
+Credit Hours: 3.00.  This course presents methods and techniques for programming parallel computers, such as multicore and high-end parallel architectures. Various parallel algorithms will be presented to demonstrate different techniques for identifying parallel tasks and mapping them onto parallel machines. Realistic science/engineering applications and their characteristics will be discussed. Parallel architectures to be considered are shared-memory and distributed-memory multiprocessor systems. Programming paradigms for these machines will be compared, including directive-based (OpenMP), message passing (MPI) and thread-based (Posix threads) methods. Methodologies for analyzing and improving the performance of parallel programs will be discussed. There will be a class project in which each student parallelizes and tunes the performance of a large computation application or develops/improves a tool that helps this process. Each student will prepare one lecture for a selected topic. Offered during odd years.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ECE 56300 Requisities
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ECE
+56500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

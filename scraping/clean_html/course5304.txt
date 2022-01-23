@@ -1,0 +1,45 @@
+ECE 60800 - Computational Models And Methods
+
+Credit Hours: 3.00.  Computation models and techniques for the analysis of algorithm complexity. The design and complexity analysis of recursive and non-recursive algorithms for searching, sorting, set operations, graph algorithms, matrix multiplication, polynomial evaluation and FFT calculations. NP-complete problems. Prerequisite: Master's student standing or higher.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Indiana College Network, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      PU Fort Wayne
+
+      IUPUI
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Learn computation models and techniques for the analysis of algorithm complexity.
+2.  Learn the design and complexity analysis of recursive and non-recursive algorithms for searching, sorting, set operations, graph algorithms, matrix multiplication, polynomial evaluation and FFT calculations.
+3.  Learn the NP-complete problems.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

@@ -1,0 +1,62 @@
+CNIT 46100 - Parallel Data Systems
+
+Credit Hours: 3.00.  This course provides an introduction to the techniques and technologies used in high performance computing for developing, using and managing high performance data systems. Topics covered in this course will focus on aspects of the design, implementation, and use of high performance storage systems progressively from the hardware layer through the operating system up to the application level. Topics will include: commodity hardware and novel architectural storage components; the architecture and use of parallel file systems, including PVFS2 and Lustre; reliability and scheduling; virtualization and fault tolerant strategies for Petascale computing; system architectures for data intensive computing and workflows; parallel I/O systems; and grid and cloud computing architectures. The driving outcome for this course is for students to understand and apply advanced high performance computing concepts, architectures, and software components to develop and operate a high performance computing environment.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1. Understand the factors that motivate the use and development of high performance parallel storage systems.
+2. Understand the importance of fast data rates to the efficient use of HPC systems and processors, and the effects of poor I/O on application performance.
+3. Develop a high performance storage system by building, benchmarking and optimizing a small commodity-based storage system based on the Linux operating system and other open source software packages.
+4. Understand the storage hierarchy, and the speeds, feeds, and costs at each level.
+5. Understand the technological characteristics of components at each level of the storage hierarchy, and the effects of these technologies on reliability and performance.
+6. Understand the range of interconnection technologies available for parallel data systems, and the effects of these technologies on storage performance.
+7. Understand the range of storage technologies available and the design of high performance storage systems that are cost effective and reliable.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 34000 Minimum Grade of C-
+
+

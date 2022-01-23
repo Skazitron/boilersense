@@ -1,0 +1,41 @@
+NUCL 51000 - Nuclear Reactor Theory I
+
+Credit Hours: 3.00.  Methodologies of neutron flux calculations, diffusion and slowing down theory, flux separation, material buckling, resonance absorption, Doppler effect, 2-group and multi-group theories, and reactivity balances for design and operation. Introduction to reactor kinetics, delayed neutrons, point reactor kinetics, transient behavior, load changes, reactivity feedback, and safety implications. Typically offered Fall.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Nuclear Engineering 
+
+Department: Nuclear Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

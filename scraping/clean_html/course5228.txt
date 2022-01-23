@@ -1,0 +1,88 @@
+ECE 51012 - Electromechanics
+
+Credit Hours: 3.00.  The general theory of electromechanical motion devices relating electric variables and electromagnetic forces. The basic concepts and operational behavior of dc, induction, brushless dc, and stepper motors used in control applications are presented. Prerequisite by Topic: Basic circuit analysis; Elementary electromagnetics; Elementary mechanics.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Acquire knowledge of magnetics and magnetic materials as it relates to electromechanical devices.
+2.  Understand the energy conversion process including field energy, co-energy, force and torque production.
+3.  Be familiar with the use in reference frame theory in the analysis of rotational electromechanical devices.
+4.  Understand the operation of rotating electric machines including stepper motors, permanent magnet ac machine, and induction machines.
+5.  Understand the acceptable and unacceptable practice with regard to taking exams, working on homework, working on the project, and the implications of unacceptable practices.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+ECE 51012 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ECE
+20200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+PHYS
+27200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

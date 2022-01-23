@@ -1,0 +1,103 @@
+IT 53000 - Biometric Technology Test Design, Performance, and Evaluation
+
+Credit Hours: 3.00. An introduction of methods of designing biometric testing, performance, and evaluation analyses. Specifically, methods of evaluating fingerprint, face recognition, iris, and voice recognition data are explored using ROC curves, CMC, Rank statistics, and DET curves. The course examines testing requirements from submission of IRB documents to the final analysis. A component of comparative analysis within modalities is included. Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Technology Ldrshp & Innovatn 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand the metrics of evaluating a biometric system.
+2.  Understand the proper steps of developing a testing protocol.
+3.  Understand the components of experimental design.
+4.  Outline a testing protocol and performance evaluation plan.
+5.  Interpret results from performance testing.
+6.  Define current Standards activities that direct testing and evaluation analyses.
+7.  Evaluate developed testing protocols.
+8.  Compare testing methodologies within a biometric modality.
+9.  Compare testing methodologies across modalities.
+10.  Transfer of knowledge and understanding of evaluation methodologies to other analytical scenarios.
+11.  Perform data analysis and report findings of the testing protocol developed during the course.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR IT 53000 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Rule:  1.: STAT 50100  for a total of 1 conditions
+)
+
+IT
+50700
+
+
+May not be taken concurrently.
+
+STAT
+50100
+
+
+May not be taken concurrently.
+
+TECH
+50700
+
+
+May not be taken concurrently.
+End of rule  1.
+
+and
+Course or Test: 
+IT
+54500
+
+
+May not be taken concurrently.
+
+

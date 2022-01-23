@@ -1,0 +1,45 @@
+MA 16600 - Analytic Geometry And Calculus II
+
+Credit Hours: 4.00.  Continuation of MA 16500. Vectors in two and three dimensions. Techniques of integration, infinite series, polar coordinates, surfaces in three dimensions. Not open to students with credit in MA 16200. Typically offered Fall Spring.
+CTL:IMA 1603 Calculus - Long II
+
+    0.000 OR     4.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Individual Study, Lecture, Recitation 
+
+
+Offered By: College of Science 
+
+Department: Mathematics 
+
+
+Course Attributes: Credit By Exam, Core Transfer Library, Dept Credit, Lower Division, GTC-Quantitative Reasoning, UC-Quantitative Reasoning 
+
+
+May be offered at any of the following campuses:      
+
+      PU Fort Wayne
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Apply techniques of integration (integration by parts, trigonometric substitution and partial fractions) to compute areas of planar regions, volumes of solids of revolution and areas of surfaces of revolution, work, moments and centers of mass of homogeneous laminas.
+2.  Apply tests of absolute convergence of series to find the interval of convergence of some power series. 
+3.  Find the Taylor and Maclaurin series of some exponential, rational and trigonometric functions. 
+4.  Use polar coordinates to make it possible to sketch the graphs of some curves. 
+5.  Understand the definition of a Riemann sum, and should be able to apply elementary approximation methods of integration. 
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MA 16100 Minimum Grade of C- or Undergraduate level  MA 16300 Minimum Grade of C- or Undergraduate level  MA 16500 Minimum Grade of C- or Undergraduate level  MATH 16500 Minimum Grade of C- or Undergraduate level  MA 16700 Minimum Grade of C- or (Undergraduate level  MA 22100 Minimum Grade of C- and (Undergraduate level  MA 22200 Minimum Grade of C- or Undergraduate level  MA 16021 Minimum Grade of C-)   ) or (Undergraduate level  MA 22300 Minimum Grade of C- and Undergraduate level  MA 22400 Minimum Grade of C-) or (   (Undergraduate level  MA 23100 Minimum Grade of C- or Undergraduate level  MA 16010 Minimum Grade of C-) and (Undergraduate level  MA 23200 Minimum Grade of C- or Undergraduate level  MA 16020 Minimum Grade of C-)   )
+
+

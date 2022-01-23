@@ -1,0 +1,33 @@
+STAT 41700 - Statistical Theory
+
+Credit Hours: 3.00.  An introduction to the mathematical theory of statistical inference, emphasizing inference for standard parametric families of distributions. Properties of estimators. Bayes and maximum likelihood estimation. Sufficient statistics. Properties of test of hypotheses. Most powerful and likelihood-ratio tests. Distribution theory for common statistics based on normal distributions. Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Statistics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      IUPUI
+
+      West Lafayette
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  STAT 35000 Minimum Grade of C- or Undergraduate level  STAT 35500 Minimum Grade of C- or Undergraduate level  STAT 30300 Minimum Grade of C- or Undergraduate level  STAT 51100 Minimum Grade of C- or Undergraduate level  CS 35500 Minimum Grade of C-) and (Undergraduate level  MA 41600 Minimum Grade of C- or Undergraduate level  STAT 41600 Minimum Grade of C- or Undergraduate level  STAT 51600 Minimum Grade of C-)
+
+

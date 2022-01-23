@@ -1,0 +1,53 @@
+MET 31100 - Experimental Strength Of Materials
+
+Credit Hours: 3.00.  Selected advanced topics from the areas of mechanics of materials, structures, stress analysis, and strain measurements are considered. Basic electronic strain gage circuits and instrumentation are presented, with emphasis on transducer applications. Typically offered Spring.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Calculate principal stresses, maximum shear stress, and principal direction in a plane when given the loading condition. 
+2.  Select, locate and mount strain gages for the measurement of strain in an experimental structure. 
+3.  Analyze the stress in a structure based on the strain data when given appropriate material information. 
+4.  Perform an open-ended experimental investigation in solid mechanics using strain gages or other experimental stress methods.
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MET 21100 Minimum Grade of D- and Undergraduate level  MET 21300 Minimum Grade of D- and (Undergraduate level  MA 16020 Minimum Grade of D- or Undergraduate level  MA 16021 Minimum Grade of D- or Undergraduate level  MA 22200 Minimum Grade of D-)
+
+

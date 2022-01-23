@@ -1,0 +1,58 @@
+CGT 32600 - Graphics Standards For Product Definition
+
+Credit Hours: 3.00.  Introduction to product data exchange and interoperability standards, ANSI and NIST product documentation standards, product modeling standards, methodologies for technology selection, implementation, and evaluation. This course supports the product archival and communication processes in a PLM environment.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      IUPUI
+
+      West Lafayette
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      Aeronautic Engr Technology
+
+      Animation
+
+      Building Information Modeling
+
+      Computer Graphics Tech
+
+      Effects Technical Direction
+
+      Game Development and Design
+
+      Human Centered Design & Dev
+
+      Visual Effects Compositing
+
+      Virtual Product Integration
+
+      Web Programming & Design
+
+
+Prerequisites: 
+
+ Undergraduate level  CGT 22600 Minimum Grade of C-
+
+

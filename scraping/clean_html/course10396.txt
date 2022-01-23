@@ -1,0 +1,42 @@
+MET 31800 - Applied Room Acoustics
+
+Credit Hours: 3.00.  Concepts of acoustics are applied to rooms, automotive applications, speakers, musical instruments, audio electronics, and other areas of interest.  Modeling and design skills are developed through applied labs and a semester project. Lectures and mathematical exercises are combined with hands-on labs and a semester project to link abstract and physical concepts.  As part of the semester project, a special fee will be assessed to be used towards materials for the semester project. Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Travel Time 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Analyze sound in terms of amplitude and frequency content.
+2.  Analyze the signal chain in a sound system (course will use a typical commercial sound system as a basis for discussion).
+3.  Describe the basic types of room treatments for different acoustical environments.
+4.  Describe the basic function of filters.
+5.  Analyze acoustic spaces using modeling software.
+6.  Design the acoustic performance of an enclosed space given representative physical and economic  requirements.
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  ECET 22400 Minimum Grade of D- or Undergraduate level  ECET 17700 Minimum Grade of D-) and (Undergraduate level  PHYS 21900 Minimum Grade of D- or Undergraduate level  PHYS 22100 Minimum Grade of D- or Undergraduate level  PHYS 24100 Minimum Grade of D- or Undergraduate level  PHYS 27200 Minimum Grade of D-) and (Undergraduate level  MA 16020 Minimum Grade of D- or Undergraduate level  MA 16600 Minimum Grade of D- or Undergraduate level  MA 16200 Minimum Grade of D-)
+
+

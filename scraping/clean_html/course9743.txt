@@ -1,0 +1,33 @@
+MA 56200 - Introduction To Differential Geometry And Topology
+
+Credit Hours: 3.00.  Smooth manifolds; tangent vectors; inverse and implicit function theorems; submanifolds; vector fields; integral curves; differential forms; the exterior derivative; DeRham cohomology groups; surfaces in E3., Gaussian curvature; two dimensional Riemannian geometry; Gauss-Bonnet and Poincare theorems on vector fields. Typically offered Fall.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Science 
+
+Department: Mathematics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

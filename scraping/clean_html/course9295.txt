@@ -1,0 +1,44 @@
+ECET 31800 - Foundations Of Audio Electronics
+
+Credit Hours: 3.00.  The design, fabrication, and testing of the electronics that comprise audio signal transduction, transmission, processing, amplification and delivery to a loudspeaker are studied at an introductory level. Computer-aided analysis of circuits is used.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Kokomo
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Quantify and measure sound and signal levels in terms of dB.
+2.  Convert  dB, crest factor, THD, and frequency cut-off specifications into circuit design parameters.
+3.  Interface circuitry to microphones and loud speakers.
+4.  Design, build, and test a small audio system containing differential transmitters, differential amplifiers, simple active filters summers/mixers, class AB and class D 100 W audio amplifiers.
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  ECET 22700 Minimum Grade of D- and Undergraduate level  ECET 17900 Minimum Grade of D-) or Undergraduate level  ECET 22400 Minimum Grade of D-
+
+

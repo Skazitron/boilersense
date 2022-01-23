@@ -1,0 +1,31 @@
+MFET 24300 - Automated Manufacturing I
+
+Credit Hours: 3.00.  The application of industrial control components (relays, motor starters, etc.) and programmable logic controllers (PLCs) in both discrete and continuous automated manufacturing environments. The theory of operation and selection of common industrial control components is explored. Students learn to design, program, and troubleshoot PLC systems. An introduction to closed loop control systems is included. Typically offered Spring Fall.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  CNIT 17500 Minimum Grade of D- or Undergraduate level  CPT 17500 Minimum Grade of D-) and (Undergraduate level  ECET 21400 Minimum Grade of D- or Undergraduate level  EET 21400 Minimum Grade of D- or Undergraduate level  ECET 22400 Minimum Grade of D-)
+
+

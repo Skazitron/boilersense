@@ -1,0 +1,76 @@
+STAT 54100 - Advanced Probability And Options With Numerical Methods
+
+Credit Hours: 3.00.  Stochastic interest rate models. American options from the probabilistic and PDE points of view. Numerical methods for European and American options, including binomial, trinomial, and Monte-Carlo methods. Typically offered Fall.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Statistics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-STAT 54100 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+51500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+54000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

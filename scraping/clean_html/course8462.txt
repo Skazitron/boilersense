@@ -1,0 +1,57 @@
+CGT 27000 - Introduction To Data Visualization
+
+Credit Hours: 3.00.  This course is designed for students with little or no background in Data Visualization. It provides an introductory examination of data visualization through lecture, readings and hands-on experience with current visualization tools. Students will obtain an overview of the various types of data, the fundamentals of the visualization process for information and scientific visualization, and examine detail visualizations workflows that aim to answer "when" (temporal data), "where" (geospatial data), "what" (topical data), and "with whom" (trees and networks) questions when visualizing data. After taking the course students will have both the theoretical foundation and practical skills needed to create insightful visualizations for a wide range of data types.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Recitation, Studio 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Differentiate between information and scientific visualization.
+2.  Appreciate the visualization process.
+3.  Identify five major information visualization types: charts, tables, graphs, geospatial maps and network maps.
+4.  Articulate which visualization tool to use for specific data formats.
+5.  Compare and evaluate different techniques of data representation.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Graphics Tech-BS
+
+

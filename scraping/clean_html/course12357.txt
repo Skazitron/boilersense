@@ -1,0 +1,30 @@
+AGEC 65100 - Application Of Quantitative Analysis: Econometrics II
+
+Credit Hours: 3.00.  Emphasis is on using advanced econometric techniques. The course covers use of computer software and interpretation and reporting of econometric results. The first part of the course includes general econometric concepts, such as least squares and maximum likelihood estimation, desirable statistical properties, assumptions of the classical linear regression model, Monte Carlo methods, nested and non-nested hypothesis tests. Later, more specialized topics are covered, including multiple equation models, simultaneous equation models, limited dependent variable models, and other topics that are deemed relevant. Prerequisite:  AGEC 65000.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Agricultural Economics 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

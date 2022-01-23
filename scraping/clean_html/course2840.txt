@@ -1,0 +1,33 @@
+CS 17700 - Programming With Multimedia Objects
+
+Credit Hours: 4.00.  Introduction to computers and programming: number representations, primitive data types and operations, basic control structures, programming applets and applications using graphical user interfaces, programming for detecting events and performing actions, processing multimedia objects such as images and sounds. Throughout the course, examples are drawn from a variety of fields in the natural sciences. Not open to CS majors with a grade of C or better in CS 18000.  Not open to non-CS majors with a grade of C or better in any course in computer programming.
+
+    0.000 OR     4.000 Credit hours
+
+
+Levels: Graduate, Indiana College Network, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Recitation 
+
+
+Offered By: College of Science 
+
+Department: Computer Science 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled in one of the following Programs:      
+
+      Computer Science-BS
+
+

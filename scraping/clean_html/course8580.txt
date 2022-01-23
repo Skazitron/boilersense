@@ -1,0 +1,40 @@
+CGT 64500 - Games Research
+
+Credit Hours: 3.00.  This course instructs students in current methods of conducting research on digital games, ludology, and the game development process. The most current or impactful research in the field is presented, analyzed, and extrapolated upon. The course surveys a wide variety of specific topics that shift as new research findings are published. Previous topics have included: biofeedback, user experience evaluation in games, gameplay measurement and analysis, development pipelines, mathematical modeling of game design, publication strategies and methodologies, scientific document preparation, and simulation. Quantitative and qualitative approaches to conducting research in the field of digital and traditional games. Production of original research focused upon an aspect of games, ludology, game development, or simulation is required.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Conduct a thorough literature review of a chosen topic related to digital games and/or their development.
+2.  Present to a classroom a critical analysis of a scientific paper or set of papers and lead a discussion surrounding said research.
+3.  Prepare a human subjects research application (IRB) that meets all regulatory regulations required to conduct ethical human research.
+4.  Design and conduct a sound, logical study in the area of games.
+5.  Complete a publishable-quality scientific manuscript and submit it for publication.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

@@ -1,0 +1,77 @@
+ME 50300 - Micro-And-Nano-Scale Energy Transfer Processes
+
+Credit Hours: 3.00.  Transport of energy in natural and fabricated micro- and nano-scale structures. Physical nature of energy transport by three carriers-electrons, phonons, and photons. Bulk material properties (e.g., thermal/electrical conductivity) are derived from statistical particle transport theories. Effects of spatial confinement on bulk properties are quantified. Contemporary interdisciplinary engineering applications.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Mechanical Engr 
+
+Department: Mechanical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Gain an understanding of the fundamental elements of solid-state physics.
+2.  Develop skills to derive continuum physical properties from sub-continuum principles.
+3.  Apply statistical and physical principles to describe energy transport in modern small-scale materials and devices.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ME 50300 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ME
+31500
+
+
+Minimum Grade of 
+B
+
+May be taken concurrently.
+)
+
+
+

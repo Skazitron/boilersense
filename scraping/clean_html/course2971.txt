@@ -1,0 +1,74 @@
+CS 50500 - Distributed Systems
+
+Credit Hours: 3.00.  Foundations for building reliable distributed systems, including failure and system models, and basic communication and agreement problems; crash failures, recovery, partition, Byzantine failures; asynchronous systems, failure detectors, communication channels, wireless and sensor networks; software clocks, causality, and cuts. Examples of problems include reliable broadcast consensus, leader election, group communication, and replication. Permission of department required.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Computer Science 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Computer Science-PHD
+
+      Computer Science-MS
+
+
+Prerequisites:
+
+GR-CS 50500 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CS
+35400
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+CS
+42200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

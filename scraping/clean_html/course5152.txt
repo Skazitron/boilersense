@@ -1,0 +1,49 @@
+ECE 41438 - ASIC Fabrication And Test II
+
+Credit Hours: 2.00.  The second semester of a two-semester sequence to give teams of 3 to 6 students the experience of designing an ASIC (Application Specific Integrated Circuit), having the chip fabricated and testing it. The team of students will develop requirements for a design, prepare the design using VHDL ((VHSIC(very high speed integrated circuit) Hardware Description Language)), Verilog, or schematic entry tools, create and use test benches to functionally verify the design, use automated tools to prepare a circuit layout, verify the final layout, submit the layout for fabrication, prepare a physical test bed, test or demonstrate the chip, and document all aspects of the design and test results. Permission of department required.
+
+    0.000 OR     2.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Create testbenches and verify the functionality of the design in source code after logic synthesis and after layout.
+2.  Create an ASIC layout that is verified and ready for fabrication.
+3.  Design, implement, and use a hardware testbed for verification of functionality and performance of the chip after fabrication. Use a reconfigurable logic prototype for early testing and in lieu of a fabricated custom IC if necessary.
+4.  Communicate effectively by means of an oral presentation of the project either to students in another course or at a technical conference.
+5.  Communicate effectively in writing by means of a collective technical report on the project and individual reports on how each outcome was satisfied.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Elec & Computer Engr
+
+
+Prerequisites: 
+
+ Undergraduate level  ECE 41437 Minimum Grade of D-
+
+

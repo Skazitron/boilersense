@@ -1,0 +1,38 @@
+MGMT 64700 - Financial Engineering
+
+Credit Hours: 2.00 or 3.00.  The objective of this course is to provide students with the necessary skills to value and hedge a wide variety of derivatives contracts used in financial markets. The main tool of analysis of the course is stochastic calculus set in continuous-time. Some basic knowledge of stochastic processes would be helpful, but not essential: we will cover what we need in class. The course covers valuation of securities using modern martingale methods as well as the necessary parameter estimation and numerical methods such as Monte Carlo simulations. Applications will include derivatives such as options on stocks, bonds and currencies, as well as valuation of defaultable securities, and modeling the term structure of interest rates and risk management with Value-at-Risk. Prerequisites: MGMT 61400, or similar coursework with instructor permission. Typically offered Fall Spring.
+
+    2.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Management 
+
+Department: School of Mgmt Adm & Instr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Value and hedge commonly traded financial derivatives.
+2.  Understand the underlying economic determination and behavior of financial derivatives.
+3.  Design and structure such financial derivatives.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

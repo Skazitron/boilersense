@@ -1,0 +1,31 @@
+STAT 42000 - Introduction To Time Series
+
+Credit Hours: 3.00.  An introduction to time series analysis suitable for actuarial science, engineering, and sciences.  Model building and forecasting with ARMA and ARIMA models.  Resampling methods for confidence intervals.  Multivariate, state-space, and nonlinear models.  Volatility models (ARCH and GARCH).  Smoothing in time series. Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Statistics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  CS 35500 Minimum Grade of C- or Undergraduate level  STAT 30300 Minimum Grade of C- or Undergraduate level  STAT 35000 Minimum Grade of C- or Undergraduate level  STAT 35500 Minimum Grade of C- or Undergraduate level  STAT 51100 Minimum Grade of C-) and (Undergraduate level  MA 41600 Minimum Grade of C- or Undergraduate level  STAT 41600 Minimum Grade of C- or Undergraduate level  STAT 51600 Minimum Grade of C-)
+
+

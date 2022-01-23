@@ -1,0 +1,48 @@
+CGT 51700 - Product Development Using Virtual Environments
+
+Credit Hours: 3.00.  This course presents the concepts of product development using virtual reality and haptic devices in the development and manufacture of products. Students learn how this technology is currently being used in industry and anticipated technological advancements. Some of the major topic areas covered are: virtual reality technologies, product design and development processes, virtual environments and virtual prototyping, 3D modeling, design analysis and visualization, simulation visualization, multimodal user interface in virtual environments, and real-world applications of product development.  Knowledge of 3D computer graphics fundamentals.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand the theory of engineering and product design for virtual environments.
+2.  Apply the principles of engineering and design in developing 3D models for virtual space.
+3.  Apply current VR and engineering CAD tools to product development and display scenarios.
+4.  Describe challenges and issues regarding 3D engineering design in virtual space.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

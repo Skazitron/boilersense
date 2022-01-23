@@ -1,0 +1,54 @@
+CS 24000 - Programming In C
+
+Credit Hours: 3.00.  The UNIX environment, C development cycle, data representation, operators, program structure, recursion, macros, C preprocessor, pointers and addresses, dynamic memory allocation, structures, unions, typedef, bit-fields, pointer/structure applications, UNIX file abstraction, file access, low-level I/O, concurrency.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Computer Science 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1. Understand programming principles and techniques for problem solving in the C programming language.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Fields of Study (Major, Minor,  or Concentration):
+
+      Computer Science
+
+      Computer Science Honors
+
+      Data Science
+
+      Data Science First Year
+
+      IM/Computer Science
+
+      Mathematics-Computer Science
+
+
+Prerequisites: 
+
+ Undergraduate level  CS 18000 Minimum Grade of C
+
+

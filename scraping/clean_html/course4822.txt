@@ -1,0 +1,63 @@
+CNIT 38501 - Advanced Systems Design And Integration
+
+Credit Hours: 3.00.  A continuation of CNIT 38000 with an emphasis on knowledge, skills, tools, and techniques that systems analysts and architects use to translate functional systems requirements into design specifications that can be subsequently implemented. Students will learn methods for developing specifications that fulfill desired quality properties such as performance, scalability, maintainability, security, privacy, and protection of corporate property, interoperability, and usability, to name a few. Special emphasis is placed on integrating new systems with older systems, as well as with business processes. This course takes a holistic view of design and integration that specifies a complete information technology or information systems solution from the perspectives of different stakeholders, and from different systemic viewpoints and perspectives. Increasingly, the result of design and integration is referred to as a solution's architecture.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture, Practice Study Observation 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Describe holistically, in intelligent conversation, the design and architecture of information technology solutions.
+2.  Identify and evaluate current and emerging technologies and assess their applicability to address an IT solution's needs.
+3.  Apply a comprehensive framework for IT solution architecture to an approved problem domain.
+4.  Document accurately system representations of multiple architectural and design "concerns" of an IT solution, from the perspectives of different stakeholders.
+5.  Work effectively in teams and communicate effectively with various stakeholders of an architectural description of an IT solution.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 38000 Minimum Grade of C-
+
+

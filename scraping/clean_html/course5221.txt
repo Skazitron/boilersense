@@ -1,0 +1,134 @@
+ECE 50616 - Physics And Manufacturing Of Solar Cells
+
+Credit Hours: 3.00.  This course introduces the electronic, optical and material properties and the manufacturing of photovoltaic devices. Topics include electronic charge separation, transportation and recombination; optical concentration, trapping and confinement; material preparations in photovoltaic systems; bulk crystal, thin-film and organic photovoltaic device configurations; energy storage; as well as emerging concepts in photovoltaics. Discussions also involve the process and equipment for the manufacturing of various photovoltaic modules, with special emphasis on driving down the cost of photovoltaic systems.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand different market segments for photovoltaics and their key requirements.
+2.  Understanding of p-n junctions, drift and diffusion of charges, LUMO and HOMO.
+3.  Extract efficiency from i-v characteristics of photovoltaic cells.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ECE 50616 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ECE
+30500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MSE
+37000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ME
+31500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ME
+36300
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CHE
+37800
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+PHYS
+33000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CHM
+37000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

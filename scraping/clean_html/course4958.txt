@@ -1,0 +1,80 @@
+STAT 51400 - Design Of Experiments
+
+Credit Hours: 3.00.  Fundamentals, completely randomized design; randomized complete blocks; latin square; multi-classification; factorial; nested factorial; incomplete block and fractional replications for 2n, 3n, 2m x 3n; confounding; lattice designs; general mixed factorials; split plot; analysis of variance in regression models; optimum design. Use of existing statistical programs. Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Statistics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      PU Fort Wayne
+
+      IUPUI
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand design principles and use these principles to plan and implement an experiment in such a way that a statistical analysis results in valid and objective conclusions.
+2.  Know how to choose an appropriate design given the available resources, factors of interest, and information on nuisance factors.
+3.  Perform the proper statistical analysis and draw valid conclusions from any designed experiment.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-STAT 51400 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+51200
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+)
+
+
+

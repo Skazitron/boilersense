@@ -1,0 +1,43 @@
+MA 37400 - Mathematical Foundations For Machine Learning
+
+Credit Hours: 3.00.  This course combines data, computation, and inferential thinking to solve challenging problems. In this class, we explore key areas of machine learning including question formulation, statistical inference, predictive modeling, and decision making. Through a strong emphasis on data-centric computing, and quantitative critical thinking, this class covers key principles and techniques of machine learning. These include algorithms for machine learning methods including regression, classification, and clustering; and statistical concepts of measurement error and prediction. Typically offered Fall.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Mathematics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Identify a machine learning related data-science problem, formulate questions, visualize the data, and identify features, and conduct statistical inference, and derive prediction algorithms.
+2.  Know how to use a computer programming tool (e.g. Python or Matlab) to draw samples from important distributions.
+3.  Understand linear machine learning models for regression problems; know how to use a computer programming tool (e.g. Python or Matlab) to implement the linear machine learning models for regression problems.
+4.  Understand linear machine learning models for classification problems; know how to use a computer programming tool (e.g. Python or Matlab) to implement the linear machine learning models for classification problems.
+5.  Know how to build kernel methods; in particular, Gaussian process methods, and how to use a computer programming tool (e.g. Python or Matlab) to implement kermel methods.
+6.  Understand the concept of mixture models and the Expectational-Maximization algorithm and how to use a computer programming tool (e.g. Python or Matlab) to implement mixture models and the Expectational-Maximization algorithm.
+7.  Understand the sampling methods and perform computations for Markov Chain Monte Carlo.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  CS 38003 Minimum Grade of C- and (Undergraduate level  MA 26500 Minimum Grade of C- or Undergraduate level  MA 35100 Minimum Grade of C-)
+
+

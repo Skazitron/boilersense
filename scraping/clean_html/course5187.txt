@@ -1,0 +1,56 @@
+ECE 46300 - Introduction To Computer Communication Networks
+
+Credit Hours: 3.00.  An introduction to the design and implementation of computer communication networks. The focus is on the concepts and the fundamental design principles that have contributed to the global Internet success.  Topics include:  digital transmission and multiplexing, protocols, MAC layer design (Ethernet/802.11), LAN interconnects and switching, congestion/flow/error control, routing, addressing, performance evaluation, internetworking (Internet) including TCP/IP, HTTP, DNS etc. This course will include one or more programming projects.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      IUPUI
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  An understanding of the fundamental principles underlying packet switching networks, and different Local Area Network technologies. 
+2.  An ability to implement network protocols using network socket programming.    
+3.  An understanding of the key principles behind retransmission protocols, congestion control algorithms, and TCP.
+4.  An understanding of the basic concepts of routing. 
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      Computer Engineering
+
+      Electrical Engineering
+
+
+Prerequisites: 
+
+ Undergraduate level  ECE 36800 Minimum Grade of D-
+
+

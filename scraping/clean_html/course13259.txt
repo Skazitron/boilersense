@@ -1,0 +1,40 @@
+NUCL 65500 - Two-Phase Flow Computational Fluid Dynamics Applications
+
+Credit Hours: 3.00.  The course guides the student to two-fluid model solutions using computational fluid dynamics (CFD). Topics include: review of the two-fluid model, review of elliptic and parabolic partial differential equations, description of numerical algorithms, and two-phase flow channel and jet flows.  Prerequisite: NUCL 55100 or ME 50600. Typically offered Fall Spring Summer.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Nuclear Engineering 
+
+Department: Nuclear Engineering 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand basic principles of hyperbolic and parabolic partial differential equations applied to the equations of fluid dynamics.
+2.  Use finite differences to solve partial differential equations of fluid dynamics.
+3.  Apply principles in 1 and 2 to simulations with Navier Stokes and Two Fluid Model Equations.
+4.  Employ stability theory to analyze the Two Fluid Model.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

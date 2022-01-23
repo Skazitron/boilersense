@@ -1,0 +1,63 @@
+MA 16020 - Applied Calculus II
+
+Credit Hours: 3.00.  This course covers techniques of integration; infinite series, convergence tests; differentiation and integration of functions of several variables; maxima and minima, optimization; differential equations and initial value problems; matrices, determinants, eigenvalues and eigenvectors.  Applications. Typically offered Fall Spring Summer.
+CTL:IMA 1605 Calculus - Short II
+
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Individual Study, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Mathematics 
+
+
+Course Attributes: Credit By Exam, Core Transfer Library, Lower Division, GTC-Quantitative Reasoning, UC-Quantitative Reasoning 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Indianapolis
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Use techniques of integration to find areas between curves and compute volumes of solids of revolution.
+2.  Analyze the convergence of infinite series and power series, Taylor series expansions.
+3.  Compute derivatives of functions of several variables and use them to find maxima and minima of functions.
+4.  Perform multiple iterated integration.
+5.  Use differential equations for modeling simple real life situations.
+6.  Solve first order linear initial value problems and separable equations.
+7.  Apply matrix operations to solve linear equations, find matrix inverses, compute determinants and eigenvectors.
+8.  Topics to be covered at a level required to perform standard applications related to life sciences, management and technology.
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MA 16010 Minimum Grade of C- or Undergraduate level  MA 16100 Minimum Grade of C- or Undergraduate level  MA 16300 Minimum Grade of C- or Undergraduate level  MA 16500 Minimum Grade of C- or Undergraduate level  MA 16700 Minimum Grade of C- or Undergraduate level  MA 22100 Minimum Grade of C- or Undergraduate level  MA 22300 Minimum Grade of C- or Undergraduate level  MA 23100 Minimum Grade of C-
+
+

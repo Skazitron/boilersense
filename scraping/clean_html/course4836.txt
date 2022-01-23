@@ -1,0 +1,60 @@
+CNIT 45000 - Enterprise Application Development
+
+Credit Hours: 3.00.  This course explores advanced application development techniques in a large enterprise-wide setting. Topics include component development and reuse, distributed object technologies, multi-tier applications, data marshalling, transaction processing, concurrency problems and resolutions, load balancing and tuning, and application installation and deployment issues.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      South Bend
+
+
+Learning Outcomes: 
+1. Understand the pros and cons of using object-oriented programming.
+2. Develop and use 3rd-party class libraries.
+3. Compare modern application architectures and abstraction layers.
+4. Know DBMS connectivity options and abstraction layers.
+5. Develop multi-tier applications.
+6. Develop applications that work within multi-user environments.
+7. Develop applications that use remote procedure calls to marshal data between processes.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 27200 Minimum Grade of C- and (Undergraduate level  CNIT 31500 Minimum Grade of C- or Undergraduate level  CNIT 32500 Minimum Grade of C- or Undergraduate level  CNIT 29500 Minimum Grade of C-)
+
+

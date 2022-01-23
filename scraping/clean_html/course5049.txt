@@ -1,0 +1,55 @@
+ECE 25500 - Introduction To Electronic Analysis And Design
+
+Credit Hours: 3.00.  Diode, bipolar transistor, and FET circuit models for the design and analysis of electronic circuits. Single and multistage analysis and design; introduction to digital circuits. Computer-aided design calculations, amplifier operating point design, and frequency response of single and multistage amplifiers. High-frequency and low-frequency designs are emphasized.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      PU Fort Wayne
+
+      IUPUI
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Able to identify and correctly utilize the external lead structure and basic electrical characteristics of common semiconductor devices (pn junctions, MOSFETs, ad BJTs).
+2.  Able to analyze and design d.c. bias circuits.
+3.  Able to utilize d.c. and a.c. models of semiconductor devices in both analysis and design.
+4.  Able to analyze and design single and multistage amplifiers at low, mid and high frequencies.
+5.  Able to use a CAD tool (e.g., SPICE) in circuit analysis and design.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Interdisciplnry Engr
+
+      School of Elec & Computer Engr
+
+
+Prerequisites: 
+
+ Undergraduate level  ECE 20100 Minimum Grade of C and (Undergraduate level  MA 26100 Minimum Grade of D- or Undergraduate level  MATH 26100 Minimum Grade of D- or Undergraduate level  MA 27100 Minimum Grade of D- or Undergraduate level  MA 26300 Minimum Grade of D- or Undergraduate level  MA 17400 Minimum Grade of D-)
+
+

@@ -1,0 +1,61 @@
+MA 16010 - Applied Calculus I
+
+Credit Hours: 3.00.  Topics include trigonometric and exponential functions; limits and differentiation, rules of differentiation, maxima, minima and optimization; curve sketching, integration, anti-derivatives, fundamental theorem of calculus.  Properties of definite integrals and numerical methods.  Applications to life, managerial and social sciences.  Typically offered Fall Spring Summer.
+CTL:IMA 1604 Calculus - Short I
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Individual Study, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Mathematics 
+
+
+Course Attributes: Credit By Exam, Core Transfer Library, Lower Division, GTC-Quantitative Reasoning, UC-Quantitative Reasoning 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Indianapolis
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  To create functional models and simplify difference quotients, compute limits of functions and apply limit laws.
+2.  To compute derivatives of elementary functions, including exponential, logarithmic and trigonometric functions, and apply rules of differentiation.
+3.  To sketch the graph of functions with the help of differentiation techniques, find maxima and minima of functions; optimization problems.
+4.  To computes integrals of some elementary functions and apply the Fundamental Theorem of Calculus.
+5.  Topics to be covered at a level required to perform standard applications related to life sciences, management and technology.
+
+
+
+
+
+
+Prerequisites: 
+
+  ALEKS Math Assessment 075 or  SATR Math 620 or  SAT Mathematics 600 or  ACT Math 26 or Undergraduate level  MA 15400 Minimum Grade of C- or Undergraduate level  MATH 15400 Minimum Grade of C- or Undergraduate level  MA 15800 Minimum Grade of C-
+
+

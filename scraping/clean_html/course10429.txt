@@ -1,0 +1,59 @@
+MET 41100 - Introduction To The Finite Element Method
+
+Credit Hours: 3.00.  The finite element method is introduced, with emphasis on modeling and interpretation of results. Linear static problems are solved using commercial FEA software, and FEA results are verified through laboratory tests and/or theoretical calculations. Topics include trusses, frames, plane stress/strain, torsion, 3D structures, buckling, and natural frequency/mode shape analyses. Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Dept Credit, Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Select and use the appropriate element type in the construction of FEA models for linear static, buckling, and frequency and mode shape analyses.
+2.  Demonstrate knowledge of meshing, symmetry, and the application of loads and constraints in the construction of FEA models. 
+3.  Understand and demonstrate the use of mechanical testing, analytical calculation, and verification problems as a check on FEA solution accuracy.
+4.  Perform and open-ended design problem involving the application of FEA in a linear static or thermal problem. 
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MET 21100 Minimum Grade of D- and Undergraduate level  MET 21300 Minimum Grade of D- and (Undergraduate level  PHYS 22100 Minimum Grade of D- or Undergraduate level  PHYS 21900 Minimum Grade of D- or Undergraduate level  PHYS 24100 Minimum Grade of D-)
+
+

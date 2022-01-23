@@ -1,0 +1,180 @@
+STAT 51100 - Statistical Methods
+
+Credit Hours: 3.00.  Descriptive statistics; elementary probability; sampling distributions; inference, testing hypotheses, and estimation; normal, binomial, Poisson, hypergeometric distributions; one-way analysis of variance; contingency tables; regression.  For statistics majors and minors, credit should be allowed in no more than one of STAT 30100, STAT 35000, STAT 50100, and in no more than one of STAT 50300 and STAT 51100.  Prerequisite:  Two semesters of college calculus. Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Statistics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      PU Fort Wayne
+
+      IUPUI
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand the difference between population parameters and sample statistics.
+2.  Understand practical data displays: meaning and interpretation of common data displays in the media.
+3.  Appreciate various interpretations of probability and where they enter into statistical studies.
+4.  Understand statistical distributions: difference between discrete and continuous random variables. Computing the mean and variance using various important probability distributions such as the Binomial, Hypergeometric, Poisson, Normal, Exponential, Gamma. Computing probabilities using these distributions.
+5. Understand statistical distributions of two or more random variables: Sample statistics and their distributions. Understanding the Central Limit Theorem.
+6. Understand statistical inference: to understand what this means and what are some practical and important applications. Examples include Confidence Intervals, Tests of Hypotheses for one, two or more populations. Linear Regression with emphasis on the difference between causation and relationships.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-STAT 51100 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Rule: 1.: STAT 51100  for a total of 1 conditions
+)
+
+MA
+16020
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+
+MA
+16021
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+
+MA
+16200
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+
+MA
+16400
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+
+MA
+16600
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+
+MA
+16900
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+
+MA
+17300
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+
+MA
+18100
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+
+MA
+22200
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+
+MATH
+16400
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+
+MATH
+M2160
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+End of rule 1.
+
+
+

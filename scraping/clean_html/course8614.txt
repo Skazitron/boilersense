@@ -1,0 +1,43 @@
+CEM 53300 - Infrastructure Analytics
+
+Credit Hours: 3.00.  This course investigates the data sources and numerical tools required to assess the status of constructed facilities and to make informed decisions from the data. The course is oriented toward upper class and graduate students familiar with the delivery of capital construction projects (buildings, roads, bridges, earthworks, utilities, rail/transit, ports, and canals) and includes numerical analysis techniques. The course will focus on data sources, either direct or indirect, and analysis methods to identify the current condition or project future conditions of built infrastructure. Course format will be highly interactive with discussion about recent infrastructure projects in both instructor, guest speaker, and student-led discussions. Issues of sustainability, regulations, and other factors will be discussed and examined.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: Construction Engineering Mgmt 
+
+Department: Div of Constr Engr & Mgmt 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Learn Identification of metrics for analysis.
+2.  Learn data gathering techniques and tools.
+3.  Learn management of infrastructure data.
+4.  Learn techniques to resolve missing or non-existent data.
+5.  Learn numerical methods, limitations and accuracy.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

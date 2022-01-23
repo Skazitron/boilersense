@@ -1,0 +1,70 @@
+MSE 50500 - Modeling and Simulation of Materials Processing
+
+Credit Hours: 3.00.  Modeling of various materials processes using finite volume techniques, with an introduction to finite difference and finite element methods. Simulation of microstructural evolution using cellular automata. Links between microscopic and macroscopic modeling. Approximate modeling, uncertainty analysis, and sensitivity analysis as aids to numerical simulation. Limitations on numerical modeling in practical problems. Project work drawn from current problems in materials processing. Offered in alternate years. Typically offered Spring.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Materials Engr 
+
+Department: Materials Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+
+Prerequisites:
+
+GR-MSE 50500 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ME
+31500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MSE
+34000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

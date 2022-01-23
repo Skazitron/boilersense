@@ -1,0 +1,78 @@
+STAT 52700 - Introduction To Computing For Statistics
+
+Credit Hours: 3.00.  This course provides a thorough introduction to the R programming language, and its use for statistical computing and data science. The course will first look at the fundamentals of R, including different data-structures, control-flow, and the basic vocabulary. An emphasis will be placed on learning idiomatic and efficient R, covering ideas such as recycling, vectorization and functional programming. The course will then look at principles and tools for tasks like organizing data (‘tidy data’), manipulating data (‘data carpentry’), querying data (through topics like regular expressions) as well as visualizing data (including interactive visualizations). The material and the homework will encourage development of modular reusable code and reproducible research through ideas such as object-oriented programming and dynamic documents in R Markdown. The last part of the course will study statistical procedures such as least-squares regression, LASSO, Monte Carlo sampling and Markov chain Monte Carlo. Besides exams and homeworks, the course will involve a final project that students can collaborate together on.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Statistics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Read and write idiomatic R code.
+2.  Be familiar with the entire data science pipeline, from organizing, manipulating, querying and visualizing data.
+3.  Introduce computational tools like optimization and simulation in the context of statistical algorithms.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR STAT 52700 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+51600
+
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+51700
+
+
+May not be taken concurrently.
+)
+
+
+

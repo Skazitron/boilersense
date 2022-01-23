@@ -1,0 +1,80 @@
+ECE 55900 - MOS VLSI Design
+
+Credit Hours: 3.00.  An introduction to most aspects of large-scale MOS integrated circuit design including: device fabrication and modeling; inverter characteristics; designing CMOS combinational and sequential circuits; designing arithmetic building blocks and memory structures; interconnect and timing issues; testing and verification; and system design considerations. Term projects involve the complete design of a functional logic block or system using CAD tools.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      IUPUI
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ECE 55900 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ECE
+30500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+ECE
+43700
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+
