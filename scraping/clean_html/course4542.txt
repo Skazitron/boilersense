@@ -1,0 +1,63 @@
+FS 44600 - Food Process Automation
+
+Credit Hours: 2.00.  Practical and descriptive aspects of automatic control of food manufacturing processes.  Use of control systems simulation; tuning of control loops; sensors; data acquisition and transmission; simple statistical process control.  Students will have hands-on experience in the pilot lab.  Intended for non-engineers. Offered in odd-number years. Typically offered Spring.
+
+    0.000 OR     2.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Department of Food Science 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Prerequisites:
+
+3 Credits in Food Science
+
+
+General Requirements:
+
+Course or Test: 
+FS
+
+Required Credits: 
+        3.000
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+Prerequisites:
+
+6 Credits in Mathematics
+
+
+General Requirements:
+
+Course or Test: 
+MA
+
+Required Credits: 
+        6.000
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+
