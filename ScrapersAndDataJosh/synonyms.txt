@@ -252,3 +252,7 @@ tanked
 yikes
 shit
 low
+interesting
+homework
+exam
+exams
