@@ -17,9 +17,11 @@ c = Catalog("course_dump.json")
 
 @app.route("/", methods=['GET'])
 def startup():
+    c.integrateData()
     return jsonify(jsonnames)
 
 @app.route("/modaldata", methods=["GET"])
 def modaldata():
     r = request.args.get('num')
+    
     return jsonify(c.getInfo(r))

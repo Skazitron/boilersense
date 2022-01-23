@@ -27,7 +27,7 @@ const ModalLocal = () => {
                 <p>Credits: {course.credits}</p>
                 <p>Department: {course.department}</p>
                 <p>Offered By: {course.offeredby}</p>
-        
+
                </div>
             </Modal.Body>
          </Modal>
