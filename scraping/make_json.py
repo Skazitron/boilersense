@@ -21,6 +21,7 @@ for filename in os.listdir(dirname):
         alllines = plaintext.splitlines()
         spltline = alllines[0].split(" - ")
         insidedict = {}
+        insidedict["courseNum"] = spltline[0].strip()
         insidedict["courseName"] = spltline[1].replace('\n', '')
         
         i = 0
@@ -51,6 +52,7 @@ for filename in os.listdir(dirname):
                 alllines[i] = re.sub(prefix_snipper, '', alllines[i])
                 insidedict["department"] = alllines[i].strip()
             i+=1
+            
         mainObject[spltline[0]] = insidedict
 
 
