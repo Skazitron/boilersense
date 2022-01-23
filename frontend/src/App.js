@@ -1,7 +1,9 @@
-import {React, useState} from 'react'
+import {React, useState, useEffect} from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css';
 import DemoData from './DemoData/DemoData.json'
+import axios from 'axios'
+
 
 import { Navbar, Container, Form, FormControl, Button, Row, Col, Card, Modal} from 'react-bootstrap';
 
@@ -17,8 +19,14 @@ const NavBar = () => {
   )
 }
 
-const CourseCard = ({CourseNumber, CourseDescription, CourseName, Info1, Body1, Info2, Body2}) => {
+const CourseCard = ({CourseNumber, CourseName}) => {
   const [lgShow, setLgShow] = useState(false);
+  const CourseDescription = "Loreum Ipsum"
+  const Info1 = "Info #1"
+  const Body1 = "Body"
+  const Info2 = "Info #2"
+  const Body2 = "Body"
+
   return (
     <Col md="3" style={{
             paddingBottom: 30
@@ -27,9 +35,7 @@ const CourseCard = ({CourseNumber, CourseDescription, CourseName, Info1, Body1, 
         <Card.Body>
           <Card.Title>{CourseNumber}</Card.Title>
           <Card.Subtitle className="mb-2 text-muted">{CourseName}</Card.Subtitle>
-          <Card.Text>
-            {CourseDescription}
-          </Card.Text>
+
           <Button variant="outline-secondary" onClick={() => setLgShow(true)}>Show More</Button>
           <Modal
             size="lg"
@@ -61,9 +67,24 @@ const CourseCard = ({CourseNumber, CourseDescription, CourseName, Info1, Body1, 
 
 
 const App = () => {  
+  const [courses, setCourses] = useState([])
   const [course, setCourse] = useState("");
-  let filtered = DemoData.filter(courseObj =>  courseObj.CourseNumber.toUpperCase().includes(course.toUpperCase()) 
-                                                || courseObj.CourseName.toUpperCase().includes(course.toUpperCase()))
+  const hook = () => {
+    console.log('effect')
+    axios
+      .get('http://127.0.0.1:5000/')
+      .then(response => {
+        console.log('promise fulfilled')
+        setCourses(response.data)
+      })
+  }
+  useEffect(hook, [])
+ 
+
+
+
+  const filtered = courses.filter(courseObj =>  courseObj.courseNumber.toUpperCase().includes(course.toUpperCase()) || courseObj.courseName.toUpperCase().includes(course.toUpperCase()))
+  const stuffToRender = filtered.map(elem => <CourseCard key={elem.id} CourseNumber={elem.courseNumber} CourseName={elem.courseName}/>)
   return (
     <div>
       <NavBar/>
@@ -88,17 +109,15 @@ const App = () => {
       </Row>
       <Container>
         <Row>
-          {filtered.map(elem => <CourseCard key={elem.id} 
-                                CourseNumber={elem.CourseNumber} 
-                                CourseName={elem.CourseName} 
-                                CourseDescription={elem.CourseDescription} 
-                                Info1={elem.Info1}
-                                Body1={elem.Body1}
-                                Info2={elem.Info2}
-                                Body2={elem.Body2}
-                                />)}
+          {stuffToRender}
         </Row>
       </Container>
+      <Row className="justify-content-md-center" style={{
+        paddingTop: 20,
+        paddingBottom: 30
+      }}>
+       
+      </Row>
     </div>
   )
 }
