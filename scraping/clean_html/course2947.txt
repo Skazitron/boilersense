@@ -1,0 +1,44 @@
+CS 47100 - Introduction to Artificial Intelligence
+
+Credit Hours: 3.00.  Students are expected to spend at least three hours per week gaining experience with artificial intelligence systems and developing software. Basic problem-solving strategies, heuristic search, problem reduction and AND/OR graphs, knowledge representation, expert systems, generating explanations, uncertainty reasoning, game playing, planning, machine learning, computer vision, and programming systems such as Lisp or Prolog.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture, Practice Study Observation 
+
+
+Offered By: College of Science 
+
+Department: Computer Science 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      Computer Science
+
+      Computer Science Honors
+
+      Data Science
+
+      Data Science
+
+
+Prerequisites: 
+
+ Undergraduate level  CS 25100 Minimum Grade of C or Undergraduate level  ECE 36800 Minimum Grade of C
+
+

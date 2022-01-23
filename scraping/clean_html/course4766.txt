@@ -1,0 +1,42 @@
+CNIT 17600 - Information Technology Architectures
+
+Credit Hours: 3.00.  A conceptual and technological survey of information technology architectures inclusive of operating systems, network operating systems, distributed systems architectures, and distributed application architectures. Interoperability between these architectural components is explored. Current technology and trends in each architectural element are reviewed. PC literacy required.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Individual Study, Laboratory, Lecture, Practice Study Observation 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Credit By Exam, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      Richmond
+
+      South Bend
+
+
+

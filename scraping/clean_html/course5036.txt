@@ -1,0 +1,44 @@
+ECE 20002 - Electrical Engineering Fundamentals II
+
+Credit Hours: 3.00.  Continuation of Electrical and Computer Engineering Fundamentals I. The course addresses mathematical and computational foundations of circuit analysis (differential equations, Laplace Transform techniques) with a focus on application to linear circuits having variable behavior as a function of frequency, with emphasis on filtering. Variable frequency behavior is further considered for applications of electronic components through single-transistor and operational amplifiers. The course ends with consideration of how circuits behave and may be modeled for analysis at high frequencies. Permission of Department required.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Analyze 2nd order linear circuits with sources and/or passive elements.
+2.  Compute responses of linear circuits with and without initial conditions via one-sided Laplace transform techniques.
+3.  Compute responses to linear circuits using transfer function and convolution techniques.
+4.  Analyze and design transistor amplifiers at low, mid and high frequencies.
+5.  Ability to work with transmission line models to analyze circuits at high-frequency.
+6.  Use a CAD tool (e.g., SPICE) in circuit analysis and design.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  ECE 20001 Minimum Grade of C and (Undergraduate level  MA 26200 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MA 26600 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MA 36600 Minimum Grade of D- [may be taken concurrently])
+
+

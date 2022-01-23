@@ -1,0 +1,53 @@
+ECET 33500 - Computer Architecture And Performance Evaluation
+
+Credit Hours: 3.00.  The course focuses on the application and evaluation of computers. The architecture of modern computer CPUs and their peripheral subsystems are presented. Analytic performance evaluation techniques are introduced and developed. Common benchmarking tools for quantifying performance are used. Students also apply performance evaluation algorithms of their own creation to evaluate CPU and subsystem performance.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Credit By Exam, Dept Credit, Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Identify the primary computer instruction components and explain their function.
+2.  Identify, explain, and analyze the architecture and performance of a computer and its subsystems.
+3.  Apply queuing and probabilistic methods to predict computer and subsystem performance.
+4.  Demonstrate the development and use of computer performance evaluation tools.
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  ECET 27900 Minimum Grade of D- and (Undergraduate level  MA 16020 Minimum Grade of D- or Undergraduate level  MA 16021 Minimum Grade of D- or Undergraduate level  MA 22800 Minimum Grade of D- or Undergraduate level  MA 22400 Minimum Grade of D- or Undergraduate level  MA 22200 Minimum Grade of D- or Undergraduate level  MA 16200 Minimum Grade of D- or Undergraduate level  MA 16600 Minimum Grade of D- or Undergraduate level  MA 23000 Minimum Grade of D- or Undergraduate level  MATH M1200 Minimum Grade of D- or Undergraduate level  MATH M2090 Minimum Grade of D- or Undergraduate level  MATH M2160 Minimum Grade of D-)
+
+

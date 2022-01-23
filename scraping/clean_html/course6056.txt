@@ -1,0 +1,31 @@
+MFET 47500 - Advanced Manufacturing Networks
+
+Credit Hours: 3.00.  Advanced topics in data communications and local area networks (LANs) are examined in the context of a fully integrated modern manufacturing facility. Topics include data communications hardware, LAN topologies, media, medium access control, common network protocols, and internetworking. Typically offered Fall Spring.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MFET 37400 Minimum Grade of D-
+
+

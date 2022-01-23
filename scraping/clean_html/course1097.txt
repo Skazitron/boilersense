@@ -1,0 +1,39 @@
+AAE 35103 - Aerospace Systems Design
+
+Credit Hours: 3.00.  Aerospace system lifecycle and design process. Stakeholder needs elicitation and requirements generation. Quality function deployment and hierarchical objective trees. Concept generation and creativity techniques. Introduction to safety, risk, cost and value analysis. Critical evaluation of the applicability of systems engineering techniques in specific contexts. Application of these techniques to a team semester design project.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture, Recitation 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Identify appropriate tools, methods and processes to formulate an aerospace system design problem including realistic constraints from technical, economic, social, political, safety, and other relevant contexts.
+2.  Apply those tools, methods and processes to generate solutions to the aerospace system design problem.
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  AAE 25100 Minimum Grade of D-
+
+

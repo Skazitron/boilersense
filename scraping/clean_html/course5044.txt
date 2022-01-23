@@ -1,0 +1,44 @@
+ECE 20800 - Electronic Devices And Design Laboratory
+
+Credit Hours: 1.00.  Laboratory experiments in the measurement of electronic device characteristics. Design of biasing networks, small signal amplifiers, and switching circuits.
+
+    1.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Dept Credit, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      PU Fort Wayne
+
+      IUPUI
+
+      West Lafayette
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Interdisciplnry Engr
+
+      School of Elec & Computer Engr
+
+
+Prerequisites: 
+
+ Undergraduate level  ECE 20700 Minimum Grade of D- and Undergraduate level  ECE 25500 Minimum Grade of D- [may be taken concurrently]
+
+

@@ -1,0 +1,40 @@
+STAT 30301 - Probability And Statistics For Business
+
+Credit Hours: 3.00.  An introduction to basic probability theory.    Discussion of descriptive statistics, sampling technique/distributions, Central Limit Theorem, confidence intervals and hypothesis tests for means and proportions. Students will utilize software as needed. Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture, Recitation 
+
+
+Offered By: College of Science 
+
+Department: Statistics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand basic terminology, set theory, and counting rules related to probability.
+2.  Identify selected discrete and continuous probability models/distributions and apply them to answer probability questions.
+3.  Understand, interpret standard statistical techniques/methods, analyze data, calculate and use confidence intervals and hypothesis tests for means and proportions, understand the design of samples and experiments.
+4.  Understand basic terms, graphs, and symbols and be able to interpret statistics in the media.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MA 16010 Minimum Grade of C- or Undergraduate level  MA 16020 Minimum Grade of C- or Undergraduate level  MA 16021 Minimum Grade of C- or Undergraduate level  MA 16100 Minimum Grade of C- or Undergraduate level  MA 16200 Minimum Grade of C- or Undergraduate level  MA 16500 Minimum Grade of C- or Undergraduate level  MATH 16400 Minimum Grade of C- or Undergraduate level  MATH 16600 Minimum Grade of C- or Undergraduate level  MA 16600 Minimum Grade of C- or Undergraduate level  MA 22200 Minimum Grade of C- or Undergraduate level  MA 22400 Minimum Grade of C- or Undergraduate level  MA 23000 Minimum Grade of C- or Undergraduate level  MA 23200 Minimum Grade of C-
+
+

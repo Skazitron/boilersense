@@ -1,0 +1,42 @@
+MA 43200 - Elementary Stochastic Processes
+
+Credit Hours: 3.00.  An introduction to some classes of stochastic processes that arise in probabilistic models of time-dependent random processes. The main stochastic processes studied will be discrete time Markov chains and Poisson processes. Other possible topics covered may include continuous time Markov chains, renewal processes, queueing networks, and martingales. Typically offered Fall.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Mathematics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Identify a verbal description of a stochastic process, identify the process as a Markov process and compute the transition matrix for the Markov process.
+2.  Compute the stationary distribution of a Markov process and use this to draw conclusions on the long-term asymptotic behavior of the stochastic process using appropriate limit theorems for Markov processes.
+3.  Understand what conditions are necessary to be able to apply the main limit theorems for Markov chains; also, students should be able to give examples of Markov chains where these limit theorems do not hold because the assumptions of the theorems are violated.
+4.  Calculate hitting probabilities or expected hitting times of a Markov chain by solving a system of linear equations.
+5.  Know how to use mathematics software (e.g. Matlab) to perform computations for Markov chains on large state spaces.
+6.  Understand the thinning and superposition properties of Poisson processes and how to use these properties in computations.
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  MA 26500 Minimum Grade of C- or Undergraduate level  MA 35100 Minimum Grade of C-) and (Undergraduate level  MA 41600 Minimum Grade of C- or Undergraduate level  STAT 41600 Minimum Grade of C-)
+
+

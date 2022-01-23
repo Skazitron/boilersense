@@ -1,0 +1,49 @@
+EAPS 57700 - Remote Sensing Of The Planets
+
+Credit Hours: 3.00.  Introduction to key planetary and Earth science satellite remote sensing datasets, including visible and thermal imagery, visible through mid-infrared spectroscopy, radar, gamma ray and neutron spectroscopy, and laser altimetry. Students will receive hands-on-experience with data acquisition, image processing in IDL, spectral analysis in ENVI and Davinci, crater counting, and geologic mapping in GIS programs. Includes 1-2 full-day field trips. Junior, Senior, or Graduate status required. Recommended minimum background for undergraduates: Introductory knowledge of Earth or planetary surface processes and basic programming skills.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Science 
+
+Department: Dept Erth Atmos & Planetry Sci 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand the underlying physical principles behind the interpretation of remote sensing data.
+2.  Gain proficiency in the acquisition, processing, and analysis of remote sensing data.
+3.  Gain field experience with using and ground truthing remote sensing data at planetary analog sites.
+4.  Propose a research topic, conduct a literature review, and design and complete an original research project.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

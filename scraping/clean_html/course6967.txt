@@ -1,0 +1,40 @@
+BCHM 42100 - R For Molecular Biosciences
+
+Credit Hours: 3.00.  Students will acquire, assess, clean, visualize and analyze biological data sets with R. Students will be able to describe the link between complex biological phenomena and the data captured through human observation or scientific instrumentation. Students will learn how to organize data sets to optimize clarity and analytic possibilities while minimizing errors with examples drawn from the literature or biological databases. R will be taught starting with small-scale data such as drug sensitivity assays moving to genome-scale analyses such as gene expression and pathway analysis later in the course. These skills will be taught in the light of increasing data literacy and enabling reproducible research through clear documentation of data and communication of analyses. Relevant concepts from biology and statistics will be reviewed.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Biochemistry 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand how complex biological phenomena are captured as data.
+2.  Learn how to manage data science projects using tools such as R, Linux and remote computing.
+3.  Use R to acquire, assess, clean, organize, visualize and analyze biological data.
+4.  Use R to document and communicate analysis of biological data.
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  STAT 30100 Minimum Grade of D- or Undergraduate level  STAT 50100 Minimum Grade of D- or Undergraduate level  STAT 50300 Minimum Grade of D- or Undergraduate level  STAT 51100 Minimum Grade of D-) and (Undergraduate level  BIOL 11100 Minimum Grade of D- or Undergraduate level  BCHM 30700 Minimum Grade of D-)
+
+

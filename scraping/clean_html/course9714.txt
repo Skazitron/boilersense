@@ -1,0 +1,35 @@
+MA 51000 - Vector Calculus
+
+Credit Hours: 3.00.  Calculus of functions of several variables and of vector fields in orthogonal coordinate systems. Optimization problems, implicit function theorem, Green's theorem, Stokes' theorem, divergence theorems. Applications to engineering and the physical sciences. Not open to students with credit in MA 36200 or 41000.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Science 
+
+Department: Mathematics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      PU Fort Wayne
+
+      West Lafayette
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

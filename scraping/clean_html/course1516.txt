@@ -1,0 +1,62 @@
+MGMT 46700 - Big Data & Cloud Computing
+
+Credit Hours: 3.00.  Cloud computing and big data technologies are rapidly enhancing an organization's business intelligence ecosystem. Two modules of the course are specially designed for students to gain valuable hands-on experience in collecting, cleaning, formatting, integrating, and storing massive amounts of data that may be structured or unstructured, archived, or streaming in a cloud platform. The first module will introduce cloud computing fundamentals, its enabling technologies, main building blocks, and hands-on experience through projects utilizing Google Cloud Platform (GCP). The second module will cover processes for creating data pipelines in GCP so that the student will be able to curate big data for training, analysis, and prediction using AI/ML and other data science techniques. Typically offered Fall.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: School of Management 
+
+Department: School of Mgmt Adm & Instr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Configure rapidly GCP to meet any analytics related challenge.
+2.  Build Data Lakes and Data Warehouses for big data analytics.
+3.  Use BigQuery and related services for advanced, real-time analytics.
+4.  Use BigQuery ML for classification and regression.
+5.  Build complex data pipelines using GCP's Dataflow, Cloud pub/sub, and Cloud Function to prepare data for machine learning algorithms.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Management-BSIM
+
+      Integrated Business Engr-BS
+
+      Management-BS
+
+      Accounting-BS
+
+      Economics-BS
+
+
+Corequisites: 
+
+MGMT 54400
+
+
+Prerequisites: 
+
+ Undergraduate level  MGMT 38800 Minimum Grade of C-
+
+

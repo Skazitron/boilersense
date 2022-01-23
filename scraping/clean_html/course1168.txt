@@ -1,0 +1,32 @@
+AAE 62600 - Turbulence And Turbulence Modeling
+
+Credit Hours: 3.00.  Physical description of turbulence. Reynolds averaged equations. Scaling of basic turbulent flows. Homogeneous turbulence, spectra and two-point correlations. Hierarchy of turbulence models, including zero-, one-, and two-equation models, Reynolds stress models, large eddy simulations, and direct numerical simulations. Additional topics, such as compressibility effects on turbulence and probability density function methods, as time allows.  Prerequisite:  AAE 51100.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

@@ -1,0 +1,44 @@
+MA 37300 - Financial Mathematics
+
+Credit Hours: 3.00.  A mathematical treatment of some fundamental concepts of financial mathematics and their application to real world business situations and basic risk management.  Includes discussions of valuing investments, capital budgeting, valuing contingent cash flows, yield curves, spot rates, forward rates, short sales, Macaulay duration, modified duration, convexity, and immunization.  Provides preparation for the SOA/CAS Actuarial Exam FM/2. Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Mathematics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Define and recognize concepts related to the time value of money, and will be able to do calculations involving these concepts.
+2.  Define and recognize concepts related to annuities and cash flows, and will be able to do calculations involving these concepts.
+3.  Define and recognize concepts related to loans, and will be able to do calculations involving these concepts.
+4.  Define and recognize concepts related to bonds, and will be able to do calculations involving these concepts.
+5.  Define and recognize concepts related to general cash flows and portfolios, and will be able to do calculations involving these concepts.
+6.  Dfine and recognize concepts related to immunization, and will be able to do calculations involving these concepts.
+7.  Define and recognize concepts related to interest rate swaps, and will be able to do calculations involving these concepts.
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MA 16100 Minimum Grade of C- [may be taken concurrently] or Undergraduate level  MA 16300 Minimum Grade of C- [may be taken concurrently] or Undergraduate level  MA 16500 Minimum Grade of C- [may be taken concurrently] or Undergraduate level  MA 16700 Minimum Grade of C- [may be taken concurrently]
+
+

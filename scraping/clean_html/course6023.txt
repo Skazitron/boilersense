@@ -1,0 +1,40 @@
+MFET 23100 - Industrial Internet Of Things, Networks, And Systems II
+
+Credit Hours: 3.00.  This course offers a practical exploration of Industrial Internet of Things (IToT) in converged information and operations technology (IT/OT) industrial automation systems. Course topics include IT and OT reference architectures, industrial network convergence, standards, and security practices in the context of Edge, hybrid, and the Cloud-based industrial applications. Specific focus is given to integrating and securing networked industrial devices with local and cloud-based IT systems in greenfield and brownfield scenarios. Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Apply industry standards to develop a basic industrial network for converged IT/OT smart manufacturing systems.  
+2.  Demonstrate the implementation of key security components required for converged IT/OT industrial networks. 
+3   Describe the role, characteristics, and requirements of safety systems in smart manufacturing. 
+4.  Implement batch and real-time computation and basic machine learning models in an automated system.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MFET 23000 Minimum Grade of D-
+
+

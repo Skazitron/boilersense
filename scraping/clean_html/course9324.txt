@@ -1,0 +1,57 @@
+ECET 37300 - Applied Electronic Drives
+
+Credit Hours: 3.00.  This course covers operational principles and application development consideration of all subsystems that make up electric drives: electric machines, power-electric based converters, mechanical system requirements, feedback controller design, and the interaction of drives with the utility grid. State of the art drive development tools are introduced through hands-on activities.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Describe the structure of electronic drive systems and their role in various applications such as flexible production systems, energy conservation, renewable energy, and transportation, making electric drives an enabling technology.
+2.  Understand the basic principles of power electronics in drives using switch-mode converters and pulse width modulation to synthesize the voltages in dc and ac motor drives. 
+3.  Understand the operation of DC, AC, and brushless DC motors. 
+4.  Construct and test traditional and electronic drive circuit for above motors. 
+5.  Analyze various signals present in electric drive to evaluate drive performance.
+6.  Learn speed control of the above machines.  
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  ECET 27900 Minimum Grade of D- and Undergraduate level  ECET 37600 Minimum Grade of D-
+
+

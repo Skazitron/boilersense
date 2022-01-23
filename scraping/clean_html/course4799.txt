@@ -1,0 +1,63 @@
+CNIT 33100 - Game Development III: Environment Modeling For Games
+
+Credit Hours: 3.00.  (CGT 34500) This course teaches the techniques and principles needed to create realistic three-dimensional virtual environments in game engines. The course will examine the principles of physics that determine how light propagates through the world and is eventually perceived by a human eye. Global illumination techniques that approximate these principles are described, followed by an in-depth examination of how game engines then approximate these solutions in order to create virtual environments that can run at real-time frame rates.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Studio 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Implement realistic, aesthetically pleasing, 3D virtual environments within a game engine that correctly/plausibly adheres to physical principles of light,, shadow, and reflection.
+2.  Implement lighting, reflectance, and scattering in a virtual scene such that it conveys a particular mood or message.
+3.  Identify and articulate the physical process that determine the appearance of real physical objects as sensed by the human visual perception system.
+4.  Articulate the processes and concepts behind global illumination, including (but not limited to) light propagation, reflectance, scattering, and sampling.
+5.  Articulate and implement the ways that global illumination techniques are approximated by game engines.
+6.  Demonstrate mastery of in-engine visualization tools that assess run-time performance and thus predict run-time performance of a given virtual environment.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 23200 Minimum Grade of C- or Undergraduate level  CGT 25500 Minimum Grade of C-
+
+

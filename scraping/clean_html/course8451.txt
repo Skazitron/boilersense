@@ -1,0 +1,49 @@
+CGT 24500 - Game Development I: Core Skills And Technologies
+
+Credit Hours: 3.00.  (CNIT 30600) This course introduces students to the fundamental technologies and skill sets required to develop video games. Students will be taught agile development methodologies in a team-based environment.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Studio 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Kokomo
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Demonstrate a moderate level of individual skill with a commercial game engine.
+2.  Demonstrate the ability to observe game mechanics and reproduce them.
+3.  Acquire competency in each of the following domains: 3D and 2D level creation, basic art asset creation, visual programming basics, implementing game mechanics.
+4.  Demonstrate the ability to complete a market-ready video game in a team-based production environment.
+5.  Demonstrate the ability to implement agile production techniques.
+
+
+
+Prerequisites: 
+
+ 
+
+

@@ -1,0 +1,66 @@
+STAT 52600 - Advanced Statistical Methodology
+
+Credit Hours: 3.00.  As a sequel to STAT 52500, this course introduces some statistical modeling tools that are developed for situations where least squares regression and standard ANOVA techniques may not naturally apply. One coverage centers around two lines of models that are closely related, the generalized linear models (GLM) for regression (and ANOVA) with non Gaussian responses, and survival models for the analysis of lifetime data. Among issues to be discussed are the estimation of the models, the testing of hypotheses, and the checking of model adequacy. Data examples will be used throughout the course to illustrate the methodologies and the related software tools in R.  Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Statistics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-STAT 52600 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+52500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

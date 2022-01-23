@@ -1,0 +1,40 @@
+ECE 66100 - Computer Vision
+
+Credit Hours: 3.00.  This course deals with how an autonomous or a semi-autonomous system can be endowed with visual perception. The issues discussed include: sampling from a topological standpoint; grouping processes; data structures, especially hierarchical types such as pyramids, quadtrees, octrees, etc.; graphic theoretic methods for structural description and consistent labeling; issues in 3-D vision such as object representation by Gaussian spheres, generalized cylinders, etc. Prerequisite: ECE 57000. Typically offered Spring.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      PU Fort Wayne
+
+      IUPUI
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

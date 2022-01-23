@@ -1,0 +1,43 @@
+AAE 33900 - Aerospace Propulsion
+
+Credit Hours: 3.00.  Survey of air-breathing and rocket propulsion systems for AAE students not in the propulsion option. Thermodynamic cycles, analysis of air-breathing systems and components. Rocket Equation, rocket cycles, liquid and solid propellants, chemical equilibrium.
+
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Knowledge of propulsion applications that use gas turbine engines and rockets.
+2.  Understanding of the Brayton cycle and ability to calculate enthalpy and work balance. 
+3.  Ability to solve mass, momentum, and energy balances using a control volume approach.
+4.  Ability to perform top-level performance and sizing calculations of gas turbine engines. 
+5.  Ability to apply Euler's work equation to compressors and turbines to calculate work.
+6.  Ability to use the Rocket Equation to calculate impulse requirements and size rocket thrusters.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  AAE 33400 Minimum Grade of D- [may be taken concurrently] and Undergraduate level  ME 20000 Minimum Grade of D- and Undergraduate level  AAE 20000 Minimum Grade of S
+
+

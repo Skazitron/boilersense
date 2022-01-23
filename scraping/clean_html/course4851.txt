@@ -1,0 +1,55 @@
+CNIT 48400 - Applications In Data Science
+
+Credit Hours: 3.00.  Students investigate practical applications of Data Science and evaluate their effectiveness in guiding decision making. Students will employ tools to assist in these efforts.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Extract knowledge and insights from a variety of datasets.
+2.  Evaluate the effectiveness of extracted knowledge and insights.
+3.  Examine the ethical and social implications of data-driven decision making and policies and one's own ethical and social responsibilities when working with data.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+May not be enrolled as the following Classifications:      
+
+      Freshman: 15 - 29 hours
+
+      Junior: 75 - 89 hours
+
+      Sophomore: 45 - 59 hours
+
+      Junior: 60 - 74 hours
+
+      Freshman: 0 - 14 hours
+
+      Sophomore: 30 - 44 hours
+
+

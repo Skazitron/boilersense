@@ -1,0 +1,83 @@
+AAE 53700 - Hypersonic Propulsion
+
+Credit Hours: 3.00.  Analysis of advanced high speed air breathing propulsion concepts for hypersonic flight. Missions and trajectories. Engine/airframe integration. Aerothermodynamic analysis of ramjets, scramjets, and oblique detonation wave engines. On- and off-design of compression inlets and minimum length nozzles. Cryogenic fuels and skin cooling. Ram accelerator ballistic launch concepts.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Develop understanding of high-speed inlet systems.
+2.  Develop understanding of mixing systems employed in airbreathing engines.
+3.  Develop understanding of turbine-based combined cycle systems.
+4.  Develop understanding of detonative-based propulsion systems.
+5.  Develop understanding of ducted rockets.
+6.  Develop understanding of ramjet and scramjet propulsion systems.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-AAE 53700 Requisites
+
+
+General Requirements:
+
+ ( 
+Course or Test: 
+AAE
+41400
+
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+AAE
+43900
+
+
+May not be taken concurrently.
+ )or( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+)
+
+
+

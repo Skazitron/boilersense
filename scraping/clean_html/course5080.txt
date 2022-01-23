@@ -1,0 +1,46 @@
+ECE 30417 - Engineering Optics Laboratory
+
+Credit Hours: 1.00.  A set of laboratory experiments dealing with fundamentals and basic applications of geometrical optics, beams, polarization optics, wave optics and Fourier optics. Permission of instructor required.
+
+    1.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Handle basic optical components and equipment properly.
+2.  Assemble a set of optical components to perform simple optical measurements.
+3.  Design and test simple free-space optical measurements and instruments.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Elec & Computer Engr
+
+
+Prerequisites: 
+
+ (Undergraduate level  ECE 20800 Minimum Grade of D- or Undergraduate level  ECE 20008 Minimum Grade of D-) and Undergraduate level  ECE 30100 Minimum Grade of D- and (Undergraduate level  ECE 30411 Minimum Grade of D- or Undergraduate level  ECE 31100 Minimum Grade of D-) and Undergraduate level  ECE 30416 Minimum Grade of D- [may be taken concurrently]
+
+

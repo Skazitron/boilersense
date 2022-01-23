@@ -1,0 +1,97 @@
+ECE 50653 - Fundamentals Of Nanoelectronics
+
+Credit Hours: 3.00.  The modern smartphone is enabled by a billion-plus nano-transistors, each having an active region that is barely a few hundred atoms long. Interestingly the same amazing technology has also led to a deeper understanding of the nature of current flow on an atomic scale. The aim of this course is to make the fundamentals of nanoelectronics accessible to anyone in any branch of science or engineering, assuming very little background beyond linear algebra and differential equations, although we will be discussing advanced concepts in non-equilibrium statistical mechanics that should be of interest even to specialists. We first introduce a new perspective connecting the quantized conductance of short ballistic conductors to the familiar Ohm's  law of long diffusive conductors, along with a brief description of the modern nano-transistor. We then address fundamental conceptual issues related to the meaning of resistance on an atomic scale, the interconversion of electricity and heat, the second law of thermodynamics and the fuel value of information. Finally we introduce the concepts of quantum transport as applied to modern nanoscale electronic devices.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Perform semi-classical analysis of charge flow in nanoelectronic devices.
+2.  Perform semi-classical analysis of the interconversion of heat and electricity in nanoelectronic devices.
+3.  Perform quantum analysis of nanoelectronic devices.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ECE 50653 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+26200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+26500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+MA
+26600
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

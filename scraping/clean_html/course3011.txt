@@ -1,0 +1,54 @@
+CS 57800 - Statistical Machine Learning
+
+Credit Hours: 3.00.  This introductory course will cover many concepts, models, and algorithms in machine learning. Topics include classical supervised learning (e.g., regression and classification), unsupervised learning (e.g., principle component analysis and K-means), and recent development in the machine learning field such as variational Bayes, expectation propagation, and Gaussian processes. While this course will give students the basic ideas and intuition behind modern machine learning methods, the underlying theme in the course is probabilistic inference.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Computer Science 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Repeatable for Additional Credit: Yes - May be repeated up to 2 times
+
+
+Learning Outcomes: 
+1.  Learn the theory and key algorithms used in machine learning.
+2.  Get hands-on machine learning experience by implementing several algorithms, applying them to datasets and analyzing their performance.
+3.  Understand how to use machine learning methods to their research projects, formulate the learning tasks and match them with appropriate solutions.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Computer Science-PHD
+
+      Computer Science-MS
+
+      Computer Science-MS
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

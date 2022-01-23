@@ -1,0 +1,34 @@
+ECE 63700 - Digital Image Processing I
+
+Credit Hours: 3.00.  Introduction to digital image processing techniques for enhancement, compression, restoration, reconstruction, and analysis. Lecture and experiments covering a wide range of topics. 2-D signals and systems, image analysis, and image segmentation. Achromatic vision, color image processing, color imaging systems, image sharpening, interpolation, decimation, linear and nonlinear filtering, printing and display of images. Image compression, image restoration, and tomography. Offered every third semester.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      IUPUI
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

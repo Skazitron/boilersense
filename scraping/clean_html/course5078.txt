@@ -1,0 +1,46 @@
+ECE 30415 - Fiber Optics And Lasers Laboratory
+
+Credit Hours: 1.00.  This laboratory course exercises in lasers, modulation of laser beams, fiber components and systems. It covers some simple optical measurements like Power and beam spot measurement of Gaussian beams. Students learn about lens-pinhole spatial filters and beam expanders. Fourier transform, convolution and correlation are covered. Characteristics of LEDs and ILDs are shown. Students become familiar with optical fibers related experiments like Fiber-optic microbend intensity sensors, Electrooptic modulation, Fiber optic Mach-Zehnder interferometer etc. Students also learn how to build laser systems based on the knowledge acquired from previous labs and with some simple set up. Finally there is a final project where students can design a practical optical instrument based on their knowledge from the lab.
+
+    1.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Handle basic optical components and equipment properly.
+2.  Assemble and align necessary optical components to perform simple optical experiments.
+3.  Design and test simple fiber communication systems.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Elec & Computer Engr
+
+
+Prerequisites: 
+
+ Undergraduate level  ECE 30100 Minimum Grade of D- and (Undergraduate level  ECE 20008 Minimum Grade of D- or Undergraduate level  ECE 20800 Minimum Grade of D-) and (Undergraduate level  ECE 30411 Minimum Grade of D- or Undergraduate level  ECE 31100 Minimum Grade of D-) and Undergraduate level  ECE 30414 Minimum Grade of D- [may be taken concurrently]
+
+

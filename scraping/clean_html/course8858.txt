@@ -1,0 +1,44 @@
+ECON 65300 - Topics In Early Childhood Development
+
+Credit Hours: 2.00 or 3.00.  This course is the second in the Ph.D. Labor Economics sequence. We will focus on the economics of skill formation and its consequences on later outcomes like schooling choices, health, social behaviors and labor market variables. We will do this by analyzing both state and dynamic settings, in which we recognize that skill formation is a process where early inputs affect the productivity of later ones. This course will be econometrically intense, covering from reduced form techniques to structural ones. We will pay special attention to econometric identification of effects and the analysis of skills as unobserved heterogeneity, its consequences on empirical estimation and models to address it. This course will emphasize the connection between theory and practice. Permission of department required.
+
+    2.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Management 
+
+Department: Dept of Economics 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand the role played by the endogeneity caused by the unobserved heterogeneity in econometric estimation.
+2.  Understand and use advanced methodologies that allow the correct estimation of econometric models in non-standard settings, like in the presence of self-selection and unobserved heterogeneity.
+3.  Understand the economic theory and evidence that allow us to claim that early childhood development is one of the most important investment a person can do.
+4.  Know the relevant literature regarding early childhood development, skill formation and econometric estimation techniques employed in these subareas of labor economics.
+5.  Understand why and how skills evolve over time.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Economics-PHD
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

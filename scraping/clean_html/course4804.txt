@@ -1,0 +1,63 @@
+CNIT 34220 - Network Administration
+
+Credit Hours: 2.00.  This course focuses on the tasks and issues involved in the installation and administration of distributed computing systems. Topics include the administration of network operating systems and network system interoperability. Students will implement and maintain a comprehensive network service infrastructure.
+
+    0.000 OR     2.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Design and implement domain name system (DNS) solutions for internal and external networks.
+2.  Design, install, and maintain messaging and e-mail systems.
+3.  Implement and maintain web services from client and server perspectives.
+4.  Design and implement service delivery solutions for network services.
+5.  Describe and implement centralized authentication solutions.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 34000 Minimum Grade of C- or Undergraduate level  CNIT 34010 Minimum Grade of C-
+
+

@@ -1,0 +1,32 @@
+CE 66100 - Algorithms In Transportation
+
+Credit Hours: 3.00.  Modeling and analysis of transportation network problems through the design, analysis, and implementation of algorithms. Emphasis on the use of quantitative techniques of operations research to model system performance. Covers fundamental data structures, complexity analysis, memory management, recursive programs, application of graph theory and network analysis to transportation problems, analytical formulations and solution algorithms for traffic assignment problems, and dynamic traffic assignment. Prerequisite: CE 59600 or IE 50100.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Civil Engineering 
+
+Department: Lyles School of Civil Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

@@ -1,0 +1,53 @@
+CGT 57200 - Special Topics In Human-Centered Design And Development
+
+Credit Hours: 3.00.  This course offers students the opportunity to explore current topics in human-centered design and development of systems with graphical user interfaces in-depth through readings, discussions, design projects and design critiques. Topics vary by semester. Possible offerings include Critical Design, Design for Behavior Change, Participatory Design, Design for Social Good, Service Design, Social Interaction Design.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Laboratory, Lecture, Recitation, Studio 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division, Variable Title 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Repeatable for Additional Credit: Yes - May be repeated for a maximum of 9 credits
+
+
+Learning Outcomes: 
+1.  Describe, explain, and compare processes, methods and techniques of human-centered data.
+2.  Create deliverables such as, but not limited to: interactive prototypes, research reports, usability evaluation reports, scholarly research papers using HCDD processes, methods and techniques.
+3.  Critique HCDD processes, methods and techniques.
+4.  Evaluate HCDD deliverables using HCDD methods such as cognitive walkthrough, usability testing, focus groups, etc.
+5.  Lead teams through HCDD iterative processes used for creating.
+6.  Solve specific design problems using the appropriate HCDD processes, methods and techniques.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

@@ -1,0 +1,149 @@
+ECET 43000 - Electrical And Electronic Product And Program Management
+
+Credit Hours: 3.00.  This course deals with the planning of electrical and electronic products and projects. Research methods are studied to support new product development including customer needs and the development of engineering requirements. Formal techniques such as functional decomposition, top-down and bottom-up design techniques are studied. Planning and design alternatives to meet cost, performance, and user-interface foals are emphasized. Technical topics are revisited with emphasis on new applications. The various types and levels of new product system tests are studied. New product planning, scheduling, and management techniques are studied, along with the usage of software tools for project scheduling and management. Creativity is stressed, and the different approaches taken by the designers are compared and discussed.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Travel Time 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1. Apply the engineering design lifecycle process.
+2. Evaluate customer needs as part of the definition of the solution to a problem.
+3. Evaluate alternative designs to solve a problem and then decide on the most appropriate design to pursue.
+4. Define a workable plan to create a design to solve a product development problem.
+5. Plan and construct a Gantt chart to be followed during senior design.
+6. Write a formal technical proposal to be carried through in senior design.
+
+
+
+
+Prerequisites:
+
+ECET 43000 Requisites
+
+
+General Requirements:
+
+ ( 
+Course or Test: 
+ECET
+27000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+ECET
+38001
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+TECH
+32000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )and( 
+Course or Test: 
+ECET
+30000
+ to 
+37999
+
+Required Credits: 
+        6.000
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ECET
+38010
+ to 
+49999
+
+Required Credits: 
+        6.000
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ECET
+30000
+ to 
+37999
+
+Required Credits: 
+        3.000
+
+Minimum Grade of 
+D-
+
+May be taken concurrently.
+and
+Course or Test: 
+ECET
+38010
+ to 
+49999
+
+Required Credits: 
+        3.000
+
+Minimum Grade of 
+D-
+
+May be taken concurrently.
+)
+
+
+

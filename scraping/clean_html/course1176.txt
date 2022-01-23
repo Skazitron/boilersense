@@ -1,0 +1,42 @@
+AAE 67500 - Advanced Signals And Systems For Satellite Navigation
+
+Credit Hours: 3.00.  Fundamental theory of ranging signal design. Generation of pseudorandom noise.  Methods for detecting, tracking, and estimating delay using ranging signals. Probability of detection, probability of false alarm, and tracking threshold derived from a stochastic signal model. Models for multiple access, quantization, clock and multipath errors. Examples drawn from present-day Global Navigation Satellite Systems (GNSS). Prerequisites: ECE 60000, AAE 56700, or equivalent (Random Variables and Stochastic Processes).
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand current literature in radio navigation signal processing.
+2.  Develop signal processing algorithms for radio navigation applications.
+3.  Predict performance of radio navigation signal processing algorithms.
+4.  Implement radio navigation signal processing algorithms in a software-defined radio, using a programming language such as MATLAB.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

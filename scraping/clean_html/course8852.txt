@@ -1,0 +1,67 @@
+ECON 63800 - Advanced Topics In International Trade
+
+Credit Hours: 1.00 to 3.00.  Specific subject matters may vary year to year reflecting recent developments in the field of international trade. Generally, we first review benchmark models of trade that explain basic facts in international trade. Our focus remains on unifying these theories as well as learning tools to bring the theories to data to conduct policy and welfare analysis. Material is selected from current journal articles. Throughout the course, we study several applications including the impact of tariffs and trade agreements, the interaction between trade and labor market, the interaction between trade and environment, economic geography and the impact of spatial policies, and agricultural production and trade in the global economy.
+
+    1.000 TO     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Management 
+
+Department: Dept of Economics 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Repeatable for Additional Credit: Yes - May be repeated for a maximum of 4 credits
+
+
+Learning Outcomes: 
+1.  Understand the applications of general equilibrium modeling to address important questions in international trade and spatial economics.
+2.  Understand the main datasets used in international trade studies as well as an introduction to large, micro data that can help address specific questions.
+3.  Outline theory and estimation techniques across several key models and extensions in the area of international trade and related fields.
+4.  Demonstrate a critical review of recent studies and present them to the class.
+5.  Work out and replicate the results of a key study in the literature using tools for computation and estimation at the research frontier.
+6.  Have research ideas and a set of skills to develop your research for a PhD dissertation.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Economics-MS
+
+      Economics-PHD
+
+      Org Behav HR Mgmt-PHD
+
+      Management-MS
+
+      Management-PHD
+
+      Org Behav and HR Mgmt-MS
+
+      Economics-MA Teaching
+
+      Management-MBA
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+
+Prerequisites: 
+
+ Graduate level  ECON 60700 Minimum Grade of D-
+
+

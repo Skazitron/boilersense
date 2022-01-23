@@ -1,0 +1,58 @@
+ECET 33900 - Digital Signal Processing
+
+Credit Hours: 3.00.  The course introduces students to the fundamental principles associated with processing discrete time signals. The architecture, instruction set and hardware and software development tools associated with a fixed point general purpose VLSI digital signal processor are examined. Some common real-time applications are implemented such as digital filters and DFT-based spectral estimation on a typical fixed point digital signal processor.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Describe the architectural features of a DSP and relate these to the DSP kernel equation.
+2.  Manipulate different binary number formats associated with a fixed point DSP.
+3.  Develop and debug simple programs that involve SOPs, modulo addressing, scaling and extraction of result, and common DSP program structures.
+4.  Describe the consequences and limitations of sampling baseband signals including the Nyquist rate and bandwidth, quantization noise, aliasing, frequency folding, reconstruction, spectrum of sampled baseband signals.
+5.  Express a sampled deterministic analog signal in closed mathematical form and expanded form using the unit sample.
+6.  Express a sampled signal in terms of the Z transform, in expanded and closed form.
+7.  Describe the relationship between the transfer function and impulse response in an LTI system.
+8.  Describe the operation of convolution and its implementation using hand calculations, mathematical software packages, and a fixed-point DSP.
+9.  Design and analyze FIR filters with the aid of a mathematical software package such as MATLAB.
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  ECET 27900 Minimum Grade of D- [may be taken concurrently] and (Undergraduate level  MA 22200 Minimum Grade of D- or Undergraduate level  MA 16020 Minimum Grade of D- or Undergraduate level  MA 16021 Minimum Grade of D-)
+
+

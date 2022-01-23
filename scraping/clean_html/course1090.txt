@@ -1,0 +1,42 @@
+AAE 33300 - Fluid Mechanics
+
+Credit Hours: 3.00.  Kinematics of fluids and conservation equations for mass, momentum, and energy. Viscous and inviscid incompressible flow. Lift and drag in subsonic flow. Introduction to compressibility and boundary layers. Potential flow.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Calculate aerodynamic forces and moments from pressure and shear stress distributions.
+2.  Apply dynamic similarity to scale up data.
+3.  Apply global conservation of mass and mementum to engineering systems.
+4.  Apply Bernoulli's equation (relating pressure and velocity).
+5.  Calculate lift for an arbitrary airfoil using panel methods.
+6.  Calculate drag for an arbitrary airfoil using integral boundary layer methods.
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  MA 30300 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MA 30400 Minimum Grade of D- [may be taken concurrently]) and (Undergraduate level  AAE 20300 Minimum Grade of C- and Undergraduate level  AAE 25100 Minimum Grade of D- [may be taken concurrently] and Undergraduate level  AAE 20000 Minimum Grade of S)
+
+

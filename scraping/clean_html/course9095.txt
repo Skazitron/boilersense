@@ -1,0 +1,41 @@
+TECH 64100 - Advanced Analytics For Research And Industry
+
+Credit Hours: 3.00. Offers students training and experience in advanced parametric statistical techniques in both research and industrial applications. While statistical theory necessary to properly conduct analyses will be discussed, this course focuses on practical applications of analysis strategies, including issues in handling data from organizations and industry settings. Material includes overview and implementation of relevant statistical software applications. Practical skills in presenting advanced analyses to both professional and scientific audiences is a key component of the course. Prerequisites: IT 50700 or STAT 50100. Permission of instructor required. Typically offered Fall Spring Summer.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Purdue Polytechnic Inst Admin 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Explain the types of analyses available to solve various industrial and organizational problems, the rationale behind analytic selection, and be able to select the appropriate analyses for a variety of situations. 
+2.  Explain the role of employees at all levels in planning, conducting, or participating in effective research, and how to properly integrate input and data from various levels of an organization or laboratory research design into comprehensive analyses.
+3.  Design, set up, run, evaluate, and interpret advanced statistical analyses in real-world and laboratory settings, and explain these findings to both lay and expert audiences. 
+4.  Read, interpret and critically evaluate complex and multivariate analyses reported in applied research journals. 
+5.  Set up and interpret computer data sets and outputs which are required to carry out analyses, and write up in proper publication format the results of such outputs. 
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

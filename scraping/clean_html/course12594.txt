@@ -1,0 +1,59 @@
+IET 33610 - Risk Analysis And Assessment
+
+Credit Hours: 3.00.  This course introduces the tools for identifying and analyzing inherent risks associated with the decision making process.  The challenges of quantitative risk assessment are introduced using decision trees, influence diagrams, and probability models.  The concepts of risk index, options, avoidance, prevention, and reduction are discussed in the context of technology systems.  Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Recitation 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Indianapolis
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+      Vincennes
+
+
+Learning Outcomes: 
+1.  Identify and characterize organizational threats.
+2.  Assess the vulnerability of critical assets to specific threats.
+3.  Determine the probability and consequences of events.
+4.  Identify methods to reduce risks.
+5.  Prioritize risk reduction measures.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  TLI 31600 Minimum Grade of D- or Undergraduate level  STAT 30100 Minimum Grade of D- or Undergraduate level  IET 31600 Minimum Grade of D-
+
+

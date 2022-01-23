@@ -1,0 +1,38 @@
+ECE 47300 - Introduction To Artificial Intelligence
+
+Credit Hours: 3.00.  The course introduces fundamental areas of artificial intelligence: knowledge representation and reasoning; machine learning; planning; game playing; natural language processing; and vision.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Elec & Computer Engr
+
+
+Prerequisites: 
+
+ Undergraduate level  ECE 36800 Minimum Grade of D-
+
+

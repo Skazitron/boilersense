@@ -1,0 +1,53 @@
+ECET 22900 - Concurrent Digital Systems
+
+Credit Hours: 3.00.  This course establishes a foundation for concurrent digital systems. Common methods of describing digital circuit operation are studied along with the techniques for translation between any two methods. Basic building blocks of digital systems are defined and applied. Analysis techniques for combinational and sequential logic circuits or subsystems are covered. Computer-based development tools, programmable logic devices, and technical reference sources are used to build, test, and evaluate digital systems.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Translate between any 2 forms of logic circuit descriptions: English, Boolean equation, Truth Table, Logic Diagram, Timing Diagram, Hardware Description language.
+2.  Anticipate the output of functional blocks given the current inputs or a recent event.
+3.  Validate the operation of any logic circuit using the simulator, Function generator, oscilloscope or DVM.
+4.  Decompose complex systems into simpler functional blocks.
+5.  Choose a valid method of interfacing digital circuits to other circuits given input/output characteristic data.
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  ENGT 18000 Minimum Grade of D- and Undergraduate level  ENGT 18100 Minimum Grade of D-) or Undergraduate level  ECET 12000 Minimum Grade of D- or Undergraduate level  ECET 22400 Minimum Grade of D- or (Undergraduate level  ECE 20001 Minimum Grade of D- and Undergraduate level  ECE 20007 Minimum Grade of D-)
+
+

@@ -1,0 +1,30 @@
+ECON 69100 - Advanced Topics In Panel Data
+
+Credit Hours: 2.00 or 3.00.  This course covers selected topics in the econometrics of panel data with an emphasis on developing a clear understanding of the methodological issues involved as well as identifying a set of substantive empirical issues where such methods can be applied. Pre-requisite: ECON 67100 and ECON 67200.
+
+    2.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Management 
+
+Department: Dept of Economics 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Organize data into an easy to interrupt manner. 
+2.  Understand the role of factor models as as a tool for dimension reduction in the analysis of large-dimensional data as well as a device for modeling cross-sectional correlation in panel data analysis when the cross-sectional and time series dimensions are comparable in magnitude.
+
+

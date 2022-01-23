@@ -1,0 +1,45 @@
+SYS 35000 - Systems Methods
+
+Credit Hours: 3.00.  Introduction to modeling tools and methods for understanding and designing systems. Topics include: defining the problem; defining and validating stakeholders; needs; system modeling and types of models; defining and modeling system behavior; defining and modeling functional, physical and allocated system architectures: and evaluating and modeling the tradeoffs between alternative system designs.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: No College Designated 
+
+Department: Purdue Systems Collaboratory 
+
+
+Course Attributes: GTC-Science, Tech & Society, UC-Science, Tech & Society, Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Emphasize patterns of systems thinking.
+2.  Introduce systems modeling and design processes and methods.
+3.  Introduce model-based systems analysis and design.
+4.  Provide practice in using model-based systems tools.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Freshman: 15 - 29 hours
+
+      Freshman: 0 - 14 hours
+
+

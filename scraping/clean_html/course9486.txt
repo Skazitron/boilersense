@@ -1,0 +1,51 @@
+FNR 38400 - Statistics For Natural Resources
+
+Credit Hours: 3.00.  Methods of statistical analysis and modeling for data and problems encountered in natural resources conservation, science and management. Emphasis is on application of methods and interpretation of results in the context of natural resource problems. Topics include introductory sampling design, exploratory analyses, general linear models, generalized linear models, introduction to resampling methods, likelihood-based model selection, and model goodness-of-fit. Typically offered Spring.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Forestry and Natural Resources 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Describe the importance of proper design and analysis when seeking answers/solutions to a broad array of natural resources issues.
+2.  Independently assess the relative merits of multiple analysis approaches when presented with data collected to improve our understanding of a particular process or pattern in natural resources.
+3.  Fit and evaluate regression models for quantitative and categorical response variables with an appropriate underlying probabilistic structure.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Forestry-BSF
+
+      Wildlife-BS
+
+      Forestry-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  STAT 30100 Minimum Grade of C- and Undergraduate level  FNR 37010 Minimum Grade of C-
+
+

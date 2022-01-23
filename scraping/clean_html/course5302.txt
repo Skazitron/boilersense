@@ -1,0 +1,36 @@
+ECE 60600 - Solid State Devices
+
+Credit Hours: 3.00.  A relatively-broad, moderate-depth coverage of semiconductor devices and related topics. The first portion of the course presents and examines semiconductor fundamentals required in the operational analysis of solid state devices. A detailed examination of the PN junction diode and PN junction devices follows. The final portion of the course treats heterojunction surface devices including the Schottky diode, the MOS capacitor and the MOSFET. Offered in alternate years.  Prerequisite: Master's student standing or higher.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Indiana College Network, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      PU Fort Wayne
+
+      IUPUI
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

@@ -1,0 +1,31 @@
+AAE 36401 - Control Systems Laboratory
+
+Credit Hours: 1.00.  Enhance student awareness of control systems by providing hands-on experience using dynamic systems representative of air and space vehicles. Design of a control system from start to finish by mapping requirements into control solutions through the process of modeling, identification, and controller design (PID and Lead-Lag).
+
+    0.000 OR     1.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Laboratory Preparation 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Prerequisites: 
+
+ Undergraduate level  AAE 36400 Minimum Grade of D-
+
+

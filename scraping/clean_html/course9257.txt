@@ -1,0 +1,55 @@
+ECET 22700 - DC And Pulse Electronics
+
+Credit Hours: 3.00.  Capacitors, inductors, oscillators, rectifiers, bipolar and MOSFET power switches, switching power supplies, half-and full-H bridges, switching audio power amplifiers, and linear regulators are studied. Computer-aided analysis of circuits is utilized.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Credit By Exam, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Explain the characteristics of capacitors, inductors, rectifier diodes, Zener diodes, IC regulators, bipolar junction transistors (BJTs), field effect transistors (MOSFETS), and general purpose operational amplifiers.
+2.  Apply the principles of circuit analysis to the following: switching and linear power supplies, op-amp based amplifiers, BJT and MOSFET switches, Class D amplifier, wave shape generators, RC and RL circuits.
+3.  Simulate circuits and compare actual data to simulated data.
+4.  Construct electronic circuit according to a given schematic.
+5.  Measure electrical parameters, using digital multimeters, signal generators, and oscilloscopes.
+6.  Interpret laboratory experiment data.
+
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  ECET 17700 Minimum Grade of D- or Undergraduate level  ECET 22400 Minimum Grade of D- or Undergraduate level  ECE 20001 Minimum Grade of D- and Undergraduate level  ECE 20007 Minimum Grade of D-) and (Undergraduate level  MA 16010 Minimum Grade of D- or Undergraduate level  MA 22700 Minimum Grade of D- or Undergraduate level  MA 22300 Minimum Grade of D- or Undergraduate level  MA 22100 Minimum Grade of D- or Undergraduate level  MA 16100 Minimum Grade of D- or Undergraduate level  MA 16300 Minimum Grade of D- or Undergraduate level  MA 16500 Minimum Grade of D- or Undergraduate level  MA 16700 Minimum Grade of D- or Undergraduate level  MA 21900 Minimum Grade of D- or Undergraduate level  MA 22500 Minimum Grade of D- or Undergraduate level  MA 22900 Minimum Grade of D- or Undergraduate level  MATH M1190 Minimum Grade of D- or Undergraduate level  MATH M2080 Minimum Grade of D- or Undergraduate level  MATH M2150 Minimum Grade of D- or Undergraduate level  MATH 16300 Minimum Grade of D-)
+
+

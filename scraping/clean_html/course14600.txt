@@ -1,0 +1,56 @@
+SYS 51000 - Tools And Methodologies For Designing Systems
+
+Credit Hours: 3.00.  Introduction to modeling tools and methods for designing engineered systems. Topics include: defining the design problem; defining and validating stakeholders' and system requirements; discrete mathematics for system modeling; defining and modeling system operational scenarios; the system development life cycle; defining and modeling functional, physical, and allocated architectures; evaluating and modeling the tradeoffs between alternative architectures; and defining the system qualification process.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: No College Designated 
+
+Department: Purdue Systems Collaboratory 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Apply the discrete mathematics concepts of set theory, relations and functions, and graph theory to characterize and analyze the functional and structural aspects of models for designing engineered systems. (1, 3)
+2.  Critique different approaches for system development life cycles and for systems engineering processes. (1, 2)
+3.  Define an engineered system's context. (1, 4)
+4.  Define and critique a functional model of a system development life cycle using a model-based systems engineering tool. (1, 2, 4)
+5.  Define and critique models of the functional architectures of an engineered system using a model-based systems engineering tool. (1, 2, 4)
+6.  Define a system's stakeholders and define formal system I/O requirements. (1, 2, 3)
+7.  Audit a set of formal system I/O requirements for completeness. (1, 2, 4)
+8.  Define models of the physical architecture of an engineered system using a model-based systems engineering tool. (1, 2, 4)
+9.  Apply an option creation technique to generate alternative physical architectures. (1, 2)
+10.  Define an allocated architecture of an engineered system using a model-based systems engineering tool. (2, 4)
+11.  Define the relationship of stakeholder's requirements to design trade-off objectives. (1, 2)
+12.  Define models of the interfaces of an engineered system using a model-based systems engineering tool. (1, 2, 4)
+13.  Critique a functional model of early validation using a model-based systems engineering tool. (1, 2, 4)
+14.  Understand alternative graphical modeling approaches for data modeling, process modeling, and behavior modeling. (1, 2)
+15.  Define and model uncertainty, value, and risk preference for evaluating design tradeoffs between alternative system architectures. (1, 2, 3, 4)
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

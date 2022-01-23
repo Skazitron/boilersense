@@ -1,0 +1,49 @@
+CS 53600 - Data Communication And Computer Networks
+
+Credit Hours: 3.00.  Data communications: communication hardware technologies including local area and longhaul network hardware, circuit and packet switching, interfaces between computer and network hardware, and performance issues. Network architecture: protocol software and conceptual layering, reliable delivery over an unreliable channel, transport protocols, virtual circuits, datagrams, internetworking as a fundamental design concept, the client-server paradigm, naming and name binding, name servers, addressing and address resolution, routing and routing algorithms, congestion and flow control techniques, network file systems, distribution of computation, and DARPA internet protocols (TCP/IP) as examples of protocol organization.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture, Practice Study Observation 
+
+
+Offered By: College of Science 
+
+Department: Computer Science 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Network services and applications, including DNS and HTTP .                                                                        
+2.  The socket API .                                                                                                                
+3.  Network transport architectures, TCP, UDP and TCP congestion control.                                                             
+4.  Routing and forwarding, intra-domain and inter-domain routing algorithms.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Computer Science-PHD
+
+      Computer Science-MS
+
+      Computer Science-MS
+
+

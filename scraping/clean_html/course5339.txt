@@ -1,0 +1,32 @@
+ECE 66300 - Compiler Code Generation, Optimization, And Parallelization
+
+Credit Hours: 3.00.  This course presents the concepts needed to design and implement production quality code generators for any of the more popular languages and families of computer architecture (including various pipelined, superscalar, and macro-parallel machines). Flow analysis and concurrency detection, as well as optimizations and loop and irregular code parallelizations, are covered in detail. Using C on ECN UNIX, each student will complete a project implementing a simple optimizer/parallelizer.  Prerequisite: ECE 56500, CS 50200 or ECE 46800 or 573000.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

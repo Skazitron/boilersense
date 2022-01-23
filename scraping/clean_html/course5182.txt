@@ -1,0 +1,40 @@
+ECE 45500 - Integrated Circuit Engineering
+
+Credit Hours: 3.00.  Analysis, design, and fabrication of silicon bipolar and MOSFET monolithic integrated circuits. Consideration of amplifier circuit design and fabrication techniques with circuit simulation using Spice-2. Integrated operational amplifiers with difference amplifiers, current sources, active loads, and voltage references. Design of IC analog circuit building blocks.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      IUPUI
+
+      West Lafayette
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Elec & Computer Engr
+
+
+Prerequisites: 
+
+ Undergraduate level  ECE 20002 Minimum Grade of D- or (Undergraduate level  ECE 20200 Minimum Grade of D- and Undergraduate level  ECE 25500 Minimum Grade of D-) and Undergraduate level  ECE 30500 Minimum Grade of D- [may be taken concurrently]
+
+

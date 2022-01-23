@@ -1,0 +1,32 @@
+ECE 68800 - VLSI Testing  And Verification
+
+Credit Hours: 3.00.  Discusses different aspects of VLSI testing and formal verification of designs. Design and manufacturing defect models are introduced along with test generation and fault simulation algorithms targeting the different fault models.  Both combinational and sequential logic testing are covered, and different synthesis for testability schemes such as BIST (Built-In-Self-Test), scan path design, etc., are introduced. Other new and emerging test and verification techniques also are discussed. Offered every third semester. Prerequisite: ECE 55900.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

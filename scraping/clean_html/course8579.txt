@@ -1,0 +1,41 @@
+CGT 63400 - Automation Of Digital Product Development Processes
+
+Credit Hours: 3.00.  This course introduces students to advanced computer programming techniques in the context of Computer-Aided Design and Manufacturing by focusing on automation and customization procedures of 3D solid modeling, design, and management tasks. The courses emphasizes problem-solving skills and creative thinking by developing solutions to manipulate CAD applications, files and PDM systems programmatically. By the end of the semester, students should be able to identify characteristics and common patterns in tasks that lend themselves to automation and select and evaluate the most appropriate mechanisms to implement different levels of automation. Pre-Requisite: CGT 52000 or equivalent.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Demonstrate expertise in manipulating CAD applications and files programmatically.
+2.  Analyze how CAD systems can be customized to suit unique purposes.
+3.  Devise algorithms to automate design work and speed CAD/CAM processes.
+4.  Develop functionality that expands and builds on the capabilities of CAD software.
+5.  Create complete applications for engineering and design both inside and outside the CAD environment.
+6.  Improve productivity by reducing the time required to perform repetitive tasks.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

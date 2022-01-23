@@ -1,0 +1,31 @@
+AAE 44000 - Spacecraft Attitude Dynamics
+
+Credit Hours: 3.00.  Description of orientation, angular velocity, and angular acceleration in terms of direction cosines, Euler parameters, and angles. Forces and moments acting on space vehicles. Attitude stability of various types of satellites in circular and elliptic orbits. Spin stabilization and gravity gradient torques. Gyroscopic devices and energy dissipation. Introduction to attitude control.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Prerequisites: 
+
+ Undergraduate level  AAE 34000 Minimum Grade of D-
+
+

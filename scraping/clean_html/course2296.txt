@@ -1,0 +1,78 @@
+ME 57000 - Machine Design
+
+Credit Hours: 3.00.  Analysis of stresses and deflections due to complicated loading. Investigation of specific design problems through application of theory of elasticity, failure criteria, energy approach, and numerical methods. Individual design project. Typically offered Fall.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Mechanical Engr 
+
+Department: Mechanical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ME 57000 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ME
+35200
+
+
+Minimum Grade of 
+B
+
+May not be taken concurrently.
+and
+Course or Test: 
+ME
+45200
+
+
+Minimum Grade of 
+B
+
+May not be taken concurrently.
+)
+
+
+

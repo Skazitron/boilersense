@@ -1,0 +1,56 @@
+CGT 24600 - Compositing I
+
+Credit Hours: 3.00.  This course focuses on applying node-based video compositing techniques as applied to 3D visual effects and animation. Students explore the major areas of video compositing, including node-based workflows, integration with 3D animation and visual effects tools, image tracking, rotoscoping, and chroma keying. Special emphasis is placed on creating aesthetically pleasing video composites using production tools and techniques.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Dept Credit, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Implement video composite using node-based compositing tools.
+2.  Apply color correcting techniques.
+3.  Given a multichannel render, properly composite it into a final product.
+4.  Apply common compositing techniques.
+5.  Integrate 3D renders and video in an aesthetically pleasing manner. 
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  CGT 14700 Minimum Grade of C- [may be taken concurrently]
+
+

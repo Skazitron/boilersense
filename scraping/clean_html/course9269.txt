@@ -1,0 +1,55 @@
+ECET 27000 - Electronics Prototype Development And Construction
+
+Credit Hours: 3.00.  This course introduces project planning and basic concepts in electronic design automation (EDA). The student develops a portion of an electronic system by utilization of EDA, design for testing, design for manufacturability (DFM), and component selection techniques. New construction methods and testing techniques are introduced.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Design an electronic device or system to accomplish a given task.
+2.  Demonstrate appropriate electronic assembly techniques.
+3.  Develop and execute appropriate testing techniques on electronic devices and systems.
+4.  Apply appropriate software applications to develop a prototype.
+5.  Apply graphical communication techniques to convey technical information.
+6.  Apply principles of design for manufacturability and design for testing to a project.
+7.  Employ teaming methods on a project.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  ECET 17900 Minimum Grade of D- and Undergraduate level  ECET 22700 Minimum Grade of D- and (Undergraduate level  ECET 22900 Minimum Grade of D- or Undergraduate level  ECET 27900 Minimum Grade of D-)
+
+

@@ -1,0 +1,85 @@
+ABE 52900 - Nonpoint Source Pollution Engineering
+
+Credit Hours: 3.00. Engineering principles involved in assessment and management of nonpoint source (NPS) pollution. Effect of NPS pollution on ecosystem integrity. Use of GIS/mathematical models to quantify extent of pollution. Design/implementation of best management practices to reduce nonpoint source pollution and improve water quality. Discussion of total maximum daily load (TMDL) principles and processes.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Ag & Biological Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand sources and nature of NPS pollution originating from agricultural and urban land use.
+2.  Link nature of diffuse pollution with physical, chemical and biological integrity of ecosystems and water usage.
+3.  Quantify amount of diffuse pollution from a watershed using state-of-the-art methods and models.
+4.  Design best management practices to minimize nonpoint source pollution from agricultural and urban land use.
+5.  Understand TMDL issues, and processes involved in developing TMDL plans.
+6.  Understand basic monitoring and modeling principles.
+7.  Apply engineering principles in developing pollution prevention plan.
+
+
+
+Prerequisites:
+
+GR-ABE 52900 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ABE
+32500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+AGRY
+33700
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CE
+54200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

@@ -1,0 +1,30 @@
+ECON 64100 - Agent-Based Computational Economics
+
+Credit Hours: 2.00 or 3.00.  Computational study of economic systems involving interacting agents who do not necessarily possess perfect rationality and information. In addition to equilibrium analysis, agent-based models focus on out-of-equilibrium dynamics that may or may not lead to equilibrium in the long run. Pre-requisite: ECON 67000 or STAT 51200 or STAT 51600 or equivalent.
+
+    2.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Management 
+
+Department: Dept of Economics 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Provide foundation for implementing agent-based simulations in Python.
+2.  Use agent-based  approach to explain and/or complement findings from studies that use human subject experiments.
+
+

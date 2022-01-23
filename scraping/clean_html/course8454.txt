@@ -1,0 +1,62 @@
+CGT 24800 - Visual Effects - Pyrotechnics And Destruction Effects
+
+Credit Hours: 3.00.  This course focuses on the application of visual effects methodology to create effects based on destruction techniques and pyrotechnics. Students implement projects using methods for simulating destruction, fire, and smoke. Emphasis is placed on using production tools and techniques to produce realistic and aesthetically pleasing graphics.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Implement destruction simulations using production tools and techniques.
+2.  Implement fire and smoke simulations using production tools and techniques.
+3.  Integrate destruction and fire simulations to meet the needs of 3rd party video compositing team.
+4.  Render simulations realistically within the provided time and computational constraints.  
+
+
+
+
+Corequisites: 
+
+MA 26100
+
+PHYS 21800
+
+
+Prerequisites: 
+
+ Undergraduate level  CGT 24700 Minimum Grade of D- and Undergraduate level  MA 16200 Minimum Grade of D-
+
+

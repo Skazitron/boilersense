@@ -1,0 +1,32 @@
+ECE 67300 - Distributed Computing Systems
+
+Credit Hours: 3.00.  Discussions of the design issues of distributed computing systems (DCS). The general theory of distributed transaction management, reliability, and resource management is discussed. Various algorithms and specification methodologies for DCS are introduced. A general coverage of the three major areas of DCS, namely: distributed operating systems, distributed databases, and distributed AI is provided. The discussion is augmented with various case studies. Prerequisite: ECE 46900 or introductory course in operating systems.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

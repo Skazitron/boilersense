@@ -1,0 +1,58 @@
+ECET 42301 - Electrical Vehicle Integration And Fabrication
+
+Credit Hours: 3.00.  This course requires students to develop a detailed design, develop a time/action plan, perform research on existing electronic vehicle systems, develop a procurement plan for electronic vehicle components, design and fabricate custom electric vehicle components, and construct an electric vehicle. The completed electric vehicle is extensively tested for safety, performance, and energy efficiency.
+  
+
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Design and fabricate custom electrical vehicle components. 
+2.  Execute the construction of an electrical vehicle.
+3.  Measure energy efficiency of an electrical vehicle. 
+4.  Implement appropriate electric vehicle instrumentation for various electric vehicle configurations. 
+5. Optimize an electric vehicle configuration for maximum efficiency. 
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  ECET 32300 Minimum Grade of D- or Undergraduate level  ECET 37300 Minimum Grade of D-
+
+

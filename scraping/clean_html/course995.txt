@@ -1,0 +1,95 @@
+EAPS 50700 - Introduction To Analysis And Computing With Geoscience Data
+
+Credit Hours: 3.00.  Course teaches computing techniques including error analysis, line and surface fitting, interpolation, map projections, geospatial and temporal correlations, signal processing, and visualization with discussions on specific and practical geoscience applications. Lectures with computer exercises and team project reporting using open-source computer software. Cannot get credit for both EAPS 50900 and EAPS 50700.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Dept Erth Atmos & Planetry Sci 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Carry out computational solutions to a given range of geoscience data analysis problems.
+2.  Select the appropriate analysis approaches when given a set of data.
+3.  Appraise and conclude the analysis results professionally.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR EAPS 50700 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+26100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+26300
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+27100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

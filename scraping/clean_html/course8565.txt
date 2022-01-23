@@ -1,0 +1,52 @@
+CGT 54000 - Current Topics In 3D Animation
+
+Credit Hours: 3.00.  This course addresses recent research and development in 3D animation. Permission of instructor required.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division, Variable Title 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Demonstrate an understanding of the latest research contributions in the field of 3D animation.
+2.  Discuss advanced/emerging 3D animation technologies and suggest improvements and alternatives.
+3.  Develop research, presentation, and writing skills related to technical content.
+4.  Effectively set up for animation (rig) realistic/fantasy creatures and objects.
+5.  Animate realistic/fantasy creatures and objects in a believable way.
+6.  Create physically accurate animations using rigid body and soft body dynamics, particle systems, cloth and hair.
+7.  Apply advanced/emerging animation methods and techniques to development of original animation-based productions.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

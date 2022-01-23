@@ -1,0 +1,57 @@
+CS 40800 - Software Testing
+
+Credit Hours: 3.00.  Preliminaries: errors and testing; software quality, requirements, behavior, and correctness; testing, debugging, verification; control flow graphs, dominators; types of testing; Test selection: from requirements, finite state models, and combinatorial designs; regression testing and test minimization; Test adequacy assessment: control and data flow; mutation based; testing tools.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Computer Science 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand the basic technology related to software testing and debugging. 
+2.  Differentiate between reliability and correctness.
+3.  Understand the impact of the saturation effect on the test process and its cost.
+4.  Understand the relationship between software development and test processes.
+5.  Apply a variety of black box test generation methods manually and using tools. 
+6.  Use test adequacy criteria and understand their respective cost and effectiveness. 
+7.  Select appropriate software test tools for a given testing task
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      Computer Science
+
+      Computer Science Honors
+
+      Data Science
+
+      Data Science
+
+
+Prerequisites: 
+
+ Undergraduate level  CS 25100 Minimum Grade of C
+
+

@@ -1,0 +1,57 @@
+CGT 24100 - Introduction to Computer Animation
+
+Credit Hours: 3.00.  This course introduces the knowledge base on which digital animation and spatial graphics technology are founded and developed. Emphasis will be placed on developing a working knowledge of the mechanics of 3D geometric formats, spline-based modeling with polygon mesh & NURBS, procedural mapping of raster images, simplified polygon modeling, rendering methods, hierarchical linking, and kinematic fundamentals.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      IUPUI
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+      Kokomo
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Graphics Tech-BS
+
+
+Prerequisites: 
+
+ 
+
+

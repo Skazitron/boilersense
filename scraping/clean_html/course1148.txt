@@ -1,0 +1,47 @@
+AAE 55300 - Elasticity In Aerospace Engineering
+
+Credit Hours: 3.00.  A basic course in the theory of elasticity with emphasis on understanding the fundamental principles and solution techniques used in the stress analysis of structures. Cartesian tensors. Governing equations for linear elasticity. Rigorous derivation of beam and plate equations from the three-dimensional elasticity equations. Torsion. Thermoelasticity. The stress functions and complex functions approaches to two-dimensional problems. Energy methods and approximate solutions. Three-dimensional problems. Knowledge of differential equations assumed.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1. Give student an in-depth background in mechanics of solids including large deformation, and the ability to perform stress analyses in elastic bodies, especially two-dimensional bodies.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

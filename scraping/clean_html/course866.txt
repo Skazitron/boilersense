@@ -1,0 +1,92 @@
+IE 53000 - Quality Control
+
+Credit Hours: 3.00.  Principles and practices of statistical quality control in industry. Control charts for measurements and for attributes.  Acceptance sampling by attributes and by measurements.  Standard sampling plans.  Sequential analysis. Sampling inspection of continuous production. Typically offered Fall Spring Summer.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Industrial Engr 
+
+Department: Industrial Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      PU Fort Wayne
+
+      IUPUI
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-IE 33000 or STAT 51100
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+IE
+33000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+51100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+35000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

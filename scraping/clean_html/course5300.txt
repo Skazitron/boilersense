@@ -1,0 +1,38 @@
+ECE 60420 - Radio Frequency Integrated Circuits
+
+Credit Hours: 3.00.  This course aims at analysis and design of CMOS integrated radio frequency (RF), microwave and mm-wave circuits. Various modules of an RF transceiver are discussed including low noise amplifiers, mixers, oscillators, frequency synthesizers and power amplifiers. A term project on design of an RF to mm-wave module is also required.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Know various wireless standards, modulation techniques and CMOS technology.
+2.  Know matching network, transmission line effects, scattering parameters.
+3.  Know analysis and design of CMOS low noise amplifiers from RF to mm-wave frequencies.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

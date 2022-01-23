@@ -1,0 +1,41 @@
+ABE 20500 - Computations For Engineering Systems
+
+Credit Hours: 3.00.  Development of engineering problem solving and design skills.  Use of Excel, Matlab, and MathCad for problem solving, data analysis, numerical modeling, and statistics.  Introduction to elementary statics, dynamics, materials, thermodynamics, fluid mechanics, and energy topics.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Ag & Biological Engineering 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Apply and interpret descriptive statistical tests to describe variability in data.
+2.  Identify structure and specific elements of good experimental design. 
+3.  Select and apply appropriate statistical tests to quantify relationships and differences in data.
+4.  Interpret results of statistical analyses and communicate findings to technical and non-technical audiences.
+
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  ENFY 12600 Minimum Grade of C- or Undergraduate level  ENGR 12600 Minimum Grade of C- or Undergraduate level  ENGR 12100 Minimum Grade of C- or Undergraduate level  ENFY 13200 Minimum Grade of C- or Undergraduate level  ENGR 13200 Minimum Grade of C- or Undergraduate level  ENFY 13300 Minimum Grade of C- or Undergraduate level  ENGR 13300 Minimum Grade of C- or Undergraduate level  ENGR 14200 Minimum Grade of C- or Undergraduate level  ENGR 16200 Minimum Grade of C-) and (Undergraduate level  PHYS 17200 Minimum Grade of C- [may be taken concurrently] or Undergraduate level  ENGR 16200 Minimum Grade of C-)
+
+

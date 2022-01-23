@@ -1,0 +1,87 @@
+AAE 52300 - Introduction To Remote Sensing
+
+Credit Hours: 3.00.  Fundamentals of satellite and airborne remote sensing. Basic physical principles of electromagnetic wave propagation will be introduced. From this foundation, the phenomenology's enabling properties of the atmosphere; ocean and land surface to be measured at a distance will be developed. These principles will be applied to the design of instruments and satellite missions for Earth observation. Microwave instruments will be emphasized, although there will also be discussion of optical systems. Most of the material would also be applicable to remote sensing of other planets. Intended for students in Engineering or the Sciences.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand the basic physical principles of microwave and optical remote sensing.
+2.  Explain the principle geophysical quantities that can be measured using remote sensing methods. 
+3.  Evaluate a mission design for a remote sensing application.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-AAE 52300 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+AAE
+30100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ECE
+30100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

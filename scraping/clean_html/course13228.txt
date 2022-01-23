@@ -1,0 +1,42 @@
+NUCL 42001 - Radiation Interaction With Materials And Applications
+
+Credit Hours: 3.00.  Fundamental of radiation interaction with materials and applications, types of radiation and radiation sources, physical mechanisms of radiation interaction with solids, radiation damage, ion mixing, applications in nuclear fission and fusion reactors, applications in materials synthesis.  Typically offered Fall.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Nuclear Engineering 
+
+Department: Nuclear Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Learn the types and sources of radiation.
+2.  Understand the physical mechanisms of radiation interaction with materials and model these interactions quantitatively.
+3.  Understand and model the phenomenon of radiation damage to bulk, surfaces and interfaces.
+4.  Relate the concepts of radiation damage to neutron interaction with solids in both fission and fusion reactors.
+5.  Understand the technological applications of radiation interaction with materials.
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  NUCL 32000 Minimum Grade of D-
+
+

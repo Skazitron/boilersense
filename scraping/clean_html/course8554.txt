@@ -1,0 +1,51 @@
+CGT 51500 - Virtual Environments
+
+Credit Hours: 3.00.  This course provides deep exposure to the most prominent and important research within the fields of virtual reality, games, and any application area where virtual environments are constructed or inhabited. Students wlll study experiential, cultural, and phenomenological aspects of habitation within virtual environments as well as become familiar with technical aspects involved in virtual environment creation. Students will generate original research data and analysis, prepare a publishable manuscript, and build their own virtual worlds as applicable.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Conduct a thorough literature review of a chosen topic related to virtual environments and/or their development.
+2.  Analyze scientific research and present the results of the analysis.
+3.  Conduct a sound, logical study in the area of virtual environments.
+4.  Create a virtual environment using a game or virtual reality engine.
+5.  Prepare a human subjects research application (IRB) that meets all regulatory regulations required to conduct ethical human research.
+6.  Write a publishable research manuscript using the LaTeX scripting language.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

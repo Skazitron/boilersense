@@ -1,0 +1,133 @@
+EAPS 52900 - Modeling Ecosystems And Biogeochemical Cycles
+
+Credit Hours: 3.00.  Process-based models are powerful tools for studying ecosystem dynamics and geochemical cycles in Earth System Sciences. In this course, we will explore how various components of ecosystems can be modeled following principles of biology, physics, and chemistry. We will also examine techniques for using modeling to study: 1) responses of the structure and functioning of ecosystems to changing climate, atmospheric composition, environmental conditions, and human activities; and 2) exchanges of major greenhouse gases (e.g., CO2, CH4, and N2O) between the atmosphere and the biosphere. During the course, we will go through the whole cycle of system modeling approach including model conceptualization, formulation, parameterization, sensitivity and uncertainty analysis, verification, and application.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Science 
+
+Department: Dept Erth Atmos & Planetry Sci 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Learn the whole cycle of system modeling approach including model conceptualization, formulation, parameterization, sensitivity and uncertainty analysis, verification, and application.
+2.  Learn how to model the key element cycles (e.g., C and N) between the atmosphere and terrestrial biosphere.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-EAPS 52900 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+26500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+MA
+26600
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+26200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )and( 
+Course or Test: 
+BIOL
+11000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+BIOL
+12100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )and( 
+Course or Test: 
+CS
+15800
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CS
+15900
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

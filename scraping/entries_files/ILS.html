@@ -1,0 +1,1425 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/transitional.dtd">
+<html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta http-equiv="Pragma" name="Cache-Control" content="no-cache">
+<meta http-equiv="Cache-Control" name="Cache-Control" content="no-cache">
+<link rel="stylesheet" href="ILS_files/web_defaultapp.css" type="text/css">
+<link rel="stylesheet" href="ILS_files/web_defaultprint.css" type="text/css" media="print">
+<title>Catalog Entries</title>
+<meta http-equiv="Content-Script-Type" name="Default_Script_Language" content="text/javascript">
+<script type="text/javascript" async="" src="ILS_files/ga.js"></script><script type="text/javascript" async="" src="ILS_files/ga.js"></script><script language="JavaScript" type="text/javascript">
+<!-- Hide JavaScript from older browsers 
+window.onunload = function() {submitcount=0;}
+var submitcount=0;
+function checkSubmit() {
+if (submitcount == 0)
+   {
+   submitcount++;
+   return true;
+   }
+else
+   {
+alert("Your changes have already been submitted.");
+   return false;
+   }
+}
+//  End script hiding -->
+</script>
+<script language="JavaScript" type="text/javascript">
+<!-- Hide JavaScript from older browsers 
+//  Function to open a window
+function windowOpen(window_url) {
+   helpWin = window.open(window_url,'','toolbar=yes,status=no,scrollbars=yes,menubar=yes,resizable=yes,directories=no,location=no,width=350,height=400');
+   if (document.images) { 
+       if (helpWin) helpWin.focus()
+   }
+}
+//  End script hiding -->
+</script>
+<link href="ILS_files/ssbLum5StyleSplashOverride.css" rel="stylesheet"></head><body style="position: absolute; background-color: white; height: 8649px;"><span class="infotext"> <script src="ILS_files/jquery-1.js" type="text/javascript"></script>
+
+<script src="ILS_files/changeElementType.js" type="text/javascript"></script>
+
+<script src="ILS_files/ssbLum5Style.js"></script>
+
+<link href="ILS_files/bootstrap.css" rel="stylesheet"><!-- Font Awesome -->
+
+<link href="ILS_files/font-awesome.css" rel="stylesheet">
+
+<link href="ILS_files/styles.css" rel="stylesheet">
+
+<link type="text/css" rel="stylesheet" href="ILS_files/ssbLum5Style.css">
+
+
+
+<link href="ILS_files/purdue_responsive.html" rel="stylesheet">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2, minimum-scale=1, user-scalable=yes"></span>
+
+
+<span class="infotext"> <div class="portlet-boundary portlet-boundary_145_  portlet-static portlet-static-end portlet-dockbar " id="p_p_id_145_">
+
+  <span id="p_145"></span>
+
+  <div class="portlet-body">
+
+    <div class="dockbar" data-namespace="_145_" id="dockbar">
+
+      <div class="dockbar-messages yui3-widget aui-component aui-overlay aui-underlay yui3-widget-positioned yui3-widget-stacked aui-underlay-hidden aui-helper-hidden" id="_145_dockbarMessages" style="left: 1154px; top: 158px; z-index: 301;">
+
+        <div class="aui-header"></div>
+
+        <div class="aui-body"></div>
+
+        <div class="aui-footer"></div>
+
+        <div id="aui_3_4_0_1_308" class="aui-overlay-content aui-underlay-content yui3-widget-stdmod">
+
+          <div class="yui3-widget-bd"></div>
+
+        </div>
+
+      </div>
+
+      <div class="aui-menu my-sites-menu aui-overlaycontext-hidden yui3-widget aui-component aui-overlay aui-overlaycontext yui3-widget-positioned yui3-widget-stacked aui-helper-hidden" id="_145_mySitesContainer" role="dialog" aria-hidden="true" style="left: 1676.66320800781px; top: 58px; z-index: 101002;">
+
+        <div class="aui-menu-content aui-overlay-content aui-overlaycontext-content yui3-widget-stdmod" id="aui_3_4_0_1_473"></div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</div>  <div id="wrapper">
+
+  <header id="banner" role="banner">
+
+    <div id="heading">
+
+      <h1 class="site-title">
+
+                                 <span class="logo custom-logo"> <img alt="Purdue Logo" src="ILS_files/logo.png" width="573" height="173">
+
+        </span>
+
+      </h1>
+
+    </div>
+
+    <nav class="sort-pages modify-pages top-bar" id="navigation" data-topbar="" role="navigation">
+
+      <!-- place the gradient in a div separate than the ul to fix menu issues in IE -->
+
+      <!-- <div class="navigation-gradient"> -->
+
+      <section class="top-bar-section">
+
+        <ul class="left">
+
+        </ul>
+
+      </section>
+
+    </nav>
+
+  </header>
+
+</div>
+
+
+
+<!-- Bootstrap core JavaScript -->
+
+<script async="" src="ILS_files/bootstrap.js" type="text/javascript">
+
+</script></span>
+<div class="headerwrapperdiv">
+<div class="headerlinksdiv">
+</div>
+<table class="plaintable" summary="This table displays Menu Items and Banner Search textbox." id="ssbNavBar" width="100%">
+<tbody><tr>
+<td class="pldefault">
+<div class="headerlinksdiv2">
+&nbsp;
+</div>
+</td>
+<td class="pldefault"><p class="rightaligntext" p="">
+<span class="pageheaderlinks">
+<a href="http://www.itap.purdue.edu/help/" accesskey="H" onclick="popup = window.open('http://www.itap.purdue.edu/help/', 'PopupPage','height=500,width=450,scrollbars=yes,resizable=yes'); return false" target="_blank" onmouseover="window.status='';  return true" onmouseout="window.status=''; return true" onfocus="window.status='';  return true" onblur="window.status=''; return true" class="submenulinktext2">HELP</a>
+|
+<a href="https://selfservice.mypurdue.purdue.edu/prod/twbkwbis.P_Logout" accesskey="3" class="submenulinktext2">EXIT</a>
+</span>
+</p></td>
+</tr>
+</tbody></table>
+</div>
+<div class="pagetitlediv">
+<table class="plaintable" summary="This table displays title and static header displays." width="100%">
+<tbody><tr>
+<td class="pldefault">
+<h2>Catalog Entries</h2>
+</td>
+<td class="pldefault">
+&nbsp;
+</td>
+<td class="pldefault"><p class="rightaligntext" p="">
+</p><div class="staticheaders">
+Fall 2022<br>
+Jan 22, 2022<br>
+</div>
+</td>
+</tr>
+<tr>
+<td class="bg3" colspan="3" width="100%"><img src="ILS_files/web_transparent.gif" alt="Transparent Image" class="headerImg" title="Transparent Image" name="web_transparent" width="10" vspace="0" hspace="0" height="3" border="0"></td>
+</tr>
+</tbody></table>
+<a name="main_content"></a>
+</div>
+<div class="pagebodydiv">
+
+
+<!--  ** END OF twbkwbis.P_OpenDoc **  -->
+<div class="infotextdiv"><table class="infotexttable" summary="This layout table contains information that may be helpful in understanding the content and functionality of this page.  It could be a brief set of instructions, a description of error messages, or other special information."><tbody><tr><td class="indefault"><img src="ILS_files/web_info_cascade.png" alt="Information" class="headerImg" title="Information" name="web_info" width="14" vspace="0" hspace="0" height="12" border="0"></td><td class="indefault"><span class="infotext">
+ Select the Course Number to get further detail on the course. Select 
+the desired Schedule Type to find available classes for the course.  The
+ Schedule Type links will be available only when the schedule of classes
+ is available for the selected term.</span></td></tr></tbody></table><p></p></div>
+<table class="datadisplaytable" summary="This table lists all course detail for the selected term." width="100%">
+<tbody><tr>
+<td class="nttitle" scope="colgroup"><a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_course_detail?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=10300">ILS 10300 - Introduction To Data Lifecycle Management</a></td>
+</tr>
+<tr>
+<td class="ntdefault">
+Credit Hours: 1.00.  Introduces concepts of the management of data 
+throughout its lifecycle. Understanding different types of data and 
+their functions. Managing data in the context of a particular discipline
+ or profession. Finding and evaluating data purposefully. Using data 
+ethically and responsibly. Creating and sharing data for reuse, 
+accountability, and enhancement. Making decisions and communicating 
+using data, including data analysis and visualization. Protecting and 
+archiving data. Typically offered Fall.
+<br>
+    1.000 Credit hours
+<br>
+<br>
+<a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_catalog_syllabus?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=10300">Syllabus Available</a>
+<br>
+<span class="fieldlabeltext">Levels: </span>Graduate, Professional, Undergraduate 
+<br>
+<span class="fieldlabeltext">Schedule Types: </span>Distance Learning, Lecture 
+<br>
+<br>
+<span class="fieldlabeltext"><b>Offered By: </b></span>School of Information Studies 
+<br>
+<span class="fieldlabeltext"><b>Department: </b></span>Libraries 
+<br>
+<br>
+<span class="fieldlabeltext">Course Attributes: </span><br>Lower Division 
+<br>
+<br>
+<span class="fieldlabeltext">May be offered at any of the following campuses:</span>&nbsp; &nbsp; &nbsp; 
+<br>
+&nbsp; &nbsp; &nbsp; West Lafayette
+<br>
+<br>
+<span class="fieldlabeltext">Learning Outcomes: </span>
+1.  Describe the data lifecycle and types of data that are used in their discipline or profession.
+2.  Discuss the ethical and responsible use of data.
+3.  Locate and evaluate datasets for reuse that are relevant to their research or work.
+4.  Apply a variety of introductory data collection, analysis, and visualization techniques.
+5.  Understand the basics of securing, archiving, and sharing data.
+<br>
+<br>
+<br>
+</td></tr><tr>
+<td class="nttitle" scope="colgroup"><a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_course_detail?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=17500">ILS 17500 - Information Strategies For Hospitality &amp; Tourism Management</a></td>
+</tr>
+<tr>
+<td class="ntdefault">
+Credit Hours: 1.00.  This course will provide students with a framework 
+of information search skills and problem-solving they can utilize in 
+their area of study and in everyday life. It will also incorporate 
+technology literacy components with active learning. Class sessions will
+ consist of lecture, group discussion, demonstrations, and in-class 
+activities and out-of-class activities. The course is intended for 
+first-semester freshman students. Department permission required. 
+Typically offered Fall Spring.
+<br>
+    1.000 Credit hours
+<br>
+<br>
+<a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_catalog_syllabus?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=17500">Syllabus Available</a>
+<br>
+<span class="fieldlabeltext">Levels: </span>Graduate, Professional, Undergraduate 
+<br>
+<span class="fieldlabeltext">Schedule Types: </span>Distance Learning, Lecture 
+<br>
+<br>
+<span class="fieldlabeltext"><b>Offered By: </b></span>School of Information Studies 
+<br>
+<span class="fieldlabeltext"><b>Department: </b></span>Libraries 
+<br>
+<br>
+<span class="fieldlabeltext">Course Attributes: </span><br>Lower Division, GTC-Information Literacy, UC-Information Literacy 
+<br>
+<br>
+<span class="fieldlabeltext">May be offered at any of the following campuses:</span>&nbsp; &nbsp; &nbsp; 
+<br>
+&nbsp; &nbsp; &nbsp; West Lafayette
+<br>
+<br>
+<span class="fieldlabeltext">Learning Outcomes: </span>
+1.  Develop the ability to access information and determine what 
+different sources are needed for problem solving.
+2.  Develop a foundation in problem-solving to use discovered 
+information effectively and efficiently.
+3.  Develop a knowledge-base into the full array of information 
+available (scholarly articles, market reports, quality websites, and 
+other types of information).
+4.  Learn to prioritize sources based on credibility and relevance.
+5.  Accurately cite the information you find.
+6.  Use retrieved information to accomplish a specific purpose and 
+present information clearly and persuasively using a range of technology
+ tools and media.
+<br>
+<br>
+<br>
+</td></tr><tr>
+<td class="nttitle" scope="colgroup"><a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_course_detail?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=18000">ILS 18000 - Preparing For Your Undergraduate Research Experience</a></td>
+</tr>
+<tr>
+<td class="ntdefault">
+Credit Hours: 1.00.  This course is for prospective Purdue undergraduate
+ researchers who are interested in conducting undergraduate research or 
+creative endeavors. Purdue students who have not already started an 
+independent research project with a research mentor will learn valuable 
+skills to market themselves to individuals and research programs. 
+Throughout the course, students will develop components for a final 
+application packet to submit to a research team or program they choose. 
+Department permission required. Typically offered Fall Spring Summer.
+<br>
+    1.000 Credit hours
+<br>
+<br>
+<a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_catalog_syllabus?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=18000">Syllabus Available</a>
+<br>
+<span class="fieldlabeltext">Levels: </span>Graduate, Professional, Undergraduate 
+<br>
+<span class="fieldlabeltext">Schedule Types: </span>Distance Learning, Lecture 
+<br>
+<br>
+<span class="fieldlabeltext"><b>Offered By: </b></span>School of Information Studies 
+<br>
+<span class="fieldlabeltext"><b>Department: </b></span>Libraries 
+<br>
+<br>
+<span class="fieldlabeltext">Course Attributes: </span><br>Lower Division 
+<br>
+<br>
+<span class="fieldlabeltext">May be offered at any of the following campuses:</span>&nbsp; &nbsp; &nbsp; 
+<br>
+&nbsp; &nbsp; &nbsp; West Lafayette
+<br>
+<br>
+<span class="fieldlabeltext">Learning Outcomes: </span>
+1.  Identity the professional and personal goals sought from an 
+undergraduate research experience.
+2.  Learn research skills such as assessing literature credibility and 
+compiling a review of the topic important to all fields.
+3.  Utilize online and in-person resources and programs to assist in 
+locating and applying to undergraduate research experiences.
+4.  Evaluate research programs/projects to determine how they fit within
+ personal and professional goals.
+5.  Create and submit an application/proposal including a resume' and 
+personal statement for research programs/projects.
+<br>
+<br>
+<br>
+</td></tr><tr>
+<td class="nttitle" scope="colgroup"><a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_course_detail?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=19500">ILS 19500 - Special Topics In Information And Data Science</a></td>
+</tr>
+<tr>
+<td class="ntdefault">
+Credit Hours: 1.00 to 4.00.  Study of selected topics from the practice 
+of information and data science, varying from semester to semester. 
+Topics may include data management and organization, digital 
+scholarship, data visualization, computer languages for data and 
+information science, information literacy, archival literacy, and 
+emerging trends in information and data science. Permission of 
+department required. Typically offered Fall Spring Summer.
+<br>
+    1.000 TO     4.000 Credit hours
+<br>
+<br>
+<a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_catalog_syllabus?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=19500">Syllabus Available</a>
+<br>
+<span class="fieldlabeltext">Levels: </span>Graduate, Professional, Undergraduate 
+<br>
+<span class="fieldlabeltext">Schedule Types: </span>Distance Learning, Laboratory, Lecture, Recitation 
+<br>
+<br>
+<span class="fieldlabeltext"><b>Offered By: </b></span>School of Information Studies 
+<br>
+<span class="fieldlabeltext"><b>Department: </b></span>Libraries 
+<br>
+<br>
+<span class="fieldlabeltext">Course Attributes: </span><br>Lower Division, Variable Title 
+<br>
+<br>
+<span class="fieldlabeltext">May be offered at any of the following campuses:</span>&nbsp; &nbsp; &nbsp; 
+<br>
+&nbsp; &nbsp; &nbsp; West Lafayette
+<br>
+<br>
+<span class="fieldlabeltext">Learning Outcomes: </span>
+1.  Examine critically and apply information and data science to various disciplines.
+2.  Develop practical skills and apply them to their disciplinary research.
+<br>
+<br>
+<br>
+</td></tr><tr>
+<td class="nttitle" scope="colgroup"><a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_course_detail?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=20100">ILS 20100 - Introduction To Digital Humanities</a></td>
+</tr>
+<tr>
+<td class="ntdefault">
+Credit Hours: 3.00.  This is an interdisciplinary foundational course 
+that combines theory and practice to teach students in and about 
+digitally mediated culture. Accordingly, this course fosters a critical 
+understanding of the digital and its implication for the development of a
+ technologically driven society. Students will be introduced to digital 
+inquiry and critical practice and explore the ways that the digital 
+transforms knowledge acquisition and production across the humanities, 
+social sciences and sciences. Students will engage in readings and 
+activities that help them form substantive perspectives on the digital 
+formulations and practice through digital technologies and tools. 
+Students will also experiment with digital methods and tools by building
+ a digital project. This course places an emphasis on engaged learning 
+through online and in-class discussion, digital activities, and 
+collaborative work.
+<br>
+    3.000 Credit hours
+<br>
+<br>
+<a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_catalog_syllabus?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=20100">Syllabus Available</a>
+<br>
+<span class="fieldlabeltext">Levels: </span>Graduate, Professional, Undergraduate 
+<br>
+<span class="fieldlabeltext">Schedule Types: </span>Distance Learning, Lecture 
+<br>
+<br>
+<span class="fieldlabeltext"><b>Offered By: </b></span>School of Information Studies 
+<br>
+<span class="fieldlabeltext"><b>Department: </b></span>Libraries 
+<br>
+<br>
+<span class="fieldlabeltext">Course Attributes: </span><br>Lower Division 
+<br>
+<br>
+<span class="fieldlabeltext">May be offered at any of the following campuses:</span>&nbsp; &nbsp; &nbsp; 
+<br>
+&nbsp; &nbsp; &nbsp; West Lafayette
+<br>
+<br>
+<span class="fieldlabeltext">Learning Outcomes: </span>
+1.  Identify various concepts and methods in digital humanities.
+2.  Apply a variety of methods and tools to conduct digital humanities research.
+3.  Research the transformative potential of digital methods through  critical inquiry.
+4.  Create a process for developing and completing a digital project.
+<br>
+<br>
+<br>
+</td></tr><tr>
+<td class="nttitle" scope="colgroup"><a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_course_detail?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=23000">ILS 23000 - Data Science And Society: Ethical Legal Social Issues</a></td>
+</tr>
+<tr>
+<td class="ntdefault">
+Credit Hours: 3.00.  This course provides an introduction to Ethical, 
+Legal Social Issues (ELSI) in Data Science. Students will be introduced 
+to interdisciplinary theoretical and practical frameworks that can aid 
+in exploring the impact and role of Data Science in society. This is a 
+writing intensive course. Students will work individually and on 
+collaborative assignments. Typically offered Fall Spring Summer.
+<br>
+    3.000 Credit hours
+<br>
+<br>
+<a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_catalog_syllabus?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=23000">Syllabus Available</a>
+<br>
+<span class="fieldlabeltext">Levels: </span>Graduate, Professional, Undergraduate 
+<br>
+<span class="fieldlabeltext">Schedule Types: </span>Distance Learning, Lecture 
+<br>
+<br>
+<span class="fieldlabeltext"><b>Offered By: </b></span>School of Information Studies 
+<br>
+<span class="fieldlabeltext"><b>Department: </b></span>Libraries 
+<br>
+<br>
+<span class="fieldlabeltext">Course Attributes: </span><br>Lower Division 
+<br>
+<br>
+<span class="fieldlabeltext">May be offered at any of the following campuses:</span>&nbsp; &nbsp; &nbsp; 
+<br>
+&nbsp; &nbsp; &nbsp; West Lafayette
+<br>
+<br>
+<span class="fieldlabeltext">Learning Outcomes: </span>
+1.  Engage in current debates surrounding professional and research ethics, roles and responsibilities in Data Science.
+2.  Examine emerging legal and policy issues which impact Data Science.
+3.  Reflect critically on the relationship between Data Science and political, social and cultural change.
+4.  Learn collaboration, public engagement and scholarly communication skills.
+<br>
+<br>
+<br>
+</td></tr><tr>
+<td class="nttitle" scope="colgroup"><a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_course_detail?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=28000">ILS 28000 - Understanding Your Undergraduate Research Experience I</a></td>
+</tr>
+<tr>
+<td class="ntdefault">
+Credit Hours: 1.00.  This course is for current Purdue undergraduate 
+researchers to hone skills necessary for successfully reflecting on and 
+completing the experience. During this course, students will utilize 
+their research experience to apply skills such as managing time with a 
+research project, communicating your research, utilizing Purdue 
+Libraries' resources, and providing feedback to peer researchers. 
+Students will deliver research pitches about their own project and 
+provide critiques to others' pitches. Department permission required.
+<br>
+    1.000 Credit hours
+<br>
+<br>
+<a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_catalog_syllabus?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=28000">Syllabus Available</a>
+<br>
+<span class="fieldlabeltext">Levels: </span>Graduate, Professional, Undergraduate 
+<br>
+<span class="fieldlabeltext">Schedule Types: </span>Distance Learning, Lecture 
+<br>
+<br>
+<span class="fieldlabeltext"><b>Offered By: </b></span>School of Information Studies 
+<br>
+<span class="fieldlabeltext"><b>Department: </b></span>Libraries 
+<br>
+<br>
+<span class="fieldlabeltext">Course Attributes: </span><br>Lower Division 
+<br>
+<br>
+<span class="fieldlabeltext">May be offered at any of the following campuses:</span>&nbsp; &nbsp; &nbsp; 
+<br>
+&nbsp; &nbsp; &nbsp; West Lafayette
+<br>
+<br>
+<span class="fieldlabeltext">Learning Outcomes: </span>
+1.  Communicate research to various audiences with a research pitch and a research abstract.
+2.  Provide constructive feedback and interact with peers and apply comments to your work.
+3.  Define skills/attributes from your undergraduate research experience.
+4.  Develop and expand a network of researchers within your unit and among other peer researchers.
+5.  Reflect on and apply transferable skills necessary to be a successful undergraduate researcher.
+<br>
+<br>
+<br>
+</td></tr><tr>
+<td class="nttitle" scope="colgroup"><a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_course_detail?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=29000">ILS 29000 - Independent Study In Information Science</a></td>
+</tr>
+<tr>
+<td class="ntdefault">
+Credit Hours: 1.00 to 3.00.  Intensive study on specific topics in 
+information or data science that are not otherwise covered by courses 
+currently offered at Purdue. Plan of Study and assessment method are 
+agreed upon by faculty and student prior to course registration. 
+Permission of instructor required. Typically offered Fall Spring Summer.
+<br>
+    0.000 TO     3.000 Credit hours
+<br>
+<br>
+<a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_catalog_syllabus?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=29000">Syllabus Available</a>
+<br>
+<span class="fieldlabeltext">Levels: </span>Graduate, Professional, Undergraduate 
+<br>
+<span class="fieldlabeltext">Schedule Types: </span>Distance Learning, Individual Study, Laboratory, Lecture, Recitation 
+<br>
+<br>
+<span class="fieldlabeltext"><b>Offered By: </b></span>School of Information Studies 
+<br>
+<span class="fieldlabeltext"><b>Department: </b></span>Libraries 
+<br>
+<br>
+<span class="fieldlabeltext">Course Attributes: </span><br>Lower Division, Variable Title 
+<br>
+<br>
+<span class="fieldlabeltext">May be offered at any of the following campuses:</span>&nbsp; &nbsp; &nbsp; 
+<br>
+&nbsp; &nbsp; &nbsp; West Lafayette
+<br>
+<br>
+<span class="fieldlabeltext">Repeatable for Additional Credit: </span>Yes - May be repeated for a maximum of 12 credits
+<br>
+<br>
+<span class="fieldlabeltext">Learning Outcomes: </span>
+1.  Variable but agreed upon by faculty and student before registration.
+<br>
+<br>
+<br>
+</td></tr><tr>
+<td class="nttitle" scope="colgroup"><a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_course_detail?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=29500">ILS 29500 - Special Topics In Information And Data Science</a></td>
+</tr>
+<tr>
+<td class="ntdefault">
+Credit Hours: 1.00 to 4.00.  Study of selected topics varying from 
+semester to semester, from the practice of information and data 
+sciences. Topics may include data management and organization, digital 
+scholarship, data visualization, computer languages for data and 
+information science, information literacy, archival literacy, and 
+emerging trends in information and data science. Typically offered Fall 
+Spring Summer.
+<br>
+    0.000 TO     4.000 Credit hours
+<br>
+<br>
+<a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_catalog_syllabus?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=29500">Syllabus Available</a>
+<br>
+<span class="fieldlabeltext">Levels: </span>Graduate, Professional, Undergraduate 
+<br>
+<span class="fieldlabeltext">Schedule Types: </span>Distance Learning, Individual Study, Laboratory, Lecture, Recitation 
+<br>
+<br>
+<span class="fieldlabeltext"><b>Offered By: </b></span>School of Information Studies 
+<br>
+<span class="fieldlabeltext"><b>Department: </b></span>Libraries 
+<br>
+<br>
+<span class="fieldlabeltext">Course Attributes: </span><br>Lower Division, Variable Title 
+<br>
+<br>
+<span class="fieldlabeltext">May be offered at any of the following campuses:</span>&nbsp; &nbsp; &nbsp; 
+<br>
+&nbsp; &nbsp; &nbsp; West Lafayette
+<br>
+<br>
+<span class="fieldlabeltext">Repeatable for Additional Credit: </span>Yes - May be repeated for a maximum of 12 credits
+<br>
+<br>
+<span class="fieldlabeltext">Learning Outcomes: </span>
+1.  Examine and apply information and data sciences to various disciplines.
+2.  Develop practical skills and apply them to their disciplinary research.
+
+
+<br>
+<br>
+<br>
+</td></tr><tr>
+<td class="nttitle" scope="colgroup"><a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_course_detail?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=38000">ILS 38000 - Understanding Your Undergraduate Research Experience II</a></td>
+</tr>
+<tr>
+<td class="ntdefault">
+Credit Hours: 1.00.  This course is for current Purdue undergraduate 
+researchers to build upon the previous course and focus on research data
+ collection, presentation, and communication for current Purdue 
+undergraduate researchers. During this course, students will learn and 
+discuss various forms of data and collection practices. Students will 
+develop their own academic poster to present their research project's 
+data and implications. Students are encouraged to present their poster 
+at one of Purdue's undergraduate research conferences near the end of 
+the semester. This course is the second course taken as undergraduate 
+researchers and introduces material at this advanced level. This higher 
+division course is normally scheduled for juniors and seniors. 
+Department permission required.
+<br>
+    1.000 Credit hours
+<br>
+<br>
+<a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_catalog_syllabus?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=38000">Syllabus Available</a>
+<br>
+<span class="fieldlabeltext">Levels: </span>Graduate, Professional, Undergraduate 
+<br>
+<span class="fieldlabeltext">Schedule Types: </span>Distance Learning, Lecture 
+<br>
+<br>
+<span class="fieldlabeltext"><b>Offered By: </b></span>School of Information Studies 
+<br>
+<span class="fieldlabeltext"><b>Department: </b></span>Libraries 
+<br>
+<br>
+<span class="fieldlabeltext">Course Attributes: </span><br>Upper Division 
+<br>
+<br>
+<span class="fieldlabeltext">May be offered at any of the following campuses:</span>&nbsp; &nbsp; &nbsp; 
+<br>
+&nbsp; &nbsp; &nbsp; West Lafayette
+<br>
+<br>
+<span class="fieldlabeltext">Learning Outcomes: </span>
+1.  Learn about quantitative and qualitative research methods and discuss how to utilize both in a research project.
+2.  Create and present an academic poster applying data visualization best practices.
+3.  Reflect on and apply transferable skills of an undergraduate researcher for future success.
+<br>
+<br>
+<br>
+</td></tr><tr>
+<td class="nttitle" scope="colgroup"><a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_course_detail?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=39500">ILS 39500 - Special Topics In Information And Data Science</a></td>
+</tr>
+<tr>
+<td class="ntdefault">
+Credit Hours: 1.00 to 4.00.  Study of selected topics varying from 
+semester to semester, from the practice of information and data 
+sciences. Topics may include data management and organization, digitals 
+scholarship, data visualization, computer languages for data and 
+information science, information literacy, archival literacy, and 
+emerging trends in information and data science. Department approval 
+required. Typically offered Fall Spring Summer.
+<br>
+    0.000 TO     4.000 Credit hours
+<br>
+<br>
+<a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_catalog_syllabus?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=39500">Syllabus Available</a>
+<br>
+<span class="fieldlabeltext">Levels: </span>Graduate, Professional, Undergraduate 
+<br>
+<span class="fieldlabeltext">Schedule Types: </span>Distance Learning, Laboratory, Lecture, Recitation 
+<br>
+<br>
+<span class="fieldlabeltext"><b>Offered By: </b></span>School of Information Studies 
+<br>
+<span class="fieldlabeltext"><b>Department: </b></span>Libraries 
+<br>
+<br>
+<span class="fieldlabeltext">Course Attributes: </span><br>Upper Division, Variable Title 
+<br>
+<br>
+<span class="fieldlabeltext">May be offered at any of the following campuses:</span>&nbsp; &nbsp; &nbsp; 
+<br>
+&nbsp; &nbsp; &nbsp; West Lafayette
+<br>
+<br>
+<span class="fieldlabeltext">Repeatable for Additional Credit: </span>Yes - May be repeated an unlimited number of times
+<br>
+<br>
+<span class="fieldlabeltext">Learning Outcomes: </span>
+1.  Critically examine and apply information and data sciences to various disciplines.
+2.  Develop practical skills and apply them to their disciplinary research.
+<br>
+<br>
+<br>
+</td></tr><tr>
+<td class="nttitle" scope="colgroup"><a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_course_detail?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=48000">ILS 48000 - Beyond Undergraduate Research</a></td>
+</tr>
+<tr>
+<td class="ntdefault">
+Credit Hours: 1.00.  This course is for current Purdue undergraduate 
+researchers to build on previous courses and focus on continuing their 
+education in graduate or professional school. During this course, 
+students will learn and discuss the various phases of identifying, 
+selecting, applying to and funding graduate or professional school 
+programs. Students will also gain a deeper comprehension of the 
+qualities and skills that make research mentors effective while 
+developing skills they will need to be successful mentees and peer 
+mentors. Students will conduct research to identify potential programs 
+of interest and develop a statement of purpose. Department permission 
+required.
+<br>
+    1.000 Credit hours
+<br>
+<br>
+<a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_catalog_syllabus?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=48000">Syllabus Available</a>
+<br>
+<span class="fieldlabeltext">Levels: </span>Graduate, Professional, Undergraduate 
+<br>
+<span class="fieldlabeltext">Schedule Types: </span>Distance Learning, Lecture 
+<br>
+<br>
+<span class="fieldlabeltext"><b>Offered By: </b></span>School of Information Studies 
+<br>
+<span class="fieldlabeltext"><b>Department: </b></span>Libraries 
+<br>
+<br>
+<span class="fieldlabeltext">Course Attributes: </span><br>Upper Division 
+<br>
+<br>
+<span class="fieldlabeltext">May be offered at any of the following campuses:</span>&nbsp; &nbsp; &nbsp; 
+<br>
+&nbsp; &nbsp; &nbsp; West Lafayette
+<br>
+<br>
+<span class="fieldlabeltext">Learning Outcomes: </span>
+1.  Categorize graduate or professional school qualities that fit skills
+ and meet professional needs.
+2.  Identify qualities and skills necessary to act effectively as a 
+research mentor and as a research mentee to a future 
+graduate/professional advisor.
+3.  Create a statement of purpose to include in graduate/professional 
+school applications.
+4.  Reflect on and apply transferable skills of an undergraduate 
+researcher for future success.
+<br>
+<br>
+<br>
+</td></tr><tr>
+<td class="nttitle" scope="colgroup"><a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_course_detail?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=49000">ILS 49000 - Independent Study In Information Science</a></td>
+</tr>
+<tr>
+<td class="ntdefault">
+Credit Hours: 1.00 to 3.00.  Intensive study on specific topics in 
+information or data science that are not otherwise covered by courses 
+currently offered at Purdue. Plan of Study and assessment method are 
+agreed upon by faculty and student prior to course registration. 
+Permission of instructor required. Typically offered Fall Spring Summer.
+<br>
+    0.000 TO     3.000 Credit hours
+<br>
+<br>
+<a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_catalog_syllabus?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=49000">Syllabus Available</a>
+<br>
+<span class="fieldlabeltext">Levels: </span>Graduate, Professional, Undergraduate 
+<br>
+<span class="fieldlabeltext">Schedule Types: </span>Distance Learning, Individual Study, Laboratory, Lecture, Recitation 
+<br>
+<br>
+<span class="fieldlabeltext"><b>Offered By: </b></span>School of Information Studies 
+<br>
+<span class="fieldlabeltext"><b>Department: </b></span>Libraries 
+<br>
+<br>
+<span class="fieldlabeltext">Course Attributes: </span><br>Upper Division, Variable Title 
+<br>
+<br>
+<span class="fieldlabeltext">May be offered at any of the following campuses:</span>&nbsp; &nbsp; &nbsp; 
+<br>
+&nbsp; &nbsp; &nbsp; West Lafayette
+<br>
+<br>
+<span class="fieldlabeltext">Repeatable for Additional Credit: </span>Yes - May be repeated for a maximum of 12 credits
+<br>
+<br>
+<span class="fieldlabeltext">Learning Outcomes: </span>
+1.  Variable but agreed upon by faculty and student prior to course registration.
+<br>
+<br>
+<br>
+</td></tr><tr>
+<td class="nttitle" scope="colgroup"><a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_course_detail?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=49500">ILS 49500 - Special Topics In Information And Data Science</a></td>
+</tr>
+<tr>
+<td class="ntdefault">
+Credit Hours: 1.00 to 4.00.  Study of selected topics varying from 
+semester to semester, from the practice of information and data 
+sciences. Topics may include data management and organization, digital 
+scholarship, data visualization, computer languages for data and 
+information science, information literacy, archival literacy, and 
+emerging trends in information and data science. Typically offered Fall 
+Spring Summer.
+<br>
+    0.000 TO     4.000 Credit hours
+<br>
+<br>
+<a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_catalog_syllabus?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=49500">Syllabus Available</a>
+<br>
+<span class="fieldlabeltext">Levels: </span>Graduate, Professional, Undergraduate 
+<br>
+<span class="fieldlabeltext">Schedule Types: </span>Distance Learning, Individual Study, Laboratory, Lecture, Recitation 
+<br>
+<br>
+<span class="fieldlabeltext"><b>Offered By: </b></span>School of Information Studies 
+<br>
+<span class="fieldlabeltext"><b>Department: </b></span>Libraries 
+<br>
+<br>
+<span class="fieldlabeltext">Course Attributes: </span><br>Upper Division, Variable Title 
+<br>
+<br>
+<span class="fieldlabeltext">May be offered at any of the following campuses:</span>&nbsp; &nbsp; &nbsp; 
+<br>
+&nbsp; &nbsp; &nbsp; West Lafayette
+<br>
+<br>
+<span class="fieldlabeltext">Repeatable for Additional Credit: </span>Yes - May be repeated for a maximum of 12 credits
+<br>
+<br>
+<span class="fieldlabeltext">Learning Outcomes: </span>
+1.  Examine and apply information and data sciences to various disciplines. 
+2.  Develop practical skills and apply them to their disciplinary research.
+<br>
+<br>
+<br>
+</td></tr><tr>
+<td class="nttitle" scope="colgroup"><a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_course_detail?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=51200">ILS 51200 - Information Strategies For Science, Technology, And Engineering Research</a></td>
+</tr>
+<tr>
+<td class="ntdefault">
+Credit Hours: 1.00.  This course focuses on information strategies for 
+successful research in science, engineering, and technology disciplines.
+ Students will learn about how scholarly information and discipline 
+relevant grey literature (e.g., patents, technical standards) are 
+created, organized, disseminated, retrieved, and managed. In addition, 
+students will learn strategies to critically evaluate information and 
+present their research effectively and ethically. Typically offered Fall
+ Spring Summer.
+<br>
+    1.000 Credit hours
+<br>
+<br>
+<a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_catalog_syllabus?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=51200">Syllabus Available</a>
+<br>
+<span class="fieldlabeltext">Levels: </span>Graduate, Professional, Undergraduate 
+<br>
+<span class="fieldlabeltext">Schedule Types: </span>Distance Learning, Lecture 
+<br>
+<br>
+<span class="fieldlabeltext"><b>Offered By: </b></span>School of Information Studies 
+<br>
+<span class="fieldlabeltext"><b>Department: </b></span>Libraries 
+<br>
+<br>
+<span class="fieldlabeltext">Course Attributes: </span><br>Upper Division 
+<br>
+<br>
+<span class="fieldlabeltext">May be offered at any of the following campuses:</span>&nbsp; &nbsp; &nbsp; 
+<br>
+&nbsp; &nbsp; &nbsp; West Lafayette
+<br>
+<br>
+<span class="fieldlabeltext">Learning Outcomes: </span>
+1.  Compare and contrast various modes and models of publication 
+relevant to science, engineering, and technology disciplines. 
+2.  Construct and apply search strategies to retrieve relevant 
+information on science, engineering, and technology related topics, 
+using information resources appropriate to the given task and the 
+type(s) of information sought. 
+3.  Critique information to judge whether it is appropriate and 
+applicable to the task at hand. 
+4.  Synthesize information from multiple sources in order to produce a 
+clear and effective presentation, citing sources where appropriate.
+<br>
+<br>
+<br>
+</td></tr><tr>
+<td class="nttitle" scope="colgroup"><a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_course_detail?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=59000">ILS 59000 - Independent Study In Information Sciences</a></td>
+</tr>
+<tr>
+<td class="ntdefault">
+Credit Hours: 1.00 to 3.00.  Intensive study on specific topics in 
+information or data science that are not otherwise covered by courses 
+currently offered at Purdue University. Plan of study and assessment is 
+agreed upon by faculty and student before registration. Permission of 
+department required. Permission of instructor required. Typically 
+offered Fall Spring Summer.
+<br>
+    1.000 TO     3.000 Credit hours
+<br>
+<br>
+<a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_catalog_syllabus?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=59000">Syllabus Available</a>
+<br>
+<span class="fieldlabeltext">Levels: </span>Graduate, Professional, Undergraduate 
+<br>
+<span class="fieldlabeltext">Schedule Types: </span>Individual Study 
+<br>
+<br>
+<span class="fieldlabeltext"><b>Offered By: </b></span>School of Information Studies 
+<br>
+<span class="fieldlabeltext"><b>Department: </b></span>Libraries 
+<br>
+<br>
+<span class="fieldlabeltext">Course Attributes: </span><br>Upper Division, Variable Title 
+<br>
+<br>
+<span class="fieldlabeltext">May be offered at any of the following campuses:</span>&nbsp; &nbsp; &nbsp; 
+<br>
+&nbsp; &nbsp; &nbsp; West Lafayette
+<br>
+<br>
+<span class="fieldlabeltext">Repeatable for Additional Credit: </span>Yes - May be repeated for a maximum of 12 credits
+<br>
+<br>
+<span class="fieldlabeltext">Learning Outcomes: </span>
+1.  Variable but agreed upon by faculty and student before registration.
+<br>
+<br>
+<br>
+</td></tr><tr>
+<td class="nttitle" scope="colgroup"><a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_course_detail?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=59500">ILS 59500 - Special Topics In Information And Data Science</a></td>
+</tr>
+<tr>
+<td class="ntdefault">
+Credit Hours: 1.00 to 4.00.  Intensive study of selected topics varying 
+from semester to semester, from the practice of information and data 
+sciences. Topics may include data management and organization, digital 
+scholarship, data visualization, computer languages for data and 
+information science, information literacy, archival literacy, and 
+emerging trends in information and data science. Permission of the 
+instructor is required for undergraduates. Typically offered Fall Spring
+ Summer.
+<br>
+    0.000 TO     4.000 Credit hours
+<br>
+<br>
+<a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_catalog_syllabus?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=59500">Syllabus Available</a>
+<br>
+<span class="fieldlabeltext">Levels: </span>Graduate, Professional, Undergraduate 
+<br>
+<span class="fieldlabeltext">Schedule Types: </span>Distance Learning, Laboratory, Lecture 
+<br>
+<br>
+<span class="fieldlabeltext"><b>Offered By: </b></span>School of Information Studies 
+<br>
+<span class="fieldlabeltext"><b>Department: </b></span>Libraries 
+<br>
+<br>
+<span class="fieldlabeltext">Course Attributes: </span><br>Upper Division, Variable Title 
+<br>
+<br>
+<span class="fieldlabeltext">May be offered at any of the following campuses:</span>&nbsp; &nbsp; &nbsp; 
+<br>
+&nbsp; &nbsp; &nbsp; West Lafayette Continuing Ed
+<br>
+&nbsp; &nbsp; &nbsp; West Lafayette
+<br>
+<br>
+<span class="fieldlabeltext">Repeatable for Additional Credit: </span>Yes - May be repeated for a maximum of 12 credits
+<br>
+<br>
+<span class="fieldlabeltext">Learning Outcomes: </span>
+1.  Critically examine and apply information and data sciences to various disciplines.
+2.  Develop practical skills and apply them to their disciplinary research.
+<br>
+<br>
+<br>
+</td></tr><tr>
+<td class="nttitle" scope="colgroup"><a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_course_detail?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=63000">ILS 63000 - Digital Humanities Foundations</a></td>
+</tr>
+<tr>
+<td class="ntdefault">
+Credit Hours: 3.00.  This course introduces graduate students to the 
+core theoretical and practical components of Digital Humanities. 
+Students engage key theoretical texts in weekly seminars and practice 
+central methodologies in weekly work sessions. Typically offered Fall 
+Spring.
+<br>
+    0.000 OR     3.000 Credit hours
+<br>
+<br>
+<a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_catalog_syllabus?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=63000">Syllabus Available</a>
+<br>
+<span class="fieldlabeltext">Levels: </span>Graduate, Professional, Undergraduate 
+<br>
+<span class="fieldlabeltext">Schedule Types: </span>Distance Learning, Laboratory, Lecture 
+<br>
+<br>
+<span class="fieldlabeltext"><b>Offered By: </b></span>School of Information Studies 
+<br>
+<span class="fieldlabeltext"><b>Department: </b></span>Libraries 
+<br>
+<br>
+<br>
+<span class="fieldlabeltext">May be offered at any of the following campuses:</span>&nbsp; &nbsp; &nbsp; 
+<br>
+&nbsp; &nbsp; &nbsp; West Lafayette
+<br>
+<br>
+<span class="fieldlabeltext">Learning Outcomes: </span>
+1.  Learn the basic vocabulary and concepts in digital humanities.
+2.  Gain familiarity with digital humanities projects, critical work, 
+resources in the field, and hands-on experience of building a scholarly 
+digital research project.
+3.  Gain experience working collaboratively with others on a joint 
+project.
+4.  Perform critical, formal analyses of DH projects, digital media, and
+ digital tools.
+5.  Write focused, analytical essays in clear, grammatical prose.
+6.  Employ logic, creativity, and interpretive skills to produce 
+original, persuasive arguments.
+7.  Gain familiarity with digital tools and media used in in the field 
+of digital humanities to create new knowledge of humanities subjects.
+<br>
+<br>
+</td></tr><tr>
+<td class="nttitle" scope="colgroup"><a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_course_detail?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=63100">ILS 63100 - Digital And Analog Archives</a></td>
+</tr>
+<tr>
+<td class="ntdefault">
+Credit Hours: 3.00.  Digital and Analog Archives provides an overview of
+ archival theory and practice, including archival arrangement and 
+description, preservation, and digitization best practices. Lab 
+components incorporate archival research, digital reformatting, metadata
+ creation, the creation of digital archives, and presentation of 
+archives to users. Typically offered Fall Spring.
+<br>
+    0.000 OR     3.000 Credit hours
+<br>
+<br>
+<a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_catalog_syllabus?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=63100">Syllabus Available</a>
+<br>
+<span class="fieldlabeltext">Levels: </span>Graduate, Professional, Undergraduate 
+<br>
+<span class="fieldlabeltext">Schedule Types: </span>Distance Learning, Laboratory, Lecture 
+<br>
+<br>
+<span class="fieldlabeltext"><b>Offered By: </b></span>School of Information Studies 
+<br>
+<span class="fieldlabeltext"><b>Department: </b></span>Libraries 
+<br>
+<br>
+<br>
+<span class="fieldlabeltext">May be offered at any of the following campuses:</span>&nbsp; &nbsp; &nbsp; 
+<br>
+&nbsp; &nbsp; &nbsp; West Lafayette
+<br>
+<br>
+<span class="fieldlabeltext">Learning Outcomes: </span>
+1.  Analyze and think critically about archives.
+2.  Arrange, describe, preserve archival materials.
+3.  Conduct archival research; Communicate and defend a research argument.
+4.  Utilize digital humanities tools to create a digital archives project.
+<br>
+<br>
+</td></tr><tr>
+<td class="nttitle" scope="colgroup"><a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_course_detail?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=69000">ILS 69000 - Independent Study In Information Sciences</a></td>
+</tr>
+<tr>
+<td class="ntdefault">
+Credit Hours: 1.00 to 3.00.  Intensive study on specific topics in 
+information or data science that are not otherwise covered by courses 
+currently offered at Purdue University. Plan of study and assessment is 
+agreed upon by faculty and student before registration. Permission of 
+department required. Permission of instructor required. Typically 
+offered Fall Spring Summer.
+<br>
+    1.000 TO     3.000 Credit hours
+<br>
+<br>
+<a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_catalog_syllabus?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=69000">Syllabus Available</a>
+<br>
+<span class="fieldlabeltext">Levels: </span>Graduate, Professional, Undergraduate 
+<br>
+<span class="fieldlabeltext">Schedule Types: </span>Individual Study 
+<br>
+<br>
+<span class="fieldlabeltext"><b>Offered By: </b></span>School of Information Studies 
+<br>
+<span class="fieldlabeltext"><b>Department: </b></span>Libraries 
+<br>
+<br>
+<span class="fieldlabeltext">Course Attributes: </span><br>Variable Title 
+<br>
+<br>
+<span class="fieldlabeltext">May be offered at any of the following campuses:</span>&nbsp; &nbsp; &nbsp; 
+<br>
+&nbsp; &nbsp; &nbsp; West Lafayette
+<br>
+<br>
+<span class="fieldlabeltext">Repeatable for Additional Credit: </span>Yes - May be repeated for a maximum of 12 credits
+<br>
+<br>
+<span class="fieldlabeltext">Learning Outcomes: </span>
+1.  Variable but agreed upon by faculty and student before registration.
+<br>
+<br>
+<br>
+</td></tr><tr>
+<td class="nttitle" scope="colgroup"><a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_course_detail?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=69500">ILS 69500 - Special Topics In Information And Data Science</a></td>
+</tr>
+<tr>
+<td class="ntdefault">
+Credit Hours: 1.00 to 4.00.  Intensive study of selected topics varying 
+from semester to semester, from the practice of information and data 
+sciences. Topics may include data management and organization, digital 
+scholarship, data visualization, computer languages for data and 
+information science, information literacy, archival literacy, and 
+emerging trends in information and data science. Typically offered Fall 
+Spring Summer.
+<br>
+    0.000 TO     4.000 Credit hours
+<br>
+<br>
+<a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_catalog_syllabus?cat_term_in=202310&amp;subj_code_in=ILS&amp;crse_numb_in=69500">Syllabus Available</a>
+<br>
+<span class="fieldlabeltext">Levels: </span>Graduate, Professional, Undergraduate 
+<br>
+<span class="fieldlabeltext">Schedule Types: </span>Distance Learning, Laboratory, Lecture 
+<br>
+<br>
+<span class="fieldlabeltext"><b>Offered By: </b></span>School of Information Studies 
+<br>
+<span class="fieldlabeltext"><b>Department: </b></span>Libraries 
+<br>
+<br>
+<span class="fieldlabeltext">Course Attributes: </span><br>Variable Title 
+<br>
+<br>
+<span class="fieldlabeltext">May be offered at any of the following campuses:</span>&nbsp; &nbsp; &nbsp; 
+<br>
+&nbsp; &nbsp; &nbsp; West Lafayette Continuing Ed
+<br>
+&nbsp; &nbsp; &nbsp; West Lafayette
+<br>
+<br>
+<span class="fieldlabeltext">Repeatable for Additional Credit: </span>Yes - May be repeated for a maximum of 12 credits
+<br>
+<br>
+<span class="fieldlabeltext">Learning Outcomes: </span>
+1.  Critically examine and apply information and data sciences to various disciplines.
+2.  Develop practical skills and apply them to their disciplinary research.
+<br>
+<br>
+<br>
+</td></tr></tbody></table>
+<br>
+<form action="bwckctlg.xml" method="POST" name="XML">
+<input type="hidden" name="term_in" value="202310">
+<input type="hidden" name="subj_in" value="	ILS	">
+<input type="hidden" name="title_in" value="%%">
+<input type="hidden" name="divs_in" value="%">
+<input type="hidden" name="dept_in" value="%">
+<input type="hidden" name="coll_in" value="%">
+<input type="hidden" name="schd_in" value="%">
+<input type="hidden" name="levl_in" value="%">
+<input type="hidden" name="attr_in" value="%">
+<input type="hidden" name="crse_strt_in" value="">
+<input type="hidden" name="crse_end_in" value="">
+<input type="hidden" name="cred_from_in" value="">
+<input type="hidden" name="cred_to_in" value="">
+<input type="hidden" name="last_updated" value="">
+<table class="datadisplaytable" summary="This is for formatting of the bottom links." width="50%">
+<tbody><tr>
+<td class="ntdefault">
+<a href="javascript:history.go(-1)" onmouseover="window.status='Return to Previous';  return true" onfocus="window.status='Return to Previous';  return true" onmouseout="window.status='';  return true" onblur="window.status='';  return true">Return to Previous</a>
+</td>
+<td class="ntdefault"><a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_dyn_ctlg">New Search</a></td>
+<td class="ntdefault">
+</td><td class="ntdefault"><a href="https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.xml" onclick="javascript: XML.submit();return false">XML Extract</a></td>
+
+</tr>
+</tbody></table>
+</form>
+
+<!--  ** START OF twbkwbis.P_CloseDoc **  -->
+<table class="plaintable" summary="This is table displays line separator at end of the page." width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr></tr></tbody></table>
+<a href="#top" onmouseover="window.status='Skip to top of page'; return true" onmouseout="window.status=''; return true" onfocus="window.status='Skip to top of page'; return true" onblur="window.status=''; return true" class="skiplinks">Skip to top of page</a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="footerWrapper"><div class="footerbeforediv">
+
+</div><div class="footerafterdiv">
+
+</div><div class="globalafterdiv">
+
+</div><div class="globalfooterdiv">
+<span class="infotext">    	<script language="JavaScript">
+
+  	  var ga_key = "UA-25046276-1"
+
+	  var _gaq = _gaq || [];
+
+	  _gaq.push(['_setAccount', ga_key]);
+
+	  _gaq.push(['_trackPageview']);
+
+
+
+	  (function() {
+
+	  	var ga = document.createElement('script');
+
+	  	ga.type = 'text/javascript';
+
+	  	ga.async = true;
+
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+	    var s = document.getElementsByTagName('script')[0];
+
+	    s.parentNode.insertBefore(ga, s);
+
+	  })();
+
+	</script></span>
+<span class="infotext"> <div id="global_footer"><div class="footer">
+<div class="container">
+<div class="row panel-group" id="accordion">
+<div class="panel panel-default col-lg-2 col-md-2 col-sm-2 col-xs-12 left"><div class="panel-heading">
+<h4 class="panel-title"><a class="collapsed" data-parent="#accordion" data-toggle="collapse" href="#footerone">Communication <i class="fa fa-plus right"></i><i class="fa fa-minus right"></i></a></h4>
+</div>
+<div class="panel-collapse collapse" id="footerone">
+<div class="panel-body">
+<ul>
+<li><a href="https://one.purdue.edu/">OneCampus Portal</a></li>
+<li><a href="https://mycourses.purdue.edu/">Blackboard</a></li>
+<li><a href="https://www.purdue.edu/boilerconnect/">BoilerConnect</a></li>
+<li><a href="http://portal.office.com/">Office 365</a></li>
+<li><a href="https://outlook.office.com/">Outlook</a></li>
+<li><a href="https://mypurdue.purdue.edu/">myPurdue</a></li>
+</ul>
+</div>
+</div></div>
+<div class="panel panel-default col-lg-2 col-md-2 col-sm-2 col-xs-12 left"><div class="panel-heading">
+<h4 class="panel-title"><a class="collapsed" data-parent="#accordion" data-toggle="collapse" href="#footertwo">Campus <i class="fa fa-plus right"></i><i class="fa fa-minus right"></i></a></h4>
+</div>
+<div class="panel-collapse collapse" id="footertwo">
+<div class="panel-body">
+<ul>
+<li><a href="http://www.purdue.edu/purdue/faculty_staff/index.php">Faculty and Staff</a></li>
+<li><a href="https://www.purdue.edu/hr/">Human Resources</a></li>
+<li><a href="http://www.purdue.edu/purdue/careers/index.php">Careers</a></li>
+<li><a href="https://www.purdue.edu/purdue/about/colleges_schools.php">Colleges and Schools</a></li>
+<li><a href="https://www.purdue.edu/directory/">Directory</a></li>
+<li><a href="https://www.purdue.edu/campus_map/">Campus Map</a></li>
+</ul>
+</div>
+</div></div>
+<div class="panel panel-default col-lg-2 col-md-2 col-sm-2 col-xs-12 right"><div class="panel-heading">
+<h4 class="panel-title"><a class="collapsed" data-parent="#accordion" data-toggle="collapse" href="#footerthree">Information <i class="fa fa-plus right"></i><i class="fa fa-minus right"></i></a></h4>
+</div>
+<div class="panel-collapse collapse" id="footerthree">
+<div class="panel-body">
+<ul>
+<li><a href="http://www.purdue.edu/newsroom/purduetoday/">Purdue Today</a></li>
+<li><a href="https://calendar.purdue.edu/">Calendar</a></li>
+<li><a href="https://www.lib.purdue.edu/">Libraries</a></li>
+<li><a href="https://www.purdue.edu/physicalfacilities/construction/">Construction</a></li>
+<li><a href="https://www.purdue.edu/bursar/tuition/calculator/">Tuition Calculator</a></li>
+<li><a href="http://www.purdue.edu/hr/CHL/">Center for Healthy Living</a></li>
+</ul>
+</div>
+</div></div>
+<div class="panel panel-default col-lg-2 col-md-2 col-sm-2 col-xs-12 right"><div class="panel-heading">
+<h4 class="panel-title"><a class="collapsed" data-parent="#accordion" data-toggle="collapse" href="#footerfour">People <i class="fa fa-plus right"></i><i class="fa fa-minus right"></i></a></h4>
+</div>
+<div class="panel-collapse collapse" id="footerfour">
+<div class="panel-body">
+<ul>
+<li><a href="https://www.purdue.edu/hotline/">Speak Up</a></li>
+<li><a href="https://www.purdue.edu/diversity-inclusion/">Diversity and Inclusion</a></li>
+<li><a href="https://www.purdue.edu/ethics/">Ethics and Compliance</a></li>
+<li><a href="https://www.itap.purdue.edu/">Information Technology</a></li>
+<li><a href="https://www.purdue.edu/ehps/police/reports/">Annual Security Report</a></li>
+<li><a href="https://www.purdue.edu/timely-warnings/">Timely Warnings</a></li>
+</ul>
+</div>
+</div></div>
+<div class="motto col-lg-4 col-md-4 col-sm-4" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
+<img alt="We are Purdue. What we make moves the world forward." class="horizontal" src="ILS_files/footer-mottoHorizontal.png"> 
+<img alt="We are Purdue. What we make moves the world forward." class="vertical" src="ILS_files/footer-mottoVertical.png"> 
+<meta content="Purdue University" itemprop="name"> <link href="http://www.purdue.edu/" itemprop="url"> <link href="https://www.purdue.edu/purdue/images/logo.png" itemprop="logo"> 
+<div class="social">
+<a href="https://www.facebook.com/PurdueUniversity/" rel="noopener" target="_blank"><span class="sr-only">Facebook</span><span aria-hidden="true" class="fa fa-facebook"></span></a>
+<a href="https://twitter.com/lifeatpurdue" rel="noopener" target="_blank"><span class="sr-only">Twitter</span><span aria-hidden="true" class="fa fa-twitter"></span></a>
+<a href="https://www.youtube.com/user/PurdueUniversity" rel="noopener" target="_blank"><span class="sr-only">YouTube</span><span aria-hidden="true" class="fa fa-youtube"></span></a>
+<a href="https://www.instagram.com/lifeatpurdue/" rel="noopener" target="_blank"><span class="sr-only">Instagram</span><span aria-hidden="true" class="fa fa-instagram"></span></a>
+<a href="https://www.pinterest.com/lifeatpurdue/" rel="noopener" target="_blank"><span class="sr-only">Pinterest</span><span aria-hidden="true" class="fa fa-pinterest"></span></a>
+<!--<a href="https://www.snapchat.com/add/lifeatpurdue" rel="noopener" target="_blank"><span class="sr-only">Snapchat</span><span aria-hidden="true" class="fa fa-snapchat-ghost"></span></a>-->
+<a href="https://www.linkedin.com/edu/purdue-university-18357" rel="noopener" target="_blank"><span class="sr-only">LinkedIn</span><span aria-hidden="true" class="fa fa-linkedin"></span></a>
+<!--<a href="http://purdue.amazon.com/" rel="noopener" target="_blank"><span class="sr-only">Amazon</span><span aria-hidden="true" class="fa fa-amazon"></span></a>-->
+</div>
+</div>
+</div>
+</div>
+</div></div>
+
+<script>
+
+    $(document).ready(function(){
+
+        var global_footer = "/static_resources/portal/html/global_footer.html .footer";
+
+        $("#global_footer").load(global_footer);
+
+    });
+
+</script></span>
+<div class="releasewrapperdiv"><div class="pagefooterdiv">
+
+</div></div></div><div class="poweredbydiv">
+</div><div class="div1"></div><div class="div2"></div><div class="div3"></div><div class="div4"></div><div class="div5"></div><div class="div6"></div><div class="banner_copyright"><span class="releasetext">Release: 8.7.2.4</span><div class="infotext_globalfooter"><span style="font-size:0.8em;"><b>Having trouble? <a href="http://support.purdue.edu/goldanswers" target="_blank">Self Help Knowledgebase</a> | For assisted support: <a href="mailto:itap@purdue.edu">itap@purdue.edu</a>
+or 765-494-4000</b><br>
+
+Purdue University is an equal access/equal opportunity university. If you have trouble accessing<br>
+
+this page because of a disability, please contact ITaP Customer Service at <a href="mailto:itap@purdue.edu">itap@purdue.edu</a>.</span><br>
+
+<span id="puNode" style="font-size:0.8em;color:#FFFFFF;">Node: 
+
+
+
+<title>NodeInfo</title>
+
+
+
+Pord01b.itap.purdue.edu
+
+
+</span>
+
+<script language="javascript">
+
+        try {
+
+            window.addEventListener("load",displayNode,false);
+
+        } catch(err) {
+
+            window.attachEvent('onload',displayNode)
+
+        }
+
+
+
+        function displayNode() {
+
+            var ajaxRequest;
+
+
+
+            if (window.XMLHttpRequest) {
+
+                // code for IE7+, Firefox, Chrome, Opera, Safari
+
+                ajaxRequest = new XMLHttpRequest();
+
+            } else if (window.ActiveXObject) {
+
+                // code for IE6, IE5
+
+                ajaxRequest = new ActiveXObject("Microsoft.XMLHTTP");
+
+            } else return;
+
+
+
+            // Create a function that will receive data sent from the server
+
+            ajaxRequest.onreadystatechange =
+
+                function(){
+
+		                if(ajaxRequest.readyState == 4){
+
+			                  var ajaxDisplay = document.getElementById('puNode');
+
+			                  ajaxDisplay.innerHTML = "Node: "+ajaxRequest.responseText;
+
+		                }
+
+	              }
+
+            ajaxRequest.open("GET", "/nodeinfo/index.jsp", true);
+
+            ajaxRequest.send(null);
+
+        }
+
+</script>
+
+</div> <br><h5>© 2022 Ellucian Company L.P. and its affiliates.<br></h5></div></div></body></html>

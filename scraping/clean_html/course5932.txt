@@ -1,0 +1,59 @@
+ENGR 16100 - Honors Introduction To Innovation And The Physical Science Of Engineering Design I
+
+Credit Hours: 4.00.  This course introduces students to the engineering profession using physics-based, multidisciplinary, societally relevant content. Students develop engineering approaches to systems, generate and explore creative and innovative ideas, and use of computational methods to support design decisions. In particular, the students will develop the ability to model and investigate physical systems at the microscopic and macroscopic levels with a focus on vectors analysis, linear momentum, angular momentum, work-energy, and solid material interactions. Design challenges and projects will explore a wide range of natural phenomena experimentally and computationally (utilizing Matlab and Python) and engage students in innovative thinking across the engineering disciplines at Purdue. They will learn the basics of descriptive statistics, data analysis, sensitivity analysis, and decision making. Students experience the process of design and analysis in engineering including how to work effectively in teams. Students also develop skills in project management, engineering fundamentals, oral and graphical communication, logical thinking, and modern engineering tools. Typically offered Fall.
+
+    0.000 OR     4.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: College of Engineering 
+
+Department: College of Engineering Admin 
+
+
+Course Attributes: Honors, Lower Division, GTC-Information Literacy, UC-Information Literacy 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Discuss the engineering education process, courses, and options, explain and compare engineering job functions and roles, and use this information to prepare a moderately well-informed course of study for academic and career success (3).
+2.  Employ academic and career success strategies including managing your personal learning approach, using time management techniques, and demonstrating a personal growth mindset to thoughtfully pursue course activities and the course as a whole (2).
+3.  Plan and implement systematic design processes using formal engineering management and design tools such as work breakdown structures and House of Quality to design innovative products and systems (6).
+4.  Investigate and decompose systems in order to design and construct mathematical or computer models that can be employed to better understand or control the systems (6).
+5.  Describe a wide range of physical phenomena using a few fundamental physical laws (12).
+6.  Learn how to implement a unified approach that relates microscopic behavior to macroscopic behavior. These include mechanical theories based on particle, spring, and material models (10).
+7.  Model natural phenomena using computer simulations (5).
+8.  Demonstrate professional communication skills in the areas of technical writing to produce engineering reports, in presentations to convey engineering evidence and findings verbally and graphically to audiences, and in interpersonal communication to work with other members of the class (2).
+9.  Work alongside individuals with diverse backgrounds, utilizing the team environment to learn interdependently, give and demand accountability, and accomplish engineering tasks, while recognizing teaming as an open-ended problem that needs to be actively managed and reflected upon (3).
+10.  Evaluate engineering problems to reach evidence-based conclusions, drawing upon one or more sources of information and data interpretation skills including interpolation, regression, curve fitting, statistics, and data cleaning (5).
+11.  Incorporate the consideration of engineering ethics, including social, safety, and sustainability issues into instances of engineering thinking and engineering problem solving so that the broader impacts of engineering work are evaluated and accounted for (3).
+12.  Apply fundamental engineering skills and knowledge relating to units, dimensions, estimation, visualization, significant digits, and the problem presentation method to engineering applications (2).
+13.  Display proficiency in the applications of engineering content knowledge including basic statistics (5).
+
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      First Year Engineering
+
+      Pre Agr & Biol Engineering
+
+Must be assigned to one of the following Cohorts:      
+
+      Honors College
+
+

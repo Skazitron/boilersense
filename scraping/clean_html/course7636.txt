@@ -1,0 +1,87 @@
+BIOL 56310 - Protein Bioinformatics
+
+Credit Hours: 3.00.  Accumulation of biological data, such as genome sequences, protein structures and sequences, metabolic pathways, opened up a new way of research in biology-bioinformatics. Through the survey of the various active research topics in bioinformatics, in this course we will learn bioinformatics databases, tools, and algorithms behind these tools. Special emphasis is placed on protein sequence and structure analyses. Covered topics will include methods for protein sequence comparison, protein structure comparison, protein structure prediction/modeling, protein docking prediction, protein function prediction, and protein network analysis.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Science 
+
+Department: Biological Sciences 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1. Utilize biological database searches including protein and nucleotide sequences, motifs, and structures, and interpret results in statistically correct fashion.
+2. Develop bioinformatics analysis pipeline that apply a series of appropriate bioinformatics tools with proper setting for predicting protein function and structures and interpret results correctly by knowing algorithms, strengths, and limitations of the tools used.
+3. Construct the tertiary structure models of protein and protein complexes with appropriate software and predict the accuracy of the models built.
+4. Apply functional analysis of gene networks and compute the statistical significance of results.
+5. Discuss appropriateness of bioinformatics analyses in biology literature and propose alternative approaches that may work better than ones used in the literature.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-BIOL 56310 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+BIOL
+23100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+BIOL
+24100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

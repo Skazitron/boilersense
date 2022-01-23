@@ -1,0 +1,55 @@
+CGT 14700 - Visual Effects Introduction
+
+Credit Hours: 3.00.  This course introduces students to the visual effects techniques using common methodologies and tools. Topics include procedural frameworks, 3D pipeline implementation, vector operations, and simulating physical phenomena for entertainment graphics. Special emphasis is placed on achieving aesthetically please entertainment-grade graphics using visual effects techniques.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Describe visual effects pipeline.
+2.  Implement simple simulations using common visual effects tools and techniques.
+3.  Explore options for visual effects career pathways.
+4.  Create aesthetically pleasing visual effects using production tools and techniques.
+
+
+
+
+Prerequisites: 
+
+ 
+
+

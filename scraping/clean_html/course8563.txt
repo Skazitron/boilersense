@@ -1,0 +1,73 @@
+CGT 53200 - UX Design Graduate Studio II: Cross-Channel
+
+Credit Hours: 3.00.  This course is an advanced exploration of cross-channel approaches to human-centered design, such as service design, that span digital and physical experiences. Students utilize principles of usability and user experience to create and evaluate physical prototypes. The course is platform-independent and encourages students to experiment with new and emerging technologies.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Laboratory, Lecture, Studio 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Conduct advanced analysis of various situations using appropriate processes and methodologies for UX.
+2.  Select and apply appropriate user research methods.
+3.  Prioritize design requirements based on user research.
+4.  Identify and frame perceived and real problems.
+5.  Distinguish among popular processes and methodologies for UX.
+6.  Create design concepts that address the issues of situations, clients, and problems that demonstrate an
+awareness of multiple user touchpoints.
+8.  Distinguish among methods for representing design ideas and processes.
+9.  Apply contextually appropriate methods for representing design ideas and processes.
+10.  Justify appropriateness of chosen methods.
+11.  Prototype multi-channel experiences that incorporate physical computing systems and other advanced
+technologies.
+12.  Apply human factors principles in the creation of physical prototypes.
+13.  Apply appropriate methods to evaluate multi-channel experiences.
+14.  Demonstrate technical competence with physical computing systems and other advanced
+technologies.
+15.  Design holistic experiences that integrate multiple channels cohesively.
+16.  Explain how design philosophy impacts design practice.
+17.  escribe how underlying assumptions and perspectives influence practice.
+18.  Identify key components of a design philosophy.
+19.  Articulate personal design philosophy.
+20.  Apply advanced UX theory in the design and evaluation of interactive experiences.
+21.  Distinguish among relevant theoretical frameworks and constructs.
+22.  Utilize theoretical frameworks in the design of interactive experiences.
+23.  Analyze existing experiences using appropriate theoretical frameworks.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Freshman: 15 - 29 hours
+
+      Junior: 75 - 89 hours
+
+      Sophomore: 45 - 59 hours
+
+      Junior: 60 - 74 hours
+
+      Freshman: 0 - 14 hours
+
+      Sophomore: 30 - 44 hours
+
+

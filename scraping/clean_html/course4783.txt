@@ -1,0 +1,62 @@
+CNIT 28000 - Systems Analysis And Design Methods
+
+Credit Hours: 3.00.  Comprehensive introduction to information systems development. Topics include the systems analyst, the systems development life cycle, methodologies, development technology, systems planning, project management, systems analysis, systems design, systems implementation, and systems support. Introduction to tools and techniques for systems development.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Practice Study Observation, Recitation 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Identify the stages of the systems development life cycle and the different systems methodologies used to implement it.
+2.  Apply project management techniques and tools for systems development.
+3.  Apply requirements analysis strategies and requirements gathering techniques to determine business requirements.
+4.  Analyze an as-is system or a to-be system by applying appropriate tools for analysis modeling.
+5.  Design a system by applying appropriate tools for design modeling.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 18000 Minimum Grade of C- and Undergraduate level  CNIT 27200 Minimum Grade of C- [may be taken concurrently]
+
+

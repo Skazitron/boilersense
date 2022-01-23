@@ -1,0 +1,78 @@
+IE 53200 - Reliability
+
+Credit Hours: 3.00.  Reliability of components and multi-component systems. Application of quantitative methods to the design and evaluation of engineering and industrial systems and processes for assuring reliability of performance. Economic and manufacturing control activities related to product engineering aspects of reliability. Principles of maintainability. Product failure and legal liability. Typically offered Fall.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Industrial Engr 
+
+Department: Industrial Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-IE 53200 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+IE
+33000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+IE
+33600
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

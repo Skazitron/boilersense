@@ -1,0 +1,41 @@
+CGT 61000 - Visual Intelligence And Perception
+
+Credit Hours: 3.00.  This course focuses on the fundamentals of perception and cognition relative to vision and its implications to the field of computer graphics technology and the creation of graphics. Students will examine the foundations of human perception of form, shape, color, and motion, developing an understanding of why and how humans perceive visual information. Permission of instructor required.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Discover the history of investigations into visual perception. 
+2.  Understand how the human vision system constructs an understanding of the 3D world.
+3.  Know the visual rules that govern the interpretation of form, shape, color and motion. 
+4.  Understand the clinical aspects relative to vision and perception.
+5.  Learn to apply visual rules in the planning, creation and evaluation of all graphics. 
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

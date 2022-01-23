@@ -1,0 +1,77 @@
+ECET 53600 - Embedded Systems Security
+
+Credit Hours: 3.00.  This course focuses on the implementation and application of cryptographic algorithms and protocols in embedded systems. An overview of the security problem and the science of cryptography and cryptanalysis is presented. The notion of the security perimeter in terms of physical access to assets in embedded hardware subsystems is studied. Students implement and apply various ciphers on 8-bit to 32-bit embedded platforms, comparing and contrasting computational and data throughout performance. Permission of instructor required.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Identify and describe cryptography, cryptanalysis, and security perimeters of embedded systems.
+2.  Identify and describe key performance issues and tradeoffs in the design and application of cryptographic algorithms and protocols in embedded systems.
+3.  Identify and describe the main areas of research focus in embedded system security and whey they are important.
+4.  Identify, describe, and apply tools used in cryptographic analysis and performance characterization of embedded systems.
+5.  Identify, describe, analyze and apply cryptographic algorithms and protocols including but not limited random number and key generators, private-key and public-key ciphers and protocols, and one-way hash functions.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ECET 53600 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ECET
+32500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

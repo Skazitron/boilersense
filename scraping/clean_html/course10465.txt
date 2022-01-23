@@ -1,0 +1,75 @@
+MET 54900 - Micro And Nanomachining
+
+Credit Hours: 3.00. Micro and nanomachining introduces technology students of many disciplines to discover how machining processes enable the development of MEMS and NEMS products and services. The focus of this course is to develop an understanding of machining processes at the micro and nanoscales. Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Identify the use of micro and nanomachining processes.
+2.  Use micro and nanomachining processes through the utilization of small scale machine tools.
+3.  Apply micro and nanomachining processes to solve product manufacturing problems.
+4.  Provide feedback to improve existing micro and nanomachining processes through the use of computational design software, experimental manufacturing designs, and through the application of known case studies.
+5.  Understand how case studies can be used to transfer technology to existing and new products and to justify using cost-benefit analyses.
+6.  Design, develop, innovated and invent new micro and nanomachining procedures and products. 
+
+
+
+
+Prerequisites:
+
+GR-MET 54900 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MET
+24200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+MET
+34400
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

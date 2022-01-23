@@ -1,0 +1,62 @@
+CGT 37700 - Scientific Visualization
+
+Credit Hours: 3.00.  This course is an introduction to the use of computer graphics to help user gain insight into scientific datasets. Applications from atmospheric science, medicine and physics will be explored. Topics will include the fundamental approaches to scalar-valued data (volume rendering, iso-surface extraction), vector-valued data (glyphs, streamlines), and tenors-valued data (ellipsoidal, quadric and super quadric glyphs). Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Studio 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Describe sources of scalar-, vector-, and tensor-valued data and the properties of the data.
+2.  Assess the effectiveness of given visualization techniques.
+3.  Explain the differences between multiple approaches to visualization.
+4.  Create effective scientific visualizations using the vTk library, or tools based on vTk.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Graphics Tech-BS
+
+
+Prerequisites: 
+
+ (Undergraduate level  PHYS 21800 Minimum Grade of C- or Undergraduate level  PHYS 22000 Minimum Grade of C-) and Undergraduate level  CGT 21500 Minimum Grade of C-
+
+

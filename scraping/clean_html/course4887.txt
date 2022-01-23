@@ -1,0 +1,56 @@
+CNIT 58600 - IT Requirements Management
+
+Credit Hours: 3.00.  The course explores the approaches used by today's information system professionals to conduct and manage the requirements development process. Course emphasis focuses on contemporary techniques for requirements elicitation, requirements analysis, requirements specification, requirements validation and verification. Emphasis is also placed on identifying stakeholders through the use of formal stakeholder analysis techniques, the use of formal change control, requirements traceability and the use of requirements management tools. The course is designed based on the principles and competencies prescribed by the Project Management institute's PM BOK (Project Management Body of Knowledge) and Business Analyst Guide as well as the International Institute of Business Analysis's BABOK (Business Analysis Body of Knowledge). Permission of Department required.
+
+
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Research and analyze in order to discuss the pros and cons in intelligent discourse, of the need for, and integration of techniques for requirements management into information technology projects.
+2.  Research and assess the various elicitation, analysis, specification and validation approaches to requirements development in real life business problems.
+3.  Accurately document, and communicate business requirements for an IT project.
+4.  Select, defend and utilize requirements management tools and techniques in the context of information technology projects and management.
+5.  For residential, thesis students, research and contribute to the requirements management body of knowledge as it can be applied to information technology projects.
+
+
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

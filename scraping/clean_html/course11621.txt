@@ -1,0 +1,43 @@
+PSY 67400 - Structural Equation Modeling
+
+Credit Hours: 3.00.   This is an advanced course in structural equation modeling (SEM), intended to provide doctoral students with an introductory treatment of the theory and methods of SEM. SEM is a statistical methodology that encompasses a wide variety of models, including path models, exploratory and confirmatory factor models, structural regression models, and latent growth models, among others. Prerequisites: PSY 61000 is highly recommended but not required. Permission of department required. Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Health & Human Sci 
+
+Department: Psychological Sciences 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Repeatable for Additional Credit: Yes - May be repeated up to 1 times
+
+
+Learning Outcomes: 
+1.  Obtain a basic-to-intermediate understating of the logic of SEM and grasp the underpinning statistics of SEM.
+2.  Critically read and evaluate empirical journal articles that use SEM.
+3.  Develop the ability to apply SEM (and the correct model) to relevant questions in their area of research interest.
+4.  Acquire Programming skills for conducting SEM.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

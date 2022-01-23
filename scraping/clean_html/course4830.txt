@@ -1,0 +1,50 @@
+CNIT 42100 - Small Scale Digital Device Forensics
+
+Credit Hours: 3.00.  This course will help students understand the issues, techniques, and vulnerabilities of small scale digital device forensics.  Emphasis will be placed on the forensically sound acquisition, preservation, analysis and presentation of small scale digital devices as evidence.  Specific investigations will cover devices such as Personal Digital Assistants (PDA's), Cell Phones, and Smart Phones.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 24000 Minimum Grade of C- or Undergraduate level  CPT 24000 Minimum Grade of C- or Undergraduate level  CNIT 27600 Minimum Grade of C- or Undergraduate level  CPT 27600 Minimum Grade of C- or Undergraduate level  CNIT 23000 Minimum Grade of C- or Undergraduate level  CPT 23000 Minimum Grade of C-
+
+

@@ -1,0 +1,71 @@
+CGT 21100 - Raster Imaging For Computer Graphics
+
+Credit Hours: 3.00.  Digital images are produced using a variety of computer technologies. Advanced color theory, surface rendering, and light control are emphasized in relation to technical illustration, hardware characteristics, and software capabilities.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Credit By Exam, Dept Credit, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      IUPUI
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Indianapolis
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+      Vincennes
+
+
+Learning Outcomes: 
+1.  Demonstrate understanding of the primary attributes and differences between vector and raster graphics and their application to various communicative products and tasks.
+2.  Demonstrate understanding of analog and digital data forms and the conversion processes relating to digital imaging.
+3.  Appropriately use common imaging application features such as layers, channels, paths, filters, color adjustment and correction tools, histograms, color mode tools, and calibration tools.  
+4.  Demonstrate understanding of input, manipulation, and output technologies related to raster graphics.
+5.  Demonstrate understanding of color theory, color models, color systems, and the physiological and psychological effects of color in raster imaging.
+6.  Demonstrate understanding of miscellaneous raster graphics issues such as file formats, compression technologies, vector to raster conversion methods and the legal implications of copyrights, trademarks, licenses, and releases. 
+7.  Demonstrate skill and proficiency in creating professional raster graphics for all types of output including: textures for use in 3D environments, photographic reproduction, digital illustration, web delivery, CD-ROM multimedia, and self-promotion
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Graphics Tech-BS
+
+
+Prerequisites: 
+
+ 
+
+

@@ -1,0 +1,49 @@
+CGT 54500 - Game Development I
+
+Credit Hours: 3.00.  In both research and industry game engines are the foundation for nearly all graphics-intensive interactive applications. A thorough understanding of how game engines work is therefore a requisite element of the game development process and lever for research in most domains involving interactive simulations and games. As game engine development, research, and application is a large and complex topic, the course is split into two semesters of study. The two courses are structured similarly but cover different aspects of development on and within game engines. This course introduces students to the fundamental technologies and skills required to develop video games using a modern game engine. Students are taught using a student-led, active-learning pedagogy in which students co-develop and present lectures, demonstrations, and assignments for their peers, with facilitation by the course instructor. The focus of this course is primarily on the technical, functional, and theoretical dimensions of game development, prioritizing technical soundness over design and creativity (which are covered more explicitly in a separate course). As research in this field continues to rapidly iterate, the latest findings are incorporated into each new offering of the course, refreshing its content as the technology evolves in its implementation and theoretical underpinnings. Production of original research focused upon an aspect of game development or game engine design is required.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Reproduce game mechanics observed in an existing game.
+2.  Present to a classroom the theory and implementation within a scientific paper or set of papers that relate to an aspect of game development and lead a subsequent discussion surrounding said implementation.
+3.  Extract practicable production information from papers, books, vendor documentation and ad hoc sources to solve open-ended technical problems.
+4.  Create a technically sound video game prototype within a team-based production environment.
+5.  Generate and test a research hypotheses related to games, game technology, or game development processes.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

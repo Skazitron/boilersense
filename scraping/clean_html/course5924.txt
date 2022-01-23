@@ -1,0 +1,59 @@
+ENGR 13000 - Transforming Ideas Into Innovations
+
+Credit Hours: 4.00.  This introductory course to engineering teaches skills in managing complex problems related to design, systems analysis with computational tools, and academic professional development. Through multiple experiences, students will learn effective methods to design and analyze behaviors of complex engineering systems with an eye for innovation. These experiences will develop their skills in teaming, project management, logical reasoning, sustainability, coupled with oral, written and visual communication for multiple audiences. This course also develops students ability to build computational tools (e.g. Python, MATLAB and Excel) to analyze the performance of systems using fundamental concepts associated with physical science and data science (e.g. mathematical modeling, data processing, numerical modeling, statistics). Professional identify development is critical to preparing students for making an informed decision in their choice of major and the development of professional skills to succeed in that major. Therefore, the course includes learning experiences to help them gather and process information about all the engineering academic pathways they could choose at Purdue. Permission of instructor required.
+
+    4.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Studio 
+
+
+Offered By: First Year Engineering 
+
+Department: Engineering Education 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Investigate engineering problems to reach evidence-based conclusions, drawing upon one or more sources of information and data interpretation skills including data gathering, data cleaning, regression, and statistics.
+2.  Plan and implement systematic design processes using formal project management and design tools such as work breakdown structures, time lines, functional block diagrams, and engineering specifications to efficiently design innovative products and systems.
+3.  Investigate and decompose complex systems into functional components to explain, predict and/or control the behaviors of the system.
+4.  Develop, test and refine devices and systems to achieve multiple technical requirements and present quantitative evidence that prove achievement of these specifications.
+5.  Display ability to apply mathematical and scientific knowledge and methods to model and analyze systems.
+6.  Apply fundamental engineering skills and knowledge involving estimation, spatial reasoning, graphical representation, units, dimensions, significant digits, and the problem presentation method associated with successful solutions to engineering challenges.
+7.  Work in teams consisting of diverse members to carry out complex engineering tasks. This collaborative work needs team members to be accountable to one another and learn interdependently as they manage their team process.
+8.  Demonstrate professional communications skills in the areas of technical writing, oral presentations, and interpersonal communication to produce evidence-based engineering reports. These reports will convey engineering findings and evidence using written, verbal, and graphical methods to effectively support the audience’s comprehension of the major message.
+9.  Generate programming-language-independent system charts and flow diagrams embodying those algorithms for data processing, knowledge generation and system modeling.
+10.  Translate algorithms into computational models using basic programming constructs, such as, data structures, conditionals, repetition structures, function and file input/output.
+11.  Use multiple programming environments to implement algorithms using basic programming constructs of several languages (e.g. Python, MATLAB (and Excel)) and coding best practices such that the resulting code is effective, well-documented, and error free.
+12.  Discuss the engineering education course sequence and options at Purdue, explain and compare engineering job functions and roles, and use this information to prepare a first draft of a personal course of study for academic and career success.
+13.  Employ academic and career success strategies including managing your personal learning approach, using time management techniques, and seeking opportunities for self improvement to thoughtfully pursue course activities and the course.
+14.  Consider and apply engineering ethics, including social, safety, and sustainability issues into instances of engineering thinking and engineering problem solving.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      First Year Engineering
+
+
+Corequisites: 
+
+CHEM 11600
+
+PHYS 17200
+
+

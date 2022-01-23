@@ -1,0 +1,76 @@
+CNIT 55900 - Data Warehousing
+
+Credit Hours: 3.00.  The design and implementation of data warehouses (including data marts and operational data stores) are studied using current database technologies. Topics include data modeling for warehouses, data warehousing infrastructure and tool selection, data exploration, data synthesis and reduction, organizational metadata, data warehouse administration, and other contemporary issues. Preference is given to students having graduate status in the College of Technology with a CIT concentration. Permission of instructor required.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-CNIT 55900 Req Min Grd B-
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CNIT
+37200
+
+
+Minimum Grade of 
+B-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CNIT
+39200
+
+
+Minimum Grade of 
+B-
+
+May not be taken concurrently.
+)
+
+
+

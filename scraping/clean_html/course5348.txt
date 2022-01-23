@@ -1,0 +1,30 @@
+ECE 67900 - Advanced Digital Communications
+
+Credit Hours: 3.00.  Provides a detailed examination of optimum digital communication principles and introduces three advanced topics critical to the design of digital communication systems: system synchronization; techniques for communication in non-ideal channels (equalization); and communication over fading/multipath channels. Theoretical principles and practical implementations are considered. Prerequisite: ECE 54400, 60000.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

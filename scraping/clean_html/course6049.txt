@@ -1,0 +1,39 @@
+MFET 44000 - Smart Manufacturing Autonomous Human Robot Systems
+
+Credit Hours: 3.00.  This course explores robot cognition with application of intelligent human-robot systems in unstructured manufacturing environments. Topics include intelligent robotics, machine learning, machine vision, and human-robot interaction with particular emphasis on applications for smart manufacturing. Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Describe the fundamental concepts of autonomous mobile and field robotics and human-robot interaction in unstructured smart manufacturing environments.  
+2.  Apply intelligent sensory perception algorithms and robot control through sensory feedback for visual and tactile sensing as modalities for human-robot interaction.  3.  Identify machine perception approaches and deep-learning techniques to help robots acquire interactive skills. 
+4.  Apply algorithms for spatial representation, mapping and localization with real-time robot control strategies integrated with machine perception approaches for applications in smart manufacturing environments.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MFET 24800 Minimum Grade of D- and Undergraduate level  MFET 36100 Minimum Grade of D-
+
+

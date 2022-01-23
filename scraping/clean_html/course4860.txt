@@ -1,0 +1,61 @@
+CNIT 51900 - Natural Language Technologies
+
+Credit Hours: 3.00.  This course serves as an introduction to natural language processing with the focus on current and emerging technologies and applications. The topics will review the state of the art of natural language processing, discuss their advantages and disadvantages for computational language processing, and look at some case studies. The assignments will range from pen and paper analysis to actual computational implementation.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Apply information systems solutions.
+2.  Understand the purpose of natural language understanding applications.
+3.  Analyze high-level tools and emerging technologies.
+4.  Describe functions, components and interaction of devices used in natural language applications.
+5.  Identify and evaluate individual application and existing and emerging technologies.
+6.  Demonstrate independent critical thinking and problem solving skills.
+7.  Apply critical thinking and creative problem solving to improve existing solutions.
+8.  Apply systems development methodologies.
+9.  Use appropriate techniques to plan, analyze, design and construct natural language based system.
+10.  Analyze which method is appropriate for given data characteristics.
+11.  Describe and analyze algorithms employed in applications.
+12.  Develop programs addressing various needs of natural language communications.
+13.  Employ effective testing methodologies.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Freshman: 15 - 29 hours
+
+      Junior: 75 - 89 hours
+
+      Sophomore: 45 - 59 hours
+
+      Junior: 60 - 74 hours
+
+      Freshman: 0 - 14 hours
+
+      Sophomore: 30 - 44 hours
+
+

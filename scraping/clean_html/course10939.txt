@@ -1,0 +1,67 @@
+CHE 55400 - Smart Manufacturing In Process Industries
+
+Credit Hours: 3.00.  This course surveys the tools and techniques, which are relevant to support the multiple levels of technical decisions that arise in modern integrated operation of manufacturing facilities in the chemical related process industries. The linkage of these decisions levels and sharing of associated data and knowledge via effective IT methodology is currently termed Smart Manufacturing in the US and Industry 4.0 in Europe. The topics covered in the course include the structure of the operations decision hierarchy, role of online process measurements, elements of sensor network design, information systems to support process operations, plant data reconciliation, detection and diagnosis of process faults, plant wide control, real time process optimization, production planning and scheduling, and supply chain management. Each topic will be addressed by first summarizing the basic role and scope of that component, then discussing the structure of the decision problem, and then will outline some representative tools available to address that decision problem. Each major topic will include a lecture given by an industrial practitioner who will offer a perspective on the state of industrial practice. Permission of instructor required.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: School of Chemical Engineering 
+
+Department: Chemical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Explain the function, information requirements and main decisions made at each level of the operational hierarchy of an integrated processing system.
+2.  Understand the design requirements of a sensor network, that insures that all variables which must be managed are observable.
+3.  Explain that process data storage requirements are and how these requirements are met in integrated process systems.
+4.  Know how to use data reconciliation methods to obtain the maximum likelihood estimate of the state of process.
+5.  Explain why exceptional events are important to process operations.
+6.  Use multivariate statistic methods to determine whether and when an exceptional event has occurred.
+7.  Explain what fault diagnosis is, why it is needed and what general types of methods are available for effective diagnosis.
+8.  Understand the role of plant-wide control and how it relates to individual unit operations control.
+9.  Test, evaluate and improve a specific plant wide control systems design using a process simulation model.
+10.  Explain the role of real time process operations and the differences between steady state and dynamic RTO.
+11.  Implement and solve a steady state RTO problem based on material balances.
+12.  Explain the differences and relationship between process planning and scheduling.
+13.  Represent a process planning problem by formulating a linear programming model and solving it using standard LP tools.
+14.  Explain the main decision variables of a process scheduling application and understand the underlying computational complexity of scheduling problems.
+15.  Represent a scheduling problem using a state task network and solve it using a commercial solver.
+16.  Explain how supply chain management relates to the operational planning of individual processes.
+17.  Understand the main components and operational decision variables of a supply chain optimization problem.
+18.  Explain the information requirements for effective supply chain management.
+19.  Understand where the sources of uncertainty arise in supply chain planning and what strategies can be used to accommodate to these uncertainties.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Freshman: 15 - 29 hours
+
+      Junior: 75 - 89 hours
+
+      Sophomore: 45 - 59 hours
+
+      Junior: 60 - 74 hours
+
+      Freshman: 0 - 14 hours
+
+      Sophomore: 30 - 44 hours
+
+

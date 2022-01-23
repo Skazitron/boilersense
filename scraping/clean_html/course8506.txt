@@ -1,0 +1,47 @@
+CGT 36500 - Game Development Practicum
+
+Credit Hours: 3.00.  This course provides an opportunity for teams of game developers to focus on a project without distraction by competing course deliverables. Students propose a game project and spend the entire semester working only on that project. Course instructors will function as facilitators, producers, and supervisors, helping each student team scaffold their work such that all course goals are met.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Experiential, Laboratory, Lecture, Studio 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Repeatable for Additional Credit: Yes - May be repeated an unlimited number of times for a maximum of 18 credits
+
+
+Learning Outcomes: 
+1.  Decompose a large term game development project into an actionable sequence of smaller development tasks.
+2.  Face emergent open-ended development challenges and either solve them or adapt to them as project goals require.
+3.  Set short-term game production goals and consistently meet them.
+4.  Self-evaluate completed work and iterate as necessary to ensure it meets the project's quality goals.
+5.  Accept and incorporate criticism regarding one's work and use it to improve one's craft.
+6.  Deliver criticism constructively that is in service to meeting project quality goals.
+7.  Maintain group cohesion and morale across a physically separated accordance with industry best productions practices.
+8.  Internalize and structure individual work habits in accordance with industry best production practices.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  CGT 20500 Minimum Grade of C-
+
+

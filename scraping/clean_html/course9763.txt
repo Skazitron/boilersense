@@ -1,0 +1,30 @@
+MA 64300 - Methods Of Partial Differential Equations II
+
+Credit Hours: 3.00.  Continuation of MA 642. Topics to be covered are Lp theory for solutions of elliptic equations, including Moser's estimates, Aleksandrov maximum principle, and the Calderon-Zygmund theory. Introduction to evolution problems for parabolic and hyperbolic equations, including Galerkin approximation and semigroup methods. Applications to nonlinear problems. Prerequisite: MA 64200. Typically offered Spring.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Science 
+
+Department: Mathematics 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

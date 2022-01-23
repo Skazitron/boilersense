@@ -1,0 +1,64 @@
+CGT 17208 - User Experience Design Studio I: Fundamentals
+
+Credit Hours: 3.00.  Introduction to the fundamental components of human-centered design, focusing on interactive computer systems. Students learn the basic tenets and methods of user-centered design, including usability and visual design principles, user research, and low-fidelity prototyping. The course is platform-independent and encourages students to experiment with new and emerging technologies.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Studio 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Conduct basic analysis of situations, clients, and problems using data gathering and analysis techniques.
+2.  Articulate problem statements.
+3.  Create concepts that address the issues in the problem statement.
+4.  Demonstrate basic application of principles of visual and interaction design to create low-fidelity prototypes.
+5.  Apply the fundamental components of user-centered design.
+6.  Articulate the core values of user-centered design.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Graphics Tech-BS
+
+
+Prerequisites: 
+
+ 
+
+

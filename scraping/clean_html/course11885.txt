@@ -1,0 +1,84 @@
+CE 41400 - Building Mechanical And Electrical System Design
+
+Credit Hours: 3.00.  This course covers the design of building mechanical and electrical systems. In the first part of the course students learn principles of designing and integrating heating, ventilation, and air conditioning systems into building air delivery systems, mechanical cooling and heating technologies, duct design and layout, blower and pump selection, and hydronic systems. They also learn to design heating, ventilation, and air conditioning systems within the constraint of achieving satisfactory occupant thermal comfort in buildings. The second part of the course covers design concepts related to building electrical systems; including, single and three-phase power systems, motors, transformers, switching, and relays. The course includes a design project related to mechanical and electrical systems for a commercial building.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Civil Engineering 
+
+Department: Lyles School of Civil Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Utilize building thermal load information together with a knowledge of industry standards and numerical methods to design and integrate efficient heating, ventilation, and air conditioning systems into commercial and residential buildings. 
+2.  Understand the benefits and drawbacks of conventional and innovative mechanical systems, and identify appropriate opportunities for the selection and integration of both. 
+3.  Evaluate the performance and estimate energy consumption of common mechanical systems and components. 
+4.  Understand the operating characteristics and appropriately size the components that are integrated into building electrical systems. 
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Aero and Astro Engr
+
+      School of Biomedical Engr
+
+      School of Civil Engineering
+
+      School of Chemical Engineering
+
+      Construction Engineering Mgmt
+
+      First Year Engineering
+
+      School of Elec & Computer Engr
+
+      Div of Environ & Ecol Engr
+
+      School of Interdisciplnry Engr
+
+      School of Industrial Engr
+
+      School of Mechanical Engr
+
+      School of Materials Engr
+
+      School of Nuclear Engineering
+
+      School of Agr and Bio Engr
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites: 
+
+ Undergraduate level  CE 31100 Minimum Grade of D-
+
+

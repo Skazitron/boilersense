@@ -1,0 +1,38 @@
+CNIT 48800 - Data Warehousing
+
+Credit Hours: 3.00.  The design and implementation of data warehouses (including data marts and operational data stores) are studied using current database technologies. Topics include data modeling for warehouses, data warehousing infrastructure and tool selection, data exploration, data synthesis and reduction, organizational metadata, data warehouse administration, and other contemporary issues.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Practice Study Observation 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ (Undergraduate level  CNIT 37200 Minimum Grade of C- or Undergraduate level  CPT 37200 Minimum Grade of C-) or (Undergraduate level  CNIT 39200 Minimum Grade of C- or Undergraduate level  CPT 39200 Minimum Grade of C-)
+
+

@@ -1,0 +1,66 @@
+AGRY 48500 - Precision Crop Management
+
+Credit Hours: 3.00.  An experiential lecture, discussion and field laboratory course for graduating seniors majoring in Agronomy.  Analysis of multi-layer digital georeferenced crop data is used to inform the development and evaluation of zone-specific agronomic input prescriptions. Variables include factors affecting soil productivity, soil fertility and N management (including emerging sensor and crop modeling technologies). Prescriptions for variable crop genetics and seeding rates are also discussed. Sound agronomic use of emerging technologies such as real time soil moisture, organic matter, temperature and moisture sensing to affect variable seeding depth, rate and precision are included.  May be used in combination with AGRY 49800 to meet the Agronomy undergraduate capstone requirement; will also meet the GIS/GPS requirement in Agronomy plans of study.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Agronomy 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.   Understand the capabilities and use of integrated crop management digital data software packages (e.g. ENCIRCA from Dupont Pioneer or FieldView from Climate Corporation) to organize, analyze and interpret multiple layers and sources of geo-referenced data to correctly prescribe agronomic crop inputs and input levels.
+2.  Identify primary limitations within field zones and uniquely manage corn and soybean crops by zone-specific prescriptions.
+3.  Utilize data-based soil sampling strategies to manage soil fertility (primarily P, K, pH) on a site-specific basis.
+4.  Make cost-effective, environmentally-sound N fertility management recommendations for corn utilizing soil, genetic, agronomic and economic data, software crop models, temperature and precipitation data and sensors as tools for N management.
+5.  Write site-specific prescriptions for genetic (i.e. corn hybrid and soybean cultivar) placement and seeding rates.
+6.  Utilize geo-referenced field scouting data and crop models to prescribe effective pest management strategies.
+7. Acquire, analyze and utilize, geo-referenced crop data from multiple sources including spectral reflectance, grain harvest yield maps (calibrated and cleaned), real-time sensor readings of soil organic matter, moisture and temperature at planting (e.g. SmartFirmer), soil conductivity, SSURGO and other geo-referenced soils map resources.
+8.  Explain the capabilities and utility of auto-steer, section control, and variable rate control crop production technologies.   
+9.  Use yield maps plus as-applied site-specific crop input (e.g. N, P, K, ag lime, herbicide, hybrid, variety, seeding rate, fungicide and yield map layers as analytical tools to assess possible yield and profit-limiting factors
+10.  Evaluate potential crop response to varying input level main effects and input interactions with other yield-influencing factors (e.g. soil type X corn hybrid or soil type X corn hybrid X N rate interactions).
+11.  Describe and explain the impact of productivity influencing soils factors (e.g. soil drainage system design and installation, cover crops and crop residue management).
+12.  Describe the use of precision technologies in the management of irrigation (e.g. capacitance probe soil moisture sensing and crop modeling software) strategies.
+ 13.  Prepare and deliver a professional extension or industry education agronomic presentation covering an aspect of Precision Crop Management.
+
+​
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Agronomy-BS
+
+Must be enrolled in one of the following Classifications:      
+
+      Senior 90 - 104 hours
+
+      Senior 105+ hours
+
+      Junior: 75 - 89 hours
+
+
+Prerequisites: 
+
+ Undergraduate level  AGRY 25500 Minimum Grade of D- and Undergraduate level  AGRY 37500 Minimum Grade of D-
+
+

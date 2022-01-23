@@ -1,0 +1,52 @@
+CS 24200 - Introduction To Data Science
+
+Credit Hours: 3.00.  (STAT 24200) This course provides a broad introduction to the field of data science. The course focuses on using computational methods and statistical techniques to analyze massive amounts of data and to extract knowledge. It provides an overview of foundational computational and statistical tools for data acquisition and cleaning, data management and big data systems. The course surveys the complete data science process from data to knowledge and gives students hands-on experience with tools and methods. Basic knowledge of Python required. Computer Science majors cannot count this course as a degree requirement but can take it for credit as a free elective if taken before CS 37300, 34800, 47100, 47300, 44800.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Computer Science 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Use Python, R, and selected tools to scrape, clean, process, and visualize data.
+2.  Apply data management techniques to prepare, parse, manipulate, and store data.
+3.  Use statistical methods to summarize data and identify relationships.
+4.  Explain how to formulate new hypotheses and draw accurate conclusions from data.
+5.  Apply statistics and computational analysis to make predictions based on data.
+6.  Apply basic computer science concepts such as modularity, abstraction, and encapsulation to data analysis problems.
+7.  Effectively communicate the outcome of data analysis using descriptive statistics and visualizations.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      Data Science
+
+      Data Science
+
+
+Prerequisites: 
+
+ Undergraduate level  CS 18000 Minimum Grade of C and Undergraduate level  CS 18200 Minimum Grade of C and Undergraduate level  CS 38003 Minimum Grade of C and Undergraduate level  STAT 35500 Minimum Grade of C [may be taken concurrently]
+
+

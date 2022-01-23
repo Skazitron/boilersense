@@ -1,0 +1,48 @@
+CGT 51600 - Collaborative Virtual And Augmented Environments
+
+Credit Hours: 3.00.  A study of the field of collaborative virtual and augmented environments in shared, multi-user, same-site and multi-site immersive environments.  Students will gain knowledge in the following research areas: multi-user interaction, collaborative virtual and augmented environments, and latest software and hardware tools. In this collaborative environment, students not only interact within the same virtual environment but collaborate between physically different environments through distributed environments. Knowledge of 3D computer graphics fundamentals, openGL, and C/C++, or consent of instructor.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand the principles and theory of collaborative shared virtual and augmented environments.
+2.  Apply the principals of graphics programming in designing virtual and collaborative space.
+3.  Describe and explain the use of, and advantages and disadvantages of, current VR and AR collaborative technologies.
+4.  Describe human interaction issues in 3D collaborative virtual and augmented environments.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

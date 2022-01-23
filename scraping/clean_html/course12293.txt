@@ -1,0 +1,46 @@
+AGEC 35200 - Quantitative Techniques For Firm Decision Making
+
+Credit Hours: 3.00.  Introduction to mathematical programming and computing as an aid to agricultural decision making by firms, linear programming, game theory and strategy, simulation, the waiting-line problem, the equipment replacement decision, and multiproduct scheduling methods.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Individual Study, Laboratory, Lecture, Recitation 
+
+
+Offered By: College of Agriculture 
+
+Department: Agricultural Economics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      PU Fort Wayne
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Manipulate and use spreadsheets.
+2.  Formulate linear programming problems.
+3.  Solve linear programming problems in Excel.
+4.  Interpret results obtained from linear programming models.
+5.  Present and explain linear programming results.
+6.  Understand graphically the concept of optimality in a linear program.
+7.  Understand the properties of optimal linear programming solutions.
+8.  Recognize and demonstrate instances where linear programming and simulation modeling might be valuable.
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  STAT 22500 Minimum Grade of D- or Undergraduate level  STAT 31100 Minimum Grade of D- or Undergraduate level  STAT 51600 Minimum Grade of D- or Undergraduate level  STAT 41600 Minimum Grade of D-) or (Undergraduate level  STAT 30100 Minimum Grade of D- or Undergraduate level  STAT 51100 Minimum Grade of D- or Undergraduate level  ECON E2700 Minimum Grade of D- or Undergraduate level  ECON 26000 Minimum Grade of D- or Undergraduate level  STAT 35000 Minimum Grade of D- or Undergraduate level  STAT 50300 Minimum Grade of D- or Undergraduate level  STAT 50100 Minimum Grade of D-) or (Undergraduate level  STAT 50100 Minimum Grade of D- or Undergraduate level  STAT 35000 Minimum Grade of D- or Undergraduate level  STAT 51100 Minimum Grade of D- or Undergraduate level  STAT 50300 Minimum Grade of D-)
+
+

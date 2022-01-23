@@ -1,0 +1,30 @@
+CE 61400 - Statistical And Econometric Methods I
+
+Credit Hours: 3.00.  Basic and advanced statistical and econometric methods as applied to engineering-related problems. Introduction to ordinary least squares regression, count-data models including Poisson and Negative binomial regressions and their extensions, simultaneous equations models, multinomial logit models, ordered probability models, joint discrete/continuous models, and hazard-based duration models. Prerequisites:  Stat 51100.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Civil Engineering 
+
+Department: Lyles School of Civil Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

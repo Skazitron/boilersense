@@ -1,0 +1,40 @@
+FNR 64700 - Quantitative Methods For Ecologists
+
+Credit Hours: 3.00.  Examines the assumptions and utility of statistical and other data analytic techniques that are encountered commonly or increasingly being used in ecological research. Emphasis is placed on the potential applications of these quantitative methods in an ecological context. Topics include traditional multivariate methods (cluster analysis, principal components, factor analysis, discriminant analysis, multidimensional scaling, correspondence analysis), generalized linear models (logistic, Poisson, and ordinal regression and derivatives), randomization methods, information-theoretic model selection and inference, and hierarchical models. An introduction to Bayesian analysis is provided for generalized linear (and mixed) models, with applications to (meta) population and (meta) community ecology. Prerequisite: BIOL 58210 or ENTM 64200 or STAT 51200, or consent of instructor. Knowledge of linear algebra and experience with R is desirable but not essential. Typically offered Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Forestry and Natural Resources 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Determine the appropriate statistical tool to use when confronted with most questions and data types.
+2.  Be familiar with the assumptions underlying these methods.
+3.  Have some familiarity with software required to apply the methods.
+4.  Offer a basic interpretation of results provided.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

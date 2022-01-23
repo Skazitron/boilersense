@@ -1,0 +1,31 @@
+IE 33500 - Operations Research - Optimization
+
+Credit Hours: 3.00.  Introduction to deterministic optimization modeling and algorithms in operations research. Emphasis on formulation and solution of linear programs, networks flows, and integer programs. Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Industrial Engr 
+
+Department: Industrial Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  MA 26500 Minimum Grade of D- or Undergraduate level  MA 35100 Minimum Grade of D- or Undergraduate level  MA 26200 Minimum Grade of D- or Undergraduate level  MATH 26200 Minimum Grade of D-)
+
+

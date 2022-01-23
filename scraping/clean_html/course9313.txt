@@ -1,0 +1,54 @@
+ECET 35901 - Computer Based Data Acquisition Applications
+
+Credit Hours: 3.00.  This course focuses on the study and application of computer based data acquisition (DAQ) systems. Concepts of high resolution and high throughput data acquisition are introduced and applied. Students learn and use programming and scripting languages to discover the interfacing, advantages and limitations of computer based (DAQ) systems.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+
+Learning Outcomes: 
+1.  Define, compare and contrast common data acquisition terms.
+2.  Analyze the advantages and limitations of DAQ systems.
+3.  Demonstrate proficiency with software tools and computer based data acquisition.
+4.  Develop user-friendly applications for the purpose of DAQ system control.
+5.  Collect, analyze, and reduce data from a system for the purpose of written and oral reporting.
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  ECET 17700 Minimum Grade of D- and Undergraduate level  ECET 17900 Minimum Grade of D-
+
+

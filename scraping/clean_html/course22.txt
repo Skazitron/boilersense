@@ -1,0 +1,43 @@
+ASM 42000 - Electric Power And Controls
+
+Credit Hours: 3.00.  Fundamentals and application of electric power for agricultural facilities; safe wiring principles; operation and performance characteristics of electric motors; applications of control systems that include monitors, sensors, relays, and programmable logic controllers.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Ag & Biological Engineering 
+
+
+Course Attributes: Credit By Exam, Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Know Ohm's Law and electrical energy and power relationships. 
+2.  Operate a multimeter to evaluate and troubleshoot circuit. 
+3.  Select motors for given applications. 
+4.  Plan efficient electrical distribution systems. 
+5.  Evaluate alternative energy sources and electrical devices. 
+6.  Understand basics of circuits programmed using PLC ladder logic. 
+7.  Determine lamp fixtures to meet various lighting needs.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  PHYS 21400 Minimum Grade of D- or Undergraduate level  PHYS 22000 Minimum Grade of D- or Undergraduate level  PHYS 21800 Minimum Grade of D- or Undergraduate level  PHYS 15200 Minimum Grade of D- or Undergraduate level  PHYS 17200 Minimum Grade of D- or Undergraduate level  PHYS 20100 Minimum Grade of D- or Undergraduate level  PHYS P2010 Minimum Grade of D- or (Undergraduate level  PHYS 16200 Minimum Grade of D- and Undergraduate level  PHYS 16300 Minimum Grade of D-)
+
+

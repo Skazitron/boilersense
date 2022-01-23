@@ -1,0 +1,39 @@
+PSY 60901 - Multilevel Modeling
+
+Credit Hours: 3.00.  This course familiarizes students with (1) generalized linear mixed (multilevel) models that are often used in the social sciences, and (2) best practices in the models' applications and interpretations. These models are extensions of classic linear regression models, and they go by many names: multilevel modes, hierarchical models, mixed models, etc. Throughout the course, models and methods will be introduced conceptually and will be illustrated using real and simulated data. Prerequisites: graduate coursework in regression and ANOVA, or by permission. Permission of department required.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: College of Health & Human Sci 
+
+Department: Psychological Sciences 
+
+
+
+May be offered at any of the following campuses:      
+
+      IUPUI
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Knowledge of linear and generalized multilevel models.
+2.  Able to competently apply and interpret such models in the analysis of their own research data.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

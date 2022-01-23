@@ -1,0 +1,41 @@
+ECE 60872 - Fault Tolerant Computer System Design
+
+Credit Hours: 3.00.  The course provides an introduction to the hardware and software methodologies for specifying, modeling and designing fault-tolerant systems supported by case studies of real systems. The material presents a broad spectrum of hardware and software error detection and recovery techniques that can be used to build reliable networked systems. The lectures discuss how the hardware and software techniques interplay, what techniques can be provided in COTS hardware, what can be embedded into operating system and network communication layers, and what can be provided via a distributed software layer and in the application itself. Prerequisite by Topic: Any one high level programming language experience; A basic background in probability.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Formulate design principles for dependable systems.
+2.  Analyze mathematically a system for its dependability properties.
+3.  Understand and apply hardware dependability techniques.
+4.  Understand and apply software dependability techniques.
+5.  Understand and apply networking dependability techniques.
+6.  Design, develop, and present an innovative project on dependable systems.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

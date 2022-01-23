@@ -1,0 +1,41 @@
+EEE 38000 - Environmental Chemodynamics
+
+Credit Hours: 3.00.  Introduction to chemical thermodynamics and general equilibrium processes in environmental and ecological engineering systems. Introduction to the first and second laws of thermodynamics; properties of pure substances; ideal and real gases; thermodynamic cycles and processes; heat transfer and combustion; and chemical equilibrium in aquatic solutions, including equilibria between phases and reaction equilibria. Emphasis is on understanding and conceptualizing important processes, and competency in thermodynamic calculations. Typically offered Spring Summer.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: Div of Environ & Ecol Engr 
+
+Department: Environ & Ecological Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Apply the First and Second Laws of thermodynamics to closed and open systems.
+2.  Understand, identify, and quantify the environmental impacts of closed and open systems, based on mass and energy transfer.
+3.  Analyze full-scale systems, and compare actual and theoretical operation.
+4.  Understand the structure and reactivity of environmentally relevant organic compounds.
+5.  Calculate concentrations of different components in equilibrium and non-equilibrium environmental systems.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MA 26100 Minimum Grade of D-
+
+

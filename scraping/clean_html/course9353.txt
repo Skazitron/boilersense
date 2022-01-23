@@ -1,0 +1,150 @@
+ECET 43100 - International Capstone Project Planning And Design
+
+Credit Hours: 3.00.  The course deals with the planning and execution of an industry sponsored senior capstone project carried out jointly with students from a foreign academic institution. Project management and systems engineering methods are studied to support the development of solutions to open-ended problems proposed by industry. Formal techniques such as functional decomposition, top-down and bottom-up, requirement matrix, analysis of alternatives are studied and applied to the projects. Project planning techniques including work breakdown structures, Gantt charts and resource planning are studied and applied to meet cost, performance and project goals. The various types and levels of new system tests are studied and applied. Electronic and internet communication tools shall be used to maintain team and project progress. Foreign travel shall be required for at least one face to face team meeting during the execution of the project. Permission of Instructor required.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Travel Time 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Apply the engineering design lifecycle process.
+2.  Evaluate customer requirements and constraints as part of problem definition.
+3.  Evaluate multiple design solutions and quantitatively select optimal solution.
+4.  Define a workable design plan to solve the industry problem.
+5.  Plan and construct a Gantt chart to be followed during the project.
+6.  Produce appropriate project documentation.
+7.  Interact appropriately regarding international cultural diversity particularly in project planning and execution.
+
+
+
+
+Prerequisites:
+
+ECET 43100 Requisites
+
+
+General Requirements:
+
+ ( 
+Course or Test: 
+ECET
+27000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+ECET
+38001
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+TECH
+32000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )and( 
+Course or Test: 
+ECET
+30000
+ to 
+37999
+
+Required Credits: 
+        6.000
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ECET
+38010
+ to 
+49999
+
+Required Credits: 
+        6.000
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ECET
+30000
+ to 
+37999
+
+Required Credits: 
+        3.000
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+ECET
+38010
+ to 
+49999
+
+Required Credits: 
+        3.000
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

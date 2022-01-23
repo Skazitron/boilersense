@@ -1,0 +1,43 @@
+AT 30900 - Unmanned Autonomous Aerial Systems
+
+Credit Hours: 3.00.  This course includes the construction and flight test demonstration of fully autonomous aircraft. System performance will be monitored in real time. Post flight analysis, with system performance evaluation and optimization will be covered.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Schl of Aviation & Transp Tech 
+
+
+Course Attributes: Credit By Exam, Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand power, autopilot, telemetry, and manual flight systems.
+2.  Understand telemetry systems.
+3.  Evaluate systems for possible EMI interference, provide corrective actions.
+4.  Program flight with multiple waypoints, loiter, return to launch, and landing.
+5.  Explain EMI reduction techniques and vibration control measures.
+6.  Identify information available from and determine practical uses of telemetry.
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  AT 21900 Minimum Grade of D- [may be taken concurrently] and Undergraduate level  AT 28600 Minimum Grade of D-
+
+

@@ -1,0 +1,32 @@
+ECE 66200 - Pattern Recognition And Decision-Making Processes
+
+Credit Hours: 3.00.  (C S 662)  Introduction to the basic concepts and various approaches of pattern recognition and decision-making processes. The topics include various classifier designs, evaluation of classifiability, learning machines, feature extraction and modeling. Prerequisite: ECE 30200.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      IUPUI
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

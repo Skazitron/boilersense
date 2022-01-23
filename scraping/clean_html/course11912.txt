@@ -1,0 +1,31 @@
+CE 46300 - Highway Transportation Characteristics
+
+Credit Hours: 3.00.  Analysis of basic characteristics of highway transportation systems and the elements influencing these characteristics: drivers, vehicles, pedestrians, flow, density, speed, travel time, delay, stream flow, intersection performance, capacity, accidents, traffic demand, and parking. Techniques used include experimental observation, deterministic and probabilistic queueing theory, probability and statistics, and graphical analysis.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: School of Civil Engineering 
+
+Department: Lyles School of Civil Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Prerequisites: 
+
+ Undergraduate level  STAT 51100 Minimum Grade of C- or Undergraduate level  STAT 35000 Minimum Grade of C-
+
+

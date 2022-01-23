@@ -1,0 +1,264 @@
+ECE 40200 - Electrical Engineering Design Projects
+
+Credit Hours: 3.00.  Lecture sessions provide the student with background information on the design and management of projects. Formal lectures cover, for example, design for manufacturability, design for quality, test and evaluation, reliability and ethics, patents and copyrights, plus case studies. During the laboratory sessions, the students work in teams on a challenging open-ended electrical engineering project that draws on previous coursework. Projects routinely involve standard design facets (such as consideration of alternative solutions, feasibility considerations, and detailed system descriptions) and include a number of realistic constraints (such as cost, safety, reliability, and aesthetics). Completion of BS EE or BS CmpE core curriculum.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Elec & Computer Engr
+
+
+Prerequisites:
+
+ECE 40200-Requisites
+
+
+General Requirements:
+
+ ( 
+Course or Test: 
+ECE
+20100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+ECE
+20200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+ECE
+20700
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+ECE
+20800
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+ECE
+25500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+ECE
+27000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+ECE
+30100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+ECE
+30200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+ECE
+31100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ECE
+20100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+ECE
+20200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+ECE
+20700
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+ECE
+20800
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+ECE
+25500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+ECE
+26400
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+ECE
+27000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+ECE
+30100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+ECE
+30200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+ECE
+33700
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+ECE
+36200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+ECE
+36400
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+ECE
+36800
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

@@ -1,0 +1,46 @@
+MFET 23000 - Industrial Internet Of Things, Networks, And Systems I
+
+Credit Hours: 3.00.  This course provides an introduction to Industrial Internet of Things (IIoT) devices, networks, and standards in the context of converged information technology (IT) and operations technology (OT) industrial automation systems. Course topics include an examination of IT and OT networks, hardware, architecture, protocols, standards, and security practices in the context of industrial applications.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Explain the concept of Industrial Internet of Things (IIoT) and the enabling technologies.
+2.  Describe IT and OT development and detail differences in priorities and capabilities.
+3.  Design, implement, and analyze an integrated industrial network.
+4.  Configure host-level and network-level technical security controls in IT and OT systems.
+5.  Apply industry standards and reference architectures to ensure best practices in the selection, deployment, and operation of IIoT devices.
+
+
+
+Corequisites: 
+
+ECET 22400
+
+
+Prerequisites: 
+
+ (Undergraduate level  CS 17700 Minimum Grade of D- or Undergraduate level  CNIT 15501 Minimum Grade of D-) and Undergraduate level  ECET 22400 Minimum Grade of D- [may be taken concurrently]
+
+

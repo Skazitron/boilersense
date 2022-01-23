@@ -1,0 +1,55 @@
+CHE 56200 - Battery Systems
+
+Credit Hours: 3.00.  This course is designed to introduce fundamentals of electrochemistry and electrochemical engineering of primary and rechargeable lithium ion batteries (LIBs) to undergraduate and graduate students. This course will be reviewing working principles of LIBs. Strong emphasis will be given on the Li-ion battery technology, primary batteries, nanotechnology implementation and the materials design. Beyond conventional Li-ion systems and Pb-acid batteries will be discussed. Students will be understanding energy density calculations, fabrication and testing mechanism of batteries utilizing engineered electrodes, electrolytes and separators. Broader perspectives on sustainable, cost effective, longer lasting battery manufacturing will be provided.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: School of Chemical Engineering 
+
+Department: Chemical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Learn Introduction to Energy Storage Systems: Overview, history, market, theory, thermodynamics, kinetics, definitions, and safety.  
+2.  Learn challenges of Li-ion Battery Technology, Selection criteria for commercial batteries.
+3.  Learn Experimental techniques, Promising Cathode Materials, Anode Materials, Electrolytes, current distribution and related issues.
+4.  Learn lectrode slurry preparation, lamination, drying, pressing, manufacturing of batteries and testing.
+5.  Learn Battery types and Chemistry: Cell charging, Cell discharge testing, Electrochemical impedance spectroscopy (EIS).
+6.  Learn Kinetics and thermodynamics of electrochemical reactions.
+7.  Learn Beyond Li-ion Battery Technologies, next generation Li-S batteries, Sodium ion batteries, K-ion batteries will be reviewed.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Freshman: 15 - 29 hours
+
+      Junior: 75 - 89 hours
+
+      Sophomore: 45 - 59 hours
+
+      Junior: 60 - 74 hours
+
+      Freshman: 0 - 14 hours
+
+      Sophomore: 30 - 44 hours
+
+

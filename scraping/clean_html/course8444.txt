@@ -1,0 +1,66 @@
+CGT 21500 - Computer Graphics Programming I
+
+Credit Hours: 3.00.  This course focuses on programming fundamentals, logic, and problem solving necessary for advancement into upper level CGT courses. A cross-section of languages and technologies will be introduced and demonstrated.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Credit By Exam, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1. Understand basic programming concepts such as variables, data types, selection and repetition control structures, arrays, files, and methods and functions.
+2. Create simple object-oriented applications.
+3. Demonstrate an understanding of the similarities between several different programming or scripting languages.
+4. Demonstrate the ability to apply knowledge to different computer graphics software applications.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Graphics Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CGT 14100 Minimum Grade of C- and (Undergraduate level  MA 22100 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MA 16100 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MA 16500 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MA 16010 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MA 16020 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MA 16200 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MA 16600 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MA 22300 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MATH 16400 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MATH 16600 Minimum Grade of D- [may be taken concurrently])
+
+

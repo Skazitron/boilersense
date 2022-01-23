@@ -1,0 +1,56 @@
+ECET 44400 - Wireless Systems: Design And Measurement
+
+Credit Hours: 3.00.  In this course wireless RF signals and microwave circuit designs are studied. Topics include signal analysis, RF signal measurement, microstrip design and analysis, Smith chart applications, RF circuit design, s-parameters, power dividers and couplers, filter design, and advanced RF PCB layout.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Apply knowledge of RF component non-idealities.
+2.  Design, simulate and test RF amplifiers, filters, and power dividers.
+3.  Apply RF test methods and procedures to RF components, circuits and systems.
+4.  Demonstrate microstrip and stripline analysis and design.
+5.  Apply RF simulation software for the analysis and design of RF circuits.
+6.  Demonstrate printed circuit board layout techniques for high frequency applications.
+7.  Demonstrate the use of RF laboratory equipment including the vector network analyzer, spectrum analyzer and RF generator.
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  ECET 27400 Minimum Grade of D- [may be taken concurrently] and Undergraduate level  ECET 36400 Minimum Grade of D-
+
+

@@ -1,0 +1,60 @@
+CGT 46200 - Applications Of Construction Documentation II
+
+Credit Hours: 3.00.  Creating, archiving, integrating, qualifying and utilizing computer-generated, three-dimensional architectural models in a light commercial construction enterprise. Topics include components of MEP, fire protection, blueprint reading and 4D BIM scheduling. Credit cannot be obtained for both CGT 36200 and CGT 46200.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Dept Credit, Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      IUPUI
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Learn, decipher, and apply parametric and geometric technologies to AEC problems.
+2.  Explain where new and emerging software technologies can be applied in the industry.
+3.  Program database-driven parametric objects for use in various projects.
+4.  Explain how parametric technologies can benefit the production homebuilder.
+5.  Develop leadership and life-long learning skills applicable to the construction industry.
+6.  Incorporate renderings and 3D models into drawing sets for effective communication.
+7.  Prepare effective marketing materials for residential and commercial industry.
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  CGT 36000 Minimum Grade of C-
+
+

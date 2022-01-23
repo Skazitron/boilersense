@@ -1,0 +1,45 @@
+CNIT 36100 - Software Redesign Using Cobol
+
+Credit Hours: 3.00.  An introduction to COBOL programming with an emphasis on redesign of legacy COBOL applications to extend their useful lifetime in contemporary organizations. Topics include user interface redesign, structured design, object-oriented programming, and transition from conventional files to databases. Students learn to analyze existing programs to isolate legacy code problems, develop and test solutions, and integrate solutions into software libraries.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Practice Study Observation 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      South Bend
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  CNIT 25500 Minimum Grade of C- or Undergraduate level  CPT 25500 Minimum Grade of C-) or (Undergraduate level  CNIT 26700 Minimum Grade of C- or Undergraduate level  CPT 26700 Minimum Grade of C-)
+
+

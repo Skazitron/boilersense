@@ -1,0 +1,72 @@
+STAT 53800 - Probability Theory I
+
+Credit Hours: 3.00.  (MA 53800) Mathematically rigorous, measure-theoretic introduction to probability spaces, random variables, expectation, independence, weak and strong laws of large numbers, conditional expectations, and martingales. Typically offered Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Science 
+
+Department: Statistics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Learn rigorous mathematical approach to probability theory.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-MA 54400 Course
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+54400
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+)
+
+
+

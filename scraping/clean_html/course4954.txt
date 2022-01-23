@@ -1,0 +1,183 @@
+STAT 50600 - Statistical Programming And Data Management
+
+Credit Hours: 3.00.  Use of the SAS software system for managing statistical data. The SAS environment. Data description. Data access and management. SAS macro language and application development.  Prerequisite:  STAT 51200 and coursework in computer programming.  Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Statistics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Proficient in SAS Programming 1: Essentials.
+2.  Proficient in SAS Programming 2: Data Manipulation Techniques.
+3.  Proficient in Macro Language 1: Essentials.
+4.  Optional: Learn SQL 1: Essentials.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Freshman: 15 - 29 hours
+
+      Junior: 75 - 89 hours
+
+      Sophomore: 45 - 59 hours
+
+      Junior: 60 - 74 hours
+
+      Freshman: 0 - 14 hours
+
+      Sophomore: 30 - 44 hours
+
+
+Prerequisites:
+
+GR-STAT 50600 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Rule: 1A.: CS 154 or 158 or 180  for a total of 1 conditions
+)
+
+CNIT
+17500
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+
+CS
+15400
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+
+CS
+15800
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+
+CS
+15900
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+
+CS
+17700
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+
+CS
+18000
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+End of rule 1A.
+
+and 
+Rule: 1B.: STAT 350 or 503 or 511  for a total of 1 conditions
+
+CS
+35500
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+
+STAT
+30300
+
+
+May not be taken concurrently.
+
+STAT
+35000
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+
+STAT
+35500
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+
+STAT
+50300
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+
+STAT
+51100
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+End of rule 1B.
+
+
+

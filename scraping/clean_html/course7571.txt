@@ -1,0 +1,46 @@
+BIOL 47800 - Introduction to Bioinformatics
+
+Credit Hours: 3.00.  (C S 47800)  Bioinformatics is broadly defined as the study of molecular biological information, targeting particularly the enormous volume of DNA sequence and functional complexity embedded in entire genomes. Topics will include understanding the evolutionary organization of genes (genomics), the structure and function of gene products (proteomics), and the dynamics of gene expression in biological processes (transcriptomics). Inherently, bioinformatics is interdisciplinary, melding various applications of computational science with biology. This jointly taught course introduces analytical methods from biology, statistics and computer science that are necessary for bioinformatics investigations. The course is intended for junior and senior undergraduates from various science backgrounds. Our objective is to develop the skills of both tool users and tool designers in this important new field of research.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Biological Sciences 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Demonstrate proficiency with professional skills needed by practicing biologists, including experimental design and execution, biological techniques, data collection and documentation, communication of results, and responsible conduct of science.
+2.  Demonstrate the ability to discuss ethical issues in the application of biological sciences, and the impact of science on society.
+3.  Demonstrate skills in critical thinking.  These skills include understanding scientific methods, solving biology-related problems, interpreting and analyzing primary literature in biology, and interpreting data in a meaningful way.
+4.  Demonstrate knowledge of the path leading to specific careers in biology.
+5.  Understand the role of evolution of creating and modifying the macromolecular components of the cell, and in creating biological complexity and variability.
+6.  Use and understand the scientific method, including how to generate hypotheses and predictions, develop an experimental design, collect data, statistically analyze data, and interpret results.
+7.  Demonstrate an understanding of laboratory skills used in genetics.
+8.  Able to demonstrate knowledge of how evolutionary forces impact and shape microbial function and activity.
+9.  Able to demonstrate an understanding of the scientific method including hypothesis generation and testing, data collection, analysis, and interpretation.
+
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  BIOL 23000 Minimum Grade of D- or Undergraduate level  BIOL 23100 Minimum Grade of D-) and Undergraduate level  BIOL 24100 Minimum Grade of D- and (Undergraduate level  CS 18000 Minimum Grade of D- or Undergraduate level  CS 17700 Minimum Grade of D- or Undergraduate level  CS 15800 Minimum Grade of D- or Undergraduate level  CS 15900 Minimum Grade of D-)
+
+

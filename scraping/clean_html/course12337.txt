@@ -1,0 +1,40 @@
+AGEC 60500 - Agricultural Markets And Price Analysis
+
+Credit Hours: 3.00.  Agricultural markets are multi-faceted, having been studied using a wide range of analytical tools. This graduate-level course emphasizes charactering demand and supply of agricultural markets and understanding forces that determine commodity and food prices. It also aims to cover a set of economic studies of prices and assist students in applying theoretical frameworks and time-series econometrics to empirical analysis of agricultural prices. In addition to studying prices in perfectly competitive markets, the first half of the course highlights several classic models of consumer demand and agricultural supply, prices under imperfect competition, price spreads (marketing margins), and the economics of information. The second half of the course focuses on empirical price analysis. Popular time-series econometric tools are introduced to study price relationships over space and time, price discovery mechanisms, and functions of futures markets.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Agricultural Economics 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Work with classic demand and supply models in the context of agricultural markets.
+2.  Derive classic models of price setting and marketing margins.
+3.  Understand econometrics of time-series models.
+4.  Apply time-series models to agricultural price data.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

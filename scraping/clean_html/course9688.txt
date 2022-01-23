@@ -1,0 +1,31 @@
+MA 41600 - Probability
+
+Credit Hours: 3.00.  (STAT 41600) An introduction to mathematical probability suitable as a preparation for actuarial science, statistical theory, and mathematical modeling. General probability rules, conditional probability and Bayes theorem, discrete and continuous random variables, moments and moment generating functions, joint and conditional distributions, standard discrete and continuous distributions and their properties, law of large numbers and central limit theorem. Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Mathematics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  MA 26100 Minimum Grade of C- or Undergraduate level  MA 17200 Minimum Grade of C- or Undergraduate level  MA 26300 Minimum Grade of C-) or (Undergraduate level  MA 17400 Minimum Grade of C- or Undergraduate level  MATH 26100 Minimum Grade of C-) or Undergraduate level  MA 18200 Minimum Grade of C- or Undergraduate level  MA 27100 Minimum Grade of C- or Undergraduate level  MA 27101 Minimum Grade of C-
+
+

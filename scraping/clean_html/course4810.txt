@@ -1,0 +1,66 @@
+CNIT 35500 - Software Development For Mobile Computers
+
+Credit Hours: 3.00.  This is an advanced programming course that teaches students the skills necessary to develop applications for mobile computing devices (e.g. Smartphones and tablet computers). Combining theory and practice, this course gives students hands-on experience with the latest technologies, tools and techniques used to develop mobile software solutions for business and entertainment.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  List the popular mobile device platforms and market share.
+2.  Undertsand the difference between developing apps for mobile devices and developing apps for PCs and servers.
+3.  Understand user interface design concepts specific to mobile devices.
+4.  Demonstrate how to persist app data to a mobile device.
+5.  Develop casual games that use essential game programming concepts. 
+6.  Demonstrate how to use graphics programming techniques for drawing shapes, text, and sprites.
+7.  Develop apps that use more than one processing thread.
+8.  Develop apps that communicate with code running on a server.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 31500 Minimum Grade of C- or Undergraduate level  CNIT 32500 Minimum Grade of C- or Undergraduate level  CNIT 29500 Minimum Grade of C-
+
+

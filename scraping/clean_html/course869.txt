@@ -1,0 +1,95 @@
+IE 53500 - Linear Programming
+
+Credit Hours: 3.00.  Optimization of linear objective functions subject to linear constraints.  Development of theory and algorithmic strategies for solving linear programming problems.  Typically offered Fall Spring Summer.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Industrial Engr 
+
+Department: Industrial Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Undergraduate
+
+      Graduate
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-CS 159 and IE 335 or IE 501
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CS
+15900
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Rule: 1.: IE 33500 or 50100  for a total of 1 conditions
+)
+
+IE
+33500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+IE
+50100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+End of rule 1.
+
+
+

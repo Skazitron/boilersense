@@ -1,0 +1,62 @@
+CNIT 37000 - Introduction To Cryptography
+
+Credit Hours: 3.00.  Cryptography is an essential component to protect information in cyber systems. This course introduces the inner workings of cryptographic primitives and how to correctly use them. Specifically, the course covers cryptographic algorithms, protocols and techniques. The algorithms illustrate the art of encryption and secure hashing. The cryptographic protocols will expose the students to the world of building trust in an untrusted environment. Cryptographic techniques used in key management and algorithm choice will be explored.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Compare and contrast symmetric and asymmetric encryption primitives.
+2.  Describe and distinguish one-way cryptographic functions and message digests.
+3.  Relate and utilize Public Key Infrastructure (PKI), digital signatures and certificates.
+4.  Discuss and analyze cryptographic protocols and their properties.
+5.  Choose and apply appropriate known cryptographic techniques for a given scenario.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 24200 Minimum Grade of C- and Undergraduate level  CNIT 27000 Minimum Grade of C-
+
+

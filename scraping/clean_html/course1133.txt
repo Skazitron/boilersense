@@ -1,0 +1,67 @@
+AAE 52100 - Plasma Laboratory
+
+Credit Hours: 3.00.  The laboratory course will include lab prep lectures, practical classes and mini-projects. Lab prep lectures will briefly cover topics of the basic plasma physics and diagnostics relevant to the subsequent practical classes. In addition, details of the corresponding lab procedure, instructions and lab report assignment will be discussed. Practical classes will involve students in practical creation and operation of various plasma sources and plasma diagnostics. Specifically, students will operate DC high voltage breakdown facility, electrostatic accelerator (ion thruster), cross-field accelerator (Hall thruster), Atmospheric-Pressure Plasma Jet facility, and will conduct measurements of plasma parameters using Langmuir probes, microwave interferometer and optical spectrometer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Laboratory Preparation, Lecture 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Operate laboratory electronic equipment and conduct basic electrical measurements.
+2.  Demonstrate fundamental understanding of Paschen breakdown law, and measure breakdown parameters.
+3.  Demonstrate fundamental understanding of Child-Langmuir law and calculate space-charge limited current density.
+4.  Operate electrostatic accelerator at different acceleration voltages, and conduct measurements of total ion current carried by the plasma jet using plane Langmuir probe.
+5.  Demonstrate fundamental understanding of operation of single electrostatic Langmuir probes, conduct measurements of V-I curves, and calculate plasma parameters based on the measurements.
+6.  Operate cold atmospheric-pressure plasma jet and conduct spectroscopic measurements of the jet emission using spectrometer.
+7.  Computationally simulate the emission spectra of the second positive system of nitrogen molecule, and determine vibrational and rotational gas temperatures based on the measured and simulated spectra.
+8.  Operate Hall-effect accelerator, and measure basic operational parameters.
+9.  Operate pendulum thrust stand and conduct thrust measurements.
+10.  Demonstrate fundamental understanding of operation principle of microwave interferometry and construct the interferometer from basic microwave components.
+11.  Conduct interferometry measurements of phase shift in plasma column and determine plasma density.
+12.  Conduct search of the journal papers on a given topic, and compare the reported results with that measured in the lab.
+
+
+
+Prerequisites:
+
+GR AAE 52100 Requistes
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+AAE
+53400
+
+
+May not be taken concurrently.
+)
+
+
+

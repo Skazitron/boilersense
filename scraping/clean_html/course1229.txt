@@ -1,0 +1,51 @@
+IDE 36000 - Multidisciplinary Engineering Statistics
+
+Credit Hours: 3.00.  Statistical methodology is critical to the engineering problem-solving process. This course introduces engineering students to the role of statistics in problem solving, and to the design and presentation of simple models and experiments. An emphasis will be placed on using computer software to perform statistical analyses and to the interpretation of the software results. This is a recommended course for the MOE statistics elective. Permission of instructor is required. Typically offered Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Interdisciplnry Engr 
+
+Department: Engineering Education 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Describe the role of statistics in engineering.
+2.  Construct and interpret summary statistics and visual data displays using computer software.
+3.  Apply probability models to describe uncertainty and to make decisions.
+4.  Perform statistical analyses using computer software and to interpret the software results.
+5.  Construct simple empirical models from data, and design simple controlled experiments.
+6.  Formulate research questions, collect and analyze data, and present findings through a written report and oral presentation.
+7.  Work effectively in problem-solving teams and carry out meaningful performance assessments of individual team members.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Interdisciplnry Engr
+
+
+Prerequisites: 
+
+ Undergraduate level  MA 16200 Minimum Grade of D- or Undergraduate level  MATH 16400 Minimum Grade of D- or Undergraduate level  MATH 16600 Minimum Grade of D-
+
+

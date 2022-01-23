@@ -1,0 +1,387 @@
+BIOL 59900 - Quantitative Physiology
+
+Credit Hours: 3.00.  This course is designed to give upper-division biological sciences and biomedical engineers the ability to quantitatively understand the physical and chemical factors that are responsible for living systems. Normal relationships, both empirical and theoretical, will be covered primarily. This foundation in normal physiological systems is complemented by subsequent topics on system pathologies.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Biological Sciences 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1. Students demonstrate subject-matter competency, including the mastery of biological theories.
+2. Students demonstrate skills in critical thinking.  These skills include understanding scientific methods, solving biology-related problems, interpreting and analyzing primary literature in biology, and interpreting data in a meaningful way.
+3. Students will demonstrate an in depth knowledge of nervous system function at the systems, cellular and molecular level.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-BIOL 59900 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Rule:  1A.: BIOL 30100 and 30200  for a total of 2 conditions
+)
+
+BIOL
+30100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+BIOL
+30200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+End of rule  1A.
+
+or
+Rule:  1B.: BIOL 32800 or BME 26500 or 301  for a total of 1 conditions
+
+BIOL
+32800
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+BME
+26500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+BME
+30100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+End of rule  1B.
+
+and
+Rule:  2A.: PHYS 22000 and PHYS 22100  for a total of 2 conditions
+
+PHYS
+22000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+PHYS
+22100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+End of rule  2A.
+
+or
+Rule:  2B.: PHYS 17200 and PHYS 27200  for a total of 2 conditions
+
+PHYS
+17200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+PHYS
+27200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+End of rule  2B.
+
+or
+Rule: 2D.: PHYS 23300 & 23400  for a total of 2 conditions
+
+PHYS
+23300
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+PHYS
+23400
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+End of rule 2D.
+
+or
+Rule:  2C.: PHYS 17200 and PHYS 24100  for a total of 2 conditions
+
+PHYS
+17200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+PHYS
+24100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+End of rule  2C.
+
+and
+Rule:  3A.: MA 22300 and MA 22400  for a total of 2 conditions
+
+MA
+22300
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+MA
+22400
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+End of rule  3A.
+
+or
+Rule:  3B.: MA 23100 and MA 23200  for a total of 2 conditions
+
+MA
+23100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+MA
+23200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+End of rule  3B.
+
+or
+Rule:  3C.: MA 16100 and MA 16200  for a total of 2 conditions
+
+MA
+16100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+MA
+16200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+End of rule  3C.
+
+or
+Rule:  3D.: MA 16500 and MA 16600  for a total of 2 conditions
+
+MA
+16500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+MA
+16600
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+End of rule  3D.
+
+or
+Rule: 3F.: MA 16010 & 16020  for a total of 2 conditions
+
+MA
+16010
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+MA
+16020
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+End of rule 3F.
+
+or
+Rule:  3E.: MA 17300  for a total of 1 conditions
+
+MA
+17300
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+End of rule  3E.
+
+and
+Rule:  4A.: CHM115,10901,123,125,12901,135  for a total of 1 conditions
+
+CHM
+10901
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+CHM
+11500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+CHM
+12300
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+CHM
+12500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+CHM
+12901
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+CHM
+13500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+End of rule  4A.
+
+
+

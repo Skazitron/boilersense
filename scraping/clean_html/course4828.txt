@@ -1,0 +1,61 @@
+CNIT 41500 - Advanced Coding Security
+
+Credit Hours: 3.00.  This course allows students to gain proficiency in secure coding principles. Security risks from common coding errors are examined. Techniques for integrating secure coding practices into the development process is detailed with an emphasis on ensuring that applications are designed and implemented with proper security requirements.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Analyze and apply secure coding standards and practices.
+2.  Understand common programming errors that lead to software vulnerabilities.
+3.  Demonstrate independent critical thinking and problem solving skills for effective mitigation strategies of security flaws.
+4.  Understand and apply systems development methodologies.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 31500 Minimum Grade of C-
+
+

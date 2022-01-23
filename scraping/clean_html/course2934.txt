@@ -1,0 +1,53 @@
+CS 44000 - Large Scale Data Analytics
+
+Credit Hours: 3.00.  This course provides an integrated view of the key concepts of modern algorithmic data analytics. It focuses on teaching principles and methods needed to analyze large datasets in order to extract novel, transformative insights for the underlying application. The course emphasizes the duality between formulating questions that can be answered by statistical data analysis tools (the statistical perspective) and the algorithmic challenge of actually extracting such answers using available parallel and distributed computational resources from massive datasets. The topics cover three areas: (1) algorithmic concepts necessary for big data analytics, (2) bid data systems, including data management and programming, and (3) advanced analytic methods to address characteristics of real-world big data problems.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Computer Science 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Identify techniques appropriate for solving a data analytics challenge.
+2.  Load and manipulate data in distributed computing environments.
+3.  Apply computing paradigms to effectively write efficient and scalable algorithms for data analysis pipelines. Know limitations, design details and design decisions of these algorithms.
+4.  Apply mixed-precision optimization and parallel learning algorithms to modern machine learning algorithms.
+5.  Present results in methods appropriate for domain experts.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      Data Science
+
+      Data Science
+
+      Data Science
+
+
+Prerequisites: 
+
+ Undergraduate level  CS 37300 Minimum Grade of C and Undergraduate level  STAT 41700 Minimum Grade of C
+
+

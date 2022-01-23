@@ -1,0 +1,41 @@
+AAE 34000 - Dynamics And Vibrations
+
+Credit Hours: 3.00.  Kinematics and kinetics of particles and rigid bodies. Topics include a particle in orbit, systems of particles, vibrations, Euler's equations of motion, Eulerian angles, and aerospace vehicle dynamics.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Analyze the free and forced response of a spring/mass/damper.
+2.  Formulate the EOMs of particles, systems of particles and rigid bodies.
+3.  Solve the EOMs numerically.
+4.  Understand the various forms of Euler angles and be able to apply them to rigid body dynamics.
+5.  Simulate the motion of a spacecraft in MATLAB.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  AAE 20300 Minimum Grade of C- and (Undergraduate level  MA 30300 Minimum Grade of D- or Undergraduate level  MA 30400 Minimum Grade of D-)
+
+

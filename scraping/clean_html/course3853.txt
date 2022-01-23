@@ -1,0 +1,41 @@
+AT 38502 - Design Support Analysis
+
+Credit Hours: 2.00.  This course covers the elements of product support and the analysis of design as related to the manufacturability, maintainability, and supportability of aerospace products. The students will be expected to complete a life-cycle cost analysis and logistics plan for a design.
+
+    0.000 OR     2.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture, Recitation 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Schl of Aviation & Transp Tech 
+
+
+Course Attributes: Credit By Exam, Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1. Decompose a system into its functional groups.
+2. Determine the mean time between failure and availability of a system.
+3. Determine failure drivers, cost drivers, and maintenance drivers of a system.
+4. Determine system life cycle ownership costs.
+5. Determine the facilities, staffing, tooling, and spare parts requirements for a system.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  AT 20200 Minimum Grade of D-
+
+

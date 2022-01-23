@@ -1,0 +1,43 @@
+BCHM 62000 - Protein Mass Spectrometry And Proteomics
+
+Credit Hours: 2.00.  The goals of this course are to introduce students to 1) basic principles of mass spectrometry, 2) the most common instruments used for protein mass spectrometry including the advantages and disadvantages of each, 3) the most common applications of protein mass spectrometry in biological research, 4) current approaches to quantitative protein mass spectrometry and their use in proteomic studies 5) the skills necessary to analyze mass spec data from a variety of experiment types including the ability to use and understand common database search programs, and 6) contemporary issues associated with large-scale proteomics experiments (including technical challenges and limitations) culminating in the ability to design appropriate experiments to answer a specific proteomic question. Prerequisite: Students need to have taken an undergraduate level biochemistry course and be familiar with basic aspects of protein structure that are taught in such courses. In the absence of an undergraduate biochemistry course, students should discuss their qualifications with the instructor before registering.
+
+    2.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Biochemistry 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Demonstrate an understanding of the fundamental properties and processes controlling the environmental fate of organic contaminants in subsurface environments.
+2.  Understand how variations in chemical structure change chemical behavior including solubility, volatility, acid-based speciation and reactivity.
+3.  Quantify chemical distribution between soil-air, soil-air, water-air and liquid-liquid compartments.
+4.  Understand and quantify how environmental and anthropogenic factors change chemical behavior and distribution in the environment.
+5.  Apply partition coefficients and mass balance approaches to predict chemical distribution between various environmental compartments.
+6.  Demonstrate an understanding of how abiotic and biotransformation processes affect chemical fate in the environment.
+7.  Demonstrate an understanding how chemical, soil and subsurface properties impact choice of remediation strategies.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

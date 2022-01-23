@@ -1,0 +1,40 @@
+FNR 65000 - Individual-Based Ecology And Modelling
+
+Credit Hours: 3.00.  This course will provide graduate students with the opportunity to learn about the techniques and approaches used for individual-based modeling in ecological studies. Students will find relevant supplementary literature and lead class discussions on those topics as well as chapters from the course text book and present case study examples of existing individual-based models (IBM) to the class. Students will develop individual-based models based on their own research project(s). Typically offered Fall.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Laboratory, Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Forestry and Natural Resources 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Explore the role that individual-based models (IBMs) can play in ecological research.
+2.  Develop a working knowledge of the nature of IBMs, their strengths, and weaknesses.
+3.  Become familiar with IBM programming concepts and NetLogo software.
+4.  Become able to incorporate individual-based modeling in the student's own research.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

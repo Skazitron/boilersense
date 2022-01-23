@@ -1,0 +1,85 @@
+CE 41300 - Building Envelope Design And Thermal Loads
+
+Credit Hours: 3.00. This course discusses the basic thermal processes in buildings and presents comprehensive methods for thermal design of envelope assemblies in commercial and residential buildings. The first part of the course includes steady-state transient conduction through envelope assemblies, convection and radiation heat transfer in buildings, solar radiation and solar gains, thermal performance of windows, internal gains, ventilation and infiltration. The second part of the course considers surface and room energy balance equations and presents analytical and computational models for calculation of hourly heating and cooling loads throughout the year. Climate-based standards, passive solar design, advanced energy guides, and innovative technologies for high performance buildings are discussed. The course also includes a design project on analytical heating/cooling load calculations for a commercial building.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Civil Engineering 
+
+Department: Lyles School of Civil Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Calculate heat transfer through envelope assemblies for commercial and residential buildings. 
+2.  Solve energy balance equations for building surfaces and room air.
+3.  Calculate solar and internal gains and predict transient hourly heating and cooling loads for a building throughout the year using analytical and computational models. 
+4.  Design building envelopes according to national standards.
+5.  Understand principles of passive solar design and the application of innovative envelope technologies.  
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Aero and Astro Engr
+
+      School of Biomedical Engr
+
+      School of Civil Engineering
+
+      School of Chemical Engineering
+
+      Construction Engineering Mgmt
+
+      First Year Engineering
+
+      School of Elec & Computer Engr
+
+      Div of Environ & Ecol Engr
+
+      School of Interdisciplnry Engr
+
+      School of Industrial Engr
+
+      School of Mechanical Engr
+
+      School of Materials Engr
+
+      School of Nuclear Engineering
+
+      School of Agr and Bio Engr
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites: 
+
+ Undergraduate level  CE 31100 Minimum Grade of D-
+
+

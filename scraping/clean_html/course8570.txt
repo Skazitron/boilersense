@@ -1,0 +1,41 @@
+CGT 56200 - Cognition And Human-Computer Interaction
+
+Credit Hours: 3.00.  This course provides an overview of the role of human cognition in the use of interactive digital technologies. Students will learn fundamental theories and concepts of cognitive science that are relevant to interactive technology. The course takes a broad chronological approach, examining the history and development of cognitive theories and models in the field of human computer-interaction (HCI). Students will read seminal works from leading researchers in cognitive science and HCI. The course covers older well-established theories and models as well as newer speculative ones. Students will develop a sound understanding of the origins, development, and future directions of cognition research in HCI. Topics covered include: classical cognition; the cognitive revolution; mediated cognition; activity theory; situated action; embodied cognition; distributed, external, and extended cognition; enactive cognition; thinking and epistemic coping; make-believe and imagination; scaffolding and cognitive offloading; internal and external representations. Students are encouraged to make appropriate connections to their own research areas. No specific technical or programming experiences is required.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Critically assess the role of cognition in the use of interactive digital technologies.
+2.  Explain the history and development of cognition research in the field of human computer-interaction, including major theories and seminal works.
+3.  Apply concepts from the course in their own personal research.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

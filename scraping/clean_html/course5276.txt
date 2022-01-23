@@ -1,0 +1,72 @@
+ECE 56500 - Computer Architecture
+
+Credit Hours: 3.00.  An introduction to the problems involved in designing and analyzing current machine architectures. Major topics include performance and cost analysis, pipeline processing, vector machines and numerical applications, hierarchical memory design, and multiprocessor architectures. A quantitative approach allowing a computer system designer to determine the extent to which a design meets design goals is emphasized.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      PU Fort Wayne
+
+      IUPUI
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ECE56500 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ECE
+43700
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

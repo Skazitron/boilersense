@@ -1,0 +1,54 @@
+MET 28400 - Introduction To Industrial Controls
+
+Credit Hours: 3.00.  This course examines the concepts, devices, and common practices associated with modern industrial control systems. Common industrial control devices are studied. Students learn how to wire, program, and troubleshoot programmable logic controller (PLC) based control systems. PLC applications focus on interfacing and controlling a variety of electromechanical devices such as motors and pneumatic actuators. Industrial safety practices and procedures are emphasized throughout the course.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Dept Credit, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Identify and explain the fundamental operation of various discrete input devices and output actuators that are commonly used with PLC-based control systems.
+2.  Identify, describe, and effectively use the core instructions contained in a PLC's instruction set.
+3.  Demonstrate the ability to successfully use the PLC programming software to perform common programming tasks.
+4.  Read writing diagrams and wire I/O devices.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  ECET 22400 Minimum Grade of D-
+
+

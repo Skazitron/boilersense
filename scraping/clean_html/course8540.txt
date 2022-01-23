@@ -1,0 +1,58 @@
+CGT 45600 - Advanced Web Programming, Development And Data Integration
+
+Credit Hours: 3.00.  This course presents the advanced technologies available for use on the World Wide Web and within corporate intranet environments. Emphasis and discussion is focused on the advantages and disadvantages of these technologies as well as on implementation to create unique solutions for business and industry. Strategies for planning, development, and implementation will be discussed and demonstrated.   Significant time is spent on advanced programming and scripting as well as manipulation and visualization of data from various sources, including robust database management systems.  Students are required to plan, design and implement a major project.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      IUPUI
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Graphics Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CGT 35600 Minimum Grade of C-
+
+

@@ -1,0 +1,38 @@
+ECON 64200 - Computational Economics
+
+Credit Hours: 2.00 or 3.00.  The purpose of this class is to give you a computational toolbox you can apply to economic questions. We will introduce and use numerical methods on computationally tractable problems. The goal of the course is to encourage Ph.D. students to apply these techniques to their own research. Our in-class applications will primarily be public policy and macro-oriented, by solving and simulating the problems of microeconomic agents and aggregating the results.
+
+    2.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Management 
+
+Department: Dept of Economics 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Use a computational toolbox that you can apply to economic questions.
+2.  Solve policy functions of Bellman equations and simulating agent behavior.
+3.  Solve and simulate the problems of microeconomic agents and aggregating the results.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

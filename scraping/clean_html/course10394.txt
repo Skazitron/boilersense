@@ -1,0 +1,55 @@
+MET 31601 - Mechanics Of Machine Design
+
+Credit Hours: 3.00.  Concepts of stress and strain analysis under combined loadings are introduced. Analyses emphasize use of von Mises stress, Mohr's circle, static failure theories, and fatigue failure criteria. Structural joints and buckling are also analyzed. Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Analyze stresses in mechanical bodies and structures subjected to combined loadings.
+2.  Apply static failure criteria in the analysis and design of mechanical bodies.
+3.  Apply fatigue assessment methods in the analysis and design of mechanical bodies subjected cyclic loadings.
+4.  Perform buckling analysis in columns.
+5.  Analyze structural joints.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MET 21100 Minimum Grade of D-
+
+

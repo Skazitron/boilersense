@@ -1,0 +1,70 @@
+MGMT 54600 - Decision Support And Expert Systems
+
+Credit Hours: 3.00.  Since a large percentage of societal and management problems can be characterized as relatively unstructured, this course explores how computers can be used to aid decision makers in dealing with unstructured, as well as structured, problems. Appropriate material from knowledge representation, artificial intelligence, and language theory is considered. Applications selected from environmental management and strategic planning in large organizations are used to illustrate theoretical ideas. Since the key computer software tool is database management, a development of the CODASYL approach to data management is presented. Typically offered Fall.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Management 
+
+Department: School of Mgmt Adm & Instr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-MGMT 54400 Course
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MGMT
+54400
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+)
+
+
+

@@ -1,0 +1,30 @@
+ECE 61600 - Ultrafast Optics
+
+Credit Hours: 3.00.  A study of the physics, technology, and applications of ultrashort laser pulses. Topics covered include the following: methods for generating and measuring ultrafast laser pulses; basic physical processes affecting ultrashort pulses; devices for manipulating ultrashort pulses; ultrafast nonlinear optics, including nonlinear optics in fibers, nonlinear refractive index effects, pulse compression, solitons, and all-optical switching; time-resolved spectroscopy of ultrafast materials processes; and applications to ultrafast optoelectronics. In addition, each student will select a specific topic for in-depth study. Offered in alternate years. Prerequisite:  ECE 55200.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

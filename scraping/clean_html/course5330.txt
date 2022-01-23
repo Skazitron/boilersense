@@ -1,0 +1,32 @@
+ECE 64700 - Performance Modeling Of Computer Communication Networks
+
+Credit Hours: 3.00.  The mathematical background needed for the performance and stability analysis of computer communication networks is developed. Point processes, Markov processes, and queuing processes are used in the modeling and analysis of queues, interconnected queues such as ARPANET, and random multiple access networks such as Xerox's ETHERNET. Distributed control of random access networks and centralized control of queuing networks is considered. The techniques developed are useful in the design of computer systems as well as computer networks. Offered in alternate years. Prerequisite: ECE 60000.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

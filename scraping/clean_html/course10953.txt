@@ -1,0 +1,30 @@
+CHE 63300 - Probabilistic Methods In Chemical Engineering
+
+Credit Hours: 3.00.  Introduction to probability, random variables, and stochastic processes. Ito calculus and stochastic differential equations. Brownian dynamics and Bridge processes. Applications to chemical engineering systems. Master equations and system size expansion concepts to nonequilibrium processes. Stochastic point processes and population balance. Theory of fluctuations. Prerequisite: CHE 63000.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Chemical Engineering 
+
+Department: Chemical Engineering 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

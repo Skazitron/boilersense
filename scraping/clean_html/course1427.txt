@@ -1,0 +1,52 @@
+MGMT 30600 - Management Science
+
+Credit Hours: 3.00.  Use of optimization, simulation, and decision theory models to support management decision making. Emphasis on modeling and interpreting results for managerial applications of linear and integer programming models, network problems, simulation models, and decision analysis. Computer applications are stressed. Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Management 
+
+Department: School of Mgmt Adm & Instr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Learn management decision making through optimization, simulation, and decision theory models, by modeling and interpreting results for managerial applications of linear and integer programming models, network problems, simulation models, and decision analysis.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Management-BSIM
+
+      Economics-BS
+
+      Management-BS
+
+      Accounting-BS
+
+      Accounting-Cert
+
+
+Prerequisites: 
+
+ Undergraduate level  STAT 35000 Minimum Grade of C- [may be taken concurrently] or Undergraduate level  MGMT 30500 Minimum Grade of C- [may be taken concurrently] or Undergraduate level  ECON E2700 Minimum Grade of C- [may be taken concurrently]
+
+

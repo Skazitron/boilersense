@@ -1,0 +1,64 @@
+CGT 27108 - User Experience Design Studio II: Screen
+
+Credit Hours: 3.00.  Intermediate exploration of various approaches to human-centered design. Students learn intermediate research and design methods and create high-fidelity prototypes. The course is platform-independent and encourages students to experiment with new and emerging technologies.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Studio 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Conduct intermediate analysis of situations, clients, and problems using multiple approaches to problem framing.
+2.  Create a variety of concepts that address the issues in the problem statement.
+3.  Use intermediate data gathering and analysis techniques to inform design decisions.
+4.  Demonstrate intermediate application of principles of visual and interaction design to create high-fidelity prototypes.
+5.  Distinguish among major approaches to user-centered design.
+6.  Compare and contrast the core values of various approaches to user-centered design.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      UX Design
+
+
+Prerequisites: 
+
+ Undergraduate level  CGT 17208 Minimum Grade of C-
+
+

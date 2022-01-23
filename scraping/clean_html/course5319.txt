@@ -1,0 +1,32 @@
+ECE 62700 - Introduction To Cryptography And Secure Communication
+
+Credit Hours: 3.00.  Introduces the basic concepts of cryptography. Various cipher systems are presented, including transposition and substitution systems, Block ciphers, RSA, and Knapsack. Methods used to attack ciphers are discussed with emphasis on complexity. Case studies of the use of cryptographic methods in communication systems are presented with some consideration given to privacy issues. Offered in alternate years.  Prerequisite: ECE 60000.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      IUPUI
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

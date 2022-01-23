@@ -1,0 +1,143 @@
+PHYS 52200 - Coherent Optics And Quantum Electronics
+
+Credit Hours: 3.00.  Recent experimental and theoretical developments in optics emphasizing concepts of coherence. Fourier optics, and the quantum theory of radiation. Applications to lasers and masers, nonlinear optics, holography, and quantum electronics. Typically offered Spring.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Science 
+
+Department: Physics and Astronomy 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      PU Fort Wayne
+
+      IUPUI
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-PHYS 52200 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Rule: 1.: PHYS 32200 or42200 or ME 58700  for a total of 1 conditions
+)
+
+ME
+58700
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+PHYS
+32200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+PHYS
+42200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+End of rule 1.
+
+and
+Rule: 2.: PHYS 33000 or 43000  for a total of 1 conditions
+
+PHYS
+33000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+PHYS
+43000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+End of rule 2.
+
+and
+Rule: 3.: PHYS 55000 or 36000 or 46000  for a total of 1 conditions
+
+PHYS
+36000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+PHYS
+46000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+PHYS
+55000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+End of rule 3.
+
+
+

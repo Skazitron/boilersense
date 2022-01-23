@@ -1,0 +1,55 @@
+MFET 37400 - Manufacturing Integration I
+
+Credit Hours: 3.00.  The fundamentals of data communications and local area networks are taught in order to show students how to integrate modern manufacturing systems. Emphasis is on the various levels of communications between shop floor computers, PLCs, robots, and automatic identification equipment. Database technology is used as an integration tool. This course prepares students for the MFET capstone course. Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+      Vincennes
+
+
+Learning Outcomes: 
+1.  Achieve communications between various types of controls and devices.
+2.  Interface various peripheral manufacturing devices using networking and serial communications.
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MET 28400 Minimum Grade of D-
+
+

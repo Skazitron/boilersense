@@ -1,0 +1,46 @@
+BME 21400 - Introduction To Biomechanical Analysis
+
+Credit Hours: 3.00.  The goal of this course is to provide a foundation in biomechanics (analysis of forces, moments, and stresses) that will allow students to quantify the loads in the skeleton as well as design surgical tools and total joint replacements. In addition to the topics on vectors, particle equilibrium, and rigid body mechanics one would expect in a classical mechanics course, biomedical engineers must also have a working knowledge of skeletal anatomy. Consequently, anatomical descriptions and anthropometric data will be incorporated throughout the course. As part of the implant design, students will also be introduced to more advanced topics in mechanics such as Hertz contact theory, shear-lag theory, and composite beam theory.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Biomedical Engr 
+
+Department: Weldon Schl of Biomedical Engr 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand particle statics, rigid body statics, and the mechanics of deformable solids and their applications to problems in orthopedics.
+2.  Analyze selected biomechanical systems and measurements at a range of biologically relevant length scales.
+3.  Evaluate quality and reliability of assumptions and methods used in selected biomechanics applications.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      Biomedical Engineering
+
+
+Prerequisites: 
+
+ (Undergraduate level  PHYS 17200 Minimum Grade of D- or (Undergraduate level  ENGR 16100 Minimum Grade of D- and Undergraduate level  ENGR 16200 Minimum Grade of D-)   ) and (Undergraduate level  MA 16200 Minimum Grade of D- or Undergraduate level  MA 16600 Minimum Grade of D-)
+
+

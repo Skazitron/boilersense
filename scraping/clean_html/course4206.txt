@@ -1,0 +1,47 @@
+ABE 53000 - Plant Phenotyping Technologies
+
+Credit Hours: 3.00.  Introducing concepts, models, algorithms, and tools in plant phenotyping development and application projects. Class topics include high-throughput phenotyping in greenhouse, field phenotyping platforms, Ag remote sensing, plant sensors (hyperspectral, 3D thermal, florescent, X-ray, etc.), plant image processing technologies, statistical modeling, big data, database requirement, artificial intelligence algorithms, and hybridizations of the above techniques applied in plant phenotyping. Permission of instructor required.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Ag & Biological Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Know the concept of digital agriculture and plant sensors' applications.
+2.  Understand the plant phenotyping technologies, in both software and hardware.
+3.  Learn the skills of designing a professional phenotyping imaging system and collecting data.
+4.  Understand the current phenotyping activities in academia and industry.
+5.  Know the major plant sensors and their applications.
+6.  Have the capability of choosing or designing the most feasible sensor system for specific phenotyping projects.
+7.  Understand the role of the plant sensors in a precision agriculture system.
+8.  Learn basic image processing skills.
+9.  Have the capability of applying computational intelligence and machine learning techniques to classification, prediction, pattern recognition, and optimization problems.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

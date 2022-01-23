@@ -1,0 +1,47 @@
+MA 16500 - Analytic Geometry And Calculus I
+
+Credit Hours: 4.00.  Introduction to differential and integral calculus of one variable, with applications. Conic sections. Designed for students who have had at least a one-semester calculus course in high school, with a grade of "A" or "B", but are not qualified to enter MA 16200 or 16600, or the advanced placement courses MA 27100.  Demonstrated competence in college algebra and trigonometry. 
+CTL:IMA 1602 Calculus - Long I
+
+    0.000 OR     4.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Individual Study, Lecture, Recitation 
+
+
+Offered By: College of Science 
+
+Department: Mathematics 
+
+
+Course Attributes: Credit By Exam, Core Transfer Library, Dept Credit, Lower Division, GTC-Quantitative Reasoning, UC-Quantitative Reasoning 
+
+
+May be offered at any of the following campuses:      
+
+      Concurrent Credit
+
+      PU Fort Wayne
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  To compute limits and to apply limit laws.
+2.  To apply rules of differentiation to compute derivatives of elementary functions.
+3.  To sketch graphs of functions with the aid of differentiation techniques. 
+4.  To find maxima and minima of functions; optimization problems.
+5.  To compute integrals of some elementary functions and to apply the Fundamental Theorem of Calculus to compute areas of certain planar regions. 
+
+
+
+
+Prerequisites: 
+
+  ALEKS Math Assessment 085 or  SATR Math 670 or  SAT Mathematics 650 or  ACT Math 29 or Undergraduate level  MA 15800 Minimum Grade of B-
+
+

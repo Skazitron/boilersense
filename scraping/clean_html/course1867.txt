@@ -1,0 +1,49 @@
+ENGT 56100 - Metrology Concepts And Applications
+
+Credit Hours: 3.00.  Metrology is a fundamental concept required for obtaining scientific data and understanding instrumentation. This course introduces the concepts of metrology associated with measurement systems: sensors, signal conditioning, data acquisition and analysis, as well as the error propagation.  System and environmental noise are investigated along with methods to mitigate influences of noise. Standards and calibration of instrumentation are also studied. Concepts of metrology for the seven basic units of measurements are described from the macro to nano-scale. Typically offered Fall.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Classify instrumentation necessary to make measurements of interest.
+2.  Summarize standards and calibration associated with measurements.
+3.  Implement various methods of reducing system and environmental noise.
+4.  Calculate errors budgets and adjust instrumentation to meet error budgets.
+5.  Identify ethical and international aspects of measurement science.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

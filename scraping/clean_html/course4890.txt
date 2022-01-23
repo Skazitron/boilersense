@@ -1,0 +1,39 @@
+CNIT 60100 - Applied Statistics In Information Technology
+
+Credit Hours: 3.00.  This course will survey the field of applied statistics in information technology. Students will gain hands-on experience running statistical analyses on samples from a variety of populations. Students will learn the process of data cleaning, data transforming/coding, identifying the appropriate statistical analyses (descriptive and inferential), as well as writing and interpreting the results. Specifically, this course will survey the following statistical approaches: correlations, t-test, analysis of variance, analysis of co-variance, factorial ANOVA, simple regression, multiple regression, logistic regression, chi-square analysis, factor analysis, and nonparametric tests. In this course, students will be able to differentiate statistical analyses and identify appropriate statistical analyses depending on the research question and variables of interest. Permission of instructor required.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Analyze data with different statistical procedure.
+2.  Differentiate between different types of statistical analyses.
+3.  Evaluate the statistical procedures and results in published journal articles.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

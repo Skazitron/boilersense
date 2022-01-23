@@ -1,0 +1,89 @@
+ECE 51300 - Diffraction, Fourier Optics, And Imaging
+
+Credit Hours: 3.00.  Modern theories of diffraction and Fourier optics for imaging, optical communications, and networking, micro/nano technilogies and related devices and systems. Imaging techniques involving diffraction and/or Fourier analysis such as tomography, magnetic resonance imaging, synthetic aperture radar, and confocal microscopy. Topics in optical communications and networking, including wave propagation in free space, fiber, integrated optics, and related design issues. Micro/nano technologies involving diffraction and/or Fourier analysis. Simulation studies, using Matlab and other software packages for analysis and design. Offered odd years
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  A knowledge of a number of important technologies based on wave propagation such as digital diffractive imaging techniques and devices involving the principles of diffraction and/or Fourier analysis and synthesis techniques. 
+2.  A knowledge of developments in the areas of device fabrication and computer technology for the fabrication of optical components and implementation of imaging/focusing modalities not possible until recently. 
+3.  An ability to deal with the analysis of imaging and focusing techniques involving diffraction.  
+4.  A knowledge of a number of other topics, such as dense wavelength division multiplexing (DWDM) systems and devices, micro/nano systems in need of rigorous diffraction theory, image and phase recovery involving Fourier analysis and Fourier iterative optimization techniques, focusing of wave energy and daylighting. 
+5.  An ability to utilize the theoretical analysis of such topics based on Fourier analysis and synthesis for system and device fabrications.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ECE 51300 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ECE
+30100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+ECE
+31100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

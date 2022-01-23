@@ -1,0 +1,45 @@
+ECE 61016 - Power Electronic Converters And Systems
+
+Credit Hours: 3.00.  The objective of this course is to educate students in the operation, detailed modeling, average-value modeling, and control design of power electronics converters and systems of converters. Prerequisite by Topic: Basic knowledge of ordinary differential equations, solution of ODEs using numerical methods, state-space system representation, basic feedback control design with frequency domain methods, reference frame theory, some knowledge of rotating electric machinery. Permission of instructor required.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand switched circuits.
+2.  Understand average-value analysis techniques.
+3.  Understand feedforward/feedback control of power electronic converters.
+4.  Understand waveform level and average-value simulation techniques for switched systems.
+5.  Understand several ac-dc, dc-ac, and dc-dc power conversion topologies.
+6.  Understand inverter modulation techniques.
+7.  Understand ethical homework and project practices, and implication of failure to adhere to these.
+8.  Understand how to effectively present project results.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

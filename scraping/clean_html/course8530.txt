@@ -1,0 +1,64 @@
+CGT 42600 - Industry Applications Of Simulation And Visualization
+
+Credit Hours: 3.00.  This course focuses on developing mathematically accurate physical-visual simulations of mechanisms, systems, and assemblies. Topics include physical system analysis; coordinate systems; inverse kinematics; linear, rotational, and reciprocating motion. Simulations will be created using modeling technology, programmed scripting, and diverse software.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Kokomo
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      Aeronautic Engr Technology
+
+      Animation
+
+      Building Information Modeling
+
+      Computer Graphics Tech
+
+      Effects Technical Direction
+
+      Game Development and Design
+
+      Human Centered Design & Dev
+
+      Visual Effects Compositing
+
+      Virtual Product Integration
+
+      Web Programming & Design
+
+
+Prerequisites: 
+
+ Undergraduate level  CGT 22600 Minimum Grade of C-
+
+

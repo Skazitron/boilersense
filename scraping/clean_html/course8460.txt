@@ -1,0 +1,47 @@
+CGT 26000 - Introduction To Modeling For BIM
+
+Credit Hours: 3.00.  This is an introduction to the materials and processes used when generating 3D modeled solutions to construction problems using traditional and emerging construction documentation standards. Construction documents are created based on current Architectural, Engineering and Construction (AEC) standards with a focus on residential settings - introduction sketching into 2D documentation that will progress into 3D modeling.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      New Albany
+
+      Richmond
+
+
+Learning Outcomes: 
+1.  Have a working knowledge of the core construction material and method concepts through sketching into modeling processes. 
+2.  Analyze, synthesize, utilize, and determine design processes & strategies to creatively solve AEC communication problems.
+3.  Create and communicate graphic solutions in the ideation, development, and production of visual messages to determine design and modeling decisions that address audiences needs. 
+4.  Utilize relevant applications, tools and technology in the creation, reproduction, and distribution of visual messages. 
+5.  Develop functional literacy in a variety of materials and methods of construction.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      Building Information Modeling
+
+

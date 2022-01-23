@@ -1,0 +1,50 @@
+CHE 45600 - Process Dynamics And Control
+
+Credit Hours: 3.00.  Dynamic response and control of chemical processing equipment, such as heat exchangers, chemical reactors, and absorption towers. Use is made of fundamental techniques of servomechanism theory, such as block diagrams, transfer functions, and frequency response. Introduction to advanced control techniques.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture, Practice Study Observation, Recitation 
+
+
+Offered By: School of Chemical Engineering 
+
+Department: Chemical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Develop a physically relevant mathematical model as a surrogate for a chemical process.  
+2.  Apply appropriate analytical and computer packages for analyzing the process control behavior based on the developed model.
+3.  Design, model, and test a hierarchical control system on a complex process.
+4.  Describe the role of process control in meeting stringent safety, economic, environmental, societal, and corporate goals. 
+5.  Describe the building blocks of process control and their synthesis for providing complete process control solutions.
+6.  Work effectively in a team to execute process control computer-based assignments in a professional and ethical manner. 
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Chemical Engineering
+
+
+Prerequisites: 
+
+ Undergraduate level  CHE 37700 Minimum Grade of C- and Undergraduate level  CHE 34800 Minimum Grade of C- [may be taken concurrently] and Undergraduate level  CHE 37800 Minimum Grade of C- [may be taken concurrently]
+
+

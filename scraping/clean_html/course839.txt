@@ -1,0 +1,43 @@
+IE 33000 - Probability And Statistics In Engineering II
+
+Credit Hours: 3.00.  Introduction to statistical inference and experimental design. Correlation, regression, single and multi-factor ANOVA, non-parametric methods. Applications to statistical quality control. Typically offered Fall Spring Summer.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Industrial Engr 
+
+Department: Industrial Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Use statistical software packages (e.g. Minitab) to perform statistical tests.
+2.  Compute and interpret statistical confidence, tolerance, and prediction intervals given engineering and scientific data.
+3.  Conduct and interpret parametric statistical tests (e.g. t-test, ANOVA) on engineering and scientific data.
+4.  Conduct and interpret non-parametric statistical tests on engineering and scientific data.
+5.  Conduct and interpret regression analysis on engineering and scientific data.
+6.  Determine the appropriate statistical test or procedure to use on engineering and scientific data.
+7.  Design basic factorial experiments and conduct basic statistical process control analysis.
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  ENGR 13100 Minimum Grade of D- or Undergraduate level  ENGR 14100 Minimum Grade of D- or Undergraduate level  ENGR 16100 Minimum Grade of D-) or (Undergraduate level  EPCS 11100 Minimum Grade of D- and Undergraduate level  EPCS 12100 Minimum Grade of D-) or (Undergraduate level  ENGR 12600 Minimum Grade of D- or Undergraduate level  ENGR 12100 Minimum Grade of D-)
+
+

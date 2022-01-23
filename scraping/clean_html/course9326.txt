@@ -1,0 +1,54 @@
+ECET 37401 - Digital Communication Systems
+
+Credit Hours: 3.00.  Digital communication systems form the backbone of modern communication systems, such as cell phone, telecommunication, wireless local area network, Ethernet and optical fiber systems. This course explores the core concepts of modern digital communications systems, covering topics in areas including quantization, encoding, compression, modulation and channel modeling.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Describe, identify and calculate signal and noise power in a system.
+2.  Determine the digital representation of an analog value using multiple A/D techniques.
+3.  Describe, implement and evaluate digital compression and encoding techniques.
+4.  Create and apply signal constellations of digital modulation techniques. 
+5.  Create and analyze communication channel models.   
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  ECET 21400 Minimum Grade of D- or Undergraduate level  ECET 22400 Minimum Grade of D- or Undergraduate level  ECET 27400 Minimum Grade of D-
+
+

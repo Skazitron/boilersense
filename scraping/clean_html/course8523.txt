@@ -1,0 +1,68 @@
+CGT 41101 - Contemporary Problems In Applied Computer Graphics I
+
+Credit Hours: 2.00.  Groups will identify, design, qualify, and plan a final project relative to existing or emerging issues within applied computer graphics. This project will be done in conjunction with industry and faculty engagement. Activities and experiences will explore related topics such as project planning and management, user expectations, interpersonal communications skills, and quality management. This course is followed by CGT 41201 which includes the execution and evaluation of the capstone project planned in CGT 41101.
+
+    2.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Utilize a provided project specification to develop a project completion plan.
+2.  Develop an appropriate project evaluation plan using accepted techniques.
+3.  Implement basic project management principles to assign team member tasks, required resources, and time allocations.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Graphics Tech-BS
+
+Must be enrolled in one of the following Classifications:      
+
+      Senior 90 - 104 hours
+
+      Senior 105+ hours
+
+      Junior: 75 - 89 hours
+
+
+Prerequisites: 
+
+ Undergraduate level  CGT 30505 Minimum Grade of S or Undergraduate level  CGT 36000 Minimum Grade of C- or Undergraduate level  CGT 20301 Minimum Grade of C- or Undergraduate level  CGT 37000 Minimum Grade of C- or Undergraduate level  CGT 27208 Minimum Grade of C- or Undergraduate level  CGT 35600 Minimum Grade of C-
+
+

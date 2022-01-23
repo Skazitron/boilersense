@@ -1,0 +1,32 @@
+ECE 64200 - Information Theory And Source Coding
+
+Credit Hours: 3.00.  A treatment of the basic concepts of information theory. Determination of channel capacity and its relation to actual communication systems. Rate distortion theory is introduced, and the performance of various source codes is presented. Offered in alternate years.  Prerequisite: ECE 60000.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      IUPUI
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

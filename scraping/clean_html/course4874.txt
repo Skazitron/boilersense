@@ -1,0 +1,66 @@
+CNIT 55600 - Basic Computer Forensics
+
+Credit Hours: 3.00.  Covers the fundamentals of the maturing discipline of computer forensics. The focus of the course is on gaining a broad understanding of the field of study and how technology and law interact to form this forensic science. Emerging standards and current and future issues related to the field are also explored. Examines law and public policy, the computer forensic methodology, report presentation, and expert witness testimony, as well as anti-forensic techniques that can be used to obfuscate evidence. Students are exposed to theory and practice with lab exercises, thought and term papers, and a practical, as well as written, final exam.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Individual Study, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-CNIT 45500 Course
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CNIT
+45500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

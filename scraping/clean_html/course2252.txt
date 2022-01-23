@@ -1,0 +1,88 @@
+ME 53300 - Turbomachinery II
+
+Credit Hours: 3.00.  Aerodynamic analysis and design of axial flow and radial flow gas compressors and gas turbines. Blade element performance (deflection, profile and shock losses, etc.). Meridional flow analysis for general radial equilibrium. Secondary flow and end-wall boundary layer models. Centrifugal compressor modeling. Unsteady flow, rotating stall, and surge.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Mechanical Engr 
+
+Department: Mechanical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ME 53300 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ME
+53800
+
+
+Minimum Grade of 
+B
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+AAE
+53800
+
+
+Minimum Grade of 
+B
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ME
+43300
+
+
+Minimum Grade of 
+B
+
+May not be taken concurrently.
+)
+
+
+

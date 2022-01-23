@@ -1,0 +1,31 @@
+AAE 41200 - Introduction To Computational Fluid Dynamics
+
+Credit Hours: 3.00.  Introductory course in the formulation and application of finite difference methods for solving fluid flow problems. Classification of partial differential equations and formulation of well-posed problems. Discrete approximation of partial differential equations: stability, consistency, and convergence. Finite-volume formulations. Survey of methods for solving hyperbolic, elliptic, and parabolic problems. Formulation of discrete boundary conditions. Application of methods to one- and two-dimensional flow problems.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Prerequisites: 
+
+ Undergraduate level  AAE 33400 Minimum Grade of D-
+
+

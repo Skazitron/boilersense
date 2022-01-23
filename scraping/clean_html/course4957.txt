@@ -1,0 +1,158 @@
+STAT 51300 - Statistical Quality Control
+
+Credit Hours: 3.00.  A strong background in control charts including adaptations, acceptance sampling for attributes and variables data, standard acceptance plans, sequential analysis, statistics of combinations, moments and probability distributions, applications.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Statistics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      IUPUI
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Acquire fluency in the language and techniques of modem quality control and its applications.
+2.  Conceptually understand the utility of statistics for quality control.
+3.  Apply control charts and experimental design techniques to solve real-life quality control problems.
+4.  Utilize appropriate Statistical software for statistical computation, visualization, control chart construction, and design of experiments.
+5.  Discuss what is learned in lecture and assignments through oral and written presentations.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-STAT 51300 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+35000
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+50300
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+51100
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MGMT
+30500
+
+
+Minimum Grade of 
+B-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+IE
+23000
+
+
+Minimum Grade of 
+B-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+IE
+33000
+
+
+Minimum Grade of 
+B-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+35500
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CS
+35500
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+30300
+
+
+May not be taken concurrently.
+)
+
+
+

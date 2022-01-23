@@ -1,0 +1,43 @@
+PSY 60601 - ANOVA For The Behavioral Sciences
+
+Credit Hours: 3.00.  This course is a first-semester graduate statistics course for students in psychology and related fields who conduct quantitative research. The course involves an accelerated review of fundamental concepts (e.g., data visualization, central limit theorem probability), after which the course will focus on statistical techniques for between- and within-person designs that include categorical independent variables (e.g., t-tests, ANOVA). Permission of department required. Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Health & Human Sci 
+
+Department: Psychological Sciences 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Repeatable for Additional Credit: Yes - May be repeated up to 1 times
+
+
+Learning Outcomes: 
+1.  Develop a deeper conceptual understanding of foundational statistical principles.
+2.  Analyze data correctly by hand and using SPSS.
+3.  Learn to properly interpret and report results of statistical analysis in APA format.
+4.  Learn the foundational principles for best practices for conducting empirical research, including measurement, database management, data cleaning, and syntax.
+5.  Develop skills in managing their own data and will be able to comprehensively analyze and interpret the results of most commonly-used analyses and variance.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

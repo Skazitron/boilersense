@@ -1,0 +1,44 @@
+CS 38100 - Introduction To The Analysis Of Algorithms
+
+Credit Hours: 3.00.  Techniques for analyzing the time and space requirements of algorithms. Application of these techniques to sorting, searching, pattern-matching, graph problems, and other selected problems. Brief introduction to the intractable (NP-hard) problems.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture, Practice Study Observation 
+
+
+Offered By: College of Science 
+
+Department: Computer Science 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      Computer Science
+
+      Computer Science Honors
+
+      Data Science
+
+      Data Science
+
+
+Prerequisites: 
+
+ (Undergraduate level  CS 25100 Minimum Grade of C or Undergraduate level  ECE 36800 Minimum Grade of C or Undergraduate level  EE 36800 Minimum Grade of C or Undergraduate level  ECE 36900 Minimum Grade of C or Undergraduate level  EE 36900 Minimum Grade of C) and (Undergraduate level  MA 26100 Minimum Grade of C or Undergraduate level  MA 17200 Minimum Grade of C or Undergraduate level  MA 17400 Minimum Grade of C or Undergraduate level  MA 26100 Minimum Grade of C or Undergraduate level  MA 18200 Minimum Grade of C or Undergraduate level  MA 27101 Minimum Grade of C or Undergraduate level  MA 26300 Minimum Grade of C or Undergraduate level  MA 27100 Minimum Grade of C)
+
+

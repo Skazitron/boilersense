@@ -1,0 +1,103 @@
+STAT 51700 - Statistical Inference
+
+Credit Hours: 3.00.  A basic course in statistical theory covering standard statistical methods and their application. Estimation including unbiased, maximum likelihood and moment estimation; testing hypotheses for standard distributions and contingency tables; confidence intervals and regions; introduction to nonparametric tests and linear regression. Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Statistics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      PU Fort Wayne
+
+      IUPUI
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand the basic asymptotic theory including consistency and convergence in distribution.
+2.  Know how to perform some elementary statistical inference such as estimation, confidence interval and hypothesis testing.
+3.  Be familiar with the maximum likelihood method to make statistical inference.
+4.  Know how to judge the quality of different estimators.
+5.  Know how to perform optimal tests of hypotheses.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-STAT 51700 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+51600
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+51900
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+51900
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+)
+
+
+

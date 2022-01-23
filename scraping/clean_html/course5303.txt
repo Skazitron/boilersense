@@ -1,0 +1,38 @@
+ECE 60614 - Reliability Physics Of Nanoelectronic Transistors
+
+Credit Hours: 3.00.  This course will focus on the physics of reliability of small semiconductor devices. In traditional courses on device physics, the students learn how to compute current through a device in response to applied voltage. However, as transistors are turned on and off trillions of times during the years of operation, gradually defects accumulate within the device so that at some point the transistor does not work anymore. The course will explore the physics and mathematics regarding how and when things break - a topic of great interest to semiconductor device engineers. Prerequisites: ECE 60600 required; ECE 61200 and ECE 55800 are recommended.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Acquire a deep understanding regarding a topic of broad interest to academic community and to the industry.
+2.  Think critically related to broad range of topics involving various aspects of reliability physics.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

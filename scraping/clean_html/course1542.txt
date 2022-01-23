@@ -1,0 +1,126 @@
+MGMT 51100 - Fixed Income Securities
+
+Credit Hours: 2.00.  Introduction to fixed income securities. Discusses a variety of contracts-starting with pure discount bonds, coupon bonds, and callable bonds. Continues with options on bonds, caps, floors, and interest rate swaps. Introduces the theory of the term structure and present models for pricing fixed income securities. Topics include: spot and forward markets for debt instruments, simple models for interest rate risk management, duration, convexity, organized exchange-traded interest rate contracts, interest rate swaps, pricing relationships and the theory of the term structure, and single factor models for pricing interest rate claims. Typically offered Fall Spring.
+
+    2.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: School of Management 
+
+Department: School of Mgmt Adm & Instr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1. Identify how to value and hedge commonly traded fixed income securities.
+2. Demonstrate understanding of underlying economic determinants and behavior of fixed income securities.
+3.  Outline and structure such securities.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Economics-CPOSTB
+
+      Economics-MA Teaching
+
+      Economics-MS
+
+      Economics-MS
+
+      Economics-MS
+
+      Economics-PHD
+
+      Management-CPOSTB
+
+      Management-CPOSTB
+
+      Management Exec-MBA
+
+      International Mgmt Masters-MBA
+
+      Management-MBA
+
+      Management-MBA
+
+      Management-MBA
+
+      Management-MS
+
+      Management-MS
+
+      Management-PHD
+
+      Management Exec-MBA
+
+      Management Exec-MBA
+
+      International Mgmt Masters-MBA
+
+      International Mgmt Masters-MBA
+
+      Org Behav HR Mgmt-PHD
+
+      Economics-CPOSTB
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+
+Prerequisites:
+
+GR-MGMT 51100 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MGMT
+61000
+
+
+Minimum Grade of 
+C
+
+May not be taken concurrently.
+and
+Course or Test: 
+MGMT
+61100
+
+
+Minimum Grade of 
+C
+
+May not be taken concurrently.
+)
+
+
+

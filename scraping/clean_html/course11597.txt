@@ -1,0 +1,39 @@
+PSY 62601 - Bayesian Statistics For Psychological Sciences
+
+Credit Hours: 3.00.  The course will explain why you might want to use Bayesian methods instead of frequentist methods (such as t-tests, ANOVA, or regression). We discuss the basic properties and methods of Bayesian analysis and have many activities to show how Bayesian analyses are used. Prerequisites: PSY 60000 and PSY 60100. Permission of department required. Typically offered Fall.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Health & Human Sci 
+
+Department: Psychological Sciences 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand some challenges with traditional statistical analyses, especially optional stopping.
+2.  Able to run various Bayesian analyses.
+3.  Able to extract information from Bayesian-calculated posteriors.
+4.  Able to set appropriate priors for their analyses.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

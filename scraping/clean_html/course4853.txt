@@ -1,0 +1,48 @@
+CNIT 48700 - Database Administration
+
+Credit Hours: 3.00.  This course explores tools and techniques for managing an organization's database technology. Topics include database architecture, database technology installation, database creation and maintenance, Database Management System (DBMS) operation and troubleshooting, and database performance tuning. In the laboratory, students engage in activities performed by a typical database administrator.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      South Bend
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 37200 Minimum Grade of C- or Undergraduate level  CNIT 39200 Minimum Grade of C-
+
+

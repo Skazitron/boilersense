@@ -1,0 +1,55 @@
+CHE 37800 - Heat And Mass Transfer
+
+Credit Hours: 4.00.  Macroscopic and differential energy balances. Heat transfer coefficients for free and forced convection and phase change. Conductive and radiative heat transfer. Applications to heat transfer equipment design and compressible fluid flow. Macroscopic and differential species balances. Mass transfer coefficients and analogies. Mass transfer with and without chemical reaction. Mass transfer equipment design.
+
+    0.000 OR     4.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Recitation 
+
+
+Offered By: School of Chemical Engineering 
+
+Department: Chemical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Identify and explain the three mechanisms of heat transfer: conduction, convection, and radiation.
+2.  Apply microscopic and macroscopic thermal energy balances incorporating Fourier's Law for the solution of problems describing steady-state and transient conduction, including convective heat transfer.
+3.  Utilize mass and thermal energy balances for the design of heat transfer equipment and the analysis of its operation. 
+4.  Identify and explain the two main mechanisms of mass transfer: convection and diffusion.
+5.  Apply microscopic and macroscopic species mass balances incorporating Fick's Law for the solution of problems describing steady-state and transient diffusion, including relevant rate equations and convective mass transfer. 
+6.  Identify and apply the analogies between momentum, heat, and mass transfer.
+7.  Utilize mass balances and appropriate phase equilibrium relations for the design of continuous mass transfer equipment and the analysis of its operation.
+8.  Work professionally and ethically in teams to conduct heat and mass transfer-based laboratory experiments. 
+9.  Effectively report results in written form and practice safety as an integral part of laboratory work. 
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Chemical Engineering
+
+      School of Agr and Bio Engr
+
+
+Prerequisites: 
+
+ Undergraduate level  CHE 21100 Minimum Grade of C- and Undergraduate level  CHE 37700 Minimum Grade of C-
+
+

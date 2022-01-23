@@ -1,0 +1,76 @@
+ECE 57700 - Engineering Aspects Of Remote Sensing
+
+Credit Hours: 3.00.  Introduction to the concepts of multispectral image data generation and analysis. Basic principles of optical radiation, reflection, and measurement in natural scenes. Fundamentals of multispectral sensor design and data analysis for complex scenes. Application of signal processing and signal design principles and of statistical pattern recognition to these problems. Spatial image processing methods and algorithms as appropriate to land scene data. Practice with analysis of actual aircraft and spacecraft data in a cross-disciplinary environment. Offered even years
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ECE 30100 & 30200 Req
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ECE
+30100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+ECE
+30200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

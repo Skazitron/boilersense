@@ -1,0 +1,40 @@
+CS 38001 - C++ Programming
+
+Credit Hours: 1.00.  This course builds on the CS 24000 (Programming In C) course to teach C++ extensions. This 5-week one-credit course teaches C++ programming and helps students improve their understanding of object-oriented programming. It also teaches how to use an Integrated Development Environment (IDE) when programming in C++.
+
+    1.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Computer Science 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand how to program in C++.
+2.  Understand how to program in object-oriented languages in general.
+3.  Understand how to implement some basic Software Patterns in C++.
+4.  Understand how to use an IDE when programming in C++.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  CS 24000 Minimum Grade of C
+
+

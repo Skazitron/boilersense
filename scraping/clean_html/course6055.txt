@@ -1,0 +1,31 @@
+MFET 47400 - Manufacturing Integration II
+
+Credit Hours: 3.00.  Examination of sensors, data acquisition systems, and the fundamentals of control system technology and theory of operation, including common industrial sensors. Interfacing of various sensors to data acquisition systems and collection and monitoring of process data using data acquisition systems. Open loop and closed loop control system fundamentals are addressed. Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MFET 24300 Minimum Grade of D- or (Undergraduate level  MET 38200 Minimum Grade of D- or Undergraduate level  MET 38400 Minimum Grade of D- or (Undergraduate level  ECET 23300 Minimum Grade of D-) or Undergraduate level  EET 23300 Minimum Grade of D-)
+
+

@@ -1,0 +1,153 @@
+ECON 56200 - Econometrics I
+
+Credit Hours: 3.00.  This masters-level course in econometrics covers the tools that will enable students to conduct empirical analysis using economics data. The course examines the statistical techniques used in testing economic theories, estimating casual effects, and making predictions. Emphasis is placed on estimating a single equation (e.g., a demand function) and the problems associated with such estimation. As part of the course, students will estimate equations using STATA, a statistical software package. Permission of department required.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Management 
+
+Department: School of Mgmt Adm & Instr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Students will have the tools to perform simple econometric analysis of Economic problems.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Economics-CPOSTB
+
+      Economics-MA Teaching
+
+      Economics-MS
+
+      Economics-MS
+
+      Economics-MS
+
+      Economics-PHD
+
+      Management-CPOSTB
+
+      Management-CPOSTB
+
+      Management Exec-MBA
+
+      International Mgmt Masters-MBA
+
+      Management-MBA
+
+      Management-MBA
+
+      Management-MBA
+
+      Management-MS
+
+      Management-MS
+
+      Management-PHD
+
+      Management Exec-MBA
+
+      Management Exec-MBA
+
+      International Mgmt Masters-MBA
+
+      International Mgmt Masters-MBA
+
+      Org Behav HR Mgmt-PHD
+
+      Economics-CPOSTB
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ECON 56200 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Rule: 1A.: MA 16200 or 16600  for a total of 1 conditions
+)
+
+MA
+16200
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+
+MA
+16600
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+End of rule 1A.
+
+and
+Rule: 1B.: STAT 35000 or 51100  for a total of 1 conditions
+
+STAT
+35000
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+
+STAT
+51100
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+End of rule 1B.
+
+
+

@@ -1,0 +1,54 @@
+CHE 37700 - Momentum Transfer
+
+Credit Hours: 4.00.  Differential (microscopic) and integral (macroscopic) mass, momentum, and energy balances. Newtonian and non-Newtonian fluids. Fluid statics. One-dimensional steady and transient laminar flows. Turbulence. Dimensional analysis and similarity. Friction factors and drag coefficients. Applications to engineering analysis of practical problems. Introduction to numerical analysis and visualization of flows.
+
+    0.000 OR     4.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Recitation 
+
+
+Offered By: School of Chemical Engineering 
+
+Department: Chemical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Explain the physical properties of a fluid and the consequences of such properties on fluid flow. 
+2.  Apply momentum and/or force balances to the analysis of problems in hydrostatics. 
+3.  Apply mass, momentum and energy balances for the solution of problems involving inviscid, steady flow.  
+4.  Use appropriate macroscopic and microscopic mass, momentum, and energy balances to analyze steady laminar and turbulent flow of incompressible fluids in conduits and past submerged bodies. 
+5.  Apply dimensional analysis and kinematic similarity for the interpretation of experimental fluid flow data and the design of fluid transfer equipment. 
+6.  Utilize appropriate mass, momentum and energy balances for the design of fluid transfer equipment (pipelines, agitated vessels, pumps, etc.) and to analyze its operation. 
+7.  Work professionally and ethically in teams to conduct fluid mechanics-based laboratory experiments. 
+8.  Effectively report results in written form and practice safety as an integral part of laboratory work. 
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Chemical Engineering
+
+      School of Agr and Bio Engr
+
+
+Prerequisites: 
+
+ Undergraduate level  CHE 21100 Minimum Grade of C- and (Undergraduate level  MA 26600 Minimum Grade of C- [may be taken concurrently] or Undergraduate level  MA 30300 Minimum Grade of C- [may be taken concurrently] or Undergraduate level  MA 36600 Minimum Grade of C- [may be taken concurrently] or Undergraduate level  MA 51400 Minimum Grade of C- [may be taken concurrently] or Undergraduate level  ME 58100 Minimum Grade of D- [may be taken concurrently])
+
+

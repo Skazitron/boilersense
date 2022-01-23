@@ -1,0 +1,76 @@
+ME 56300 - Mechanical Vibrations
+
+Credit Hours: 3.00.  Review of systems with one degree for freedom.  LaGrange's equations of motion for multiple degree of freedom systems.  Introduction to matrix methods.  Transfer functions for harmonic response, impulse response, and step response.  Convolution integrals for response to arbitrary inputs.  Principle frequencies and modes.  Applications to critical speeds, measuring instruments, isolation, torsional systems.  Introduction to nonlinear problems. Typically offered Fall.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Indiana College Network, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Mechanical Engr 
+
+Department: Mechanical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      PU Fort Wayne
+
+      IUPUI
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ME 56300 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ME
+36500
+
+
+Minimum Grade of 
+B
+
+May not be taken concurrently.
+)
+
+
+

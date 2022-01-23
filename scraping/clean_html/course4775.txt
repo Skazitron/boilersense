@@ -1,0 +1,54 @@
+CNIT 24000 - Data Communications And Networking
+
+Credit Hours: 3.00.  This course provides a comprehensive introduction to data communications and networks. Topics include communication standards and concepts, protocols, the Open Systems Interconnect (OSI) model, point-to-point communication, and local area networks. Business issues from both provider and user perspectives are discussed. Current technology and trends in each architectural element are reviewed.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+May not be enrolled as the following Classifications:      
+
+      Freshman: 0 - 14 hours
+
+
+Prerequisites: 
+
+ 
+
+

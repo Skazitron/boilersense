@@ -1,0 +1,63 @@
+CS 40700 - Software Engineering Senior Project
+
+Credit Hours: 3.00.  A capstone course combining all the concepts students have learned in the Software Engineering Track: software and software engineering, working as a team leader and as a team member, Agile Software Development, Scrum Software Development, Version Control, basing software development on reusable technology, developing requirements (User Stories and Use Cases), modelling with classes, design patterns, focusing on users, modelling interactions and behavior, architecting and designing software, testing and inspecting, managing the software development process. This is a project course.  Students are organized into 4-6 student teams. Each team completes a full-semester software engineering project. Each team creates a Project Charter, Product Backlog, Design, and for 3 Sprints -- Planning Document, Demo, Retrospective Document. The final demo is a formal presentation.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Individual Study 
+
+
+Offered By: College of Science 
+
+Department: Computer Science 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand the software development process.
+2.  Understand the best methods to plan, analyze, design, test, measure, and manage software projects.
+3.  Understand agile methodologies in general and specifically Scrum.
+4.  Understand how to use version control systems in a team software engineering project.
+5.  Understand that good people are one of, if not the most important, requirements for successful projects.
+6.  Understand how to work on a team project as a team leader and/or team member.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Computer Science-BS
+
+May not be enrolled as the following Classifications:      
+
+      Freshman: 15 - 29 hours
+
+      Junior: 75 - 89 hours
+
+      Sophomore: 45 - 59 hours
+
+      Junior: 60 - 74 hours
+
+      Freshman: 0 - 14 hours
+
+      Sophomore: 30 - 44 hours
+
+
+Prerequisites: 
+
+ Undergraduate level  CS 30700 Minimum Grade of C
+
+

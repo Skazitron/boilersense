@@ -1,0 +1,92 @@
+AD 54200 - Information Visualization Design
+
+Credit Hours: 3.00.  This course starts from exploring visual perception and attention theories, studying modern visualization technologies and toolkits, and reviewing evolving visualization research. Students work on small exercises, and then accomplish complicated virtual and physical visualization projects for information representation and communication.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture, Recitation 
+
+
+Offered By: College of Liberal Arts 
+
+Department: Patti & Rusty Rueff Schl DAP 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Repeatable for Additional Credit: Yes - May be repeated for a maximum of 6 credits
+
+
+Learning Outcomes: 
+1. Learn the principals involved in information visualization.  Gain a background that will aid the design of new, innovative visualizations.
+2. Learn about the variety of existing techniques and systems in information visualization.
+3. Build a sound foundation in human visual perception and how it relates to creating effective information visualization.
+4. Proceed through graph and map-making best practices toward advanced topics of data structure and programmatic visualizations.
+5. Gain experience describing and critiquing the methods and approaches of data visualization through presentations and critiques.
+6. Understand the key design principles for creating information visualizations.
+7. Explore the communication and narrative potential of information visualizations.
+8. Develop skills in critiquing visualization techniques as applied to particular tasks.
+9. Evaluate information visualizations tools.
+10.Design new, innovative visualizations.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Design Studies-BA
+
+      Visual Arts-BFA
+
+      Art Studies-BA
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-AD 51200 Course
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+AD
+51200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

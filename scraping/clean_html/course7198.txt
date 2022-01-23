@@ -1,0 +1,59 @@
+PHRM 83500 - Principles Of Pharmacokinetics
+
+Credit Hours: 3.00.  This course introduces the theory and concepts of pharmacokinetics and biopharmaceutics. It provides the student with a foundation for more advanced therapeutic concepts in subsequent courses. The learner will develop expertise in quantifying drug absorption, distribution and elimination from concentration vs. time data or urinary drug excretion vs. time data to estimate primary pharmacokinetic parameters. Use of these parameters is required to design and modify individual drug-dosing regimens. Typically offered Fall.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Pharmacy 
+
+Department: Dept of Pharm Practice 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Describe the general physiological processes and factors that influence drug dissolution, absorption, distribution, metabolism and excretion.
+2.  Define and describe the pharmacokinetic features of parallel, sequential, and reversible first-order processes.  Define and describe the pharmacokinetic features of zero-order and first-order, and Michaelis-Menten processes.
+3.  Anticipate the effects of altering rate and extent of absorption, clearance, volume of distribution on the amount of drug in the body following an oral dose.
+4.  Define and describe the pharmacokinetic parameters and equations used to calculate the loading and maintenance dose of drugs eliminated by first-order kinetics.
+5.  Collect relevant patient information and relevant drug information data in order to calculate the appropriate loading and maintenance dose of a drug.
+6.  Design and modify dosing regimens given patient-derived information such as plasma concentration vs. time data and dosing regimen.
+7.  Quantitatively draw the concentration vs. time curves when clearance, volume of distribution or bioavailability changes and explain how the curves have changed.
+8.  Define and describe relative and absolute bioavailability the factors controlling bioavailability from various routes of administration.  Determine if absorption or elimination rate-limits drug absorption kinetics.
+9.  Describe the pharmacokinetic parameters that determine the time course of active metabolite disposition. Determine if formation or elimination rate-limits active metabolite kinetics.
+10.  Describe drug disposition based upon physiological determinants in terms such as organ perfusion, unbound intrinsic clearance, free fraction in plasma and in tissue.
+11.  Describe, with examples, how altered physiology (e.g., renal disease, liver disease, pregnancy, advanced age) affects the disposition of drugs.  Define and describe the principles of hemodialysis and how this alters the disposition of drugs.
+12.  Define steady-state concentration and describe the controlling factors following a constant rate intravenous infusion.  Use pharmacokinetic parameters to predict drug concentrations during and after a constant rate infusion, with or without a bolus dose.
+13.  Define and describe the pharmacokinetic parameters and equations used to calculate the loading and maintenance doses of drugs.  Predict the rate and extent of drug accumulation for a given regimen of fixed dose and interval.
+14.  Define and describe the basic models used to characterize the kinetics of effect (pharmacodynamics).
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Doctor of Pharmacy-DP
+
+Must be enrolled in one of the following Levels:      
+
+      Professional
+
+
+Prerequisites: 
+
+ Professional level  PHRM 82500 Minimum Grade of C- [may be taken concurrently]
+
+

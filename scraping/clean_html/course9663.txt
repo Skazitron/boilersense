@@ -1,0 +1,42 @@
+MA 30300 - Differential Equations And Partial Differential Equations For Engineering And The Sciences
+
+Credit Hours: 3.00.  This is a methods course for juniors in any branch of engineering and science, designed to follow MA 26200 or MA 26600. Materials to be covered are: linear systems of ordinary differential equations, nonlinear systems, Fourier series, separation of variables for partial differential equations, and Sturm-Liouville theory.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Mathematics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Learn to solve second order linear differential equations by using power series.
+2.  Learn the Laplace Transform method for solving differential equations.
+3.  Learn the theory of systems of first order linear differential equations and methods for solving them.
+4.  Learn numerical methods for solving differential equations.
+5.  Learn about Fourier series and how to use them to solve separable partial differential equations.
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MA 26200 Minimum Grade of C- or Undergraduate level  MATH 26200 Minimum Grade of C- or Undergraduate level  MA 36600 Minimum Grade of C- or (Undergraduate level  MA 26500 Minimum Grade of C- and Undergraduate level  MA 26600 Minimum Grade of C-) or (Undergraduate level  MA 35100 Minimum Grade of C- and Undergraduate level  MA 26600 Minimum Grade of C-)
+
+

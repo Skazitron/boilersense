@@ -1,0 +1,45 @@
+FNR 58700 - Advanced Spatial Ecology And GIS
+
+Credit Hours: 3.00.  Introduction to the principles of landscape ecology and biogeography with a laboratory devoted to the analysis of spatial data using geographic information systems and other database tools. Landscape ecology focuses on the important relationships of landscape structure (pattern, heterogeneity) and ecological processes (movement of animals, hydrologic dynamics) and how this information is used for natural resource management. Biogeography examines ecological patterns and processes at larger scales (generally at subcontinental to global) for the purposes of managing plants and animals of global importance. In the last 15 years, tremendous efforts have been made to create spatial databases that help support research and management of natural resources at various scales. The lab will focus on the use and application of these databases that are common in natural resource management settings. Typically offered Fall.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Forestry and Natural Resources 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Apply the principles of landscape ecology to the analysis of spatial change in urban, agricultural and forested landscapes for the purposes of natural resource management.
+2.  Calculate change in landscape patterns using a variety of geospatial tools such as geographic information systems, spatial models, and geostatistics.
+3.  Prepare reports using the traditional scientific journal article format, on the analysis of landscape-scale change, focusing on problems common to watershed management.
+4.  Compare and contrast the ways that biodiversity can be calculated using standard indices of organismal diversity.
+5.  Calculate ecological footprints and evaluate why these vary across geopolitical and/or ecological units.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

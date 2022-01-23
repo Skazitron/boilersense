@@ -1,0 +1,43 @@
+CS 58000 - Algorithm Design, Analysis, And Implementation
+
+Credit Hours: 3.00.  Basic techniques for designing and analyzing algorithms: dynamic programming, divide and conquer, balancing. Upper and lower bounds on time and space costs, worst case and expected cost measures. A selection of applications such as disjoint set union/find, graph algorithms, search trees, pattern matching. The polynomial complexity classes P, NP, and co-NP; intractable problems.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Computer Science 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      PU Fort Wayne
+
+      West Lafayette
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Computer Science-MS
+
+      Computer Science-MS
+
+      Computer Science-MS
+
+      Computer Science-PHD
+
+

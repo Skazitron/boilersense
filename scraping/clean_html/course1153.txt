@@ -1,0 +1,55 @@
+AAE 56000 - System-Of-Systems Modeling And Analysis
+
+Credit Hours: 3.00.  Introduction to features of system-of-systems problems; problem definition tools; role of complexity; network topology analysis and agent-based simulation models; architecture analysis; metrics for multi-stakeholder problems; semester team projects allow students to exercise and critique such methods for analyzing system-of-systems problems. Some background in probability and statistics (e.g. random variables, probability density and distributions, sampling methods) is expected.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Introduce to modeling and analysis techniques for system-of-systems (SoS) problems in engineering.
+2.  Center on students' ability for understanding, modeling, and analyzing SoS problems, which consist of multiple, heterogeneous, distributed systems embedded in networks at multiple levels that evolve over time. These problems are often large-scale and interdisciplinary, involving systems and behaviors found in diverse fields such as engineering, economics, social science, policy, etc.
+3.  Present developments in addressing system-of-systems problems, describes criteria, lexicon, and analysis methodology for their study, and, through semester-long team projects, allows students to explore the many unknowns that persist in this emerging field.
+4.  Know the major subjects covered: distinguishing traits of and behaviors of SoS problems, complexity and complex adaptive systems, agent-based modeling, modern network theory and analysis tools, modeling for decision-making, and exploratory modeling.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Freshman: 15 - 29 hours
+
+      Junior: 75 - 89 hours
+
+      Sophomore: 45 - 59 hours
+
+      Junior: 60 - 74 hours
+
+      Freshman: 0 - 14 hours
+
+      Sophomore: 30 - 44 hours
+
+

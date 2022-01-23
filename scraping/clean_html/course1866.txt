@@ -1,0 +1,80 @@
+ENGT 55000 - Manufacturing System Design For Sustainability
+
+Credit Hours: 3.00.  This course prepares manufacturing and information technology leaders to design and analyze manufacturing processes to achieve manufacturing system objectives that meet internal and external customers quality, cost and delivery requirements within a safe environment. The course project covers major aspects of manufacturing system design and Industry 4.0 in the context of meeting customer needs. Technology leaders and entrepreneurs learn how to work with others to develop the design of manufacturing systems that are sustainable (business, ecological, social, technological) for the long-term. When to use lean and six-sigma techniques in the context of the manufacturing enterprise system design to meet customer needs will be assessed from a system design perspective, through analytical and computer simulation techniques, and through the use of physical modeling tools. Typically offered Fall Spring Summer.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Individual Study 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Dual Campus
+
+      Indianapolis
+
+      Elkhart
+
+      Greensburg
+
+      Kokomo
+
+      Lafayette
+
+      Muncie
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+      Statewide
+
+      Vincennes
+
+      Versailles
+
+
+Learning Outcomes: 
+1.  Relate why and how the design of manufacturing processes/equipment that support manufacturing system requirements enables lower cost, high quality, on-time delivery, volume and mix flexibility, sustainability, and continuous improvement.
+2.  Determine why our tone affects the ability to make systems improvements; realize that the origin of at least 90 percent of all issues is due to the system design and implementation and not the people.
+3.  Apply a structured approach and language to identify, describe, and relate system design thinking to implementation structure and work - i.e. Lean is an outcome of effective system design.
+4.  Align performance measures to reinforce manufacturing system design requirements with the knowledge that total cost results from the system design.
+5.  Design a manufacturing system and the included manufacturing processes to establish product flow, part families and takt time -- time per unit (average pace of customer demand).
+6.  Create a controllable, robust system design, i.e., a manufacturing system that meets customer quality and delivery expectations in spite of disruptions.
+7.  Reduce the 5 Delays that increase manufacturing lead time by using manufacturing system design.
+8.  Apply methods to evaluate and develop Manufacturing Systems, including the Manufacturing System Design Decomposition (MSDD), Capability Maturity Model Integration (CMMI), Six Sigma (DMAIC) Process.
+9.  Describe why Tone, Plan Do Check Act (PDCA), Standard Work, Takt Time and a Robust / Controllable System Design are necessary for continuous improvement and sustainability.
+10.  Develop an organizational structure to sustain and improve the manufacturing system.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

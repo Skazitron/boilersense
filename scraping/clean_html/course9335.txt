@@ -1,0 +1,52 @@
+ECET 38502 - Introduction To Automotive Electronics Laboratory
+
+Credit Hours: 1.00.  This course is a laboratory study of automotive electronics components and systems. The main topics are electronic circuit fundamentals, sensor characterization and signal conditioning, and actuator control.
+
+    1.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Analyze performance of automotive sensors and actuators. Design and construct signal conditioning circuits for sensor outputs and driver circuitry for actuators.
+2.  Use digital multi-meters, digital storage oscilloscopes, current clamps and OBD-II instrumentation to retrieve, store and analyze data from automotive engines and systems.
+
+
+
+Corequisites: 
+
+ECET 38501
+
+

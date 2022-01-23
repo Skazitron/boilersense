@@ -1,0 +1,36 @@
+ECE 65400 - Solid State Devices II
+
+Credit Hours: 3.00.  Introduction to advanced concepts in semiconductor devices as an extension and continuation of ECE 606. Topics include charge storage and transfer in deep depletion MOS devices (CCDs and DRAMs); negative differential mobility and transit time effects in microwave oscillators (Gunn and IMPATT diodes); spontaneous and stimulated emission, quantum efficiency, and charge confinement in photonic devices (LEDs and double heterojunction lasers); and quantum efficiency and spectral response in conventional and avalanche photodiodes. Prerequisite: ECE 60600.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      PU Fort Wayne
+
+      IUPUI
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

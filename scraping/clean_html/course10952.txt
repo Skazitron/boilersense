@@ -1,0 +1,30 @@
+CHE 63200 - Linear Operator Methods In Chemical Engineering
+
+Credit Hours: 3.00.  Application of the spectral theory of linear self-adjoint and non-self-adjoint operators on abstract Hilbert spaces to problems in chemical engineering. Symmetrizable non-self-adjoint problems in finite and infinite dimensional spaces with applications to physical and chemical rate processes in homogeneous and composite media. Solution of transport equations governing heat and mass transfer in deforming and chemically reacting media. Introduction to non-self-adjoint problems in chemical engineering. Offered in alternate years. Prerequisite: CHE 63000.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Chemical Engineering 
+
+Department: Chemical Engineering 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

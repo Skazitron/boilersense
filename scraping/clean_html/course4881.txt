@@ -1,0 +1,43 @@
+CNIT 57000 - IT Data Analytics
+
+Credit Hours: 3.00.  Students learn decision strategies as well as Big Data and data analytics concepts using statistical inference, regression, predictive analytics, and data mining. Students will have "hands-on" opportunities using tools such as R to assist in these efforts. The primary mission of this course is to provide students 1) an awareness of the primary approaches, techniques, and tools used for business/data analytics in industry, 2) opportunities to see their applications in a variety of areas, and 3) practical experience in applying them to challenges of interest to the students. Of primary emphases are the roles and responsibilities of Information Technology in enabling and supporting data analytics in organizations. Upon successful completion of this course, students will be able to understand key business/data analytics concepts and apply analytics approaches, techniques, and tools for decision making purposes. Permission of instructor required.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Research and analyze key business/data analytics concepts.
+2.  Apply analytics approaches, techniques, and tools for decision making purposes.
+3.  Recognize the roles and responsibilities of Information Technology in enabling and supporting data analytics in organizations.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

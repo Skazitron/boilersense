@@ -1,0 +1,41 @@
+CGT 32500 - Animation For Games
+
+Credit Hours: 3.00.  In game industry, computer animation is the foundation giving life to human-like virtual characters. A thorough understanding of the motion capture and interactive computer animation is a requisite element of the game development process. This course introduces students to the fundamental techniques and skills required to develop animations for video games using a modern motion capture device and software packages. Students are taught using lectures and lab sessions. The focus of this course is primarily on the technical, artistic, and functional dimensions of animation for games, prioritizing the required technical skills. Production of user controller interactive virtual characters is required.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Demonstrate a moderate level of motion capture animation and animation programming with a commercial game engine.
+2.  Demonstrate the ability to develop character animations and multi-character interaction for games.
+3.  Acquire competency in each of the following domains: motion capture, motion retargeting, motion cleaning, footskate removal, character controller implementation.
+4.  Demonstrate the ability to complete an interactive multi-character story.
+5.  Demonstrate the ability to develop highly realistic animation for video game using a motion capture system.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  CGT 24500 Minimum Grade of C or Undergraduate level  CGT 34100 Minimum Grade of C
+
+

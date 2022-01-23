@@ -1,0 +1,41 @@
+MGMT 28800 - Programming For Business Applications
+
+Credit Hours: 3.00.  This course will cover the fundamentals of business rules and logic in a business application development context. Students will acquire these skills using computer programming. A modern programming language will be used to learn and reinforce logical concepts, including abstraction, process flow, variable assignment, and control structures, as well as proper programming and application development practices, including documentation. Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Management 
+
+Department: School of Mgmt Adm & Instr 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand and apply basic technical knowledge to managerial problems.
+2.  Successfully write, test, and run computer programs designed to address managerial problems.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Management
+
+

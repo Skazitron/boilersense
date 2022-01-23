@@ -1,0 +1,41 @@
+CE 54900 - Computational Watershed Hydrology
+
+Credit Hours: 3.00.  Use of professional computer programs for the calculation of the runoff from complex basins. Generation of unit hydrographs. Calculation of losses, channel and reservoir routing, parameter optimization, and application of Kinematic wave technique to urban catchments.  Offered in alternate years.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Civil Engineering 
+
+Department: Lyles School of Civil Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

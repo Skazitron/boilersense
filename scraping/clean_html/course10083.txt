@@ -1,0 +1,40 @@
+HSCI 67400 - Radiological Diagnostic Imaging Internship
+
+Credit Hours: 3.00.  This internship course provides the student with hands-on experience with clinical imaging equipment, lectures on the fundamental operation of the equipment, and quality assurance/control methods/assessment of this equipment. Students will learn the safety and imaging performance of flat panel digital x-ray system, fluoroscopy, CT scanner, Ultrasound system, and MRI scanner. Lectures will provide fundamental physics and operation of each system, perform quality assurance methods employed by board certified Medical Physics, and subsequent analysis of these methods. This course is to be delivered as a 50-minute lecture, a 150-minute lab, which includes additional time for image analysis (computational lab). The goal of this course it to provide the necessary information as part of CAMPEP/ABR and ACVR. Prerequisite: HSCI 57000 Introduction to Medical Imaging. Typically offered Spring.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Laboratory, Lecture 
+
+
+Offered By: College of Health & Human Sci 
+
+Department: Health Sciences 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Communicate results to the faculty in charge, both verbally and in writing through their lab report.
+2.  Develop procedures that will provide the required measurement. The  protocol they implement will require careful consideration and have a physical understanding of the result.
+3.  Understanding the quality of the measurements and potential procedural errors.
+4.  Synthesize many forms of information to understand image artifacts, characterize the cause of these artifacts, and a means to remediate them.
+5.  Resolve problems, requiring research and ultimately improvements in procedure or protocol.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

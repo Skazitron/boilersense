@@ -1,0 +1,33 @@
+MA 55700 - Abstract Algebra I
+
+Credit Hours: 3.00.  Review of fundamental structures of algebra (groups, rings, fields, modules, algebras); Jordan-Holder and Sylow theorems; Galois theory; bilinear forms; modules over principal ideal domains; Artinian rings and semisimple modules. Polynomial and power series rings; Noetherian rings and modules; localization; integral dependence; rudiments of algebraic geometry and algebraic number theory; ramification theory. Typically offered Fall.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Science 
+
+Department: Mathematics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

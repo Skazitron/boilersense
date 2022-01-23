@@ -1,0 +1,83 @@
+CS 57300 - Data Mining
+
+Credit Hours: 3.00.  (CSCI 57300) Data Mining has emerged at the confluence of artificial intelligence, statistics, and databases as a technique for automatically discovering summary knowledge in large datasets. This course introduces students to the process and main techniques in data mining, including classification, clustering, and pattern mining approaches. Data mining systems and applications are also covered, along with selected topics in current research. Offered in alternate years.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Computer Science 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Learn Data mining techniques.
+2.  Learn how to summarize large data sets.
+3.  Learn current research topics.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Computer Science-MS
+
+      Computer Science-MS
+
+      Computer Science-MS
+
+      Computer Science-PHD
+
+
+Prerequisites:
+
+GR-CS 57300 Requisites
+
+
+General Requirements:
+
+ ( 
+Course or Test: 
+CS
+38100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+STAT
+51600
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+)
+
+
+

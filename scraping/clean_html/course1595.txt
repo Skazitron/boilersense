@@ -1,0 +1,64 @@
+MGMT 58100 - Big Data Technologies
+
+Credit Hours: 2.00.  There is an exponential growth in the adoption of big data technologies in every walk of life. Organizations are collecting, storing, and analyzing massive amounts of data. This data is commonly referred to as big data because of its large volume, the velocity with which it is collected and transmitted, the variety of forms it takes, and veracity of its origin and content. In order to capitalize on the opportunities presented by big data, businesses are putting in place technologies, people, and processes. Just collecting, transmitting and storing big data creates little value for an organization. For many organizations, the term big data currently represents only a data infrastructure such as the Apache Hadoop family of products. The key to delivering real value from big data is the use of analytics. Data must be analyzed and the results used by decision makers and organizational processes in order to generate value. The main objective of this course is to learn how to collect, process, store, and analyze big data. Assignments could easily be completed in Python or SQL. We assume no familiarity with Linux and will introduce you to all essential Linux commands. Students need access to a computer with a 64 bit operating system and at least 4 GB of RAM. Note: 8 GB or more of RAM is strongly recommended. Typically offered Fall.
+
+    2.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Management 
+
+Department: School of Mgmt Adm & Instr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Learn visualization techniques using Tableau to query large datasets and gain insights from it.
+2.  Learn to deploy big data technologies such as Cloudera Hadoop on Virtual Box.
+3.  Learn to collect data using open APIs to access streaming data from sites like Twitter, Quandl, Buzzfeed, etc.
+4.  Learn to architect a big data platform for analysis.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Economics-PHD
+
+      Org Behav HR Mgmt-PHD
+
+      Management-MS
+
+      Management-MSIA
+
+      Management-PHD
+
+      Economics-MS
+
+      Management-MBA
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

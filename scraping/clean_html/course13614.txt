@@ -1,0 +1,41 @@
+EDPS 63600 - Item Response Theory
+
+Credit Hours: 3.00.  Models and model-data fit, estimation of ability and item parameters, item and test information, test construction, obtaining evidence of test reliability and validity, differential item functioning, norming, and equating.   Prerequisite:  EDPS 53100, (PSY 60100 or STAT 50200 or 51200). Typically offered Summer Fall Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Education 
+
+Department: Educational Studies 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Explain fundamental item response theory concepts and terminology.
+2.  Distinguish and select from among 1-, 2-, and 3- parameter item response models for dichotomous data in practical situations.
+3.  Demonstrate familiarity with the graded response and partial credit item response models for polytomous data, and multidimensional item response models.
+4.  Use item response models for testing applications, such as item calibration during instrument/item pool development, estimation of person parameters and conditional standard errors of measurement, investigation of differential item functions, and score linking.
+5.  Conduct item response modeling with specialized software and interpret the results.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

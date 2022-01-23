@@ -1,0 +1,34 @@
+ECON 26000 - Data Visualization And Inference
+
+Credit Hours: 3.00.  This is a self-contained introduction to statistics with economic applications. The goals of this course are to help students develop a working knowledge of data production and interpretation in an economics context, recognize the fundamental interconnectedness of economics and data, and introduce the basic concepts in statistics needed for further study of econometrics and provide basic preparation for ECON 36000. Topics include the organization, analysis, and interpretation of data; descriptive statistics; probability theory; sampling distributions; inference and hypothesis testing; and simple linear regression analysis. The approach of the class includes both learning the concepts behind basic statistics and also how to apply these concepts to make data-informed, real-world economic decisions. Students will become familiar with the common statistical techniques and databases for analyzing data by using both hand-calculations and STATA to analyze data.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Management 
+
+Department: School of Mgmt Adm & Instr 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Develop a working knowledge of data production and interpretation in an economics context.
+2.  Illustrate the fundamental interconnectedness of economics and data.
+3.  Introduce the basic concepts in statistics needed for further study of econometrics.
+
+
+

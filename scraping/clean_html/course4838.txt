@@ -1,0 +1,60 @@
+CNIT 45600 - Wireless Security And Management
+
+Credit Hours: 3.00.  This course is an advanced course concerning security and management issues as they apply to wireless networking. Students will gain knowledge on the problems and solutions the wireless industry face when implementing large scale networks. Issues addressed include encryption weaknesses, security methodology tradeoffs, large scale network management techniques and systems, and advanced wireless network architecture. The laboratory portion of the course enforces the learning outcomes with hands-on experiences in implementing secure, manageable complex wireless networks.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Students will gain extensive knowledge of wireless security standards. 
+2.  Students will implement non-standards based wireless security methodologies.  
+3.  Students will understand WLAN and WWAN network management and the differences between wireless and wire-line security. 
+4.  Students will understand wireless security audit tools and procedures. 
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 34600 Minimum Grade of C- and Undergraduate level  CNIT 34000 Minimum Grade of C- and Undergraduate level  CNIT 45500 Minimum Grade of C-
+
+

@@ -1,0 +1,32 @@
+ECE 63300 - Modeling And Simulation Of Power System Components
+
+Credit Hours: 3.00.  Recommended for those interested in learning to use computer simulation to investigate the dynamic and controlled behavior of electrical power components. Beginning with an introduction to MATLAB/SIMULINK, the course goes through the key steps of modeling, implementing and verifying the simulation of single and three-phase transformers, single and three-phase induction machines, three-phase wound field synchronous machines and permanent magnet machines useful in power applications, each case amply illustrated in projects around some interesting topics. Students are expected to implement and verify about 10 simulation projects and also discuss observed behaviors on topics such as inrush current in transformers, motoring, generating and braking operation of machines, and pulsating torque from subsynchronous resonance. Prerequisite: ECE 42500 or 43200.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

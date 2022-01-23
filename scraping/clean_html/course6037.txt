@@ -1,0 +1,54 @@
+MFET 34800 - Advanced Industrial Robotics
+
+Credit Hours: 3.00.  This course introduces the fundamentals of robotics with emphasis on solutions to the basic problems in kinematics, dynamics, and control of robot manipulators of serial type. It covers modeling of rigid body motion, kinematics of articulated multi-body systems, robot dynamics and simulation, sensing and actuation, robot controls, task planning, and robot operations. Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+      Vincennes
+
+
+Learning Outcomes: 
+1.  Ability to apply kinematics, inverse kinematics and dynamics to determine robot performance.
+2.  Understand and apply robot control and operation strategies.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MFET 24800 Minimum Grade of D- and (Undergraduate level  MA 16020 Minimum Grade of D- or Undergraduate level  MA 16200 Minimum Grade of D- or Undergraduate level  MA 16600 Minimum Grade of D-)
+
+

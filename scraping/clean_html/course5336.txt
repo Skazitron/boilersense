@@ -1,0 +1,32 @@
+ECE 65900 - Quantum Phenomena In Semiconductors
+
+Credit Hours: 3.00.  This course is designed for graduate students familiar with semiconductor fundamentals, with engineering electromagnetics and with linear algebra, but having no significant acquaintance with either quantum mechanics or statistical mechanics. The purpose of the course is to introduce the relevant concepts of quantum mechanics and nonequilibrium statistical mechanics as possible using device-related examples. Topics include: preliminary concepts, equilibrium, restoration of equilibrium, transport, effective mass equation, optical properties, advanced concepts.  Offered every third semester. Prerequisite: ECE 60600, MA 51100.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

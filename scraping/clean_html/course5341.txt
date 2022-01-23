@@ -1,0 +1,38 @@
+ECE 66600 - Advanced Computer Systems
+
+Credit Hours: 3.00.  The study of theoretical aspects of advanced computer systems where multiprocessing is used. Topics include the design, architecture, and performance evaluation of multiprocessor memories, interconnection networks, and computational pipelines. Also included are the topics of scheduling, synchronization, resource allocation, load-balancing, partitioning and deadlock avoidance in multiprocessors. Also covered are the design and analysis of parallel algorithms, programming languages and automatic approaches to parallelism detection/exploitation for concurrent computation. Prerequisite: ECE 56500, 60800.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      IUPUI
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

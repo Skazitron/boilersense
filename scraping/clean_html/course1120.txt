@@ -1,0 +1,31 @@
+AAE 45300 - Matrix Methods In Aerospace Structures
+
+Credit Hours: 3.00.  Matrix algebra and its programming. Energy principles and finite element formulation method. Coordinate transformation and assemblage. Stiffness, mass, and incremental stiffness matrices for aircraft elements - bar, beam, and shear panel. Analysis and design of wing box and fuselage structures using simple computer programs (static and dynamic).
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  AAE 20400 Minimum Grade of D- or Undergraduate level  CE 27300 Minimum Grade of D- or Undergraduate level  ME 32300 Minimum Grade of D- or Undergraduate level  NUCL 27300 Minimum Grade of D-)
+
+

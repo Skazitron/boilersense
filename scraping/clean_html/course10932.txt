@@ -1,0 +1,87 @@
+CHE 53800 - Design And Processing Of Particulate Products
+
+Credit Hours: 3.00. Characterization particulate systems, use of population balances to describe processes that make or transform particles, applications in important unit processes including crystallization, granulation, milling, aerosol processes.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Chemical Engineering 
+
+Department: Chemical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Learn the definition of some key particle properties and appreciate the critical importance of particle characterization in the design of particulate processes.
+2.  Gain an understanding of the population balance as a way of analyzing particulate processes and be able to apply it to a new, unseen problem. 
+3.  Gain an understanding of important science underlying many particulate processes including powder, wetting and particle mechanics.
+4.  Use a combination of this science base, prior chemical engineering knowledge and the population balance to solve design and operating problems in crystallization, granulation, grinding, spray drying and aerosol processes.
+5.  Become familiar with some of the typical engineering equipment used for each process studied. 
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-CHE 53800 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CHE
+34800
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CHE
+37800
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

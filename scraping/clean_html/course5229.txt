@@ -1,0 +1,87 @@
+ECE 51018 - Hybrid Electric Vehicles
+
+Credit Hours: 3.00.  Introduction to architectures and technologies associated with electric and hybrid electric vehicles including their constituent components. Specific topics include electric and hybrid electric drive trains, energy storage (batteries/ultracapacitors, fuel cells), electromechanical energy conversion (induction and permanent magnet motors and generators), power electronics, vehicle-level modeling and control, and optimization. Prerequisite by Topic: Energy conversion and power electronics.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand the principal architectures of electric and hybrid electric vehicles.
+2.  Analyze performance characteristics and understand limitations of each architecture.
+3.  Understand the principal components of an HEV including the energy storage, conversion, transmission, and control subsystems.
+4.  Integrate disparate subsystem models to form end-to-end vehicle model.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+ECE 51018 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ECE
+32100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+ECE
+43300
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

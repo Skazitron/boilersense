@@ -1,0 +1,63 @@
+ECE 30100 - Signals And Systems
+
+Credit Hours: 3.00.  Classification, analysis and design of systems in both the time- and frequency-domains. Continuous-time linear systems: Fourier Series, Fourier Transform, bilateral Laplace Transform. Discrete-time linear systems: difference equations, Discrete-Time Fourier Transform, bilateral Z-Transform. Sampling, quantization, and discrete-time processing of continuous-time signals. Discrete-time nonlinear systems: median-type filters, threshold decomposition. System design examples such as the compact disc player and AM radio.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      PU Fort Wayne
+
+      IUPUI
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Able to classify signals (e.g., periodic, even) and systems (e.g., causal, linear) and an understanding of the difference between discrete and continuous time signals and systems.
+2.  Able to determine the impulse response of a differential or difference equation.
+3.  Able to determine the response of linear systems to any input signal by convolution in the time domain.
+4.  Understand the definitions and basic properties (e.g., time-shift, modulation, Parseval's Theorem) of Fourier series, Fourier transforms, bilateral Laplace transforms, Z transforms, and discrete time Fourier transforms and an ability to compute the transforms and inverse transforms of basic examples using methods such as partial fractions expansions.
+5.  Able to determine the response of linear systems to any input signal by transformation to the frequency domain, multiplication, and inverse transformation to the time domain, an ability to apply the Sampling theorem, reconstruction, aliasing, and Nyquist's theorem to represent continuous-time signal in discrete time so that they can be processed by digital computers.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Elec & Computer Engr
+
+      School of Interdisciplnry Engr
+
+      School of Biomedical Engr
+
+
+Prerequisites: 
+
+ (Undergraduate level  ECE 20002 Minimum Grade of C or Undergraduate level  ECE 20200 Minimum Grade of C or Undergraduate level  BME 30500 Minimum Grade of D-) and (Undergraduate level  MA 26200 Minimum Grade of D- or Undergraduate level  MA 36600 Minimum Grade of D- or Undergraduate level  MA 26600 Minimum Grade of D-)
+
+

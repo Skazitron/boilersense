@@ -1,0 +1,63 @@
+CGT 25500 - Game Development II: Design And Psychology
+
+Credit Hours: 3.00.  (CNIT 30800) This course examines video game design, theory, and development from aesthetic, psychological, and technical perspectives. Students will gain experience with a commercial game development platform. Advanced game development techniques will be taught in this course.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Studio 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Deconstruct and analyze an existing game and define its essential elements as per various theories of game design.
+2.  Identify major psychological paradigms and how they are applied in video game experiences.
+3.  Demonstrate proficiency in applying behavior modification principles in video games.
+4.  Demonstrate individual technical proficiency with a commercial game engine.
+5.  Complete a market-ready video game in a team-based production environment.
+6.  Implement agile production techniques.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Graphics Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CGT 24500 Minimum Grade of C- or Undergraduate level  CNIT 30600 Minimum Grade of C-
+
+

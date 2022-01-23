@@ -1,0 +1,57 @@
+ECET 46100 - International Capstone Project Execution
+
+Credit Hours: 3.00.  This course completes the development and execution of an international industry sponsored senior capstone project carried out jointly with students from a foreign academic institution. Project management and systems engineering methods are applied in the development of solutions to open-ended problems proposed by industry. Design tools including failure mode and effects analysis and configuration management are studied and applied. A manufacturing plan supported by both in process and validation test plans are developed and applied to demonstrate compliance to project requirements. The project is completed with the generation of a proof of concept demonstration that satisfies project requirements. The course concludes with a formal written report and presentation. Electronic and internet communication tools shall be used to maintain team and project progress. Foreign travel shall be required for at least one face to face team meeting during the execution of the project.  Permission of Instructor required.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Travel Time 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+
+Learning Outcomes: 
+1.  Create a functional proof of concept (POC) to solve the given problem.
+2.  Plan and track progress on the project utilizing a software scheduling package.
+3.  Apply formal test procedures to the developed proof of concept.
+4.  Analyze test data and draw valid conclusions on the POC compliance to project requirements.
+5.  Present a project to an industrial sponsor and faculty audience.
+6.  Write a technical report.
+7.  Interact appropriately regarding international cultural diversity particularly in project planning and execution.
+
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  ECET 43100 Minimum Grade of D-
+
+

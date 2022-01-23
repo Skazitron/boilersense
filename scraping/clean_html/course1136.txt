@@ -1,0 +1,81 @@
+AAE 53400 - Spacecraft Electric Propulsion
+
+Credit Hours: 3.00.  Spacecraft electric propulsion systems are intended to provide thrust for propelling spacecrafts in interplanetary missions, orbital maneuvers, and attitude control. The course will start with reviewing material on the mechanics and thermodynamics of propulsion, and identifying the niche occupied by the electric propulsion systems. The course will cover elements of plasma physics and electromagnetic theory essential for studying the electric propulsion systems. The core of the course will focus on studying various electric propulsion concepts which utilize electric power produced on-board to generate thrust. Mechanisms of the utilization of the electric power to accelerate gas or plasma and produce thrust will be considered, including electrothermal, electrostatic, electromagnetic, and gasdynamic acceleration mechanisms.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Determine optimal specific impulse of electric propulsion system based on specific mission requirements
+2.  Demonstrate fundamental understanding of differences between electric and chemical propulsion systems performance and space applications.
+3.  Calculate basic plasma parameters and characteristics of collisional processes.
+4.  Demonstrate fundamental understanding of concepts of quasineutrality and collective behavior in plasmas.
+5.  Perform analysis of electrothermal accelerator at a given frozen flow fraction
+6.  Apply Maxwell equations in differential and integral forms to solve basic electromagnetism problems
+7.  Perform analysis of space-charge limited electrostatic accelerator in ion acceleration zone, in deceleration zone, and in neutralization zone.
+8.  Perform analysis of motion of charged particles in crossed electric and magnetic fields
+9.  Derive and apply modified forms of Ohm's law in two-component moving plasma in presence of magnetic field.
+10.  Perform elementary analysis of crossed-field electromagnetic accelerator with small Hall parameter
+11.  Perform elementary analysis and calculate basic parameters of Hall effect accelerator.
+12.  Demonstrate fundamental understanding of the differences of acceleration concepts used in Hall effect and in electrostatic accelerators.
+13.  Calculate body force in magnetoplasmadynamic accelerator.
+
+
+
+Prerequisites:
+
+GR AAE 53400 Requisties
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+AAE
+33400
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+PHYS
+24100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

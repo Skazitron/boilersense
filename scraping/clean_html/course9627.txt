@@ -1,0 +1,41 @@
+MA 16290 - Data Science Labs: Calculus
+
+Credit Hours: 1.00.  This course consists of weekly computer laboratories which apply concepts learned in Calculus I and II to data science problems. Main topics covered include function sampling and approximation, numerical differentiation, numerical integration, Jupyter notebooks, introductory Python programming, object oriented programming, and data acquisition with microcontrollers and sensors.
+
+    1.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory 
+
+
+Offered By: College of Science 
+
+Department: Mathematics 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Use mathematical tools to process and extract information from data.
+2.  Interact with Jupyter notebooks.
+3.  Write applications in Python 2.
+4.  Acquire basic object oriented programming skills.
+5.  Acquire and interpret sensor data.
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  MA 16100 Minimum Grade of C or Undergraduate level  MA 16500 Minimum Grade of C) and (Undergraduate level  MA 16200 Minimum Grade of C [may be taken concurrently] or Undergraduate level  MA 16600 Minimum Grade of C [may be taken concurrently])
+
+

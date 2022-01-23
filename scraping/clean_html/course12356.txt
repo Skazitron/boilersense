@@ -1,0 +1,32 @@
+AGEC 65000 - Application Of Quantitative Analysis: Econometrics I
+
+Credit Hours: 3.00.  Brief presentation of probability concepts, mathematical expectation, probability density and distribution functions as background for studying principles of economic model construction. Emphasis is on econometric single equation models, principles of estimation, the general linear model, tests of hypothesis, confidence interval estimation, and special topics such as errors in the variables, multicollinearity, dummy variables, hetero-scedasticity, autocorrelation and prediction problems. Prerequisite:  STAT 51100; ECON 51100 or 60700, matrix algebra.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Agricultural Economics 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

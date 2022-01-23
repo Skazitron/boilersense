@@ -1,0 +1,46 @@
+ECON 57600 - Statistical & Machine Learning
+
+Credit Hours: 2.00 or 3.00.  This is an introductory course in statistical and machine learning. It will cover fundamental concepts and essential tools that are critical in understanding cutting-edge machine learning techniques. Students will develop skills in applying a wide variety of modeling and prediction methods. Topics include linear regression, classification, regularization and shrinkage methods, tree-based methods, and support vector machines. An integral part of this course is the extensive use of the open source statistical software R. Students will gain hands-on experience in analyzing datasets commonly used in business and economics.
+
+    2.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Management 
+
+Department: Dept of Economics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Develop skills in applying a wide variety of modeling and prediction methods. Topics include linear regression, classification, regularization and shrinkage methods, tree-based methods, and support vector machines. An integral part of this course is the extensive use of the open source statistical software R.
+2.  Gain hands-on experience in analyzing datasets commonly used in business and economics.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

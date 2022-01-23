@@ -1,0 +1,41 @@
+PSY 51300 - Introduction To Computational Cognitive Neuroscience
+
+Credit Hours: 3.00.  Computational cognitive neuroscience is a new field of study that lies at the intersection of computational neuroscience and the similar fields of machine learning, neural network theory, connectionism, and artificial intelligence. Like computational neuroscience, computational cognitive neuroscience strives for neurobiological accuracy and like connectionism, a major goal is to account for behavior. Covered topics include feature extraction / optimization, connectionism, computational neuroscience, and computational cognitive neuroscience applications. Permission of department required. Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Health & Human Sci 
+
+Department: Psychological Sciences 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand critically existing computational models.
+2.  Master important computational modeling methods.
+3.  Implement and simulate computational models.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

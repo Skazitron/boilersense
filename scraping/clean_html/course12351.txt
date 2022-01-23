@@ -1,0 +1,30 @@
+AGEC 63100 - The Theory And Practice Of Spatial Econometrics
+
+Credit Hours: 3.00.  This course deals with the analysis of spatial data and centers on both exploratory tools developed in spatial statistics and GIScience, as well as on econometric models that have been the main focus in spatial econometrics. During the course, the theoretical basis for the analysis of spatial data and spatial models will be covered. This theoretical angle will be combined with ample opportunities to acquire hands-on experience in the analysis of spatial data. To the effect, up-to-date software, such as GeoDa, R, Stata, and Matlab will be used. A good working knowledge of basic statistics and regression techniques is needed. Prior experience with GIS is helpful but not required. Prerequisites:  AGEC 45100 or 65000 or ECON 67100 or STAT 41700 or STAT 51200 or STAT 51700.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Agricultural Economics 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+
