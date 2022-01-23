@@ -1,0 +1,57 @@
+MET 40100 - Capstone Projects I
+
+Credit Hours: 3.00.  This course deals with the planning for capstone projects. Methods to develop engineering requirements to meet project needs and formal design techniques are studied. Planning and design alternatives to meet cost, performance, and user-interface goals are emphasized. System tests and measurements are considered. Project planning, scheduling, and management techniques are studied. Different design approaches are compared. Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Travel Time 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+      Vincennes
+
+
+Learning Outcomes: 
+1.  Apply the engineering design lifecycle process.
+2.  Evaluate customer needs when defining a solution.
+3.  Evaluate design alternatives to determine the most appropriate design to pursue.
+4.  Define a plan for project development.
+5.  Propose a solution to a technical problem.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MET 10200 Minimum Grade of D- and Undergraduate level  MET 23000 Minimum Grade of D- and Undergraduate level  MET 28400 Minimum Grade of D- and Undergraduate level  MET 34600 Minimum Grade of D- [may be taken concurrently]
+
+

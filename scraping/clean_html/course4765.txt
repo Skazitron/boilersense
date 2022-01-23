@@ -1,0 +1,62 @@
+CNIT 17500 - Visual Programming
+
+Credit Hours: 3.00.  This course introduces event-driven application development and programming using a visual programming environment. Topics include problem solving and program design, control structures, objects and events, user interface construction, documentation, and program testing. Credit may be established in only one of: CPT 15500 or CPT 17500 or CPT 25000. PC literacy required.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Individual Study, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Credit By Exam, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      Richmond
+
+      South Bend
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Industrial Engineering Tech-BS
+
+      Mech Engr Tech-BS
+
+      Mfg Engineering Technology-BS
+
+      Industrial Engineering Tech-BS
+
+      Electrical Engr Tech-BS
+
+
+Prerequisites: 
+
+ 
+
+

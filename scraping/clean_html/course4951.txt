@@ -1,0 +1,48 @@
+STAT 50100 - Experimental Statistics I
+
+Credit Hours: 3.00.  Concepts and methods of applied statistics. Exploratory analysis of data. Sample design and experimental design. Normal distributions. Sampling distributions. Confidence intervals and tests of hypotheses for one and two samples. Inference for contingency tables, regression and correlation, and one-way analysis of variance. Use of the SAS statistical software.  Intended primarily for students who have not had calculus. Not open to students in mathematical sciences or engineering.  For statistics majors and minors, credit should be allowed in no more than one of STAT 30100, STAT 35000, STAT 50100, and in no more than one of STAT 50300 and STAT 51100.  Prerequisite: College Algebra. Typically offered Fall Spring Summer.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Statistics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Produce and identify basic statistical analyses.
+2.  Discuss statistical terminology (speak statistics).
+3.  Use SAS to run basic statistical analyses and interpret corresponding SAS output.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

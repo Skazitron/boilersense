@@ -1,0 +1,90 @@
+CS 52300 - Social, Economic, And Legal Aspects Of Security
+
+Credit Hours: 3.00.  This course focuses on social, legal, and economic aspects of information security and privacy, also including ethics, policies, and human behavioral issues. The course covers the interactions between non-technological aspects of information security as well as relevant technological aspects. It focuses on how non-technological facets can inform and guide technological choices, and how technological choices can enhance or detract from the broader organizational and societal goals.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Computer Science 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Identify and describe the legal, organizational, and financial ramifications of security-related design and management decisions.
+2.  Explain how to respond to a security incident, including recovery and cleanup, damage assessment, forensics and the handling of digital evidence so that it is admissible in court, and satisfying government requirements on the reporting of the incident.
+3.  Identify, evaluate and assess the risks faced by an organization, and their impact and consequences should they materialize (including liability, reputational damage, disruption to operations, loss of customers). Recommend effective and appropriate measures to mitigate those risks.
+4.  Explain the role of incentives in information security, and be capable of evaluating and modifying an organizational and reward structure so that it better aligns the interests of employees with those of the organization.
+5.  Ensure compliance with privacy and data protection laws. Detect and remedy practices that have potential to give rise to violations of these laws.
+6.  Identify major national laws that affect the practice of information security and explain potential interactions.
+7.  Evaluate and improve an e-policy's in security and privacy aspects.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Computer Science-PHD
+
+      Computer Science-MS
+
+      Computer Science-MS
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+
+Prerequisites:
+
+GR-CS 52300 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CS
+42600
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CS
+52600
+
+
+Minimum Grade of 
+C-
+
+May be taken concurrently.
+)
+
+
+

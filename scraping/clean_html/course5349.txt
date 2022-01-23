@@ -1,0 +1,34 @@
+ECE 68000 - Modern Automatic Control
+
+Credit Hours: 3.00.  Theoretical methods in optimal control theory. Topics include the calculus of variations and the Pontryagin minimum principle with applications to minimum energy problems. Geometric methods will be applied to the solution of minimum time problems. Computational methods, singular problems, observer theory, and sufficient conditions for existence of solutions are also discussed. Offered in alternate years. Prerequisite: ECE 60200.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      IUPUI
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

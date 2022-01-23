@@ -1,0 +1,61 @@
+CGT 41201 - Contemporary Problems In Applied Computer Graphics II
+
+Credit Hours: 2.00.  CGT 41201 is the second course in the CGT applied computer graphics capstone sequence with a focus on execution and evaluation of the senior capstone project. Emphasis will be placed  on industry engagement for the execution of the project plan that was developed in CGT 41101. Students will work in teams to execute the project plan; develop and execute a project evaluation plan, and make a professional final presentation to industry members, faculty, and peers. Students will execute a project refinement process based on feedback received and incorporate that into a final presentation and project report. CGT 41201 will be taught in a seminar format with one meeting per week focused on project status checks, evaluation plan development and execution, and project presentations.
+
+    2.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Execute a project plan to produce a substantial graphics product.
+2.  Develop and execute an evaluation plan of their capstone project.
+3.  Develop professional presentations incorporating external feedback and project results.
+4.  Produce a major project report for their capstone project, including project management, rationale, and substantial findings.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Graphics Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CGT 41101 Minimum Grade of D-
+
+

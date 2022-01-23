@@ -1,0 +1,108 @@
+PHYS 56600 - Introduction To Quantum Chromodynamics
+
+Credit Hours: 3.00.  An introduction to the fundamental theory of strong interactions, Quantum Chromo-Dynamics (QCD), which describes the interactions of quarks and gluons. The main focus is on a reasonably self-contained approach.  All the necessary ingredients will be introduced within the course.  Knowledge of graduate-level E&M and Quantum Mechanics is helpful but not essential.  Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Science 
+
+Department: Physics and Astronomy 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-PHYS 56600 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Rule: 1.: PHYS 33000 or 43000)  for a total of 1 conditions
+)
+
+PHYS
+33000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+PHYS
+43000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+End of rule 1.
+
+and
+Rule: 2.: PHYS 36000 or 46000 or 55000  for a total of 1 conditions
+
+PHYS
+36000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+PHYS
+46000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+PHYS
+55000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+End of rule 2.
+
+
+

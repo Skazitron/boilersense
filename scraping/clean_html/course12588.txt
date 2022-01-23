@@ -1,0 +1,54 @@
+IET 31300 - Technology Innovation And Integration: Bar Codes To Biometrics
+
+Credit Hours: 3.00.  This course provides the foundation for automatically capturing data in a system. The content covers an introduction to technology used in automatic identification and data capture systems, including: bar codes; radio frequency identification; smart cards, and biometrics. Topics also include an immersive semester project that examines the integration of these technologies, as well as advanced problem solving.  Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Indianapolis
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+      Vincennes
+
+
+Learning Outcomes: 
+1.  Describe the essential components of an AIDC system.
+2.  Evaluate and propose solutions to AIDC system-related problems.
+3.  Clearly and effectively communicate findings and results.
+4.  Describe principles of integrating and managing AIDC systems.
+5.  Identify opportunities for system improvement.
+
+
+

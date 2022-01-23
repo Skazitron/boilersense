@@ -1,0 +1,49 @@
+PHYS 17200 - Modern Mechanics
+
+Credit Hours: 4.00.  Introductory calculus-based physics course using fundamental interactions between atoms to describe Newtonian mechanics, conservation laws, energy quantization, entropy, the kinetic theory of gases, and related topics in mechanics and thermodynamics.  Emphasis is on using only a few fundamental principles to describe physical phenomena extending from nuclei to galaxies.  3-D graphical simulations and numerical problem solving by computer are employed by the student from the very beginning. Typically offered Fall Spring Summer.
+CTL:IPS 1753 Calculus-based Physics I
+
+    0.000 OR     4.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Recitation 
+
+
+Offered By: College of Science 
+
+Department: Physics and Astronomy 
+
+
+Course Attributes: Credit By Exam, Core Transfer Library, Lower Division, GTC-Science, UC-Science 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand and describe a wide range of physical phenomena in mechanics and thermodynamics using only a few fundamental principles of physics.
+2.  Learn a unified approach that relates microscopic behavior to macroscopic behavior.
+3.  Model natural phenomena quantitatively.
+4.  Apply all this to a range of topics related to mechanics and thermodynamics.
+
+
+
+
+Restrictions:
+
+May not be enrolled in one of the following Programs:      
+
+      Physics-BS
+
+
+Prerequisites: 
+
+ (   (Undergraduate level  MA 16100 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MA 16300 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MA 16700 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MATH 16300 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MA 16500 Minimum Grade of D- [may be taken concurrently]) or (   (Undergraduate level  MA 23100 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MA 22100 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MA 16010 Minimum Grade of D- or Undergraduate level  MATH 23100 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MA 22300 Minimum Grade of D- [may be taken concurrently]) and (Undergraduate level  MA 23200 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MA 22200 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MA 16020 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MATH 23200 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MA 22400 Minimum Grade of D- [may be taken concurrently])   ) or Undergraduate level  MATH 16500 Minimum Grade of D- [may be taken concurrently] or  ALEKS Math Assessment 085) or  SAT Mathematics 650 or  ACT Math 29 or  SATR Math 670
+
+

@@ -1,0 +1,47 @@
+ECE 41300 - Introduction To Optics Laboratory
+
+Credit Hours: 1.00.  A set of laboratory experiments dealing with fundamentals and applications of geometrical optics, polarization optics, wave optics, and Fourier optics.
+
+    1.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Design, construct, and test a simple optical system by assembling a set of optical components.
+2.  Test the operation of simple interferometers.
+3.  Make holograms using lab equipment.
+4.  Design practical optical system (e.g.; barcode scanner, laser microphone, etc.) and analyze its performance.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Elec & Computer Engr
+
+
+Prerequisites: 
+
+ Undergraduate level  ECE 30100 Minimum Grade of D- and (Undergraduate level  ECE 20800 Minimum Grade of D- or Undergraduate level  ECE 20008 Minimum Grade of D-) and (Undergraduate level  ECE 30411 Minimum Grade of D- or Undergraduate level  ECE 31100 Minimum Grade of D-) and Undergraduate level  ECE 41200 Minimum Grade of D- [may be taken concurrently]
+
+

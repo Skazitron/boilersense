@@ -1,0 +1,86 @@
+STAT 58000 - Application Of Statistical Theory
+
+Credit Hours: 3.00.  The use of numerical methods to obtain answers in problems arising in probability and statistics. Topics will include the use of the likelihood function, Bayesian and classical methods of estimation and testing, evaluation of probabilities, linear and nonlinear regression. STAT 53200, 55400, and some knowledge of computing and complex analysis are desirable. Typically offered Fall.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Science 
+
+Department: Statistics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-STAT 58000 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+52800
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+STAT
+53900
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+STAT
+57600
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

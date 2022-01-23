@@ -1,0 +1,58 @@
+CGT 42300 - Product Data Management
+
+Credit Hours: 3.00.  This course provides an understanding of the types of data generated and used in the product lifecycle, the current tools and methodologies in the management of that data, and system analysis and implementation techniques for using PDM as the backbone supporting a company's product development and implementation activities.  Interaction between various enterprise systems is also discussed.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      IUPUI
+
+      West Lafayette
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      Aeronautic Engr Technology
+
+      Animation
+
+      Building Information Modeling
+
+      Computer Graphics Tech
+
+      Effects Technical Direction
+
+      Game Development and Design
+
+      Human Centered Design & Dev
+
+      Visual Effects Compositing
+
+      Virtual Product Integration
+
+      Web Programming & Design
+
+
+Prerequisites: 
+
+ Undergraduate level  CGT 22600 Minimum Grade of C-
+
+

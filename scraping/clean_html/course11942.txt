@@ -1,0 +1,117 @@
+CE 51401 - Building Controls
+
+Credit Hours: 3.00.  This course is designed to provide students with the knowledge of fundamentals, design, and analysis for building control systems. It primarily consists of three parts. The first part covers basic concepts, terminology, procedures and computations of control systems including block diagrams & transfer functions, open-loop & closed-loop control, control system modeling, time response, root locus techniques, design via root locus, and digital control systems. The second part focuses on issues surrounding the building controls: interfacing components such as sensors and actuators, problems encountered, and state-of-the-art solutions for building energy efficiency and thermal comfort. The third part aims to develop students' ability to convert control system concepts into real building control systems. The course provides a hands-on opportunity for students to complete three projects associated with the three primary components during the semester: indoor environmental quality assessment, building HVAC system commissioning and its control analysis, and new control algorithm development for building energy efficiency, occupant health, and individual productivity.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Civil Engineering 
+
+Department: Lyles School of Civil Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Demonstrate basic HVAC processes and explain the function, layout, and operation of commercial HVAC systems. 
+2.  Analyze the function, operating characteristics, and appropriate applications of basic control loops and control modes as found in direct digital, analog electronic, electronic and pneumatic commercial control systems. 
+3.  Understand and program a sequence of control, lay out a control system logic diagram and program it into a DDC controller. 
+4.  Understand the function of network devices and network protocols such as a bridge, router, gateway, hub, firewall, Ethernet, TCP/IP, BacNet, and Lon Talk. 
+5.  Use general-purpose and specific building automation software to monitor and control a building HVAC system. 
+6.  Numerically model a building to define the key control parameters for thermal comfort. 
+7.  Develop and program alternative control algorithms for building HVAC systems in order to enable sustainable buildings.  
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Aero and Astro Engr
+
+      School of Biomedical Engr
+
+      School of Civil Engineering
+
+      School of Chemical Engineering
+
+      Construction Engineering Mgmt
+
+      School of Elec & Computer Engr
+
+      School of Engineering Educ
+
+      Div of Environ & Ecol Engr
+
+      Graduate School
+
+      School of Industrial Engr
+
+      School of Mechanical Engr
+
+      School of Materials Engr
+
+      School of Nuclear Engineering
+
+      School of Agr and Bio Engr
+
+Must be enrolled in one of the following Classifications:      
+
+      Senior 105+ hours
+
+      Graduate
+
+      Senior 90 - 104 hours
+
+
+Prerequisites:
+
+GR-CE 51401 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CE
+41300
+
+
+Minimum Grade of 
+D-
+
+May be taken concurrently.
+and
+Course or Test: 
+CE
+41400
+
+
+Minimum Grade of 
+D-
+
+May be taken concurrently.
+)
+
+
+

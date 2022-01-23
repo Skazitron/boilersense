@@ -1,0 +1,305 @@
+EPCS 41100 - Senior Design Participation In EPICS
+
+Credit Hours: 1.00. Continuation of EPICS courses.  Seniors using EPCS 41100 to fulfill capstone or design requirements where approved for their major may be required to satisfy additional course requirements specified by their degree program.  EPCS 41100 is offered for 1 credit.  The EPICS procedures manual provides information on expected relative workload for EPCS 41100 and EPCS 41200 students.  Seniors are responsible for the management tasks of planning and organizing their team project activity.  They are expected to contribute expertise from their discipline to the design of the team's projects throughout most of the design process phases of problem  identification, specification development, design, production, and deployment.  Seniors will also meet with the customer and mentor the first year, sophomores and juniors.  May not be taken concurrently with EPCS 41200.  Typically offered Fall Spring.
+
+    0.000 OR     1.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: College of Engineering 
+
+Department: Engr Prog In Community Service 
+
+
+Course Attributes: Honors, Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1. An ability to apply material from their discipline to the design of community-based projects.
+2. An understanding of design as a start-to-finish process.
+3. An ability to identify and acquire new knowledge as a part of the problem-solving/design process.
+4. An awareness of the customer.
+5. An ability to function on multidisciplinary teams and an appreciation for the contributions from individuals from multiple disciplines.
+6. An ability to communicate effectively with audiences with widely-varying backgrounds.
+7. An awareness of professional ethics and responsiblity.
+8. An appreciation of the role that their discipline can play in social contexts.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      Computer Engineering
+
+      Computer Science
+
+      Electrical Engineering
+
+      Interdisciplinary Engineering
+
+Must be enrolled in one of the following Classifications:      
+
+      Senior 105+ hours
+
+      Senior 90 - 104 hours
+
+
+Prerequisites:
+
+EPCS 41100 Requisites
+
+
+General Requirements:
+
+ ( 
+Rule:  1.: ECE 20100  for a total of 9 conditions
+)
+
+ECE
+20100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+ECE
+20200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+ECE
+20700
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+ECE
+20800
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+ECE
+25500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+ECE
+27000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+ECE
+30100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+ECE
+30200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+ECE
+31100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+End of rule  1.
+
+or
+Rule:  2.: ECE 20100  for a total of 13 conditions
+
+ECE
+20100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+ECE
+20200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+ECE
+20700
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+ECE
+20800
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+ECE
+25500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+ECE
+26400
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+ECE
+27000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+ECE
+30100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+ECE
+30200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+ECE
+33700
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+ECE
+36200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+ECE
+36400
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+ECE
+36800
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+End of rule  2.
+
+or
+Rule:  3A.: ME 27000 or CE 29700  for a total of 1 conditions
+
+CE
+29700
+
+
+May not be taken concurrently.
+
+ME
+27000
+
+
+May not be taken concurrently.
+End of rule  3A.
+
+and
+Rule:  3B.: ME 27400 or CE 29800  for a total of 1 conditions
+
+CE
+29800
+
+
+May not be taken concurrently.
+
+ME
+27400
+
+
+May not be taken concurrently.
+End of rule  3B.
+
+

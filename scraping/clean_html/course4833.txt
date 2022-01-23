@@ -1,0 +1,48 @@
+CNIT 43500 - Advanced Network Services
+
+Credit Hours: 3.00.  This course covers the concepts and technologies required to deploy advanced network services such as telephony and television over modern data networks. The underlying network structure and enabling services will be detailed along with a comprehensive analysis of protocols and services required to deploy such services.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      South Bend
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 34500 Minimum Grade of C- or Undergraduate level  CPT 34500 Minimum Grade of C- or Undergraduate level  CPT 43000 Minimum Grade of C- or Undergraduate level  CNIT 43000 Minimum Grade of C-
+
+

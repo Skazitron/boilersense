@@ -1,0 +1,106 @@
+IET 53410 - Implementation And Advanced Topics Of Enterprise Six Sigma
+
+Credit Hours: 3.00.  This course is designed to expose master's and doctoral students to the theory behind implementation of Six Sigma at the Enterprise level. Students will develop their own research with regard to the future of the discipline through particular assessments. Topics include structure and methodology of Six Sigma deployment, including: systems thinking, change management, business process management, competitive intelligence through international standards, and the future of the discipline. Students will learn the methodology of Six Sigma at the project level for technical skill building in addition to practices of implementing and managing Six Sigma at an organizational level. Permission of Instructor required. Typically offered Fall Spring Summer.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Define Six Sigma by describing the various technical aspects of the DMAIC methodology.
+2.  Have a knowledge basis suitable to pass an external Six Sigma certification exam.
+3.  Have the ability to recognize the organizational opportunity for the implementation and management of Six Sigma at the enterprise level.
+4.  Exhibition of knowledge needed to introduce and champion Six Sigma strategically to the organization.
+5.  Conduct applied or use inspired research in Six Sigma discipline by identifying current boundaries of the discipline, identify novel applications, and appraise the standardization of the body of knowledge.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-TLI 53410 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+IT
+50700
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+50100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+51100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+PSY
+60000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

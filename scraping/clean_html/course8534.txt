@@ -1,0 +1,63 @@
+CGT 44500 - Game Development IV: Procedural Asset Creation For Games
+
+Credit Hours: 3.00.  This course teaches a procedural approach to game development ranging from geometric modeling techniques, crowd simulation, particle systems, fluid simulation and flame simulation. The course will examine procedural nondestructive workflows that can be translated into real-time assets for game development. Students will learn how to set up nodal and parameter based graphs that carry the ability to be interactively updated and changed, thus having the flexibility expected in an industry pipeline.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Studio 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Implement non-destructive procedurally modeled and aesthetically pleasing assets while demonstrating an understanding of scalable UVs.
+2.  Implement assets within game engine environment, harnessing the advanced procedural production in an optimized real-time setting.
+3.  Create asset movement through implementation of simple expressions to drive procedural animations.
+4.  Create finished and refined renders for use in visualization and sequenced flipbook animations.
+5.  Demonstrate knowledge of pre-rendered particle systems and an understanding of transference to real-time applications.
+6.  Demonstrate mastery of rigid body dynamics to create in-game destruction sequence.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Graphics Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CGT 25500 Minimum Grade of C- and Undergraduate level  CGT 20500 Minimum Grade of S
+
+

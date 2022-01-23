@@ -1,0 +1,68 @@
+ME 57900 - Fourier Methods In Digital Signal Processing
+
+Credit Hours: 3.00.  Fundamentals of signal processing associated with Fourier analyzer systems are presented. Emphasis is on amplitude accuracy and frequency resolution properties necessary for reliable experimental methodologies in system identification, spectrum estimation, and correlation analysis. Deterministic, as well as random, data analyses are presented. Students are required to develop algorithms that significantly expand the utility of Fourier analyzer systems. Typically offered Fall.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Mechanical Engr 
+
+Department: Mechanical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ME 37500 Course
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ME
+37500
+
+
+Minimum Grade of 
+B
+
+May not be taken concurrently.
+)
+
+
+

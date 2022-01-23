@@ -1,0 +1,49 @@
+TLI 52700 - Behavioral Analytics
+
+Credit Hours: 3.00.  Behavioral Analytics has been designed to provide a foundation of skills and tools that enable students to determine their own project topic, collect the data that they need, manipulate that data, and perform analysis consistent with their data. This is an experiential learning process that offers a great deal of flexibility with respect to the methods and tools used, and students are encouraged to create a final project in a manner consistent with publications within their discipline. Permission of instructor required. Typically offered Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Technology Ldrshp & Innovatn 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Identify behavioral data and develop hypotheses.
+2.  Collect data from websites, APIs, and databases.
+3.  Use methods and tools to clean and organize that data.
+4.  Use visualizations and statistical techniques to address behavioral hypotheses.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

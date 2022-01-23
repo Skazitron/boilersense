@@ -1,0 +1,59 @@
+CGT 53400 - Technical Documentation In The Digital Enterprise
+
+Credit Hours: 3.00.  This course will explore the different ways technical documentation manifests itself within the enterprise to support the digital thread. We will use various industry applications to create and modify technical documentation and explore the processes and applications that facilitate the creation, storage, and configuration of technical documentation.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Provide a history of the evolution of Technical Documentation.
+2.  Provide an overview and background of the emerging use of Technical Documentation in the context of the Digital Enterprise.
+3.  Explain and demonstrate how to generate various forms of Technical Documentation for manufacturing.
+4.  Expose students to the opportunities and uses of Technical Documentation throughout the supply chain.
+
+
+
+Prerequisites:
+
+GR-CGT 53400 Requisites
+
+
+General Requirements:
+
+ ( 
+Course or Test: 
+CGT
+51400
+
+
+May not be taken concurrently.
+and
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+)
+
+
+

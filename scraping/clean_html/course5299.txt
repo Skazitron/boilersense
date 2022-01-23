@@ -1,0 +1,39 @@
+ECE 60419 - Numerical Simulations Of Electro-Optic Energy Systems
+
+Credit Hours: 3.00.  Introduction to computational techniques employed in research on energy systems involving quantum electronics and electromagnetics. You will learn the strengths and weaknesses of each approach; what types of problem call for which one; and how your simulation will perform. Techniques include eigenvalue problems, fast Fourier transforms, band structure calculations, rigorous-coupled wave analysis, beam-propagation methods, finite-difference time-domain, and finite element methods. Applications include nanophotonics, photovoltaics, thermal management, radiative control, and nonlinear optics. Prerequisite by Topic: Elect/Magn Interactions (ECE 60400 or equivalent); Programming For Engineers (C, MATLAB, or similar); Linear Algebra; Ordinary Differ. Equatn; and Signals and Systems.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Explain strengths and weaknesses of computational techniques for elctro-optic systems.
+2.  Calculate computational complexity of a given algorithm.
+3.  Perform conventional and Fast Fourier transforms, based on existing codes.
+4.  Solve for eigenvalues and eigenvectors, for both standard and generalized eigenproblems.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

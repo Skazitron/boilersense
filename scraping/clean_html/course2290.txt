@@ -1,0 +1,44 @@
+ME 56400 - Vibrations Of Discretized Systems
+
+Credit Hours: 3.00.  Theory of small oscillations of discrete or discretized systems of high dimensionality. Formulation of equations of motion using Lagrange's equation and the influence coefficients. Finite element reductions of continuous systems. Natural frequencies and modes: numerical methods. Free vibrations and forced vibration characteristics; modal expansion; approximation techniques; damping. Assembly of large systems from subsystems concepts, impedance techniques. Typically offered Spring.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Mechanical Engr 
+
+Department: Mechanical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites: 
+
+ 
+
+

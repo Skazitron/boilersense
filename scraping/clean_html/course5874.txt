@@ -1,0 +1,30 @@
+PHYS 61800 - Advanced Statistical Mechanics
+
+Credit Hours:  3.00.  Advanced statistical physics provides important principles and methods to the studies of many particle and complex systems, including those in condensed matter physics, materials physics, biophysics and so on.  This course covers fundamental concepts and modern techniques through solving specific statistical models.  Topics include: phase transition and critical phenomena, mean field and Landau-Ginzburg phenomenalogical approaches, thermal and quantum fluctuation, scaling and renormalization group, exactly solvable models, quantum phase transition, topological phase transition, non-equilibrium and dissipative dynamics, and effect of disorder in physical systems.  Prerequisites:  PHYS 61700.  Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Science 
+
+Department: Physics and Astronomy 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

@@ -1,0 +1,32 @@
+AAE 61500 - Aeroacoustics
+
+Credit Hours: 3.00.  (ME 61500) Quantitative measures of sound (Decibel) scales, spectra, energetics of acoustic motions, and measurement techniques). The wave theory of sound (basic equations and properties, sound propagation in homogeneous and inhomogeneous media, one-, two-, and three-dimensional sound fields, and distributed sources). Effects of source movement. Aerodynamic noise generation-acoustic analogy (Lighthill's equation and Ffowcs Williams-Hawkins equation). Introduction to Computational Aeroacoustics (CAA). Noise from turbulent shear flows (jet noise, cavity noise, and noise from flow over objects). Noise from turbomachinery, propellers, and rotors. Prerequisite:  AAE 51100 or ME 50900 or 51300.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

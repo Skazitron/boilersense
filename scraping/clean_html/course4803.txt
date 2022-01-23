@@ -1,0 +1,61 @@
+CNIT 34210 - Storage Area Networking
+
+Credit Hours: 2.00.  This course introduces storage area network (SAN) technologies. Storage area networking concepts, architectures, protocols, and best practice implementation techniques are examined. Techniques for remotely booting systems over a SAN are covered. Students implement and maintain an industry standard SAN and network booting solutions.
+
+    0.000 OR     2.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Compare and contrast various enterprise storage architectures.
+2.  Implement and maintain storage area network services.
+3.  Utilize storage area network services from different client operating systems.
+4.  Install and configure a network boot environment for multiple operating systems.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 34000 Minimum Grade of C-
+
+

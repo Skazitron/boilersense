@@ -1,0 +1,40 @@
+AAE 66800 - Hybrid Systems: Theory And Analysis
+
+Credit Hours: 3.00.  Hybrid systems are dynamical systems with both continuous and discrete dynamics and they are finding increasing applications in a variety of engineering fields, even in scientific fields such as biological systems. This course will present the recent advances in modeling, analysis, control, and verification of hybrid systems. Topics covered in this course include the following aspects of hybrid systems: continuous-time and discrete-event models; reachability analysis; safety specifications and model checking; optimal control and estimation of hybrid systems; stability analysis and verification tools; stochastic hybrid systems; numerical simulations; and a range of engineering applications. Prerequisites: AAE 56400.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand the basic concepts and theory of hybrid systems.
+2.  Develop ability to analyze these systems using numerical simulation tools.
+3.  Understand the current state of art of hybrid systems research frontier.
+4.  Develop ability to apply this knowledge to a problem.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

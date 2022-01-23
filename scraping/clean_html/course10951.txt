@@ -1,0 +1,30 @@
+CHE 63000 - Applied Mathematics For Chemical Engineers
+
+Credit Hours: 3.00.  Determinants and matrices: solution of a system of algebraic equations; applications to dimensional analysis, stoichiometry, thermodynamics, kinetics of first order reaction systems, and stagewise operations. Differential equations: series solutions, Sturm-Liouville systems, boundary value problems, applications to heat and mass transfer and chemical reactor problems. Elements of complex variables: LaPlace and infinite Fourier transforms, applications to heat and mass transfer problems. First order partial differential equations: applications to separation processes, chromatography. Prerequisite: MA 26200.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Chemical Engineering 
+
+Department: Chemical Engineering 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

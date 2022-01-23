@@ -1,0 +1,47 @@
+MFET 44200 - Programming Robots With ROS
+
+Credit Hours: 3.00.  Robot Operating Systems (ROS) will be used as a programming platform to explore the topics of computer vision, SLAM (Simultaneous Localization and Mapping), path planning, grasping, and social interaction in robotic systems, as well as programming large systems for physical interaction with the world. Self-contained implementation projects are core to the class. Student knowledge of a procedural programming language, familiarity with robotics, and a rudimentary understanding of matrices is assumed. Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Apply software versioning techniques to the programming of large software projects with hardware in-the-loop.
+ 2.  Build ROS software consisting of pre-written packages and custom packages to implement complex robotic applications on arms and vehicles. 
+3.  Apply basic software engineering techniques to designing and documenting software. 
+4.  Apply and evaluate computer vision techniques based on templates to track objects in 2-D. 
+5.  Synthesize 3-D computer vision techniques for 3-D sensors from 2-D algorithms. 
+6.  Analyze and evaluate hardware sensors with respect to specific software task needs. 
+7.  Apply SLAM methods to real-world scenes to interpret the world on real hardware in real-time. 
+8.  Analyze execution times and evaluate trade-offs in computational hardware performance with respect to sensor data throughput. 
+9.  Implement feedback controllers and tune for specific hardware characteristics. 
+10. Apply manual path planning techniques to 2-D and 3-D maps extracted from SLAM algorithms.
+11. Apply automatic path planning tools and software to 2-D and 3-D maps extracted from SLAM algorithms.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MFET 24800 Minimum Grade of D- or Undergraduate level  ECET 27900 Minimum Grade of D-
+
+

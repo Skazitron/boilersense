@@ -1,0 +1,41 @@
+MA 42800 - Introduction To Fourier Analysis
+
+Credit Hours: 3.00. Topics include: Fourier series, convolutions, kernels, summation methods, Fourier transforms, and applications to the wave, heat, and Laplace equations. Typically offered Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Mathematics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Know applications of Fourier series to problems in physics and other areas.
+2.  Know convergence theorems and proofs for Fourier series.
+3.  Know the relationship between convolutions and Fourier series.
+4.  Know applications of Fourier transforms to problems in physics and other areas.
+
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  MA 34100 Minimum Grade of B- or Undergraduate level  MA 44000 Minimum Grade of B-) and (Undergraduate level  MA 26500 Minimum Grade of C- or Undergraduate level  MA 35100 Minimum Grade of C-)
+
+

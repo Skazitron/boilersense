@@ -1,0 +1,41 @@
+ENTM 24200 - Data Science
+
+Credit Hours: 3.00.  Develop a data science skill set that complements coursework in mathematics, statistics, and experimental design. Data Science facilitates research by developing skills in data sourcing, formatting and using different types of data, and hypothesis generation. Mathematical communication skills are developed through data graphics, animation, and delivery of results through multiple platforms including interactive simulations on webpages. Typically offered Distance. Typically offered Fall Spring Summer.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Entomology 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Source different types of data and know what analyses are appropriate for each type.
+2.  Transform and format data for analyses.
+3.  Detect trends in data as part of hypothesis generation.
+4.  Communicate findings to different audiences through appropriate graphics and animations, including through web pages.
+5.  Write R scripts to accomplish all of the above.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  STAT 30100 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  STAT 35000 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  STAT 50100 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  STAT 50300 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  STAT 51100 Minimum Grade of D- [may be taken concurrently]
+
+

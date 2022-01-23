@@ -1,0 +1,39 @@
+TDM 29000 - The Data Mine Special Topics
+
+Credit Hours: 1.00 to 3.00.  The Data Mine is a supportive environment for students in any major from any background who want to learn some data science skills.   Students will gain hands-on experience with computational tools for representing, extracting, manipulating, interpreting, transforming, and visualizing data, especially big data sets, and in effectively communicating insights about data. Topics include: the R environment, Python, visualizing data, UNIX, bash, regular expressions, SQL, XML and scraping data from the internet, as well as selected advanced topics, as time permits.
+
+    1.000 TO     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: No College Designated 
+
+Department: The Data Mine 
+
+
+Course Attributes: Lower Division, Variable Title 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Repeatable for Additional Credit: Yes - May be repeated an unlimited number of times
+
+
+Learning Outcomes: 
+1.  Discover data science and professional development opportunities in order to prepare for a career. 
+2.  Explain the difference between research computing and basic personal computing data science capabilities in order to know which system is appropriate for a data science project.
+3.  Design efficient search strategies in order to acquire new data science skills.
+4.  Devise the most appropriate data science strategy in order to answer a research question.
+5.  Apply data science techniques in order to answer a research question about a big data set.
+
+
+

@@ -1,0 +1,30 @@
+ECE 66400 - Formal Languages, Computability, And Complexity
+
+Credit Hours: 3.00.  Topics in computability theory and formal languages include recursive function theory, the equivalence of various generic programming languages for numeric calculations and string manipulations, regular languages and finite state automata, and context-free and context-sensitive languages. In complexity theory, emphasis is on the theory of NP-completeness, including proof methods, the distinctions between strong- and weak-sense NP-completeness, NP-hardness, and performance-guaranteed approximation algorithms. Offered in alternate years. Prerequisite: ECE 60800.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

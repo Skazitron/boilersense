@@ -1,0 +1,136 @@
+AAE 54800 - Mechanical Behavior Of Aerospace Materials
+
+Credit Hours: 3.00.  This course serves as an overview for materials behavior for students without a materials background, including seniors and entry-level graduate students. Materials are at the foundation for all of engineering, as evident by the latest products that we design, to the airplanes that we fly, to the latest smart phones. In fact, breakthroughs with material research are often accompanied by rapid advancements in technology. Thus it is paramount for all engineers to have an understanding of the structure and behavior of materials. In this class, we focus on the structure of materials, the microstructure connection to mechanical properties, and ultimately failure mechanisms.  Materials play an important role in both design and manufacturing, which will be addressed in the context of components and extreme environments. Of specific interest will be defects within materials, defect formation/evolution, and their role in strengthening mechanisms. Material anisotropy, micromechanisms, and elasto-plastic properties at the atomic, single-crystal/constituent, and polycrystal-material levels and their use in explaining the deformation and failure characteristics in metals, polymers, and ceramics; failure mechanisms and toughening in composites; structure and behavior of aerospace materials: metal alloys, ceramic-matrix composites, and fiber-reinforced polymer composites. Particular topics will also include: elastic deformation, dislocation mechanics, plastic deformation and strengthening mechanisms, creep, and failure mechanisms; design criteria; special topics. We will attempt to have minimal overlap with AAE 55400, Fatigue of Structures and Materials.  Therefore we will not cover fracture, fatigue, or stress concentrators.
+
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Express vector and tensor equations using indicial notation.
+2.  Express crystallography according to Miller indices and define slip systems in basic crystal structures.
+3.  Calculate and understand the physical basis of elastic anisotropy.
+4.  Understand, calculate, and use basic states of stress and yield criteria.
+5.  Define and understand the physical basis of point, line, and area defects in crystalline materials.
+6.  Calculate the strain fields, stress fields, and energy of dislocations, in addition forces between dislocations.
+7.  Understand dislocation motion as well as interactions between dislocations.
+8.  Resolve shear stress on slip systems during deformation of single crystals and calculate the velocity gradient.
+9.  Apply equilibrium and compatibility constraints to plastic flow of polycrystalline materials.
+10.  Understand origins of twinning, stacking faults, and the shape memory effects.
+11.  Understand physics and calculate strengthening influence of solutes, precipitates, grain boundaries, and strain hardening.
+12.  Understand physical origins of creep, calculate creep using Larson-Miller expressions, and use creep deformation mechanism map.
+13.  Understand origins of residual stress and apply to constrain problems.
+14.  Understand and apply statistical approaches to identify probability of failure and property variations.
+15.  Define and classify polymer structures. 
+16.  Understand viscoelasticity and calculate behavior using classical models.
+17.  Distinguish physical mechanisms of polymer deformation, crazing, and fracture.
+18.  Express stiffness and strength of fiber reinforced composite structures.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Freshman: 15 - 29 hours
+
+      Junior: 75 - 89 hours
+
+      Sophomore: 45 - 59 hours
+
+      Junior: 60 - 74 hours
+
+      Freshman: 0 - 14 hours
+
+      Sophomore: 30 - 44 hours
+
+
+Prerequisites:
+
+GR-AAE 54800 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+AAE
+35200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ME
+32300
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CE
+23100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CE
+27000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MSE
+38200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

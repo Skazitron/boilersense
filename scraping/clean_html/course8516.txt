@@ -1,0 +1,38 @@
+CGT 39500 - Smart Manufacturing Enterprise Organization And Operations
+
+Credit Hours: 3.00.  This course provides an introduction and overview of dealing with organizational change management needed to address existing cultures within organizations dealing with the digital transformation required to implement a Smart Manufacturing Enterprise. It introduces students to the cultural and organizational barriers that exist and the theories, tools, and best practices used to overcome them.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Summarize the barriers to organizational change management.
+2.  Describe the tools, techniques and theories that are employed to overcome organizational and cultural barriers within and organization.
+3.  Describe the impact that AI will have on the workforce and SMART manufacturing.
+4.  Provide examples of the drivers, enablers and compelling forces for Industry 4.0's advancement.
+5.  Define the Industry 4.0 framework and be able to outline the various systems used and their role in SMART Manufacturing organizations.
+6.  Illustrate  the role and importance of IT+OT, Cyber Physical Systems, analytics, and BIG Data driving decisions in SMART manufacturing organizations.
+7.  Identify the integration points of Machine-, Factory, and Enterprise-level activities using MES, FEMS, ERP, QMS, & PLM for connecting people, process, and machines across the manufacturing value chain.
+
+
+

@@ -1,0 +1,62 @@
+MET 21100 - Applied Strength Of Materials
+
+Credit Hours: 4.00.  The principles of strength, stiffness, and stability are introduced and applied primarily to mechanical components. Typically offered Fall Spring Summer.
+
+    0.000 OR     4.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Dept Credit, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      IUPUI
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Find internal shear and internal bending moment within a structure due to the external loading. 
+2.  Undertsand basic mechanical properties of materials and cross-sectional/area properties of structures and apply them. 
+3.  Identify and calculate the stress present due to internal loads.
+4.  Identify potential maximum stress locations and calculate the principle stresses and the maximum shear stress.
+5.  Calculate deflection in statically determinate structures.
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MET 11100 Minimum Grade of D- and (Undergraduate level  MA 22100 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MATH 22100 Minimum Grade of D- or Undergraduate level  MA 16010 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MA 16100 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MA 16500 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MA 21900 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MATH M2110 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MA 22700 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  MATH M1190 Minimum Grade of D- [may be taken concurrently])
+
+

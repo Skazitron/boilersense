@@ -1,0 +1,99 @@
+PHYS 58000 - Computational Physics
+
+Credit Hours: 3.00.  Introduction to computationally based problem solving in physics, emphasis on understanding and applying various numerical algorithms to different types of physics problems. Topics will include chaos in mechanical systems, stochastic systems including percolation and fractal structures, molecular dynamics and the properties of simple fluids, Monte Carlo methods and phase transitions, and time dependent as well as time dependent problems in quantum mechanics. Typically offered Fall.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Laboratory, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Physics and Astronomy 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-PHYS 58000 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Rule: 1.: PHYS 34200 or 34400  for a total of 1 conditions
+)
+
+PHYS
+34200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+PHYS
+34400
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+End of rule 1.
+
+and
+Rule: 2.: PHYS 31000 or 41000  for a total of 1 conditions
+
+PHYS
+31000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+PHYS
+41000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+End of rule 2.
+
+
+

@@ -1,0 +1,48 @@
+BME 30500 - Bioinstrumentation Circuit And Measurement Principles
+
+Credit Hours: 3.00.  Introduction of laboratory instruments used to measure physiological events. Stimulation and conduction of electric signals within the nervous system and other excitable tissues are demonstrated. Fundamental circuit elements and concepts include resistance, capacitance, inductance, op-amps, impedance, voltage, current, power, and frequency. Fundamental analog measurement concepts include adequate bandwidth and amplitude and phase linearity.  An integrative two-week design project addresses the practical aspects of quantitative physiological measurements.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: School of Biomedical Engr 
+
+Department: Weldon Schl of Biomedical Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Employ circuit models and analysis techniques to understand, interpret, and predict bioelectric system behaviors.
+2.  Conduct, observe, and document laboratory experiments to test hypotheses and predictions.
+3.  Design bioinstrumentation systems with adequate bandwidth, amplitude linearity, and phase linearity to faithfully record a physiological event.
+4.  Recognize the economics, the ethical considerations, and regulatory and societal environment integral to the design of biomedical bioinstrumentation.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Biomedical Engr
+
+
+Prerequisites: 
+
+ (Undergraduate level  PHYS 24100 Minimum Grade of D- or Undergraduate level  PHYS 27200 Minimum Grade of D-) and (Undergraduate level  MA 26500 Minimum Grade of D- and Undergraduate level  MA 26600 Minimum Grade of D-) or (Undergraduate level  MA 26200 Minimum Grade of D- or Undergraduate level  MATH 26200 Minimum Grade of D- or Undergraduate level  MA 36600 Minimum Grade of D-)
+
+

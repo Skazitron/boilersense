@@ -1,0 +1,35 @@
+PHIL 20800 - Ethics Of Data Science
+
+Credit Hours: 3.00.  As applications of data science permeate more aspects of our lives, new and important ethical issues are arising. However, especially because we are entering uncharted territory, reasoning clearly about the ethical implications of data science isn't easy. This course provides students with the tools for doing so, including a conceptual framework for ethical reasoning in professional settings, as well as a procedure for case-study analysis that allows students to practice employing this conceptual framework. Together, these components help prepare students to be ethical professionals and responsible global citizens.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Liberal Arts 
+
+Department: Philosophy 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Identify ethical issues associated with applications of data science in a variety of professional settings, by reading assigned texts, viewing/listening to assigned media content, and participating in classroom and group discussions.     
+2.  Apply general ethical principles to the specific, concrete actions of individuals, corporations, governments and other organizations.
+3.  Construct sound, well-reasoned arguments, and communicate them clearly, by participating in classroom and group discussions as well as writing assignments. 
+4.  Develop a case study of their own, by submitting a written essay that applies the case study procedure.
+
+
+

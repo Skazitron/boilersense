@@ -1,0 +1,50 @@
+CGT 51800 - Augmented Reality
+
+Credit Hours: 3.00.  Augmented Reality, a form of presenting virtual information within a perspective of the real world.  This course instructs students in the foundations, practice and use of AR (Augmented Reality) as well as the technology required to produce an AR visualization. The concepts covered in this class include: physical tracking systems, computer vision, image processing techniques, 3D virtual environment visualization and calibration, display systems for AR and usage of AR in multimedia & tech culture.  Some experience in Unity 3D preferred.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Comprehend the fundamentals of Augmented Reality and the technologies required to produce an AR context.
+2.  Harness the power of image processing to implement tracking with and without fiducial markers.
+3.  Produce an AR application for use in entertainment, instruction, research or training as a final project (requiring instructor approval).
+4.  Present concepts of AR and how they are used in research and industry as it relates to their class final project.
+5.  Demonstrate knowledge of the history of AR and its social-cultural impact as well as the evolution of the technology used in advancing AR display and tracking techniques.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

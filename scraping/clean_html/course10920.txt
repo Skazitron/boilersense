@@ -1,0 +1,52 @@
+CHE 45000 - Design And Analysis Of Processing Systems
+
+Credit Hours: 4.00.  Use of process synthesis methods and concepts; detailed design of unit operation equipment, the economics of chemical plants and flow sheet optimization methods. Synthesize, develop, and evaluate a preliminary design of a chemical process that meets market requirements for a specific product. Analysis of design alternatives using case studies and optimization methods.
+
+    0.000 OR     4.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: School of Chemical Engineering 
+
+Department: Chemical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Apply systematic strategies for synthesizing chemical process designs that involve conventional unit operations. 
+2.  Describe both the difference between  steady state and batch chemical processes and the implications on their design and operation.
+3.  Demonstrate the ability to obtain reliable information on industrial chemical processes, process operating parameters, equipment costs, cost of chemicals and materials, and associated safety and environmental hazards. 
+4.  Describe the role of physical property estimates on process design and be able to use appropriate physical property estimation methods in unit operations design. 
+5.  Estimate the capital and operating cost of a process and to assess its profitability.
+6.  Use process simulators and other tools to perform detailed analyses for the successful design of a chemical plant.
+7.  Communicate effectively project progress and final results in a professional manner both orally and in writing. 
+8.  Work effectively in a team to execute open-ended design projects with time-bound deliverables in a professional and ethical manner, including different team roles.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Chemical Engineering
+
+
+Prerequisites: 
+
+ Undergraduate level  CHE 30600 Minimum Grade of C- and Undergraduate level  CHE 37800 Minimum Grade of C- and Undergraduate level  CHE 42000 Minimum Grade of D- and Undergraduate level  CHE 45600 Minimum Grade of D- and Undergraduate level  CHE 43500 Minimum Grade of D- [may be taken concurrently]
+
+

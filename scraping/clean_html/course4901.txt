@@ -1,0 +1,41 @@
+STAT 22500 - Introduction To Probability Models
+
+Credit Hours: 3.00.  An introduction to basic probability. Emphasis is placed on formulation of models and applications. Probability calculus, standard distributions, random variables, and moments.  Credit cannot be given for more than one of STAT 22500, 31100, or 41600. Typically offered Fall Spring Summer.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Statistics 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand basic terminology, set theory, and counting rules related to probability.
+2.  Identify various discrete and continuous probability models/distributions and apply them to answer probability questions.
+3.  Understand the Normal distribution and how to use the Standard Normal Table.
+4.  Understand basic terms, graphs, and symbols and be able to interpret statistics in the media.
+5.  Have a foundation in statistical methodology including the basics of hypothesis testing.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MA 16010 Minimum Grade of C- or Undergraduate level  MA 16100 Minimum Grade of C- or Undergraduate level  MA 16300 Minimum Grade of C- or Undergraduate level  MA 16500 Minimum Grade of C- or Undergraduate level  MA 16700 Minimum Grade of C- or Undergraduate level  MA 22100 Minimum Grade of C- or Undergraduate level  MA 22300 Minimum Grade of C- or Undergraduate level  MA 23100 Minimum Grade of C-
+
+

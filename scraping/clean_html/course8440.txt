@@ -1,0 +1,41 @@
+CGT 20401 - Data Capture, Collection, Analysis, And Visualization In Smart Manufacturing
+
+Credit Hours: 3.00.  This course provides an introduction as well as hands-on experience in data analysis and visualization in the Smart Manufacturing environment. It introduces students to the role of data in a Smart Manufacturing Enterprise, concepts and techniques of data analytics, and design principles for creating effective data visualization to facilitate managerial decision-making. This course is part of Smart Manufacturing Enterprise Fundamentals and should be taken after completing Introduction to the Smart Manufacturing Enterprise course.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Describe the types of data existing in a Smart Manufacturing Enterprise, and how data are used to support strategic, tactical, and operational decisions in smart manufacturers.
+2.  Perform descriptive, diagnostics, and predictive analytics on a manufacturing/supply chain dataset.
+3.  Solve a small manufacturing/supply chain optimization problem with Excel Solver.
+4.  Explain what visual qualities are important to convey data and apply design principles in creating visualizations.
+5.  Combine data analytics and visualization to provide insights into manufacturing/supply chain datasets.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MFET 15900 Minimum Grade of D-
+
+

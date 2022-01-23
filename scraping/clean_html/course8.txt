@@ -1,0 +1,47 @@
+ASM 10500 - Computing Technology With Applications
+
+Credit Hours: 3.00.  Computers will be used to solve problems (logistics, economic, agri-science) related to agricultural technology and businesses. Spreadsheets for problem solving and data analysis is the focus, with advanced features employed to improve functionality and capability of decision aids. Use of office software for written communication and visual aids will also be covered. Some applications of cloud platforms and specialty applications for communication and computations in team/group environments will be used. Interoperability and compatibility of files and platforms will be part of the experience.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Ag & Biological Engineering 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.    Demonstrate ability to use email software effectively including contact and distribution lists, attachments, folders, and archives.
+2.    Demonstrate ability to set up spreadsheet solutions to complex problems in a logical format allowing others to fully understand your solution. 
+3.    Be a power user of spreadsheet software and demonstrate ability to use the following features: named cells, goal seek, solver, data tables, charting, look-up tables, conditional formatting, forms, statistical analysis, data filtering, saving as web page, import data, macros, and many intrinsic functions.
+4.    Demonstrate ability to write a technical report with proper use of headings, logical flow of content, good grammar, and clear presentation of data in tables and charts.
+5.    Be a wise user of word processing software and demonstrate ability to use the following features: ruler, tabs, named fields, page setup, hyperlinks, equation editor, track changes, objects insertion, and saving as web page.
+6.    Demonstrate ability to deliver a clear and logically organized brief presentation or instructional software demonstration.
+7.    Be a well-informed and skilled user of presentation software and demonstrate ability to use the following features: animation, hyperlinks, embedding images and video, shapes, notes, and drawing.
+
+8.    Have experience running other software to build your confidence with new applications. Examples: virtual meeting software, downloaded simulation software, machinery management software.
+
+9.    Have experience with mobile computing technologies to stretch your vision of potential uses.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MA 15800 Minimum Grade of D- or Undergraduate level  MA 16010 Minimum Grade of D- or Undergraduate level  MA 16100 Minimum Grade of D- or Undergraduate level  MA 16500 Minimum Grade of D- or  ALEKS Math Assessment 75 or  ACT Math 26 or  SAT Mathematics 620
+
+

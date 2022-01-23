@@ -1,0 +1,39 @@
+ENTM 30100 - Experimentation And Analysis
+
+Credit Hours: 3.00.  Introduction to experimentation and quantitative data analysis in the life sciences with a focus on examples from insect biology. Typically offered Fall.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Entomology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Start with an observation and design appropriate experiment that recognizes and avoids common pitfalls.
+2.  Apply the general linear model and its variants in data analysis.
+3.  Appropriately use common basic statistical packages.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  STAT 30100 Minimum Grade of D-
+
+

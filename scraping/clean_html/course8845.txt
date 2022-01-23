@@ -1,0 +1,34 @@
+ECON 62400 - Estimating Game Theoretic Models
+
+Credit Hours: 2.00 or 3.00.  This course examines topics in empirical industrial organization (I.O.), which aims to use data to draw conclusions about how market and firm structure, firm conduct, and market performance interact in imperfectly competitive markets. We will take a "structural" approach, focusing on estimating the parameters of game theoretic models using real industry data, and then simulating those same models to generate predictions under alternative ("counterfactual") scenarios. We will cover theory only to the extent that it provides intuition or testable conclusions. The course is divided into two unequal parts. In the first part, we will learn about static games in the context of mergers, market power, and entry. In the second part, we will focus on the estimation of dynamic games, after first understanding how to solve and estimate dynamic single-agent problems. Pre-requisites: ECON 62000 and ECON 62100.
+
+    2.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Management 
+
+Department: Dept of Economics 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Know about several important empirical methods, and you will understand why we use them.
+2.  Apply some of those methods to real data, generating your own usable code for implementing them.
+3.  Highlight the advantages and shortcomings of any given method by pointing to scholarly work that applies that method to real industry data.
+4.  Have the kind of in-depth knowledge (for at least one of these methods) that makes you an expert (and resource) among your peers.
+5.  Have practiced your presentation skills.
+6.  Have thought creatively about the challenges facing the forefront of empirical I.O.
+
+

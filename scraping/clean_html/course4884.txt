@@ -1,0 +1,56 @@
+CNIT 58200 - IT Project Estimating, Control And Scheduling
+
+Credit Hours: 3.00.  An exploration of the body of knowledge, skills, processes, methods, and techniques that IT project managers can use to create and manage time and cost estimates, as well as the creation of accurate schedules with dependencies. The course reviews research of best practices in schedule management and budget management. Students will apply these skills and techniques to business problems. Permission of Department required.
+
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Discuss the pros and cons in intelligent discourse, of the need for, and integration of techniques for creation of IT project estimates and budgets into IT projects.
+2.  Understand and be able to apply current techniques and methodologies used to build cost and time estimates for IT projects including Function Points, COCOMO, and others.
+3.  Discuss, in intelligent discourse, the types of schedules (Work Breakdown Structures) needed to run IT projects today including traditional lifecycles and Agile approaches.
+4.  Accurately conduct analysis of network schedule dependencies including calculation of slack, Critical Path Analysis and Critical Chain Scheduling.
+5.  Discuss, in intelligent discourse, the role corporate politics and negotiation skills play in building project budgets and successfully executing the project.
+6.  Understand and be able to apply time and cost monitoring and control techniques including Earned Value Management (EVM).
+
+
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

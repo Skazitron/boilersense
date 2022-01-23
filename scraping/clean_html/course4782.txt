@@ -1,0 +1,56 @@
+CNIT 27600 - Systems Software And Networking
+
+Credit Hours: 3.00.  Introduction to a wide range of topics in the networking field. Topics include: systems and network administration support practices, desktop and server support, security, disaster recovery, ethics, change management, help desks, networks, network operating systems, and directory services. The students will gain hands-on experience in the laboratory with installing and configuring network operating systems and application software.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      Richmond
+
+      South Bend
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      Computer & Information Tech
+
+      Mfg Engineering Technology
+
+
+Prerequisites: 
+
+ (Undergraduate level  CNIT 17600 Minimum Grade of C- or Undergraduate level  CPT 17600 Minimum Grade of C-) or Undergraduate level  MFET 24300 Minimum Grade of C- or Undergraduate level  CIMT 24300 Minimum Grade of C-
+
+

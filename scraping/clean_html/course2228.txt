@@ -1,0 +1,77 @@
+ME 51100 - Heat Transfer In Electronic Systems
+
+Credit Hours: 3.00.  This course covers both traditional and more innovative methods for heat extraction in electronic systems and the effectiveness and applicability of these methods over a wide range of scales. Special emphasis is given to industry-related applications with experts often attending and presenting material as part of class instruction.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Mechanical Engr 
+
+Department: Mechanical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Introduce concepts in thermal management of electronics to senior undergraduate and graduate students and practicing engineers.
+2.  Provide an appreciation for the applications of first principles to electronics cooling and packaging problems in industry.
+3.  Provide students with sound tools to approach existing packaging and cooling applications, while also raising awareness of novel techniques at the cutting edge.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ME 31500 Course
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ME
+31500
+
+
+Minimum Grade of 
+B
+
+May not be taken concurrently.
+)
+
+
+

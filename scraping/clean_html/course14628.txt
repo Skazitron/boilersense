@@ -1,0 +1,52 @@
+AGR 33300 - Data Science For Agriculture
+
+Credit Hours: 3.00.  Students will apply data processes including identifying data needs, acquiring data, assessing data quality, data wrangling, filtering, and visualization. In each of several topic areas (forestry, animal science, agronomy, food science, entomology, engineering, economics), data-driven insights and improved decision making will be the culmination of applied data skills. Students will understand data ethics and practice data management skills including the merging of disparate but related data sets.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: College of Agriculture Admin 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Construct a research question that helps address a decision.
+2.  Describe different types of experimental designs and discuss the differences between observational and experimental studies.
+3.  Identify data needed to address various research questions.
+4.  Identify how these data sources are used in data analysis: agronomics, machine data, maps, spreadsheets, sensor data.
+5.  Describe how various data sets are acquired.
+6.  Describe how the following impact data ethics: ownership, storage, access.
+7.  Assess data quality and utility.
+9.  Identify potential limitations of a dataset.
+10.  Describe the following aspects of data wrangling: data formats, data compatibility, mobility.
+11.  Describe the following aspects of data management: storage, curation, metadata, FAIR (findable, accessible, interoperable, reusable).
+12.  List reasons for filtering, cleaning, and pre-processing data.
+13.  Describe tools for data cleaning.
+14.  Integrate disparate data sets.
+15.  Describe uses for the following in data visualization: bar charts, line charts, maps, tables.
+16.  Use the following tools to analyze data: correlations, mean generation, confidence intervals, simple model building, R Python.
+17.  Make decisions based on data outcomes.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  STAT 30100 Minimum Grade of D-
+
+

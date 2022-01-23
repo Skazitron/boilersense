@@ -1,0 +1,68 @@
+NUCL 55100 - Mass, Momentum, And Energy Transfer In Energy Systems
+
+Credit Hours: 3.00.  Formulations for analyzing complicated thermal-hydraulic phenomena in energy systems. Derivation of two-phase flow field equations and constitutive relations. Thermal-hydraulic modeling of nuclear reactor systems. Analyses of nuclear reactor safety related phenomena based on conservation principles. Typically offered Fall.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Nuclear Engineering 
+
+Department: Nuclear Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-NUCL 35100 Course
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+NUCL
+35100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

@@ -1,0 +1,41 @@
+CGT 38500 - Game Production
+
+Credit Hours: 3.00.  This course uses intensive project-based, student-led learning in game development to cultivate skills in quality assurance, leadership, communication, time management, contingency planning, technology integration, autonomy and accountability. Students act in an executive role with students in other project-oriented classes and in so doing cultivate supervisory production experience. Each student must engage with instructors and students to hone real-world hard and soft skills through situated experiences and student-led teaching opportunities. Student producers must develop a functioning development pipeline, meet regularly with their teams, and maintain industry-standard documentation and project management processes. Permission of Instructor required.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Lead a team of novice developers to achieve all production goals for their semester project.
+2.  Build a functional asset pipeline that accommodates team needs while maintaining steady output.
+3.  Implement and document game development processes according to industry-accepted standards.
+4.  Maintain group cohesion and morale while motivating all team members to produce their best work.
+5.  Implement agile production techniques in a small-group game development project.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  CGT 24500 Minimum Grade of B and Undergraduate level  CGT 25500 Minimum Grade of B
+
+

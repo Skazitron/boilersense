@@ -1,0 +1,30 @@
+CHM 61500 - Principles Of NMR Spectroscopy
+
+Credit Hours: 3.00.  The course is intended to provide in-depth coverage of fundamental concepts in modern NMR spectroscopy. Included are the vector model of spin resonance, topics in signal processing, product operator formalism, discussion of important 2D experiments, Redfield relaxation theory, and methods for molecular structure determination. The emphasis is on general spectroscopic concepts, also used outside spin resonance spectroscopy. Spectrometer operation and data processing are also demonstrated. Prerequisite: Undergraduate degree or completed advanced coursework in chemistry, physics, biology, or engineering. Basic knowledge of NMR is expected, but not required.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Science 
+
+Department: Chemistry 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

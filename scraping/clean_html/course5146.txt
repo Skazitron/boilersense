@@ -1,0 +1,41 @@
+ECE 40862 - Software For Embedded Systems
+
+Credit Hours: 3.00.  This course provides an introduction to software design for embedded computing systems. Major topics covered include the importance of time and timing in embedded systems, embedded software organization (FSM-based program design, polled loop systems, foreground-background systems, event driven architectures, multi-tasking, etc.), real-time scheduling and real-time operating systems, wired/wireless networked embedded systems, debugging techniques for embedded software, and advanced topics such as memory-safe programming, implementing reentrant functions, and minimizing code space, memory usage, and power consumption. The course features a series of integrated assignments using state-of-the-art embedded hardware platforms, embedded software design tools, and real-time operating systems that reinforce the concepts taught in the lectures.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand the embedded software design process and tools used.
+2.  Understand various software architectures for embedded systems.
+3.  Apply advanced debugging techniques to embedded software.
+4.  Analyze and implement real-time embedded applications.
+5.  Design and implement distributed applications for networked embedded systems.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  ECE 36200 Minimum Grade of D- and Undergraduate level  CS 15900 Minimum Grade of D-
+
+

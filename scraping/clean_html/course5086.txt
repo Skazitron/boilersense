@@ -1,0 +1,50 @@
+ECE 30834 - Fundamentals Of Computer Graphics
+
+Credit Hours: 3.00.  Fundamental principles and techniques of computer graphics. The course covers the basics of going from a scene representation to a raster image using OpenGL. Specific topics include coordinate manipulations, perspective, basics of illumination and shading, color models, texture maps, clipping and basic raster algorithms, fundamentals of scene constructions. Permission of department required.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture, Practice Study Observation 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  An understanding of the design issues for creating raster graphics.
+2.  An ability to apply rendering techniques to an actual computer graphics problem and associated datasets.
+3.  An understanding of object transformations, representations, transformations and perspective projections.
+4.  An understanding of color, illumination, and shading techniques. 
+5.  An understanding of the rendering and rasterization techniques. 
+6.  An understanding of the application of computer graphics techniques to visualization, animation, and computer aided design.       
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Elec & Computer Engr
+
+
+Prerequisites: 
+
+ Undergraduate level  ECE 36800 Minimum Grade of D-
+
+

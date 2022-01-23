@@ -1,0 +1,86 @@
+ECE 54700 - Introduction To Computer Communication Networks
+
+Credit Hours: 3.00. A qualitative and quantitative study of the issues in design, analysis, and operation of computer communication and telecommunication networks as they evolve toward the integrated networks of the future, employing both packet and circuit switching technology. The course emphasizes a fundamental understanding of network design, routing, dimensioning, and control. The students will study various network functions such as error-recovery algorithms, flow control, congestion control, routing, multi-access, switching, etc. These will also be studied in the context of current Internet solutions (e.g. TCP, IP, etc.) and future open problems, and possible solutions.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      PU Fort Wayne
+
+      IUPUI
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Demonstrate an understanding of the fundamental principles underlying computer communication networks. [1,3,4;a,e]
+2.  Demonstrate an ability to obtain mathematical models of networking systems. [1,2,4;a,e]
+3.  Demonstrate an ability to perform queueing analysis of simpler queueing networks, convergence analysis of routing protocols, and stability analysis of random access mechanisms. [1,2,4;a,e,k]
+4.  Demonstrate an ability to solve simple network design and optimization problems to meet specifications in though put and delay. [1,4;a,c,e,k]
+5.  Demonstrate an ability to use simulation tools for network analysis and design. [1,3,4;a,c,e,k]
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ECE 30200 Course
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ECE
+30200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

@@ -1,0 +1,195 @@
+STAT 50300 - Statistical Methods For Biology
+
+Credit Hours: 3.00.  Introductory statistical methods, with emphasis on applications in biology. Topics include descriptive statistics, binomial and normal distributions, confidence interval estimation, hypothesis testing, analysis of variance, introduction to nonparametric testing, linear regression and correlation, goodness-of-fit tests, and contingency tables.  Open only to majors related to the life sciences. For statistics majors and minors, credit should be allowed in no more than one of STAT 30100, STAT 35000, STAT 50100, and in no more than one of STAT 50300 and STAT 51100.  Typically offered Fall Spring Summer.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Statistics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Students will be able to identify and choose appropriate ways to graphically and numerically summarize data. 
+2.  Students will be able to use basic statistical methods to perform statistical inference and draw appropriate conclusions. 
+3.  Students will understand the mathematical foundations of statistical inference for random samples so that they can study and utilize additional statistical methods.  
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Freshman: 15 - 29 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+
+Prerequisites:
+
+GR-STAT 50300 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+16100
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+16500
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+17300
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+18100
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+16400
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MATH
+16400
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MATH
+M2160
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+16900
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+22200
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+23200
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+22400
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+16020
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+16021
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+)
+
+
+

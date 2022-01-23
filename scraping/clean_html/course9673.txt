@@ -1,0 +1,47 @@
+MA 35301 - Linear Algebra II
+
+Credit Hours: 3.00.  Theoretical background for methods and results that appear in MA 35100. Inner products, orthogonality, and applications including least squares.
+
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Mathematics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Perform rigorous proofs using the definitions of vector space, subspace, linear combination of vectors, linear dependence and linear independence, bases and dimension.
+2.  Perform rigorous proofs using the definitions of linear transformation and the null space and range of a linear transformation.
+3.  Exhibit a clear understanding of the relationship between composition of linear transformation and matrix multiplication.
+4.  Understand elementary matrices and their use in describing the solution set of a system of linear equations.
+5.  Understand that the determinant function on n x n matrices with entries in a field F is a function that may be defined recursively, and may be uniquely defined as an alternating multilinear form which takes the identity matrix to 1.
+6.  Perform rigorous proofs involving eigenvalues and eigenvectors.
+7.  Understand and be able to apply conditions for a linear operator on a finite-dimensional vector space to be diagonalizable.
+8.  Preform calculations with Gram-Schmidt, least squares and related topics.
+9. Students should be able to do rigorous proofs involving inner product spaces and related topics.
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MA 26500 Minimum Grade of B- or Undergraduate level  MA 35100 Minimum Grade of C-
+
+

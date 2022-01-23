@@ -1,0 +1,73 @@
+EAPS 51500 - Geodata Science
+
+Credit Hours: 3.00.  Course covers a range of topics with applications of mathematical, statistical, numerical, and distributed parallel computing methods for modeling and understanding complex and large spatio-temporal geoscience datasets in the formats common to in-situ observations, asynoptic remote sensing data, volumetric gridded analysis, etc.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Science 
+
+Department: Dept Erth Atmos & Planetry Sci 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Identify and load into R the relevant data to solve a specific geoscience problem.
+2.  Design effective data import, tidying, and transformation procedures using geoscience knowledge.
+3.  Determine what and how to plot large geoscience datasets to guide each step in the workflow.
+4.  Judge whether model assumptions are reasonable and if the chosen models fit the data using geoscience domain knowledge.
+5.  Appraise and conclude the results of a geodata-science project professionally.
+
+
+
+Prerequisites:
+
+GR EAPS 51500 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+EAPS
+50700
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+EAPS
+50900
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

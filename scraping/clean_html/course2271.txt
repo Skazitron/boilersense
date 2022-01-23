@@ -1,0 +1,76 @@
+ME 54900 - Practical Experience In Vibrations
+
+Credit Hours: 3.00.  Theory and application of experimental structural dynamics. Experimental techniques in model analysis, impedance modeling, and basic nonlinear vibrations. Time, frequency, and spatial characteristics of vibrating systems. Virtual and real-time demonstrations and experiments. Vehicle vibrations in ride, machinery diagnostics, and health monitoring of structural materials and components.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: School of Mechanical Engr 
+
+Department: Mechanical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Introduce/review the theory of linear mechanical vibrations.
+2.  Learn how to model and analyze single/multi-degree-of-freedom (SDOF/MDOF) systems in free and forced vibration.
+3.  Learn how to plan experiments/tests and interpret dynamic response data using modern technology.
+4.  Introduce basic experimental methods, vibration hardware and advanced analysis techniques like modal analysis, impedance modeling and experimental nonlinear dynamics.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ME 54900 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ME
+37500
+
+
+Minimum Grade of 
+B
+
+May not be taken concurrently.
+)
+
+
+

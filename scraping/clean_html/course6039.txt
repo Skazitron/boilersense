@@ -1,0 +1,40 @@
+MFET 35100 - Mixed Reality Smart Manufacturing Applications & Design
+
+Credit Hours: 3.00.  The course investigates development strategies, use cases, and mixed reality (MR) application in industrial IoT (IIoT)-based smart manufacturing systems. Emphasis is on superimposing digital content onto physical systems, integrating data from smart and connected manufacturing production operations, processes, and machines. Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Outline the benefits and applications of mixed reality (MR) offers in smart manufacturing environments.
+2.  Link the MR concepts, industrial IoT (IIoT) technologies, and development approaches with smart manufacturing applications.
+3.  Develop proficiency in using hardware, software tools and technologies to design and prototype effective MR applications for manufacturing.
+4.  Design and develop MR user interfaces and interaction techniques for augmented human-machine systems.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MFET 23000 Minimum Grade of D- and Undergraduate level  MET 24500 Minimum Grade of D-
+
+

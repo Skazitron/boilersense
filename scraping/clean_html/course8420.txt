@@ -1,0 +1,39 @@
+CGT 10501 - Introduction To Games
+
+Credit Hours: 3.00.  Students learn the history of computer game design. Students engage in learning activities that help them remember basic game design principles. These principles are then applied using simple exercises within game engine technology.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      New Albany
+
+      Richmond
+
+
+Learning Outcomes: 
+1.  Recall key facts about computer game design history.
+2.  Understand principles of computer game design.
+3.  Apply computer game design principles in exercises on paper and in game engine technology.
+4.  Analyze computer games via written critiques.
+
+
+

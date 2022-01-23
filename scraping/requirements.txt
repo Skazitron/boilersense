@@ -1,0 +1,7 @@
+beautifulsoup4
+requests
+pyopenssl 
+ndg-httpsclient 
+pyasn1 
+urllib
+fake-useragents

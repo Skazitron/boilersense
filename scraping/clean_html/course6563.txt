@@ -1,0 +1,60 @@
+IT 54000 - Biometric Performance And Usability Analysis
+
+Credit Hours: 3.00. An introduction of test methodologies from disciplines outside of biometrics, which include:  usability, ergonomics, human factors, and human-computer interaction, in order to demonstrate how biometric data analysis can benefit from understanding how humans interact with biometric sensors during the testing and evaluation of biometric systems. The course explores test methods, case studies, and prior biometric testing reports in order to develop a test methodology that includes information on how users interact with biometric systems. Permission of department required. Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Technology Ldrshp & Innovatn 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand the operation of biometric systems.
+2.  Understand how people use biometric systems in operational settings (both controlled and uncontrolled).
+3.  Understand traditional technology, scenario, and operational testing methodologies.
+4.  Understand traditional ergonomic and usability testing methodologies.
+5.  Understand and analyze the limitations of biometric systems.
+6.  Understand basics of quantitative and qualitative research.
+7.  Evaluate the issues in designing a biometric system, including but not limited to: the impact of language and culture (instructions and symbols), ergonomics and anthropometrics (heights-angles, positioning), training and habituation or accessibility, affordance, and perception.
+8.  Interpret results from reports on: biometric technologies evaluation methods, ergonomic and usability methods, and statistical methods.
+9.  Appraise and critically evaluate prior scenario and operational test reports and case studies of biometric technologies to examine where the application of Human-Biometric Sensor Interaction principles, such as usability, human factors, and ergonomics could have provided additional data on system performance.
+10.  Transfer knowledge and understanding of usability, ergonomic, and usability evaluation methodologies to the testing and evaluate biometric devices and systems.
+11.  Establish a test methodology and collect data using a Human-Biometric Sensor Interaction based methodology (usability, ergonomic, human factors) to investigate a current problem facing industry.
+12.  Perform the appropriate data analysis and report findings in a report.
+13.  Students will produce final reports, conference papers, etc., based on their course project.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

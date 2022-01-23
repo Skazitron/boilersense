@@ -1,0 +1,80 @@
+STAT 52800 - Introduction To Mathematical Statistics
+
+Credit Hours: 3.00.  Distribution of mean and s2 in normal samples, sampling distributions derived from the normal distribution, Chi square, t and F. Distribution of statistics based on ordered samples. Asymptotic sampling distributions. Introduction to multivariate normal distribution and linear models. Sufficient statistics, maximum likelihood, least squares, linear estimation, other methods of point estimation, and discussion of their properties, Cramer-Rao inequality and Rao-Blackwell theorem. Tests of statistical hypotheses, simple and composite hypotheses, likelihood ratio tests, power of tests. Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Statistics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      PU Fort Wayne
+
+      IUPUI
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-STAT 51900 Course
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+51900
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+51900
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

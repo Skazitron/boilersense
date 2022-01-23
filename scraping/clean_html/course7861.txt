@@ -1,0 +1,45 @@
+HDFS 62800 - Structural Equation Modeling
+
+Credit Hours: 3.00. This course provides an introduction to classic structural equation models with latent variables (SEM). The primary steps of implementing SEMs will be covered to include: model specification, model identification, parameter estimation, and model evaluation (model fit). Background training in statistical regression is required. Permission of instructor required. Typically offered Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Health & Human Sci 
+
+Department: Human Dev and Family Studies 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Repeatable for Additional Credit: Yes - May be repeated up to 1 times
+
+
+Learning Outcomes: 
+1.  Develop a basic understanding of structural equation models including proper application, interpretation, and evaluation of the models. 
+2.  Develop an understanding of the underlying statistics including parameter identification and estimation as well as model fit measures. 
+3.  Learn the benefits of SEMs including when it is advantageous to use this modeling approach. 
+4.  Learn the limitations of the model and the most common mistakes in using SEMs.
+5.  Be able to apply the method to a topic relevant to your own research.
+6.  Be able to analyze SEM models using a SEM software package.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

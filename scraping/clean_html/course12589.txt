@@ -1,0 +1,60 @@
+IET 31600 - Statistical Quality Control
+
+Credit Hours: 3.00.  This course introduces the application of statistical and probability tools to develop, implement, and maintain effective quality assurance in technology and service systems.  A systems approach to product or service quality from inception to disposal is employed.  Factors affecting variation in quality are studied.  The concepts and implications of quality from a global business environment are examined.  Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Recitation 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Dept Credit, Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Indianapolis
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+      Vincennes
+
+
+Learning Outcomes: 
+1.  Describe the role and importance of quality planning, implementation, and control in manufacturing and service industries.
+2.  Apply quality improvement tools to solve problems.
+3.  Apply basic statistics to solve quality control problems.
+4.  Construct and analyze various control charts.
+5.  Calculate and apply fundamental probability concepts.
+6.  Examine the role of "code of ethics" and ethical practices in business and industry.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MA 15900 Minimum Grade of D- or Undergraduate level  MA 15800 Minimum Grade of D- or Undergraduate level  MA 16100 Minimum Grade of D- or Undergraduate level  MA 16500 Minimum Grade of D- or Undergraduate level  MA 22300 Minimum Grade of D- or Undergraduate level  MA 22100 Minimum Grade of D- or Undergraduate level  MA 16010 Minimum Grade of D- or Undergraduate level  MA 15555 Minimum Grade of D- or (Undergraduate level  MA 15300 Minimum Grade of D- and Undergraduate level  MA 15400 Minimum Grade of D-) or (Undergraduate level  MA 14700 Minimum Grade of D- and Undergraduate level  MA 14800 Minimum Grade of D-) or (Undergraduate level  MATH M1250 Minimum Grade of D- and Undergraduate level  MATH M1260 Minimum Grade of D-) or Undergraduate level  MATH M1150 Minimum Grade of D- or Undergraduate level  MATH 15900 Minimum Grade of D- or (Undergraduate level  MATH 15300 Minimum Grade of D- and Undergraduate level  MATH 15400 Minimum Grade of D-)
+
+

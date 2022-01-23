@@ -1,0 +1,57 @@
+ECET 38600 - Building Electrical Codes And Standard Practices
+
+Credit Hours: 3.00.  A course in the design of building wiring, machine wiring and electrical control systems using relevant codes and standards to layout commercial and industrial facilities and manufacturing processes.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Identify codes and standards that pertain to the design and installation of building electrical systems.   
+2.  Choose proper components for a wiring application. 
+3.  Use commercial power system analysis software to assist in the design of an electrical distribution system.
+4.  Design lighting for office, industrial, and other areas. 
+5.  Apply the appropriate standards to provide proper protection for electoral circuits.
+6.  Calculate balanced, three-phase short-circuit currents for a distribution system in accordance with applicable standards.  
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  ECET 27300 Minimum Grade of D- and Undergraduate level  ECET 27700 Minimum Grade of D-
+
+

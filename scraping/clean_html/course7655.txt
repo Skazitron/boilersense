@@ -1,0 +1,110 @@
+BIOL 58210 - Ecological Statistics
+
+Credit Hours: 3.00.  This course covers topics that are useful for successfully designing and analyzing statistically observational and experimental studies in ecology, animal behavior, evolutionary biology, forestry, wildlife sciences, fisheries, etc. Some topics are: differences between hypotheses and predictions, design of an ecological study, general linear models, assumptions, different types of designs (factorial, nested, repeated measures, blocks, split-plots, etc.). fitting models to data, etc. The course will focus on the conceptual understanding of these topics (e.g., interpreting the results of statistical tests) and practice with statistical programs and real datasets.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Science 
+
+Department: Biological Sciences 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Pose scientific questions, hypotheses, and predictions.
+2.  Plan and design ecological research projects.
+3.  Determine sample size requirements.
+4.  Use and interpret descriptive statistics.
+5.  Use general linear models and interpret their results.
+6.  Check for the assumptions of general linear models.
+7.  Manage data.
+8.  Understand the potential and limitations of statistics in ecological research.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-BIOL 58210 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+50100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+50300
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+51100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+51200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

@@ -1,0 +1,40 @@
+CNIT 69100 - Natural Language In Information Assurance, Security, And Privacy
+
+Credit Hours: 3.00.  This course will serve as seminar in natural language applications with the emphasis in information assurance, security, and privacy. The topics will review the state of the art of general information assurance, security, and privacy with the focus on natural language text and information received from and implied in it.  The course will focus in a wide range of papers describing various techniques and applications, with the identifiable advantages and disadvantages. The assignments will range in class paper presentations to group projects and written reports.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Illustrate the purpose and goals of natural language-based information assurance, security and privacy applications.
+2.  Identify and evaluate individual applications for a particular need.
+3.  Apply critical thinking and creative problem solving to improve existing solutions.
+4.  Explain advantages and disadvantages of natural language processing techniques applied to security-related applications.
+5.  Develop reports on new and existing methods and applications following Purdue University Ethics Policies.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

@@ -1,0 +1,57 @@
+CNIT 45800 - Biomedical Informatics
+
+Credit Hours: 3.00.  This course explores the tools and objectives of research in the medical and life sciences industry relevant to the skills of information technology. The driving outcome of this course is for students to understand the domain demands inherent to information systems in healthcare, bioinformatics and computational life sciences, with respect to their role in commercialism, therapeutic decision support and discovery support systems. Topics include information technology application in support of health care delivery, a brief overview of healthcare delivery, the history of healthcare informatics, an overview of the state of current systems and the professional opportunities in Health Informatics. In bioinformatics, introduce the concepts of genomics and proteomics, biotechnology, biological databases and file structures, common computational methods for exploiting biological databases, integrating computational methods within the life sciences industry, and a survey of successful computational life science applications.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand how genomic and proteomic data are structured, stored and queried.
+2.  Understand the methods used to represent nucleotides and mino acids in the digital realm, and how to access genomic and proteomic databases.
+3.  Understand and implement algorithms used to efficiently carry out sequence alignments.
+4.  Understand the methods and rationale for constructing cladograms.
+5.  Understand the genetic basis of single nucleotide polymorphisms (SNPs), existing SNP databases, and the role of SNPs in systems supporting personalized medicine and forensics.
+6.  Understand the rationale and utilization of DNA design applications supporting molecular biology methods.
+7.  Understand the rationale and utilization of 3 dimensional protein rendering applications.
+8.  Understand how information and data support clinical therapeutics.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+Must be enrolled in one of the following Classifications:      
+
+      Senior 105+ hours
+
+      Senior 90 - 104 hours
+
+      Junior: 60 - 74 hours
+
+      Junior: 75 - 89 hours
+
+

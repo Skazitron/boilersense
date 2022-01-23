@@ -1,0 +1,40 @@
+MFET 36100 - Machine Learning And Manufacturing Analytics
+
+Credit Hours: 3.00.  Machine learning (ML) algorithms are used to extract and analyze large amounts of manufacturing data. Fundamental ML analytic techniques and commonly used ML algorithms for manufacturing applications will be introduced. Students will create, train, and deploy ML models on a cloud platform to create enterprise-ready smart manufacturing artificial intelligence (AI) solutions. Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Explain the benefits machine learning and artificial intelligence have in manufacturing.
+2.  Describe the fundamental principles, core concepts and operations involved with developing machine learning applications.
+3.  Apply commonly used machine learning algorithms for smart manufacturing applications.
+4.  Apply cloud-based automated machine learning tools to develop models and applications to perform intelligent manufacturing operations and analytics.
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  CNIT 15501 Minimum Grade of D- or Undergraduate level  CS 17700 Minimum Grade of D-) and (Undergraduate level  MA 16020 Minimum Grade of D- or Undergraduate level  MA 16200 Minimum Grade of D- or Undergraduate level  MA 16600 Minimum Grade of D-) and Undergraduate level  STAT 30100 Minimum Grade of D-
+
+

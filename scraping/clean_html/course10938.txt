@@ -1,0 +1,109 @@
+CHE 55300 - Pharmaceutical Process, Development And Design
+
+Credit Hours: 3.00.  This course introduces the engineering methodologies involved in translating a laboratory recipe for a drug compound produced via synthetic organic chemistry methods to an industrial process. The basic features of common unit operations used in the pharmaceutical industry will be reviewed, including batch reaction, solid-liquid separation, crystallization, drying, mixing, batch distillation and other separation systems. Both dedicated and multi-product production system design and batch and semi-continuous operating modes will be covered.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Chemical Engineering 
+
+Department: Chemical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Develop knowledge and skills in the thermodynamic, reaction and transport phenomena arising in the typical batch unit operations used in the pharma and specialty chemicals industries, including batch reaction, crystallization, solid-liquid separation, mixing, distillation, drying and liquid-liquid extraction.
+2.  Develop knowledge and skills in the use experimental data and relevant models to design and predict the performance of these units.
+3.  Develop knowledge and skills in the use of engineering software to conduct studies of these operations and interpret and critically assess the results such software produces.
+4.  Understand different modes of operation for batch processes and their scheduling.
+5.  Understand aspects of the design of batch process in which the set of batch operations are integrated.
+6.  Develop knowledge and skills in the use of planning/scheduling software to conduct design and operational studies of integrated process.
+7.  Enhance skills in succinctly reporting the most important conclusions of team projects in written and oral form.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-CHE 55300 Requisites
+
+
+General Requirements:
+
+ ( 
+Course or Test: 
+CHE
+30600
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )and( 
+Course or Test: 
+CHE
+34800
+
+
+Minimum Grade of 
+D-
+
+May be taken concurrently.
+ )and( 
+Course or Test: 
+CHE
+37800
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )and( 
+Course or Test: 
+CHE
+45600
+
+
+Minimum Grade of 
+D-
+
+May be taken concurrently.
+ )or( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+)
+
+
+

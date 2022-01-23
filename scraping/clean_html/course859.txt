@@ -1,0 +1,49 @@
+IE 48100 - Introduction To System Simulation
+
+Credit Hours: 3.00.  The course presents a general introduction to simulation concept and methodology. It covers simulation modeling in specialized simulation environments. Practical application of simulation to diverse systems will be discussed. Proper design and analysis of the simulation experiment is emphasized. Permission of department required. Typically offered Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Industrial Engr 
+
+Department: Industrial Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Construct discrete-event simulation models using a representative simulation software package.
+2.  Identify different types of simulation models and determine scenarios where each would be appropriate.
+3.  Perform analysis of data for the development of input models.
+4.  Design simulation experiments and conduct statistical analysis.
+5.  Verify and validate a simulation model.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      Industrial Engineering
+
+
+Prerequisites: 
+
+ Undergraduate level  IE 33000 Minimum Grade of D- and Undergraduate level  IE 33600 Minimum Grade of D-
+
+

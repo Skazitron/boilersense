@@ -1,0 +1,41 @@
+NUCL 57500 - Neural Computing in Engineering
+
+Credit Hours: 3.00.  Mathematical fundamentals of computing with neural networks.  Survey of engineering applications.  Computational metaphors from biological neurons.  Artificial neural networks modeling of complex, nonlinear and ill-posed problems.  Emphasizes engineering utilization of neural computing to diagnostics, control, safety, and decision-making problems. Typically offered Fall.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Nuclear Engineering 
+
+Department: Nuclear Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

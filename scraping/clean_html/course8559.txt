@@ -1,0 +1,83 @@
+CGT 52000 - Computer Graphics Programming
+
+Credit Hours: 3.00.  This course provides a working knowledge of computer graphics programming using OpenGL and C++. OpenGL is the platform independent industrial standard APL and the leading edge technology for computer graphics application design. It has been used in the gaming industry, as well as in research and for scientific visualizations. The course focuses on creating real-time and interactive applications and is structured into several blocks; OpenGL introduction, modeling, texturing, transformations, lighting, and interactive application design. Students will develop various applications through the course focusing different aspects of computer graphics programming.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand the OpenGL pipeline and the OpenGL API.
+2.  Understand and actively apply modeling techniques such as surface of revolution, extruded surface, polygonal mesh simplification, implicit surface 
+       modeling and generation, marching cubes, etc.
+3.  Understand and actively apply modeling and viewing transformations, hierarchies, object, and scene and object manipulations.
+4.  Understand and actively apply Phong illumination model to surfaces.
+5.  Understand and actively apply texturing, 2D image manipulation, transfer functions, mip-mapping, texture compression, transparency.
+6.  Understand and actively apply basic interaction techniques such as picking, object manipulation and editing, scene walkthrough, flying, etc.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-CGT 51100 Course
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CGT
+51100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

@@ -1,0 +1,32 @@
+ECE 61200 - Advanced VLSI Devices
+
+Credit Hours: 3.00.  Device physics of advanced transistors. Process, device, circuit, and systems considerations affecting development of new integrated circuit technologies. Review of metal oxide semiconductor (MOS) fundamentals along with key process and circuit concepts. Short channel effects in sub-micron channel length metal oxide semiconductor field-effect transistors (MOSFETs) including device scaling considerations. Device physics and technology issues for sub-100 nm (nanoscale) MOSFETs.  Limits of silicon device technology and key issues in the continuing miniaturization of devices. Alternative device structures to replace bulk MOSFET. Computer simulation employed throughout the course to examine device issues and prototype new device technologies. Offered in alternate years. Prerequisite:  ECE 60600.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

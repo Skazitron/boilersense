@@ -1,0 +1,31 @@
+IE 33200 - Computing In Industrial Engineering
+
+Credit Hours: 3.00.  Introduction to computing in industrial engineering. Reinforcement of scientific programming skills on typical IE tasks, together with introduction to simulation and related computer tools. Typically offered Fall Spring.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Laboratory Preparation, Lecture 
+
+
+Offered By: School of Industrial Engr 
+
+Department: Industrial Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  CS 15900 Minimum Grade of D- or Undergraduate level  CS 15800 Minimum Grade of D- or Undergraduate level  CS 18000 Minimum Grade of D- or Undergraduate level  CS 22000 Minimum Grade of D-) and Undergraduate level  IE 33000 Minimum Grade of D- [may be taken concurrently]
+
+

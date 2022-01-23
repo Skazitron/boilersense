@@ -1,0 +1,54 @@
+MET 48200 - Mechatronics
+
+Credit Hours: 3.00. Fundamental concepts and applications of practical mechatronics are presented, with emphasis on product design, systems integration, and functional relationships between mechanical structure, sensor data, precision actuators, power resources, embedded microcontrollers, control logic, and drives. Students gain hands-on experience with mechatronics components and measurement equipment which is applied in a team-based design-build mechatronics system project. Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Describe the design and operation of mechatronics.
+2.  Demonstrate input/output characteristics of microcontroller and its interfacing.
+3.  Create a mechatronic system solution to a given problem.
+4.  Explain programming and interfacing issues involved in the design of mechatronic system.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MET 28400 Minimum Grade of D-
+
+

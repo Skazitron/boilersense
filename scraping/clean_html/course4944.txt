@@ -1,0 +1,43 @@
+STAT 47301 - Introduction To Arbitrage-Free Pricing Of Financial Derivatives
+
+Credit Hours: 3.00.  This course exposes students to a number of financial economics concepts related to arbitrage-free option pricing in the binomial market model and the Black-Scholes model. Specific models include: (1) Options and parity relationship between options (2) Option Pricing under the Binomial model (3) Option Pricing under the Black-Scholes model (4) Option hedging and the market maker 's overnight profit (5) Black Scholes theory with Brownian motion and Ito calculus (6) Risk-neutral option pricing and Monte Carlo valuation (7) Stochastic interest rates and Stochastic Volatility. This course provides the background for Couse MFE of the Society of Actuaries and Course 3F of the Casualty Actuarial Society. Typically offered Fall Spring.  
+
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Statistics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      PU Fort Wayne
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Use arbitrage-free option pricing in the binomial market model and the Black-Scholes model. 
+2.  Adapt the binomial setting to computing exotic and path-dependent option prices, including the determination of optimal exercise.
+3.  Follow marking-to-market strategies for approximate discrete delta hedging.
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MA 37300 Minimum Grade of C- and (Undergraduate level  MA 41600 Minimum Grade of C- or Undergraduate level  STAT 41600 Minimum Grade of C- or Undergraduate level  STAT 51600 Minimum Grade of C-)
+
+

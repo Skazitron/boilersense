@@ -1,0 +1,39 @@
+CGT 12300 - Animation Foundations
+
+Credit Hours: 3.00.  In this course, students are introduced to the core concepts and principles of animated motion. The course includes an overview of animation history and the evolution of animation technology. Principles of animation production are explored through practical exercises executed in a range of animation software types. These exercises will familiarize students with different approaches to creating animated motion, with a focus on keyframed digital animation.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Recitation 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      New Albany
+
+      Richmond
+
+
+Learning Outcomes: 
+1.  Identify the sequence of major milestones in the history of animation technology, style and industry.
+2.  Demonstrate fundamental animation skills and principles including anticipation, squash & stretch, timing, easing and motion arcs.
+3.  Create animated images of objects and characters in digital animation software that communicate believable motion.
+4.  Arrange and manipulate geometric objects and systems in digital animation software, creating a range of defined outputs including still images and image sequences suitable for animation workflows.
+
+
+

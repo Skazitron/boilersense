@@ -1,0 +1,39 @@
+ME 36500 - Measurement And Control Systems I
+
+Credit Hours: 3.00.  The fundamentals of dynamic system modeling are reviewed with special reference to measurement systems. Analytical and experimental techniques of general importance in systems engineering are presented, including sensor utilization in feedback control. Engineering measurement fundamentals, including digital and frequency domain techniques noise and error analysis are covered. Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Recitation 
+
+
+Offered By: School of Mechanical Engr 
+
+Department: Mechanical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Provide a fundamental knowledge of the theory of measurement sciences. (A2, A3, A4)
+2.  Gain knowledge of the practice and art of measurements through laboratory experiments. ( A2, A3, A4)
+3.  Sharpen skills in problem formulation and integration of a broad range of technical capabilities through certain deliberately ill-defined experimental procedures. (A2, A3, A4)
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  ECE 20100 Minimum Grade of D- or Undergraduate level  EE 20100 Minimum Grade of D-) and (Undergraduate level  ME 27400 Minimum Grade of D- or Undergraduate level  ME 27500 Minimum Grade of D- or Undergraduate level  CE 29800 Minimum Grade of D-) and Undergraduate level  MA 26200 Minimum Grade of D- or (Undergraduate level  MA 26500 Minimum Grade of D- and Undergraduate level  MA 26600 Minimum Grade of D-) or (Undergraduate level  MA 35000 Minimum Grade of D- and Undergraduate level  MA 36000 Minimum Grade of D-) and (Undergraduate level  ECE 20700 Minimum Grade of D- or Undergraduate level  EE 20700 Minimum Grade of D-)
+
+

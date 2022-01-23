@@ -1,0 +1,44 @@
+ECE 50863 - Computer Network Systems
+
+Credit Hours: 3.00.  The goal of this course is to provide students with a proper grounding in the basic concepts and seminal work in computer network protocols and systems, and to introduce students to research in the field. The course will cover classical concepts such as network architecture, switching, routing, congestion control, and quality-of-service, and discuss recent developments in these areas. The course will also cover new developments in networking such as network measurements, network management, overlay networking and peer-to-peer systems, network security, and new network architectures. The course will emphasize a system-oriented and empirical view of internet architecture. Graduate standing or consent of instructor.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand the architectural principles underlying internet design.
+2.  Understand LAN interconnects, routing algorithms, and congestion control algorithms.
+3.  Identify, formulate, and solve problems encountered in the design of networks.
+4.  Implement networking systems and rigorously evaluate them using systematic empirical methods.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

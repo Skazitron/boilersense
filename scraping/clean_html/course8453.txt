@@ -1,0 +1,56 @@
+CGT 24700 - Visual Effects - Particles And Procedural Effects
+
+Credit Hours: 3.00.  This course focuses on simulating and rendering particles. Special emphasis is placed on volumes, sparks, dust, and smoke effects. Techniques for minimizing render times and meeting production requirements are explored. Emphasis is placed on the use of production tools and techniques to create aesthetically pleasing graphics.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Create efficient particle simulations.
+2.  Render particle simulations properly.
+3.  Apply approved mathematical formulas to create simulations for entertainment graphics.
+4.  Optimize simulations based on time and production project parameters.
+5.  Implement common visual effects. 
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  CGT 14700 Minimum Grade of C-
+
+

@@ -1,0 +1,94 @@
+PUBH 52500 - Statistical Methods For Public Health Evaluation
+
+Credit Hours: 3.00.  This course provides an overview of the statistical methods required to evaluate the effectiveness of public health intervention or prevention programs and policies. The course introduces a range of quantitative, qualitative, and mixed methods research designs and the application and tailoring of these designs to evaluations. In addition, we will focus on categorical data analysis methods, which are often necessary for evaluation projects. You will collaborate to conduct an evaluation, develop a report with your findings, and present your findings. The course is intended for graduate students in public health; however, it may be of interest to students in social work, nursing, education, criminal justice, psychology, and other related fields. Permission of department required.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Health & Human Sci 
+
+Department: Public Health 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Describe preferred methodological alternatives to parametric statistical methods when assumptions are not met.
+2.  Accurately interpret the results and limitations of nonparametric descriptive and inferential methodologies.
+3.  Apply appropriate descriptive and inferential methodologies according to the type of study design for answering a particular research question.
+4.  Collaborate with non-statisticians to complete evaluation activities.
+5.  Explain evaluation analyses and results to non-statisticians, including researchers, public health professionals, and community members.
+6.  Recognize and critically reflect upon one's own cultural biases and their impact on research design, analysis, and interpretation.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR PUBH 52500-Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+51200
+
+
+May not be taken concurrently.
+ )and( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+50300
+
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+PUBH
+60100
+
+
+May not be taken concurrently.
+)
+
+
+

@@ -1,0 +1,39 @@
+AGEC 65500 - Applied Economic Time Series Analysis
+
+Credit Hours: 3.00.  This course is designed to improve students' abilities to estimate and interpret time series models. The course begins with univariate models and progresses to multivariate analysis. Alternative methods for identifying, estimating, and forecasting with time series models will be discussed. In addition, analysis of non-stationary time series and co-integration modeling will be covered in this course. Prerequisite:  AGEC 65100 or Consent of Instructor. Mastery of applied statistics, calculus, and microeconomic theory at the Masters level or higher is desirable.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Agricultural Economics 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Translate data and statistical results.
+2.  Apply knowledge and ethical research to data and data analysis literacy.
+3.  Integrating economic theory with applied analysis techniques.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

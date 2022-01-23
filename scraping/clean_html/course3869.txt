@@ -1,0 +1,41 @@
+AT 41901 - Unmanned Aerial Systems Capstone II
+
+Credit Hours:  3.00.  The conclusion and demonstration of the cumulative knowledge and skills learned in AT 40900. An application specific autonomous aircraft designed will be constructed and flown within mission specific specifications. Data gathered will be analyzed and documented.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Schl of Aviation & Transp Tech 
+
+
+Course Attributes: Credit By Exam, Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Properly construct aircraft and install data package.
+2.  Perform ground tests and measurements necessary for safe, efficient operation.
+3.  Perform autonomous flights as necessary to establish system validity.
+4.  Analyze and present results of flights, documentation and recommendations.
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  AT 40900 Minimum Grade of D-
+
+

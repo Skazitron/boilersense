@@ -1,0 +1,46 @@
+POL 60600 - Advanced Quantitative Techniques In Political Science
+
+Credit Hours: 3.00.  This course deals with advanced quantitative techniques useful in political science research. These include multiple correlation and regression, causal modeling, dynamic (time series) analysis, dimensional analysis (Coombsean scaling, Shepard-Kruskal scaling, and factor analysis), and cross-level inference techniques.  Prerequisite: POL 50100, 60500. Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Liberal Arts 
+
+Department: Political Science 
+
+
+Course Attributes: Variable Title 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Repeatable for Additional Credit: Yes - May be repeated an unlimited number of times
+
+
+Learning Outcomes: 
+1.  Understand the logic and interpretation of various models.  
+2.  Understand the assumptions underlying various advanced quantitative techniques.  
+3.  Analyze data using advanced quantitative techniques.  
+4.  Learn the appropriate software to apply advanced quantitative techniques.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

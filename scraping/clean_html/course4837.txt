@@ -1,0 +1,64 @@
+CNIT 45500 - Network Security
+
+Credit Hours: 3.00.  This course explores business, conceptual, and technological aspects of network security for voice and data networks. The course deals with the analysis, design, implementation, and management issues surrounding effective network security. Key concepts and technology include virus protection, firewalls, authentication, encryption, wireless security, security protocols, physical security, and network security architecture and policy development.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Understand the principles and theories of building layered security solutions.
+2.  Deploy filtering and firewall technologies to provide layered security solutions.
+3.  Understand basic cryptography theory and techniques.
+4.  Understand and implement virtual private network solutions.
+5.  Understand the principles and practices for system vulnerability scanning.
+6.  Understand and implement network access control solutions.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ (Undergraduate level  CNIT 34200 Minimum Grade of C- or Undergraduate level  CNIT 34220 Minimum Grade of C-) and (Undergraduate level  CNIT 34500 Minimum Grade of C- or Undergraduate level  CNIT 34400 Minimum Grade of C-)
+
+

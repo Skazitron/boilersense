@@ -1,0 +1,41 @@
+CGT 52400 - Model-Based Definition In The Digital Enterprise
+
+Credit Hours: 3.00.  This course will explore Model-based definition (MBD), an emerging industry technique that uses 3D CAD models with annotations to communicate information between people and equipment instead of using drawings. This technique results in reduced variability during data translation, more accurate product definition information and wider dissemination of product data through an increasingly digital corporate enterprise.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand how MBD is beneficial to the modern manufacturing environment of organizations, along with the use of PLM tools and methods.
+2.  Author Product Manufacturing Information (PMI) in the selected CAD system.
+3.  Understand the challenges and opportunities where MBD data can be re-used throughout the lifecycle of the product.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

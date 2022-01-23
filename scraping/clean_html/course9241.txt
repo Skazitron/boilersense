@@ -1,0 +1,53 @@
+ECET 17700 - Data Acquisition And Systems Control
+
+Credit Hours: 3.00.  Fundamental electrical parameters and measurement techniques are introduced. These are then applied to implementing power interfaces, actuators and sensors. Modules that provide signal conditioning, data conversion, filtering and controllers are evaluated. A full, closed loop control system is built and evaluated.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Dept Credit, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Make laboratory measurements using digital multimeters, oscilloscopes and computer based data acquisition instruments.
+2.  Trace measurements to NIST standards.
+3.  Implement and evaluate the performance of electronic components at the module/block level while calculating key circuit parameters.
+4.  Evaluate the performance of a closed loop system.
+
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  ENGT 18000 Minimum Grade of D- and Undergraduate level  ENGT 18100 Minimum Grade of D-) or Undergraduate level  ECET 12000 Minimum Grade of D- or Undergraduate level  ECET 22400 Minimum Grade of D- or (Undergraduate level  ECE 20001 Minimum Grade of D- and Undergraduate level  ECE 20007 Minimum Grade of D-)
+
+

@@ -1,0 +1,62 @@
+VCS 82701 - Diagnostic Imaging
+
+Credit Hours: 3.00.  This course covers basic mechanisms of image generation and interpretation. The first half of the course deals with principles of image formation and the introduction to advanced imaging modalities. A synopsis of the principles of radiobiology and radiation safety is offered. The second part of the course features imaging interpretation based on previously mastered imaging principles. The third part of the course builds the foundation of film reading and interpretation such as radiographic anatomy and radiographic signs of specific disease conditions. This course serves as a foundation for the fourth-year diagnostic radiology rotation. Typically offered Spring Summer.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: Veterinary Medicine 
+
+Department: Veterinary Clinical Sciences 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Describe the basic operation of an x ray machine, including the components of the x-ray tube.
+2.  Understand the relationship of kVp, mAs and exposure time to x-ray production.
+3.  Know the fundamental properties of x-rays and gamma rays.
+4.  Know technical factors that affect detail, density, distortion and contrast in the generation of the xray image.
+5.  Know the reason for using a grid and the construction of a grid. See textbook
+6.  Understand the terms latitude and scale of contrast as they relate to radiographic exposure.
+7.  Describe the differences between and applications of medium (par), high speed and slow speed intensifying screens.
+8.  Know the advantages and disadvantages of using digital versus conventional radiography.
+9.  Know the basics of analog radiographic processing—what happens during development, rinse, fixation and washing.
+10.  Know the common artifacts that are produced in the darkroom, i.e., fixer versus developer spills, exhausted developer, static electricity, light leakage, improper temperature or mixing of chemicals and screen-based problems. See textbook.
+11.  Be familiar with the basic radiation protection measures used by veterinary workers.
+12.  Know the major effects (cancer induction, teratogenesis, etc.) of ionizing radiation and cellular mechanisms (free radical production, DNA damage, and mutation) involved in radiation injury.
+13.  Have a working knowledge of how an ultrasound machine functions and how ultrasonic images are interpreted (terminology).
+14.  Be familiar with imaging principles and advantages of nuclear medicine imaging.
+15.  Understand the difference between CT and MR imaging, and their relative indications in veterinary medicine.
+16.  Know the advantages and disadvantages of CT and MR imaging over radiography.
+17.  Know which imaging modalities are used to provide physiologic information.
+18.  Know how to name x-ray projections.
+19.  Understand the concept of “windowing” as it relates to digital forms of imaging.
+20.  Understand differences between file types for digital imaging, e.g., DICOM (.dcm), TIFF (.tif), JPEG (.jpg).
+21.  Recognize abnormal radiographic findings of commonly seen disease conditions in small animals.
+22.  Describe radiological findings according to Roentgen signs.
+23.  Formulate a meaningful differential diagnosis for commonly seen radiographic abnormalities in small animals.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Professional
+
+Must be enrolled in one of the following Majors:      
+
+      Veterinary Medicine
+
+

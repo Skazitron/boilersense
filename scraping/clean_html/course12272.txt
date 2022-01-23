@@ -1,0 +1,51 @@
+AGEC 20201 - Introduction To Data Analytics For Agricultural Business
+
+Credit Hours: 3.00.  Overview of data analytics in agricultural business. Students are exposed to an overview of software tools with a primary focus on Excel, introduction to relational databases, and data visualization. Focus is in using financial, accounting, and economic data to make management decisions. Laptop required.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Agricultural Economics 
+
+
+Course Attributes: Credit By Exam, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Create and format a basic Excel worksheet.
+2.  Apply formulas and functions to calculate and analyze data.
+3.  Create charts and insert sparklines to represent data visually.
+4.  Manage and analyze large sets of data.
+5.  Analyze data by creating subtotals, PivotTables, and PivotCharts.
+6.  Use decision-making tools such as Range Names, Data Tables, and Goal Seek.
+7.  Manipulate data using date, logical, statistical, and financial functions.
+8.  Employ statistical functions to analyze data for decision making.
+9.  Demonstrate data management and error control within workbooks containing links and 3-D formulas.
+10.  Import, format, and manipulate data from external sources.
+11.  Manipulate data using text, database, and lookup functions.
+12.  Demonstrate how to design templates, insert comments, create macros, and use VBA.
+13.  Read an ERD Diagram.
+14.  Learn elements of Structured Query Language including the ability to create tables, retrieve, update, and delete data.
+15.  Understand usage of primary and foreign keys.
+16.  Create a relational database.
+17.  Understand different data types.
+18.  Create and format visualizations.
+19.  Create visualizations for nominal, ordinal, interval, and ratio scale data.
+20.  Create map visualizations.
+
+
+

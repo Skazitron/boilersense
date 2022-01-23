@@ -1,0 +1,97 @@
+CGT 10301 - Geometric Modeling Applications
+
+Credit Hours: 3.00.  This course provides an introduction to the process of 3D geometric CAD modeling, and the construction techniques used in the creation of constraint-based solid and surface models used in engineering disciplines. Part modeling and assembly modeling are included, as well as manipulation of the geometric model to derive variant designs. Emphasis is on the use of the engineering design process as a problem-solving method to capture modeling behavior to enable the downstream use of 3D data in the overall product design process, and its re-use in the product lifecycle.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Recitation, Studio 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Dept Credit, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Demonstrate fluency in constraint-based modeling techniques using commercial CAD tools.
+2.  Understand the role of geometric modeling in the product lifecycle.
+3.  Create effective 3D CAD data to support the incorporation of design intent.
+4.  Manipulate a solid model database to support geometry re-use in a PLM setting.
+5.  Understand the primary differences between constraint-based, NURBs, behavioral and polygonal modeling and their application to various communicative problems and tasks.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      Animation And Visual Effects
+
+      Animation
+
+      Automation & Sys Engr Tech
+
+      Building Information Modeling
+
+      Digital Enterprise Systems
+
+      Data Visualization
+
+      Game Development
+
+      Game Development and Design
+
+      Industrial Design Prof Program
+
+      Mechanical Engr Technology
+
+      Mechatronics Engr Tech
+
+      Robotics Engr Technology
+
+      Supply Chain & Sales Engr Tech
+
+      Strategic Communication Mgmt
+
+      Smart Mfg Ind Informatics
+
+      Technology Education
+
+      Industrial Engineering Tech
+
+      UX Design
+
+      Visual Effects Compositing
+
+      Virtual Product Integration
+
+      Web Programming & Design
+
+

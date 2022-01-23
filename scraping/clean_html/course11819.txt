@@ -1,0 +1,39 @@
+CE 29700 - Basic Mechanics I (Statics)
+
+Credit Hours: 3.00.  Statics of particles. Rigid bodies: equivalent systems of forces, equilibrium. Centroids and centers of gravity. Static analysis of trusses, frames, and machines. Friction. Area moments of inertia.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Civil Engineering 
+
+Department: Lyles School of Civil Engr 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Utilize fundamental vector mechanics concepts to understand, explain, and describe the behavior of particle and rigid-body equilibrium. 
+2.  Determine centroids and moments of inertia of areas. 
+3.  Analyze the behavior of typical engineering components using force and moment equilibrium.
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  MA 26100 Minimum Grade of C- [may be taken concurrently] or Undergraduate level  MATH 26100 Minimum Grade of C- [may be taken concurrently] or Undergraduate level  MA 27100 Minimum Grade of C- [may be taken concurrently] or Undergraduate level  MA 18200 Minimum Grade of C- [may be taken concurrently] or Undergraduate level  MA 26300 Minimum Grade of C- [may be taken concurrently] or Undergraduate level  MA 17400 Minimum Grade of C- [may be taken concurrently]) and (Undergraduate level  ENGR 16200 Minimum Grade of C- or Undergraduate level  PHYS 17200 Minimum Grade of C- or Undergraduate level  PHYS 15200 Minimum Grade of C- or (Undergraduate level  PHYS 16200 Minimum Grade of C- and Undergraduate level  PHYS 16300 Minimum Grade of C-)   )
+
+

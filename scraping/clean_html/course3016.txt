@@ -1,0 +1,46 @@
+CS 58800 - Randomized Algorithms
+
+Credit Hours: 3.00.  The area of randomized algorithms has grown from being a tool in computational number theory to finding widespread application in algorithms in all areas of computer science. Two practical benefits of randomization are its simplicity and speed. Deep and important computational complexity connections have been developed,  from bridging the gap between discrete and continuous optimization, bypassing deterministic barriers in online settings, summarizing massive data in polylogarithmic space, probabilistically checkable proofs, privacy enhancing techniques, modeling the web and other large networks, and sparsifying and compressing complicated combinatorial structures such as graphs. Randomization is an essential  key ingredient in the algorithmic breakthroughs today and in the future. This course presents the basic concepts in the design and analysis of randomized algorithms and shows how to apply them to algorithms for a wide range of problems. The course covers a broad range of problems benefitting from randomized computation including data structures, graph algorithms, online algorithms, geometric algorithms, streaming algorithms, derandomization techniques, and tools for probabilistic analysis of algorithms.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Computer Science 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Describe the main principles underlying the design and analysis of a randomized algorithm. 
+2.  Explain concepts of randomized algorithms used in specific domains; e.g., graph-theory, number theory, and linear algebra problems. 
+3.  Apply measure concentration results from probability theory to analyze a given randomized algorithm. 
+4.  Determine the running times, failure probabilities, and accuracy guarantees of a randomized algorithm. 
+5.  Apply learned design techniques and analysis tools to design and analyze new randomized algorithms. 
+6.  Explain material from published research in the area of randomized algorithms using field-specific language.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Computer Science-PHD
+
+      Computer Science-MS
+
+

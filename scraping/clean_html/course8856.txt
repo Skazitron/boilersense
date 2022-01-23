@@ -1,0 +1,88 @@
+ECON 65000 - Applied Microeconometrics
+
+Credit Hours: 1.00 to 3.00.  Topics in labor economics. While the specific subject matter varies from year to year, recent seminars have examined such topics as dynamic labor demand and supply analysis, human capital theory, screening and signaling theories, contract theory, efficiency wages, job matching, search, unions, and internal labor markets. Material is selected from current journal articles.
+
+    1.000 TO     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: School of Management 
+
+Department: School of Mgmt Adm & Instr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand the background and motivation for various microeconometric model.
+2.  Recognize the assumptions or conditions that provide identification of the treatment effect in each model.
+3.  Use Stata to estimate policy-relevant treatment effect using non-experimental data.
+4.  Demonstrate how to read and understand economic journal articles that use the methods introduced in this course.
+5.  Perform PhD-level empirical research using microeconometric methods.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Economics-CPOSTB
+
+      Economics-MA Teaching
+
+      Economics-MS
+
+      Economics-MS
+
+      Economics-MS
+
+      Economics-PHD
+
+      Management-CPOSTB
+
+      Management-CPOSTB
+
+      Management Exec-MBA
+
+      International Mgmt Masters-MBA
+
+      Management-MBA
+
+      Management-MBA
+
+      Management-MBA
+
+      Management-MS
+
+      Management-MS
+
+      Management-PHD
+
+      Management Exec-MBA
+
+      Management Exec-MBA
+
+      International Mgmt Masters-MBA
+
+      International Mgmt Masters-MBA
+
+      Org Behav HR Mgmt-PHD
+
+      Economics-CPOSTB
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

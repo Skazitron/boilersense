@@ -1,0 +1,48 @@
+ECON 67400 - Microeconometrics
+
+Credit Hours: 1.00 to 3.00.  This advanced course covers the econometrics and statistical methods needed to study data on individual agents in general qualitative response models and models of limited dependent variables. Special emphasis is placed on applying the alternate estimation and inference techniques to actual or simulated datasets. Topics include: univariate binary models, multinomial and multivariate qualitative response models, choice based sampling, distribution-free estimation methods, and Tobit models. Prerequisite: ECON 67200.
+
+    1.000 TO     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: School of Management 
+
+Department: School of Mgmt Adm & Instr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Economics-MS
+
+      Economics-PHD
+
+      Org Behav HR Mgmt-PHD
+
+      Management-MS
+
+      Management-PHD
+
+      Org Behav and HR Mgmt-MS
+
+      Economics-MA Teaching
+
+      Management-MBA
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

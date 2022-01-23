@@ -1,0 +1,57 @@
+CGT 34000 - Digital Lighting And Rendering for Computer Animation
+
+Credit Hours: 3.00.  The development of a working knowledge of perspective display of three-dimensional models and the resulting effects of projected light sources on shade, shadow, color, texture, and atmospheric effects in architecture, product illustration, and animation. Emphasis will be placed on lighting design, analysis, and photorealistic simulation for commercial graphic applications.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      IUPUI
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+      Kokomo
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Graphics Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CGT 24100 Minimum Grade of C-
+
+

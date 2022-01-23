@@ -1,0 +1,58 @@
+ECET 38800 - Analog IC Applications
+
+Credit Hours: 3.00.  This course is a study of the applications of analog integrated circuits. Topics include linear amplifiers, IC specifications, linear regulators, waveform generation, linear and switched-capacitor active filters, and nonlinear circuit applications. Computer aided analysis of these circuits is also presented.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Analyze and design a wide variety of digitally controlled analog circuits, selecting among several alternative configurations, accounting for the non-ideal IC behavior, and selecting appropriate devices.
+2.  Evaluate the performance of a variety of analog circuits, using appropriate standard laboratory measurement procedures, and simulations.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      Electrical Engr Technology
+
+
+Prerequisites: 
+
+ Undergraduate level  ECET 27700 Minimum Grade of D- [may be taken concurrently]
+
+

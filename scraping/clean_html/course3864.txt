@@ -1,0 +1,40 @@
+AT 40900 - Unmanned Aerial Systems Project Planning And Management
+
+Credit Hours: 3.00.  UAS capstone course. Application of UAS technologies across multiple commercial type scenarios.  A demonstration of the cumulative knowledge and skills learned in previous UAS courses. Requires current FAA Part 107 Remote Pilot Certificate.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Schl of Aviation & Transp Tech 
+
+
+Course Attributes: Credit By Exam, Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Demonstrate the application of safety and risk management principles to UAS operations.
+2.  Examine the UAS entrepreneurial ecosystem and formulate a business prospectus based on current industry trends and regulatory policy.
+3.  Assess technical data sources to evaluate system health, to include ground and flight testing, troubleshooting, maintenance and repair, system configuration and payload integration.
+4.  Demonstrate the ability to plan, manage, and execute various UAS missions safely, legally, and efficiently.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  AT 31900 Minimum Grade of D-
+
+

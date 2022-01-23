@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ,Course number,Text
 0,CS25200,"hmmhmm yes, good jojoke"
 1,CS25200,"If you have gone so far that you can't use make/compile anymore and don't know how to fix it, I would go back to a previous commit that has compilable code. You can use gitk to find out what commit has what changes and you can compare and contrast between your commits.
@@ -799,3 +800,807 @@ Prof. Li is also very reasonable and kind. His lecture slides are a bit confusin
 
 Also, IIRC, he changes which language that is implemented each time he teaches the course."
 426,CS35200,"352 with Prof. Li was pretty good, you use yacc and lex for parsing, and either c or c++ for interpreting and compiling (you choose). Towards the  the end of the semester you gotta write some arm assembly for compiling to raspberry pis. The project is probably the hardest you'll do for your cs undergrad and it will be a huge mess by the end of the semester, so don't take the class lightly. That said i loved suffering in this class because the material is pretty cool stuff. Your grade will generally reflect the amount of time you put into the class as it's mostly project based and Li's exams are very fair."
+=======
+,course,review
+0,CS25200,"hmmhmm yes, good jojoke"
+1,CS25200,"If you have gone so far that you can't use make/compile anymore and don't know how to fix it, I would go back to a previous commit that has compilable code. You can use gitk to find out what commit has what changes and you can compare and contrast between your commits.
+
+Also please email your TA or professor about your situation. Gustavo is very nice and understanding of student situation and he can work with you."
+2,CS25200,"I'm not sure why you named Turkstra specifically -- we didn't work on a server/client, only had homeworks (labs were office hours, and no projects), and they were all (almost all?) about structs, pointers, and various operations like bitshifting.  
+
+I will agree though that Turkstra is underappreciated in 240. Most students I talk to say that he was a really bad prof and that he killed CS240 students, but I feel like that's just not true. Turk may have some flaws on a personal level but I feel like he was a good professor. Sure, the quizzes were frustrating to deal with at times (being quizzed on something at the end of the lecture it was taught), but his lectures were concise and easy to understand, his homeworks were difficult but not jarringly so, and the exams (minus the final, which was oddly a killer in contrast) were really straightforward provided that you did the homework leading up to it and did the practice exam & maybe some light review."
+3,CS25200,Probably yes. I’m also taking it next semester and have no idea of what to expect. My best guess is that he’s gonna include his code standard and change the exam style just like he did for 240.
+4,CS25200,"I'm taking it next semester as well. I talked to Turkstra, and some of the labs will be tweaked. In particular, the multi-threading and concurrency lab will be made more difficult and the final lab that's currently a web server will be swapped for something else. The good new is, Turkstra's specialty is systems"
+5,CS25200,Probably yes. I’m also taking it next semester and have no idea of what to expect. My best guess is that he’s gonna include his code standard and change the exam style just like he did for 240.
+6,CS25200,"I'm taking it next semester as well. I talked to Turkstra, and some of the labs will be tweaked. In particular, the multi-threading and concurrency lab will be made more difficult and the final lab that's currently a web server will be swapped for something else. The good new is, Turkstra's specialty is systems"
+7,CS25200,Probably yes. I’m also taking it next semester and have no idea of what to expect. My best guess is that he’s gonna include his code standard and change the exam style just like he did for 240.
+8,CS25200,Probably yes. I’m also taking it next semester and have no idea of what to expect. My best guess is that he’s gonna include his code standard and change the exam style just like he did for 240.
+9,CS25200,>	An instructor thinks this is a good answer
+10,CS25200,I hope everyone has fucked up like me.
+11,CS25200,I hope everyone has fucked up like me.
+12,CS25200,"I've said this before--I honestly think CS252's difficulty is over-exaggerated. Start when the lab is assigned, go to lectures to get advice from Gustavo, ask TA's for clarification on concepts, and know what the systems calls actually do, and put forth a couple of hours each day to code and the class is super manageable. If anything, it's just a time-suck. However, time-suck does not equal difficult, and a lot of people wrongly equate the two (likely due to procrastination)."
+13,CS25200,"I've said this before--I honestly think CS252's difficulty is over-exaggerated. Start when the lab is assigned, go to lectures to get advice from Gustavo, ask TA's for clarification on concepts, and know what the systems calls actually do, and put forth a couple of hours each day to code and the class is super manageable. If anything, it's just a time-suck. However, time-suck does not equal difficult, and a lot of people wrongly equate the two (likely due to procrastination)."
+14,CS25200,"I've said this before--I honestly think CS252's difficulty is over-exaggerated. Start when the lab is assigned, go to lectures to get advice from Gustavo, ask TA's for clarification on concepts, and know what the systems calls actually do, and put forth a couple of hours each day to code and the class is super manageable. If anything, it's just a time-suck. However, time-suck does not equal difficult, and a lot of people wrongly equate the two (likely due to procrastination)."
+15,CS25200,"I've said this before--I honestly think CS252's difficulty is over-exaggerated. Start when the lab is assigned, go to lectures to get advice from Gustavo, ask TA's for clarification on concepts, and know what the systems calls actually do, and put forth a couple of hours each day to code and the class is super manageable. If anything, it's just a time-suck. However, time-suck does not equal difficult, and a lot of people wrongly equate the two (likely due to procrastination)."
+16,CS25200,"He's not wrong. The class isn't nearly as hard as half of the CS student body exaggerates it to be. It's mainly the volume of work, which isn't too hard to deal with if you don't blow at time management. Conceptually, the class isn't actually that bad."
+17,CS25200,"Do you want to stay in CS?
+
+If you do, it's better to stay in the class. Every time I've been worried about my performance in class I think about it this way: I either work my ass off and somehow get a C, or I don't, but I've worked my ass off and I'm that much better prepared for next time. Trust me, whether you pass or fail, you'd be grateful, whether once grades come in or the following semester when you're killing it. 
+
+I've been there. I failed and retook 180 after a similar experience (feeling completely in over my head and incapable of completing any of the projects) and it dinged my ego a bit at the time but once I got over that it was a really positive experience and made me into the student I am today, and I never would've thought it was possible but a class that made no sense to me the first time around I rocked the second time. The fact that I stuck with it and didn't drop had something to do with that. And so far I've been a pretty successful CS student ever since.
+
+So if you want to stay in cs my advice would be don't give up just yet. Lots of people face setbacks, and retaking a cs class is more common than you would think. You might think, ""I'm so behind, what's the point in even starting?"" But honestly, so what? You get something out of it either way, whether it's the grade you want or the knowledge to do better next time. 
+
+You're gonna be fine. Hang in there, I promise it'll all be okay eventually. "
+18,CS25200,"Talk to your advisor, talk to the professor. See if there's a way you can possibly recover your grade, the semester isn't even half over. That said, your mental health is more important than struggling through a class you'll fail, and if dropping the course and taking it again with a better plan next semester is going to help your mental state more than staying in, then you should do that. "
+19,CS25200,"If all that is due right now is part 1 then you can still complete the shell. There is no reason to drop the class, especially since you know you're going to need to take it over again. There is no getting around it.
+
+I have spent many semesters working for your prof on this course and have had to assist more students with this project than any other, by a long shot. Not even with both the grad and undergrad compilers courses have people had as many issues as with the shell project, perhaps because of the fact that you are learning three things at once in a short time span. But there is no one, if they could get through the earlier courses, who is incapable of completing the shell.
+
+If it's being taught any way similarly to how it was a few years ago, part 1 is a minimal amount of work, perhaps less than you think. Wait until the entire project is over before making a decision. "
+20,CS25100,"If it’s anything like last semester, it’s not too difficult a class to pass. I had a tougher time with CS182 and CS240. The biggest things are to stay on top of the projects and homework, starting them early and giving yourself plenty of time to figure them out since they can take a while if you get stumped."
+21,CS25100,"if it's the same as this semester, try to save your homework days (you get 3) as that will add extra credit. this helped me a lot and saved my grade. Also, start on the projects the very early so you have enough time"
+22,CS25100,"If it’s anything like last semester, it’s not too difficult a class to pass. I had a tougher time with CS182 and CS240. The biggest things are to stay on top of the projects and homework, starting them early and giving yourself plenty of time to figure them out since they can take a while if you get stumped."
+23,CS25100,"if it's the same as this semester, try to save your homework days (you get 3) as that will add extra credit. this helped me a lot and saved my grade. Also, start on the projects the very early so you have enough time"
+24,CS25100,"If it’s anything like last semester, it’s not too difficult a class to pass. I had a tougher time with CS182 and CS240. The biggest things are to stay on top of the projects and homework, starting them early and giving yourself plenty of time to figure them out since they can take a while if you get stumped."
+25,CS25100,"If it’s anything like last semester, it’s not too difficult a class to pass. I had a tougher time with CS182 and CS240. The biggest things are to stay on top of the projects and homework, starting them early and giving yourself plenty of time to figure them out since they can take a while if you get stumped."
+26,CS25100,Also has anybody been struggling hard with projects? Would like to know your thoughts.
+27,CS25100,Also has anybody been struggling hard with projects? Would like to know your thoughts.
+28,CS25100,"I'm not sure about Sacks, but to discuss your point about Turkstra, I would say Turkstra is pretty unique. Turk's low RMP score mainly stems from people thinking he's a dick given his rigidity on things like coding style in addition to his bluntness. He's actually not a bad lecturer and his exams are very fair. I wouldn't expect Turkstra's situation to apply to many other professors."
+29,CS25100,"I'm not sure about Sacks, but to discuss your point about Turkstra, I would say Turkstra is pretty unique. Turk's low RMP score mainly stems from people thinking he's a dick given his rigidity on things like coding style in addition to his bluntness. He's actually not a bad lecturer and his exams are very fair. I wouldn't expect Turkstra's situation to apply to many other professors."
+30,CS25100,Welcome to cs252
+31,CS25100,Welcome to cs252
+32,CS25100,Welcome to cs252
+33,CS25100,Welcome to cs252
+34,CS25100,Welcome to cs252
+35,CS25100,"If it's restrictive, I assume it's for a reason. Making groups outside of Piazza is a good way to get accused of cheating in CS. "
+36,CS25100,"Did I miss anywhere on Piazza where it said we *couldn't* exchange midterm answers? Prof. Adams has openly encouraged students to meet up before the exam to discuss answers to the practice midterm.
+
+Also, this is a bad idea. Ask anyone who took OS in the Spring about what happened with the Facebook group they decided to make. I wasn't in the class so I don't know what the final outcome was there, but I'm sure it wasn't good."
+37,CS25100,"If it's restrictive, I assume it's for a reason. Making groups outside of Piazza is a good way to get accused of cheating in CS. "
+38,CS25100,It's really less that it's difficult and more that it's been ridiculously unorganized so far this semester 
+39,CS25100,"Lol that and 182 that semester were so fucked up. Had an exam in both in the same week. Average on 182 was 27, average on 240 was 25 I think. I know my lab section had a median of 0. Think about that. Over half the class got 0 pts on an exam."
+40,CS25100,It's really less that it's difficult and more that it's been ridiculously unorganized so far this semester 
+41,CS25100,"Lol that and 182 that semester were so fucked up. Had an exam in both in the same week. Average on 182 was 27, average on 240 was 25 I think. I know my lab section had a median of 0. Think about that. Over half the class got 0 pts on an exam."
+42,CS25100,It's really less that it's difficult and more that it's been ridiculously unorganized so far this semester 
+43,CS25100,"Lol that and 182 that semester were so fucked up. Had an exam in both in the same week. Average on 182 was 27, average on 240 was 25 I think. I know my lab section had a median of 0. Think about that. Over half the class got 0 pts on an exam."
+44,CS25100,It's really less that it's difficult and more that it's been ridiculously unorganized so far this semester 
+45,CS25100,"Lol that and 182 that semester were so fucked up. Had an exam in both in the same week. Average on 182 was 27, average on 240 was 25 I think. I know my lab section had a median of 0. Think about that. Over half the class got 0 pts on an exam."
+46,CS25100,It's really less that it's difficult and more that it's been ridiculously unorganized so far this semester 
+47,CS25100,"Lol that and 182 that semester were so fucked up. Had an exam in both in the same week. Average on 182 was 27, average on 240 was 25 I think. I know my lab section had a median of 0. Think about that. Over half the class got 0 pts on an exam."
+48,CS25100,It's really less that it's difficult and more that it's been ridiculously unorganized so far this semester 
+49,CS25100,"Lol that and 182 that semester were so fucked up. Had an exam in both in the same week. Average on 182 was 27, average on 240 was 25 I think. I know my lab section had a median of 0. Think about that. Over half the class got 0 pts on an exam."
+50,CS25100,It's really less that it's difficult and more that it's been ridiculously unorganized so far this semester 
+51,CS25100,"Lol that and 182 that semester were so fucked up. Had an exam in both in the same week. Average on 182 was 27, average on 240 was 25 I think. I know my lab section had a median of 0. Think about that. Over half the class got 0 pts on an exam."
+52,CS25100,It's really less that it's difficult and more that it's been ridiculously unorganized so far this semester 
+53,CS25100,"And this is why I transferred out of CS. I respect those of you with the mental fortitude and balls/ovaries of steel, but I prefer the challenging coursework of CIT to the sadism of CS. "
+54,CS25100,"Except you could both git gud at CS *and* go out and drink but ig that's too hard for you, git gud lel"
+55,CS25100,"And this is why I transferred out of CS. I respect those of you with the mental fortitude and balls/ovaries of steel, but I prefer the challenging coursework of CIT to the sadism of CS. "
+56,CS25100,"And this is why I transferred out of CS. I respect those of you with the mental fortitude and balls/ovaries of steel, but I prefer the challenging coursework of CIT to the sadism of CS. "
+57,CS25100,"Once grades come out at the end of the semester, people who failed CS240 or CS182 will automatically get dropped from it. The class sizes are made with this in mind. "
+58,CS25100,"Once grades come out at the end of the semester, people who failed CS240 or CS182 will automatically get dropped from it. The class sizes are made with this in mind. "
+59,CS38100,"When I took it there were no programming assignments at all and only short answer questions for homework. Often they would propose problems and ask you to design solutions with the best run time. You'll also need to know how to tell the run time given some code, altho my class didn't involve recursion or hash maps which would significantly complicate things I guess."
+60,CS38100,"When I took it there were no programming assignments at all and only short answer questions for homework. Often they would propose problems and ask you to design solutions with the best run time. You'll also need to know how to tell the run time given some code, altho my class didn't involve recursion or hash maps which would significantly complicate things I guess."
+61,CS38100,"Oh I'm also taking cs381 next semester!
+
+I found the following link (it's old): https://www.cs.purdue.edu/homes/seh/381webFall17/
+
+There is a link here (Ctrl+F for ""Purdue Library"") that takes you to a book colloquially called CLRS. Additionally, there is a Detailed Syllabus on that website with a mapping from topic to CLRS book chapters. 
+
+For now, I would consider reading through some of these chapters, brushing up on 251 and 182 concepts.
+
+Good luck, and hope we can get through it together :)"
+62,CS38100,"Oh I'm also taking cs381 next semester!
+
+I found the following link (it's old): https://www.cs.purdue.edu/homes/seh/381webFall17/
+
+There is a link here (Ctrl+F for ""Purdue Library"") that takes you to a book colloquially called CLRS. Additionally, there is a Detailed Syllabus on that website with a mapping from topic to CLRS book chapters. 
+
+For now, I would consider reading through some of these chapters, brushing up on 251 and 182 concepts.
+
+Good luck, and hope we can get through it together :)"
+63,CS38100,"Oh I'm also taking cs381 next semester!
+
+I found the following link (it's old): https://www.cs.purdue.edu/homes/seh/381webFall17/
+
+There is a link here (Ctrl+F for ""Purdue Library"") that takes you to a book colloquially called CLRS. Additionally, there is a Detailed Syllabus on that website with a mapping from topic to CLRS book chapters. 
+
+For now, I would consider reading through some of these chapters, brushing up on 251 and 182 concepts.
+
+Good luck, and hope we can get through it together :)"
+64,CS38100,"Hard. I didn't even finish. Me and my friends were complaining all night yesterday...
+
+I have no idea why they decided to make a 30% weighted exam so hard like that :("
+65,CS38100,It was really hard. There were zero direct questions. The midterm and practice final was way easier and straightforward. Didn't go well for me and my friends.
+66,CS38100,Thank God I am not the only one who found the exam to be a complete disaster. I am honestly worried if I am going to pass this class. F
+67,CS38100,"Hard. I didn't even finish. Me and my friends were complaining all night yesterday...
+
+I have no idea why they decided to make a 30% weighted exam so hard like that :("
+68,CS38100,It was really hard. There were zero direct questions. The midterm and practice final was way easier and straightforward. Didn't go well for me and my friends.
+69,CS38100,"Hard. I didn't even finish. Me and my friends were complaining all night yesterday...
+
+I have no idea why they decided to make a 30% weighted exam so hard like that :("
+70,CS38100,It was really hard. There were zero direct questions. The midterm and practice final was way easier and straightforward. Didn't go well for me and my friends.
+71,CS38100,"In the same situation as you. Personally am just revisiting the lecture slides and the homework, that was useful for the midterm."
+72,CS38100,"In the same situation as you. Personally am just revisiting the lecture slides and the homework, that was useful for the midterm."
+73,CS38100,Jane really fucked up this time
+74,CS38100,"One thing I hope you can take to heart is that your grade truly doesn't matter. It's just about providing incentive to meet the challenges ahead. It doesn't reflect on who you are as a person or what you're capable of achieving. If you didn't do so hot, that's okay. You don't have to be an expert at Algos to take away value from the course. Enjoy those gummy bears and stay confident."
+75,CS38100,"I know it's not as intense, but for ECE368 (Data Dtructures) the whole 2 week crash course in Big-O blew my damn head off."
+76,CS25000,"I mean, the CS department is full of dinosaurs, so not surprising. I remember last Fall we did our senior design presentation which was a web app for streaming music... to Dunsmore. Felt kind of surreal, but he actually had a lot of good questions and was much sharper than other professors I’d had in the past."
+77,CS25000,Haha yeah. It could be a problem for Purdue CS down the line as these guys retire. Some program growth to prevent transition pains might be in order.
+78,CS25000,I’m registered for 250 next semester and I feel sick watching this. I probably failed the prereqs this semester anyway though so it’s good 👍
+79,CS25000,"Honestly, I wonder if Adams just... doesn't care about how hard his exams are, since he can just screw about with the curve if it's too hard. Don't get me wrong, some of the questions on there were very probably designed to screw you over (and some of them are just objectively graded incorrectly), but that didn't seem to be the majority.
+
+His lectures are pretty good, so I doubt he's trying to be malicious. Just writes hard exams, I guess.
+
+Maybe that's just me though. (And no, I didn't do well. I'm right around that 50% with the rest of you.)"
+80,CS25000,"Purdue is known for grading hard. No one knows why, it's just a long-standing 'tradition'."
+81,CS25000,"I mean, the CS department is full of dinosaurs, so not surprising. I remember last Fall we did our senior design presentation which was a web app for streaming music... to Dunsmore. Felt kind of surreal, but he actually had a lot of good questions and was much sharper than other professors I’d had in the past."
+82,CS25000,Haha yeah. It could be a problem for Purdue CS down the line as these guys retire. Some program growth to prevent transition pains might be in order.
+83,CS25000,I’m registered for 250 next semester and I feel sick watching this. I probably failed the prereqs this semester anyway though so it’s good 👍
+84,CS25000,"I mean, the CS department is full of dinosaurs, so not surprising. I remember last Fall we did our senior design presentation which was a web app for streaming music... to Dunsmore. Felt kind of surreal, but he actually had a lot of good questions and was much sharper than other professors I’d had in the past."
+85,CS25000,I’m registered for 250 next semester and I feel sick watching this. I probably failed the prereqs this semester anyway though so it’s good 👍
+86,CS25000,I’m registered for 250 next semester and I feel sick watching this. I probably failed the prereqs this semester anyway though so it’s good 👍
+87,CS25000,I’m registered for 250 next semester and I feel sick watching this. I probably failed the prereqs this semester anyway though so it’s good 👍
+88,CS25000,"Yeah I think he experimented a bit too much with our semester. The mini exams were introduced to be a low stakes alternative to regular midterms, in an effort to reduce stress, but actually (at least for me) had the opposite effect. I also feel like he wasted the first 5 weeks not having a single mini exam, which resulted in 8 consecutive weeks of mini exams. That, along with labs (most weeks) and hws (all weeks iirc) was absolute hell. 
+
+Also kind of annoying that he did all that experimentation with group discussions, only to cancel them and void the credit for the first group discussion that actually took place.
+
+Based on the reviews of him on this sub and on ratemyprofessor in previous semesters, I’m sure he’s a great professor. That is also evident through his lectures. His decision making this semester though, was questionable. Well he still has time to make it up with the curve, and I really hope he’s fair with it :)"
+89,CS25000,Big sad
+90,CS25000,"That's wild, last spring the average on all the exams was like 50% even with online."
+91,CS25000,"No, I belive he said somewhere on campuswire that there is no curve because they're dropping the lowest scores in every category (homework, lab, mini-exam and the now defunct discussions)"
+92,CS25000,Big sad
+93,CS25000,"That's wild, last spring the average on all the exams was like 50% even with online."
+94,CS25000,Big sad
+95,CS25000,Big sad
+96,CS25000,Big sad
+97,CS25000,I’ve heard that Adams is the best prof for 250 but Gustavo is a great prof too. I’m taking 250 and 251 over the summer as well so we’ll see how it goes lol
+98,CS25000,I’ve heard that Adams is the best prof for 250 but Gustavo is a great prof too. I’m taking 250 and 251 over the summer as well so we’ll see how it goes lol
+99,CS25000,I’ve heard that Adams is the best prof for 250 but Gustavo is a great prof too. I’m taking 250 and 251 over the summer as well so we’ll see how it goes lol
+100,CS25000,I’ve heard that Adams is the best prof for 250 but Gustavo is a great prof too. I’m taking 250 and 251 over the summer as well so we’ll see how it goes lol
+101,CS25000,Nice
+102,CS25000,This show-off over here with his above average grade
+103,CS25000,Average in the 50's is pretty normal for 250 exams tbh
+104,CS25000,This is normal for 250. Prof Adams is a great guy but his exams leave a lot to be desired
+105,CS25000,This show-off over here with his above average grade
+106,CS25000,Average in the 50's is pretty normal for 250 exams tbh
+107,CS25000,This is normal for 250. Prof Adams is a great guy but his exams leave a lot to be desired
+108,CS25000,This show-off over here with his above average grade
+109,CS25000,Average in the 50's is pretty normal for 250 exams tbh
+110,CS25000,"And I STILL managed to fail the course. Made me realize after getting straight A's in everything but CS that as much as I love programming, I hate theory with a passion. Good luck CS brothers, I'm going to CGT Web Development and cleaning up the CS minor later 🙃"
+111,CS25000,Back in my day at Purdue a 35% on a  math exam was passing after the curve.
+112,CS25000,"And I STILL managed to fail the course. Made me realize after getting straight A's in everything but CS that as much as I love programming, I hate theory with a passion. Good luck CS brothers, I'm going to CGT Web Development and cleaning up the CS minor later 🙃"
+113,CS25000,Nice mine was more like 10-10-10-10-10
+114,CS25000,Nice mine was more like 10-10-10-10-10
+115,CS25000,Nice mine was more like 10-10-10-10-10
+116,CS25000,Nice mine was more like 10-10-10-10-10
+117,CS25000,Good bot. 
+118,CS25000,"I don’t know dude. Get off reddit, go study, and do as well as you can on the final."
+119,CS25000,Good bot. 
+120,CS25000,"sweet summer child
+
+the projects are insane. in 180 one of the handouts was written in broken english and there were tons of piazza questions
+
+in 240 (you'll take that in the spring) we had an exam, live coding, avg was a 24 I believe? we were given the questions before and practiced. some people just spit out what they remembered; i just started with the hard shit and actually debugged it and made sure it worked. still only a 42 lol. 
+
+get ready dude "
+121,CS25000,"I can't imagine anybody did very well on that midterm, and the curve is supposed to be real good. Just do the labs and know the material; one might get dropped. I thought I was gonna fail cs182 after the second exam. I got a 65%, average was 66%. Don't lost hope."
+122,CS25000,"I can't imagine anybody did very well on that midterm, and the curve is supposed to be real good. Just do the labs and know the material; one might get dropped. I thought I was gonna fail cs182 after the second exam. I got a 65%, average was 66%. Don't lost hope."
+123,CS25000,Don't do this. A bunch of people got fucked over in OS last semester with something similar in a Facebook group chat.
+124,CS25000,Don't do this. A bunch of people got fucked over in OS last semester with something similar in a Facebook group chat.
+125,CS25000,Don't do this. A bunch of people got fucked over in OS last semester with something similar in a Facebook group chat.
+126,CS25000,"Both are pretty easy classes if you show up to every lecture and lab and try your best to understand the material. Start your lab early, especially for 250 and you are fine. A word on 250, if you find that the book isn't helping, try to fill up weak spots by Googling and learning on your own."
+127,CS25000,I saw this and freaked the fuck out. My CS250 exam is at 1pm. Thanks for the heart attack buddy.
+128,CS25000,"""You submitted int main { return 0 } and got 95% credit.""
+
+lol 
+
+I'm kinda curious as to what 250 with Adams (or even a throwback to when Comer still taught it) would be like. Took it with Bellur and Xu and somehow grabbed an A+ on the midterm, which saved my ass big time since I got a 33% on the final and 0's on two of the four quizzes and still kept a B in the course overall. The second half of the semester went from 0 to 100 in a second lol. I heard Comer's classes got to do some crazy projects that actually used most of the shit we get in our breadboard kits. 
+
+EDIT: This was the meme floating around when I took 250 and 251 lol [Hoffman started going senile and Bellur was going ham on Assembly and caching and virtual memory](https://vid.me/hK8s)"
+129,CS25000,[Good luck fam.](https://media.giphy.com/media/Vccpm1O9gV1g4/giphy.gif)
+130,CS25000,I saw this and freaked the fuck out. My CS250 exam is at 1pm. Thanks for the heart attack buddy.
+131,CS25000,"""You submitted int main { return 0 } and got 95% credit.""
+
+lol 
+
+I'm kinda curious as to what 250 with Adams (or even a throwback to when Comer still taught it) would be like. Took it with Bellur and Xu and somehow grabbed an A+ on the midterm, which saved my ass big time since I got a 33% on the final and 0's on two of the four quizzes and still kept a B in the course overall. The second half of the semester went from 0 to 100 in a second lol. I heard Comer's classes got to do some crazy projects that actually used most of the shit we get in our breadboard kits. 
+
+EDIT: This was the meme floating around when I took 250 and 251 lol [Hoffman started going senile and Bellur was going ham on Assembly and caching and virtual memory](https://vid.me/hK8s)"
+132,CS25000,[Good luck fam.](https://media.giphy.com/media/Vccpm1O9gV1g4/giphy.gif)
+133,CS25000,I saw this and freaked the fuck out. My CS250 exam is at 1pm. Thanks for the heart attack buddy.
+134,CS25000,"""You submitted int main { return 0 } and got 95% credit.""
+
+lol 
+
+I'm kinda curious as to what 250 with Adams (or even a throwback to when Comer still taught it) would be like. Took it with Bellur and Xu and somehow grabbed an A+ on the midterm, which saved my ass big time since I got a 33% on the final and 0's on two of the four quizzes and still kept a B in the course overall. The second half of the semester went from 0 to 100 in a second lol. I heard Comer's classes got to do some crazy projects that actually used most of the shit we get in our breadboard kits. 
+
+EDIT: This was the meme floating around when I took 250 and 251 lol [Hoffman started going senile and Bellur was going ham on Assembly and caching and virtual memory](https://vid.me/hK8s)"
+135,CS25000,[Good luck fam.](https://media.giphy.com/media/Vccpm1O9gV1g4/giphy.gif)
+136,EAPS10000,I took it online and it is a very easy A.
+137,EAPS10000,I took it online and it is a very easy A.
+138,CS15900,"I just took cs159 in 2021 fall semester. Homework is pretty much auto graded but checked by TA or professor for some other formalities. I clicker is not used. Lecture quizzes are just completion, not accuracy. Labs are same as hw but with 2 partners. Yes tests are pretty much you just being a compiler. If you take practice exams and do well on them you should be fine, they usually reuse questions too. I’m gonna be honest though, in my opinion this class is not very fun. A lot of stuff is just more complicated/redundant  than it needs to be and most of the assignments are pretty basic and boring."
+139,CS15900,"I just took cs159 in 2021 fall semester. Homework is pretty much auto graded but checked by TA or professor for some other formalities. I clicker is not used. Lecture quizzes are just completion, not accuracy. Labs are same as hw but with 2 partners. Yes tests are pretty much you just being a compiler. If you take practice exams and do well on them you should be fine, they usually reuse questions too. I’m gonna be honest though, in my opinion this class is not very fun. A lot of stuff is just more complicated/redundant  than it needs to be and most of the assignments are pretty basic and boring."
+140,CS15900,"Don't worry about it. IMO if you retake this class it would be a huge waste of time that's much better spent on other classes.
+
+Everyone will have their own opinion on this but GPA really doesn't matter that much in college compared to high school. I you have >3.0 your doing great and even if you have <3.0 it's really not the end of the world. 
+
+I got C's in CS182 and CS252 and B's in almost every other CS/math class and I'm still fortunate enough to have landed a software engineering internship at a FAANG company.
+
+Obviously it's a very good thing to want work hard for a strong GPA, but it's really not important enough to retake a class you got a C in."
+141,CS15900,"Right away if you can, material you did master is still fresh. Strike while the iron is hot."
+142,CS15900,"Don't worry about it. IMO if you retake this class it would be a huge waste of time that's much better spent on other classes.
+
+Everyone will have their own opinion on this but GPA really doesn't matter that much in college compared to high school. I you have >3.0 your doing great and even if you have <3.0 it's really not the end of the world. 
+
+I got C's in CS182 and CS252 and B's in almost every other CS/math class and I'm still fortunate enough to have landed a software engineering internship at a FAANG company.
+
+Obviously it's a very good thing to want work hard for a strong GPA, but it's really not important enough to retake a class you got a C in."
+143,CS15900,"Right away if you can, material you did master is still fresh. Strike while the iron is hot."
+144,CS15900,"Right away if you can, material you did master is still fresh. Strike while the iron is hot."
+145,CS15900,"Right away if you can, material you did master is still fresh. Strike while the iron is hot."
+146,CS15900,As a CompE you have to take all three anyway. 2k1 and 2k2 are significantly harder then 264. 264 is nothing like 159. I got a C in 159 and an A in 264. They are completely different styles of teaching and 264 cares more about making sure you understand the material then asking shitty “gotcha” exam questions
+147,CS15900,As a CompE you have to take all three anyway. 2k1 and 2k2 are significantly harder then 264. 264 is nothing like 159. I got a C in 159 and an A in 264. They are completely different styles of teaching and 264 cares more about making sure you understand the material then asking shitty “gotcha” exam questions
+148,CS15900,"You'll talk about exam performance on Tuesday in your lecture, and there isn't typically a curve since the A cutoff is \~5% lower than the straight scale."
+149,CS15900,"You'll talk about exam performance on Tuesday in your lecture, and there isn't typically a curve since the A cutoff is \~5% lower than the straight scale."
+150,CS15900,"ECE 264 would definitely be easier for you if you're trying to codo into CS, but I wouldn't rely on getting into CS because they're super overcrowded to the point where they no longer offer a CS minor"
+151,CS15900,"ECE 264 would definitely be easier for you if you're trying to codo into CS, but I wouldn't rely on getting into CS because they're super overcrowded to the point where they no longer offer a CS minor"
+152,CS15900,"CS 159 hasn't done a live coding exam in a long time (like for a decade). 
+
+Since you're already in FYE, you cannot substitute 159 with 180, and it's basically the only programming class except for ENGR 132 which you do learn MATLAB in."
+153,CS15900,I feel like a lot of people are annoyed with the course because it forces you to only use what you have learned and following specific coding standards each lab. The first half the class is done without using if statements which causes there to be like 3 labs done in a miserable round about way. Also all the exams are 50% reading a half page of code and then answering trick questions and solving for iterations of the code.
+154,CS15900,"CS 159 hasn't done a live coding exam in a long time (like for a decade). 
+
+Since you're already in FYE, you cannot substitute 159 with 180, and it's basically the only programming class except for ENGR 132 which you do learn MATLAB in."
+155,CS15900,I feel like a lot of people are annoyed with the course because it forces you to only use what you have learned and following specific coding standards each lab. The first half the class is done without using if statements which causes there to be like 3 labs done in a miserable round about way. Also all the exams are 50% reading a half page of code and then answering trick questions and solving for iterations of the code.
+156,CS15900,"CS 159 hasn't done a live coding exam in a long time (like for a decade). 
+
+Since you're already in FYE, you cannot substitute 159 with 180, and it's basically the only programming class except for ENGR 132 which you do learn MATLAB in."
+157,CS15900,I feel like a lot of people are annoyed with the course because it forces you to only use what you have learned and following specific coding standards each lab. The first half the class is done without using if statements which causes there to be like 3 labs done in a miserable round about way. Also all the exams are 50% reading a half page of code and then answering trick questions and solving for iterations of the code.
+158,CS15900,"CS 159 hasn't done a live coding exam in a long time (like for a decade). 
+
+Since you're already in FYE, you cannot substitute 159 with 180, and it's basically the only programming class except for ENGR 132 which you do learn MATLAB in."
+159,CS15900,I feel like a lot of people are annoyed with the course because it forces you to only use what you have learned and following specific coding standards each lab. The first half the class is done without using if statements which causes there to be like 3 labs done in a miserable round about way. Also all the exams are 50% reading a half page of code and then answering trick questions and solving for iterations of the code.
+160,CS15900,"CS 159 hasn't done a live coding exam in a long time (like for a decade). 
+
+Since you're already in FYE, you cannot substitute 159 with 180, and it's basically the only programming class except for ENGR 132 which you do learn MATLAB in."
+161,CS15900,"CS 159 hasn't done a live coding exam in a long time (like for a decade). 
+
+Since you're already in FYE, you cannot substitute 159 with 180, and it's basically the only programming class except for ENGR 132 which you do learn MATLAB in."
+162,CS15900,I feel like a lot of people are annoyed with the course because it forces you to only use what you have learned and following specific coding standards each lab. The first half the class is done without using if statements which causes there to be like 3 labs done in a miserable round about way. Also all the exams are 50% reading a half page of code and then answering trick questions and solving for iterations of the code.
+163,CS15900,"CS 159 hasn't done a live coding exam in a long time (like for a decade). 
+
+Since you're already in FYE, you cannot substitute 159 with 180, and it's basically the only programming class except for ENGR 132 which you do learn MATLAB in."
+164,CS15900,"It's C programming from the ground up. Like you can't even use if statements for the first third of the course level basic. You learn about the structure of a C program, ""good"" coding practices, basic input and output, control flow, loops, logical expressions, sorting algorithms, and a bit of memory allocation.
+
+The homework and labs vary from concrete to abstract. You'll be working in a text editor called vi which is a variant of vim. All the coding is through a terminal, but you can write your assignments in whatever IDE you prefer, I used Xcode."
+165,CS15900,I wouldn't start ahead of time as it isn't worth it. The class is very basic and the coding standards are really annoying so I wouldn't want to get any habits before the class just to relearn.
+166,CS15900,"> Wait you guys can't use if statements in the first 1/3 of the course
+
+A lot of it is making sure you understand how logic statements and booleans work, so they don't let you use if statements until a fair bit into the class; it sounds a lot dumber that it really is tbh. 
+
+> different text editors are non-negotiable?
+
+literally no one gives a shit if you use a different editor. They show you everything in VI, which makes a fair bit of sense, but if you want to do everything in a different editor or environment...go ahead, so long as it still passes all the test cases when you shove it through their compiler."
+167,CS15900,"It's C programming from the ground up. Like you can't even use if statements for the first third of the course level basic. You learn about the structure of a C program, ""good"" coding practices, basic input and output, control flow, loops, logical expressions, sorting algorithms, and a bit of memory allocation.
+
+The homework and labs vary from concrete to abstract. You'll be working in a text editor called vi which is a variant of vim. All the coding is through a terminal, but you can write your assignments in whatever IDE you prefer, I used Xcode."
+168,CS15900,I wouldn't start ahead of time as it isn't worth it. The class is very basic and the coding standards are really annoying so I wouldn't want to get any habits before the class just to relearn.
+169,CS15900,You+=fail
+170,CS15900,"I wouldn't call it an exam, rather a mess of riddles and tricks. I'm confident in my ability to code in C, but my 60% on the exam says otherwise."
+171,CS15900,It’s kinda poetic that the code they wrote for the exams breaks half of the course standards.
+172,CS15900,"It be like that sometimes, 159 can be rough"
+173,CS15900,I got a 64% on both exams last semester and still came out with an A. Just do well on the labs and homeworks
+174,CS15900,"Video credit for the CS 159 exams we do have recorded goes to u/apurduestudent. Maybe with enough praise he can pump out a few more videos, who knows.
+
+Also I'll look into that similar bug. I know it's fixed on the math side of the site, not sure why it'd exist on CS."
+175,CS15900,"Honestly thinking about it after a few hours, I probably could’ve studied more. The 2 types of problems, which a TA in lab said, were the following through code/saying what is outputted and the true/false questions, which was my main issue. There were questions I knew without a doubt to be right, but also questions where I was torn between 2 answers."
+176,CS15900,"That’s exactly how I feel, I took two years of Java in high school and have gotten great grades on all the homework’s and labs up to this points. But the wording of the questions feels like they are trying to get as far away from the actual concept as possible."
+177,CS15900,That was rough to say the least
+178,CS15900,"Most folks get clapped by it, don't worry. Do good on your homework and labs and you'll get out of it with a C."
+179,CS15900,The class itself is not. But the exams are pretty tilting which is why I'm assuming this post was made. Which is somewhat understandable.
+180,CS15900,I find it funny whenever CS159 posts come up complaining about the class...like its really not that bad
+181,CS15900,"Regexes aren’t hard to write, they’re just hard to read, especially if you didn’t write them."
+182,CS15900,I had the same thinking early on but honestly learning C is a blessing in disguise cause no language seems tough after that and the kind of understanding C gives you because of how low level it is hardly any language will help you learn your concepts that well.
+183,CS15900,You got that right. It’s frustrating when someone who got more than 95% on every lab and hw is averaging a 62 on these practice exams
+184,CS15900,My issue really isn’t with the language C. My first choice would be python but I can get over myself of that one. The issue is when you write a 13 or so page coding standard packet and then break every rule on your exams 🤷‍♂️
+185,CS15900,"Dude C is used everywhere. Anywhere which used embedded systems, engines, plane landing controls, 3D printers, etc. All electronic items which when it comes down to at least the functionality of them use embedded systems to run, which requires programming in low level languages like C / C++ and Assembly.  
+
+Now I think what you may be frustrated with is the CS departments way of teaching you a new programming language. They do their best, but when it comes down to it they focus on the theory aspects way more than the application of it. CS theory exams are meaningless when it comes to on the job experience, but actually practicing and working with the languages in projects and real life problems makes learning the language worth it."
+186,CS15900,I had the same thinking early on but honestly learning C is a blessing in disguise cause no language seems tough after that and the kind of understanding C gives you because of how low level it is hardly any language will help you learn your concepts that well.
+187,CS15900,I thought Crum was a pretty good lecturer.
+188,CS15900,"although i’ve never gotten live help from crum, his lectures are really good (at least this year). I actually feel like i’m understanding things, plus I can put his lectures on 1.5x and it sounds normal so that’s a bonus"
+189,CS15900,"Crum and Bunning are both genuinely nice people! Bill Crum is the reason I became a software engineer.
+
+After I had to miss two weeks of class for medical reasons, I went to Crum's office hours just to bring him my doctor's note, but he asked me how I was doing with the current assignment (totally unprompted). I told him I was struggling so he invited me to sit down and talk through it with him. Of course questions are cheating... so instead of giving me answers he helped me come to the right conclusions on my own and I will always be grateful!"
+190,CS15900,I graduated a long time ago and when he was my professor he was very helpful. If you put in the effort first on the homework and had trouble he’d help with figuring out what went wrong. Honestly appreciated this as i took this class post mono and mentally trying to get back into the game after a semester off.
+191,CS15900,I thought Crum was a pretty good lecturer.
+192,CS15900,"although i’ve never gotten live help from crum, his lectures are really good (at least this year). I actually feel like i’m understanding things, plus I can put his lectures on 1.5x and it sounds normal so that’s a bonus"
+193,CS15900,"Crum and Bunning are both genuinely nice people! Bill Crum is the reason I became a software engineer.
+
+After I had to miss two weeks of class for medical reasons, I went to Crum's office hours just to bring him my doctor's note, but he asked me how I was doing with the current assignment (totally unprompted). I told him I was struggling so he invited me to sit down and talk through it with him. Of course questions are cheating... so instead of giving me answers he helped me come to the right conclusions on my own and I will always be grateful!"
+194,CS15900,I graduated a long time ago and when he was my professor he was very helpful. If you put in the effort first on the homework and had trouble he’d help with figuring out what went wrong. Honestly appreciated this as i took this class post mono and mentally trying to get back into the game after a semester off.
+195,CS15900,I thought Crum was a pretty good lecturer.
+196,CS15900,"although i’ve never gotten live help from crum, his lectures are really good (at least this year). I actually feel like i’m understanding things, plus I can put his lectures on 1.5x and it sounds normal so that’s a bonus"
+197,CS15900,"Crum and Bunning are both genuinely nice people! Bill Crum is the reason I became a software engineer.
+
+After I had to miss two weeks of class for medical reasons, I went to Crum's office hours just to bring him my doctor's note, but he asked me how I was doing with the current assignment (totally unprompted). I told him I was struggling so he invited me to sit down and talk through it with him. Of course questions are cheating... so instead of giving me answers he helped me come to the right conclusions on my own and I will always be grateful!"
+198,CS15900,I graduated a long time ago and when he was my professor he was very helpful. If you put in the effort first on the homework and had trouble he’d help with figuring out what went wrong. Honestly appreciated this as i took this class post mono and mentally trying to get back into the game after a semester off.
+199,CS15900,I thought Crum was a pretty good lecturer.
+200,CS15900,"Super unlucky dude I’d probably just quit if that happened to me, that’s literally the only reason I didn’t use putty, I used codeshare.io because it constantly saves like a google doc and then used a c compiler online before pasting everything into putty."
+201,CS15900,"Super unlucky dude I’d probably just quit if that happened to me, that’s literally the only reason I didn’t use putty, I used codeshare.io because it constantly saves like a google doc and then used a c compiler online before pasting everything into putty."
+202,CS15900,"Super unlucky dude I’d probably just quit if that happened to me, that’s literally the only reason I didn’t use putty, I used codeshare.io because it constantly saves like a google doc and then used a c compiler online before pasting everything into putty."
+203,CS15900,"Super unlucky dude I’d probably just quit if that happened to me, that’s literally the only reason I didn’t use putty, I used codeshare.io because it constantly saves like a google doc and then used a c compiler online before pasting everything into putty."
+204,CS15900,"It was pretty bad for me. the content isn’t too hard to grasp but the worst part is that the professors have an incredibly cold and icy stick rammed deep up their ass imo. The “coding standards” is really more important than understanding how coding works. The exams require you to just be a compiler, so it’s more of an iq test with a shitload of “gotcha” questions"
+205,CS15900,"It was pretty bad for me. the content isn’t too hard to grasp but the worst part is that the professors have an incredibly cold and icy stick rammed deep up their ass imo. The “coding standards” is really more important than understanding how coding works. The exams require you to just be a compiler, so it’s more of an iq test with a shitload of “gotcha” questions"
+206,CS15900,"It was pretty bad for me. the content isn’t too hard to grasp but the worst part is that the professors have an incredibly cold and icy stick rammed deep up their ass imo. The “coding standards” is really more important than understanding how coding works. The exams require you to just be a compiler, so it’s more of an iq test with a shitload of “gotcha” questions"
+207,CS15900,"It was pretty bad for me. the content isn’t too hard to grasp but the worst part is that the professors have an incredibly cold and icy stick rammed deep up their ass imo. The “coding standards” is really more important than understanding how coding works. The exams require you to just be a compiler, so it’s more of an iq test with a shitload of “gotcha” questions"
+208,CS15900,"It was pretty bad for me. the content isn’t too hard to grasp but the worst part is that the professors have an incredibly cold and icy stick rammed deep up their ass imo. The “coding standards” is really more important than understanding how coding works. The exams require you to just be a compiler, so it’s more of an iq test with a shitload of “gotcha” questions"
+209,CS15900,"It was pretty bad for me. the content isn’t too hard to grasp but the worst part is that the professors have an incredibly cold and icy stick rammed deep up their ass imo. The “coding standards” is really more important than understanding how coding works. The exams require you to just be a compiler, so it’s more of an iq test with a shitload of “gotcha” questions"
+210,CS15900,Gary McFall is the best! I had him last spring. He's really good at explaining the content and making it fun and easy to understand. Homework is the same across all professors but hes really good about offering help and mentioning in lectures what parts are helpful with the homework. He really cares about his students and wants you to learn. I had no coding experience going in. I had a great time in that class and passed with an A no problem.
+211,CS15900,I took it online and it is a very easy A.
+212,CS15900,I took it online and it is a very easy A.
+213,CS15900,"1. Buy the notes packet for the course (it sucks but you'll be left in the dust trying to take notes in his class without buying that booklet)
+2. Write down / take a picture of every iClicker question or however they're doing those virtually because those will be helpful to study for the exams
+3. Do the practice exams in the notes booklet
+
+I think most people get upset over the exams because if you don't truly understand the material then it may seem like the questions were written to purposefully be tricky.
+
+Other than that, it's an entry level C programming course and it's perfectly fine to go into the course with 0 programming experience whatsoever"
+214,CS15900,"1. Buy the notes packet for the course (it sucks but you'll be left in the dust trying to take notes in his class without buying that booklet)
+2. Write down / take a picture of every iClicker question or however they're doing those virtually because those will be helpful to study for the exams
+3. Do the practice exams in the notes booklet
+
+I think most people get upset over the exams because if you don't truly understand the material then it may seem like the questions were written to purposefully be tricky.
+
+Other than that, it's an entry level C programming course and it's perfectly fine to go into the course with 0 programming experience whatsoever"
+215,CS15900,"1. Buy the notes packet for the course (it sucks but you'll be left in the dust trying to take notes in his class without buying that booklet)
+2. Write down / take a picture of every iClicker question or however they're doing those virtually because those will be helpful to study for the exams
+3. Do the practice exams in the notes booklet
+
+I think most people get upset over the exams because if you don't truly understand the material then it may seem like the questions were written to purposefully be tricky.
+
+Other than that, it's an entry level C programming course and it's perfectly fine to go into the course with 0 programming experience whatsoever"
+216,CS15900,"It's not always like this. It's probably a bad semester. You can appeal to a higher up but from what I've heard the ECE department's funding has been cut year after year despite being a fast growing school. It's probably not the ECE department's fault but rather whoever decides their funding. Believe me, they know they can't handle this many students and they are doing their best. I'm actually going to be a GTA for 264 in the fall so dm me if you have ideas to improve the course. I took it like 3-4 years ago so I'm sure it's changed."
+217,CS15900,"I’m in this same class, and yeah it’s been interesting. I definitely agree it’s the ECE department at fault here and not so much the instructor. He has a lot of work to do and he’s basically on his own. They should have given him way more support/assign more instructors to the class because clearly this isn’t working, and they’re making a ton of money off those taking this class. Pretty ridiculous in all."
+218,CS15900,Because it’s a god-awful course.
+219,CS15900,Because it’s a god-awful course.
+220,CS15900,Because it’s a god-awful course.
+221,CS15900,"Test out of it and take an actual GPA booster like EAPS 106/100/105 or other easy gen ed. There’s tons of older posts with good options, way better than COM 114"
+222,CS15900,"Test out of it and take an actual GPA booster like EAPS 106/100/105 or other easy gen ed. There’s tons of older posts with good options, way better than COM 114"
+223,CS15900,"Test out of it and take an actual GPA booster like EAPS 106/100/105 or other easy gen ed. There’s tons of older posts with good options, way better than COM 114"
+224,CS15900,"I had Crum this past semester and though lectures got a little boring sometimes, he was a decent lecturer and gave a solid intro to C -- Granted I've had some programming experience (HS Course 2 years ago). Most of my friends didn't have a problem with him as well. I've heard Bunning was good too though, but also a little boring.
+
+To speak for the course, it does kind of throw you into coding and some early units were pretty conceptually challenging. Would recommend getting a small head start if possible but I have friends who didn't start early and still did well in the course."
+225,EAPS10600,Yeah I saw it right after I posted but its really weird because I posted right after the lecture and their post was 2 hours prior to mine and this lecture was the only one of the day
+226,EAPS10600,Love that professor. Overall great person who truly wants people to succeed.
+227,CS18000,You should be but you don’t have to. Like just keep it in mind but don’t sweat about it. I had a 40% on my midterm 1 (they boosted it to 60% later) and still ended up with a A in the class. The first live coding exam usually screws people over so don’t feel like you’re the odd one out
+228,CS18000,"Should you be worried? Yes. It's an uphill climb from here. That said, I got an F and a D/C on the first 2 midterms and finished with a B. You have to do well on each lab, homework, and get a good partner for the last 2 projects. I got a B on the final"
+229,CS18000,"ECE 264 would definitely be easier for you if you're trying to codo into CS, but I wouldn't rely on getting into CS because they're super overcrowded to the point where they no longer offer a CS minor"
+230,CS18000,"ECE 264 would definitely be easier for you if you're trying to codo into CS, but I wouldn't rely on getting into CS because they're super overcrowded to the point where they no longer offer a CS minor"
+231,CS18000,"ECE 264 would definitely be easier for you if you're trying to codo into CS, but I wouldn't rely on getting into CS because they're super overcrowded to the point where they no longer offer a CS minor"
+232,CS18000,"Don’t feel bad for asking the TAs for help, that is what the department pays them to do. If they get annoyed for having to assist in teaching, they need to gtfo."
+233,CS18000,"The CS Major is tough, that's kind of just how it is. Don't feel stupid for being lost though, that happens to literally everyone. Don't feel bad or ashamed for wasting TA's time, that's what they're there for. I went to a TA at least once for pretty much every single homework we had."
+234,CS18000,"I can’t speak from experience, since when I took CS240, it was notoriously easy. But I know a lot of people are feeling the same way about the class, so much so that they are filing complaints against the professor.
+As for having trouble with the concepts, I would recommend going to office hours/PSO to get help. Also feel free to DM me, and I can point you to some resources."
+235,CS18000,"Don’t feel bad for asking the TAs for help, that is what the department pays them to do. If they get annoyed for having to assist in teaching, they need to gtfo."
+236,CS18000,"I can’t speak from experience, since when I took CS240, it was notoriously easy. But I know a lot of people are feeling the same way about the class, so much so that they are filing complaints against the professor.
+As for having trouble with the concepts, I would recommend going to office hours/PSO to get help. Also feel free to DM me, and I can point you to some resources."
+237,CS18000,"You should focus on practicing the type of programming we’ve given you in assignments up to this date. Well also put out a practice exam and I’ll go over it with you during lecture. (It’s the lecture for the 1st of March, fyi). Those will be your best source of review and closest material possible for the real exam. 
+
+In terms of alternative resources for studying, check out codingbat, leetcode, or hackerrank. The two latter are much more difficult than what we give to you on the exam (though, leetcode easy *may* be a general idea, but since I can’t guarantee the difficulty of all leetcode easy questions, I wouldn’t say it officially). 
+
+Let me know if you have any further questions. You can also follow up with me on Campuswire too!"
+238,CS18000,"You should focus on practicing the type of programming we’ve given you in assignments up to this date. Well also put out a practice exam and I’ll go over it with you during lecture. (It’s the lecture for the 1st of March, fyi). Those will be your best source of review and closest material possible for the real exam. 
+
+In terms of alternative resources for studying, check out codingbat, leetcode, or hackerrank. The two latter are much more difficult than what we give to you on the exam (though, leetcode easy *may* be a general idea, but since I can’t guarantee the difficulty of all leetcode easy questions, I wouldn’t say it officially). 
+
+Let me know if you have any further questions. You can also follow up with me on Campuswire too!"
+239,CS18000,"You should focus on practicing the type of programming we’ve given you in assignments up to this date. Well also put out a practice exam and I’ll go over it with you during lecture. (It’s the lecture for the 1st of March, fyi). Those will be your best source of review and closest material possible for the real exam. 
+
+In terms of alternative resources for studying, check out codingbat, leetcode, or hackerrank. The two latter are much more difficult than what we give to you on the exam (though, leetcode easy *may* be a general idea, but since I can’t guarantee the difficulty of all leetcode easy questions, I wouldn’t say it officially). 
+
+Let me know if you have any further questions. You can also follow up with me on Campuswire too!"
+240,CS18000,"I’d say, instead of trying to retake 180, why not just try to TA for another class you might’ve done better in? As surprising as it is , I know countless people that did better in 240 and 251!"
+241,CS18000,"There are a lot of students who are trying to CODO into CS or are trying to get a CS minor that have to take CS 180, but since space is so limited, they can't get a spot. Of course do what's best for you, but also realize you retaking this class makes one less spot available for a potential CODO or minor"
+242,CS18000,"I’d say, instead of trying to retake 180, why not just try to TA for another class you might’ve done better in? As surprising as it is , I know countless people that did better in 240 and 251!"
+243,CS18000,"There are a lot of students who are trying to CODO into CS or are trying to get a CS minor that have to take CS 180, but since space is so limited, they can't get a spot. Of course do what's best for you, but also realize you retaking this class makes one less spot available for a potential CODO or minor"
+244,CS18000,"I’d say, instead of trying to retake 180, why not just try to TA for another class you might’ve done better in? As surprising as it is , I know countless people that did better in 240 and 251!"
+245,CS18000,"There are a lot of students who are trying to CODO into CS or are trying to get a CS minor that have to take CS 180, but since space is so limited, they can't get a spot. Of course do what's best for you, but also realize you retaking this class makes one less spot available for a potential CODO or minor"
+246,CS18000,"I’d say, instead of trying to retake 180, why not just try to TA for another class you might’ve done better in? As surprising as it is , I know countless people that did better in 240 and 251!"
+247,CS18000,"There are a lot of students who are trying to CODO into CS or are trying to get a CS minor that have to take CS 180, but since space is so limited, they can't get a spot. Of course do what's best for you, but also realize you retaking this class makes one less spot available for a potential CODO or minor"
+248,CS18000,"Judging by the other 4 threads posted about that exam within the last ~12 hours, I'd say you're among at least some friends. 
+
+What was the question?"
+249,CS18000,"Hey, the only difference between a good meal and a good time is what you do with the cucumber."
+250,CS18000,"Judging by the other 4 threads posted about that exam within the last ~12 hours, I'd say you're among at least some friends. 
+
+What was the question?"
+251,CS18000,"Honestly, you kinda just gotta suck it up that there are people in the class who are better than you currently, but remember that those same kids started at a similar place as you. If you keep letting yourself get intimidated, you're only gonna stall your learning. 
+
+As far as getting better at coding goes, don't just sit there in lecture and, at most, copy the slides/code down and let that be the end of it. If you're given a small code snippet or program, actually try and understand what's going on, and change the code and see if the results are things you'd predict to happen. Look into /r/dailyprogrammer, or CodingBat.com or get ahold of your prof/TAs for ideas on where you can find additional practice.
+
+Also, one rough exam grade won't nuke your overall chances in the class. Don't let yourself give up."
+252,CS18000,"Honestly, you kinda just gotta suck it up that there are people in the class who are better than you currently, but remember that those same kids started at a similar place as you. If you keep letting yourself get intimidated, you're only gonna stall your learning. 
+
+As far as getting better at coding goes, don't just sit there in lecture and, at most, copy the slides/code down and let that be the end of it. If you're given a small code snippet or program, actually try and understand what's going on, and change the code and see if the results are things you'd predict to happen. Look into /r/dailyprogrammer, or CodingBat.com or get ahold of your prof/TAs for ideas on where you can find additional practice.
+
+Also, one rough exam grade won't nuke your overall chances in the class. Don't let yourself give up."
+253,CS18000,"Honestly, you kinda just gotta suck it up that there are people in the class who are better than you currently, but remember that those same kids started at a similar place as you. If you keep letting yourself get intimidated, you're only gonna stall your learning. 
+
+As far as getting better at coding goes, don't just sit there in lecture and, at most, copy the slides/code down and let that be the end of it. If you're given a small code snippet or program, actually try and understand what's going on, and change the code and see if the results are things you'd predict to happen. Look into /r/dailyprogrammer, or CodingBat.com or get ahold of your prof/TAs for ideas on where you can find additional practice.
+
+Also, one rough exam grade won't nuke your overall chances in the class. Don't let yourself give up."
+254,CS18000,"im a simple man, i see logan, i upvote"
+255,CS18000,You’re gonna ruin it for everyone. It’s not even that hard of an exam.
+256,CS18000,"Nice try, CS department!"
+257,CS18000,You’re gonna ruin it for everyone. It’s not even that hard of an exam.
+258,CS18000,"Nice try, CS department!"
+259,CS18000,You’re gonna ruin it for everyone. It’s not even that hard of an exam.
+260,CS18000,"Nice try, CS department!"
+261,CS18000,You’re gonna ruin it for everyone. It’s not even that hard of an exam.
+262,CS18000,"Nice try, CS department!"
+263,CS18000,You’re gonna ruin it for everyone. It’s not even that hard of an exam.
+264,CS18000,"Nice try, CS department!"
+265,CS18000,You’re gonna ruin it for everyone. It’s not even that hard of an exam.
+266,CS18000,"Nice try, CS department!"
+267,CS18000,You’re gonna ruin it for everyone. It’s not even that hard of an exam.
+268,CS18000,You’re gonna ruin it for everyone. It’s not even that hard of an exam.
+269,CS18000,Make sure you’d be able to do the homeworks without looking at notes. You have the API to look at. The exams are easier than some of the homeworks so I you can do them then you should be fine.
+270,CS18000,"Do the practice exam, CodingBat, and HackerRank."
+271,CS18000,Make sure you’d be able to do the homeworks without looking at notes. You have the API to look at. The exams are easier than some of the homeworks so I you can do them then you should be fine.
+272,CS18000,"Do the practice exam, CodingBat, and HackerRank."
+273,CS18000,Make sure you’d be able to do the homeworks without looking at notes. You have the API to look at. The exams are easier than some of the homeworks so I you can do them then you should be fine.
+274,CS18000,"Do the practice exam, CodingBat, and HackerRank."
+275,CS18000,Make sure you’d be able to do the homeworks without looking at notes. You have the API to look at. The exams are easier than some of the homeworks so I you can do them then you should be fine.
+276,CS18000,"Do the practice exam, CodingBat, and HackerRank."
+277,CS18000,Make sure you’d be able to do the homeworks without looking at notes. You have the API to look at. The exams are easier than some of the homeworks so I you can do them then you should be fine.
+278,CS18000,"Do the practice exam, CodingBat, and HackerRank."
+279,CS18000,Make sure you’d be able to do the homeworks without looking at notes. You have the API to look at. The exams are easier than some of the homeworks so I you can do them then you should be fine.
+280,CS18000,"Do the practice exam, CodingBat, and HackerRank."
+281,CS18000,Make sure you’d be able to do the homeworks without looking at notes. You have the API to look at. The exams are easier than some of the homeworks so I you can do them then you should be fine.
+282,CS18000,"Do the practice exam, CodingBat, and HackerRank."
+283,CS18000,Make sure you’d be able to do the homeworks without looking at notes. You have the API to look at. The exams are easier than some of the homeworks so I you can do them then you should be fine.
+284,CS35500,"Currently taking CS381 under him. His teaching is very good, and while he deviates from the topic fairly frequently, he says really fun and interesting stuff that's applicable for anyone. At this time I like him.
+
+For that class he's delegated the grading to the head TA however (i.e he does not grade the homework). Our midterm was all MCQ as well, though the average was reasonable."
+285,CS35500,"I just finished up the course with Maji. It was the hardest class I’ve ever taken at Purdue, surpassing some of the stereotypically “hard” ones like 381 and OS by a long shot. 
+That being said I did quite well in the course and Maji seems to pass people who put in the effort, but it was an extremely challenging course — the homeworks were really tough and the lectures were really advanced. A lot of math is involved, particularly proofs. 
+I have not had personal experience with Wagstaff but I have friends who took it the last time he taught and it seems to have been a much easier course, more focused on computations and historical context than the crazy proofs we were doing. 
+Maji is very enthusiastic but he teaches the course at almost a graduate level and at times I felt so inundated with information it was hard for me to get a lot out of it. Yes, he gives an extremely generous curve so passing isn’t really an issue if you try, but it is a lot to process. From what I’ve heard, Wagstaff’s crypto is a bit more on par with what a typical undergraduate CS course looks like. 
+TL;DR varying difficulties but in either case you should be able to get a decent grade, just depends on what kind of experience you want. "
+286,CS24000,"Hey there,
+
+I took 240 with Turkstra a couple years back, props for trying to prep in advance. C is very much like Java in terms of syntax (since Java syntax was in fact inspired by C), so I don't think you'll have too much trouble. So I would just take a nice primer course on the language, perhaps this one: [https://youtu.be/KJgsSFOSQv0](https://youtu.be/KJgsSFOSQv0)
+
+From what I remember, the hardest parts about that class/C were pointers, dynamic memory allocation/freeing (i.e. malloc), linked lists, and trees. If you cover the course above well and maybe write some programs related to the subjects mentioned, you'll be more than ready for 240.
+
+And if that's a lot for one break, don't be too intimidated. I didn't know any C before going in and I did fine in the course, as did many other students. Best of luck, and feel free to PM me if you have any other questions :)"
+287,CS24000,"Hey there,
+
+I took 240 with Turkstra a couple years back, props for trying to prep in advance. C is very much like Java in terms of syntax (since Java syntax was in fact inspired by C), so I don't think you'll have too much trouble. So I would just take a nice primer course on the language, perhaps this one: [https://youtu.be/KJgsSFOSQv0](https://youtu.be/KJgsSFOSQv0)
+
+From what I remember, the hardest parts about that class/C were pointers, dynamic memory allocation/freeing (i.e. malloc), linked lists, and trees. If you cover the course above well and maybe write some programs related to the subjects mentioned, you'll be more than ready for 240.
+
+And if that's a lot for one break, don't be too intimidated. I didn't know any C before going in and I did fine in the course, as did many other students. Best of luck, and feel free to PM me if you have any other questions :)"
+288,CS24000,"Hey there,
+
+I took 240 with Turkstra a couple years back, props for trying to prep in advance. C is very much like Java in terms of syntax (since Java syntax was in fact inspired by C), so I don't think you'll have too much trouble. So I would just take a nice primer course on the language, perhaps this one: [https://youtu.be/KJgsSFOSQv0](https://youtu.be/KJgsSFOSQv0)
+
+From what I remember, the hardest parts about that class/C were pointers, dynamic memory allocation/freeing (i.e. malloc), linked lists, and trees. If you cover the course above well and maybe write some programs related to the subjects mentioned, you'll be more than ready for 240.
+
+And if that's a lot for one break, don't be too intimidated. I didn't know any C before going in and I did fine in the course, as did many other students. Best of luck, and feel free to PM me if you have any other questions :)"
+289,CS24000,"Li specializes in upper division coursework and he’s giving freshman very theoretical lectures that are beyond what should be taught in the course followed by complicated, practical coding homework without any bridge between the two. That has made the class a train wreck for freshmen. Turk is still not great but he’s taught 240 before and at least knows what he’s doing, it will not be the shit show it is this semester."
+290,CS24000,"To be honest, I think Turk teaches the class quite well. He's strict and it's certainly not an easy class, but his assignments are organized and well defined, and I found his lectures to be good."
+291,CS24000,"If you're planning on probably retaking it anyway then i would stay in the class and just see what you get. Maybe it isn't as bad as you think. If it's passing, then maybe just take the grade. If not then you'll just retake it. By withdrawing you're completely giving up on that grade. Curves are a wonderful thing and occasionally cs240 gets a pretty decent one. 
+
+
+
+It doesn't matter if it's a W or an F, if you're retaking both will get replaced. So might as well see what you get if you want to retake anyway"
+292,CS24000,Hey I'm in your class right now and I feel your pain. Just hold it out. He might just pass you because of how shitty things are right now.
+293,CS24000,"Turkstra is great. He gets a bit of a bad rep from some people because his workload is a bit heavier than some other CS professors (especially compared to other freshman CS courses), but it isn't just meaningless busywork, and it all genuinely helps you learn the content better. The only hiccup I've ever noticed in a Turkstra class was that our final project in CS 240 had a bit tighter of a deadline than it probably should have initially, but Turkstra ended up being *more* than forgiving with the final grading in the end since enough people expressed their concerns. (The entire second part of the project ended up being extra credit.)
+
+People hate on the coding style and in-class quizzes, but they really aren't that big of a deal in my opinion."
+294,CS24000,"If you're planning on probably retaking it anyway then i would stay in the class and just see what you get. Maybe it isn't as bad as you think. If it's passing, then maybe just take the grade. If not then you'll just retake it. By withdrawing you're completely giving up on that grade. Curves are a wonderful thing and occasionally cs240 gets a pretty decent one. 
+
+
+
+It doesn't matter if it's a W or an F, if you're retaking both will get replaced. So might as well see what you get if you want to retake anyway"
+295,CS24000,Hey I'm in your class right now and I feel your pain. Just hold it out. He might just pass you because of how shitty things are right now.
+296,CS24000,"If you're planning on probably retaking it anyway then i would stay in the class and just see what you get. Maybe it isn't as bad as you think. If it's passing, then maybe just take the grade. If not then you'll just retake it. By withdrawing you're completely giving up on that grade. Curves are a wonderful thing and occasionally cs240 gets a pretty decent one. 
+
+
+
+It doesn't matter if it's a W or an F, if you're retaking both will get replaced. So might as well see what you get if you want to retake anyway"
+297,CS24000,Hey I'm in your class right now and I feel your pain. Just hold it out. He might just pass you because of how shitty things are right now.
+298,CS24000,"Don’t feel bad for asking the TAs for help, that is what the department pays them to do. If they get annoyed for having to assist in teaching, they need to gtfo."
+299,CS24000,"The CS Major is tough, that's kind of just how it is. Don't feel stupid for being lost though, that happens to literally everyone. Don't feel bad or ashamed for wasting TA's time, that's what they're there for. I went to a TA at least once for pretty much every single homework we had."
+300,CS24000,"I can’t speak from experience, since when I took CS240, it was notoriously easy. But I know a lot of people are feeling the same way about the class, so much so that they are filing complaints against the professor.
+As for having trouble with the concepts, I would recommend going to office hours/PSO to get help. Also feel free to DM me, and I can point you to some resources."
+301,CS24000,"Don’t feel bad for asking the TAs for help, that is what the department pays them to do. If they get annoyed for having to assist in teaching, they need to gtfo."
+302,CS24000,i’m not in this class but I have heard awful stuff from friends - I don’t have much advice but don’t feel alone on it. My dad is a software engineer and my friend showed him some of the 240 content and he was absolutely baffled by what the teacher was saying. I guess all you can really do is look to TA’s or youtube :/
+303,CS24000,"I can’t speak from experience, since when I took CS240, it was notoriously easy. But I know a lot of people are feeling the same way about the class, so much so that they are filing complaints against the professor.
+As for having trouble with the concepts, I would recommend going to office hours/PSO to get help. Also feel free to DM me, and I can point you to some resources."
+304,CS24000,"I find reading the textbook when I'm stuck helps a fuckton. There's a reason why a book written in 1994 is still being used today; you won't just magically find specific answer you're looking for in there, but it's a great resource for learning the general concepts they're teaching. Past that it's yt and stack overflow."
+305,CS24000,"I find reading the textbook when I'm stuck helps a fuckton. There's a reason why a book written in 1994 is still being used today; you won't just magically find specific answer you're looking for in there, but it's a great resource for learning the general concepts they're teaching. Past that it's yt and stack overflow."
+306,CS24000,Phase one appears to have involved fucking half the class fairly hard.  Will phase 2 involve kicking puppies?
+307,CS24000,"Some of those TAs I personally know, and they're good TAs. But only the GTAs have to ""implement"" the project which I'm not even sure if they do. If it was a short project, then it wouldn't be so bad, but something like this where I've heard from you guys that instructions are vague, and the project is long, it's pretty bad. So yeah, you've been screwed over."
+308,CS24000,"Yeah, I agree with you. One time when I was in office hours last week, I was getting help from a TA and he wasn't able to help me so he called another TA and that TA called another one and so on and I ended up in a Bongo call with 4 TAs to which they all gave me wrong advice (I know it was wrong because the next day, Christopher Potter posted saying the function they had me implement in my method should not have been included). This set me back by 1 whole day.
+
+During this call with the 4 TAs, one TA asked another one if he had done the project to which the other TA replied he did not. My understanding was that the TAs are supposed to do the same work we do so that they can help us. I'm really disappointed in how this is going.
+
+There are some really nice TAs that are understanding and helpful but not enough to help everyone that needs help. They take about 2 hours for one TA to get through 4-6 people and by then, office hours ends and the remaining students receive no help."
+309,CS24000,"Some of those TAs I personally know, and they're good TAs. But only the GTAs have to ""implement"" the project which I'm not even sure if they do. If it was a short project, then it wouldn't be so bad, but something like this where I've heard from you guys that instructions are vague, and the project is long, it's pretty bad. So yeah, you've been screwed over."
+310,CS24000,"Yeah, I agree with you. One time when I was in office hours last week, I was getting help from a TA and he wasn't able to help me so he called another TA and that TA called another one and so on and I ended up in a Bongo call with 4 TAs to which they all gave me wrong advice (I know it was wrong because the next day, Christopher Potter posted saying the function they had me implement in my method should not have been included). This set me back by 1 whole day.
+
+During this call with the 4 TAs, one TA asked another one if he had done the project to which the other TA replied he did not. My understanding was that the TAs are supposed to do the same work we do so that they can help us. I'm really disappointed in how this is going.
+
+There are some really nice TAs that are understanding and helpful but not enough to help everyone that needs help. They take about 2 hours for one TA to get through 4-6 people and by then, office hours ends and the remaining students receive no help."
+311,CS24000,"Some of those TAs I personally know, and they're good TAs. But only the GTAs have to ""implement"" the project which I'm not even sure if they do. If it was a short project, then it wouldn't be so bad, but something like this where I've heard from you guys that instructions are vague, and the project is long, it's pretty bad. So yeah, you've been screwed over."
+312,CS24000,"Yeah, I agree with you. One time when I was in office hours last week, I was getting help from a TA and he wasn't able to help me so he called another TA and that TA called another one and so on and I ended up in a Bongo call with 4 TAs to which they all gave me wrong advice (I know it was wrong because the next day, Christopher Potter posted saying the function they had me implement in my method should not have been included). This set me back by 1 whole day.
+
+During this call with the 4 TAs, one TA asked another one if he had done the project to which the other TA replied he did not. My understanding was that the TAs are supposed to do the same work we do so that they can help us. I'm really disappointed in how this is going.
+
+There are some really nice TAs that are understanding and helpful but not enough to help everyone that needs help. They take about 2 hours for one TA to get through 4-6 people and by then, office hours ends and the remaining students receive no help."
+313,CS24000,"Some of those TAs I personally know, and they're good TAs. But only the GTAs have to ""implement"" the project which I'm not even sure if they do. If it was a short project, then it wouldn't be so bad, but something like this where I've heard from you guys that instructions are vague, and the project is long, it's pretty bad. So yeah, you've been screwed over."
+314,CS24000,"I haven't seen the project this semester but I'm in the last few semesters of a CS degree and I will say that my mind approaches programming projects a whole lot differently that it did during my second semester of college. The people who are complaining are probably using C for the first time in CS240 and may have only used java / python before. 
+
+So although the project may have been extremely easy for you, it might be a bit more difficult for them as they might just be lacking experience.
+
+Yes the complaints are annoying but completely dismissing them and stating you were able to do the project in a single week is a little bit unrealistic for some students in that class, most of them are still freshman."
+315,CS24000,"I haven't seen the project this semester but I'm in the last few semesters of a CS degree and I will say that my mind approaches programming projects a whole lot differently that it did during my second semester of college. The people who are complaining are probably using C for the first time in CS240 and may have only used java / python before. 
+
+So although the project may have been extremely easy for you, it might be a bit more difficult for them as they might just be lacking experience.
+
+Yes the complaints are annoying but completely dismissing them and stating you were able to do the project in a single week is a little bit unrealistic for some students in that class, most of them are still freshman."
+316,CS24000,"I haven't seen the project this semester but I'm in the last few semesters of a CS degree and I will say that my mind approaches programming projects a whole lot differently that it did during my second semester of college. The people who are complaining are probably using C for the first time in CS240 and may have only used java / python before. 
+
+So although the project may have been extremely easy for you, it might be a bit more difficult for them as they might just be lacking experience.
+
+Yes the complaints are annoying but completely dismissing them and stating you were able to do the project in a single week is a little bit unrealistic for some students in that class, most of them are still freshman."
+317,CS24000,"The first checkpoint is this friday, right? And it's worth 50% of the entire project?
+
+I'm screwed."
+318,CS24000,I'm genuinely curious whether he expects people to complete this shit with basically 0 in-person help and no collaboration... in a 2 week period where he still assigns us homework and during peak midterm season in other classes??
+319,CS24000,I mean if it feels better they claim you can't even do the other 50% of project if you fail the first part so its like 50% with the potential for 100%...
+320,CS24000,Ngl I’m not even in 240 this semester and this whole thing pisses me off. How is this remotely a fair assessment of what you have learned so far
+321,CS24000,"Yeah, I honestly think that a project is the best option given the circumstances but it has just been executed poorly. This is our first \*major\* CS project and it was made artificially hard (solely because it replaces a midterm and final) on top of the fact that we already don't have access to the resources we did on campus. It's just setting a lot of people up for failure at this point"
+322,CS24000,cs240 is easy when it's not with turkstra
+323,CS24000,cs240 is easy when it's not with turkstra
+324,CS24000,cs240 is easy when it's not with turkstra
+325,CS24000,cs240 is easy when it's not with turkstra
+326,CS24000,cs240 is easy when it's not with turkstra
+327,CS24000,Count yourself lucky for being one of the people that took that practice exam then
+328,CS24000,"I know absolutely nothing about coding but i feel its the computer equivalent of ""if youre feeling sad just dont bro""
+
+And honestly mood"
+329,CS24000,Yo i'm the upperclassman. Holy fucking shit I thought this would die after my semester of 240 was over
+330,CS24000,"If you've posted this on Turk's piazza and Turk reads that, I don't wanna say you're in for a bad time, but you are."
+331,CS24000,"I know absolutely nothing about coding but i feel its the computer equivalent of ""if youre feeling sad just dont bro""
+
+And honestly mood"
+332,CS24000,"If you've posted this on Turk's piazza and Turk reads that, I don't wanna say you're in for a bad time, but you are."
+333,CS24000,"Yeah, I can confirm that Turkstra has a super long 240 final. Shit was like make a tree of lists of structs that I just had you make."
+334,CS24000,"He's not as bad as you think. Just keep going to class, and do the homework religiously. You should be fine,"
+335,CS24000,"This. People tend to talk badly about Turkstra, but overall he's a good professor. It's not a consequence of him being a bad teacher, it's just that he's kinda hardline and doesn't cut very much slack for somewhat small things like quietly talking in lecture/asking ""dumb questions""/asking questions about something that he thinks is clear. Start the homeworks early and don't afk the lecture, and you will be totally fine.
+
+Last year the practice exams for midterms 1 and 2 were more or less the actual exam. The same can't be said for the final, though. And yes, it's written on paper."
+336,CS24000,"He's not as bad as you think. Just keep going to class, and do the homework religiously. You should be fine,"
+337,CS24000,"This. People tend to talk badly about Turkstra, but overall he's a good professor. It's not a consequence of him being a bad teacher, it's just that he's kinda hardline and doesn't cut very much slack for somewhat small things like quietly talking in lecture/asking ""dumb questions""/asking questions about something that he thinks is clear. Start the homeworks early and don't afk the lecture, and you will be totally fine.
+
+Last year the practice exams for midterms 1 and 2 were more or less the actual exam. The same can't be said for the final, though. And yes, it's written on paper."
+338,CS24000,"I agree. He lays out the information very nicely and clearly knows what he’s talking about in lecture. However, I found that if ever needed help or clarification one of two things happened. Either I got sort of a “so what” response as if he couldn’t understand why someone would have trouble understanding it the first time around(forgetting don’t have a PhD) or he’d be really bad at dumbing down his explanation/explaining it differently.
+
+Also, the BIG thing is the exam are written(yes - you really do write code on paper) and not live coding. This forces you to have a better understanding of the material but fails to let you run your code. I received points off many times for not covering edge cases that I would have been reminded of had there been test cases for me to run with my code on a live coding exam.
+
+———————————
+
+Edit(Just to give my opinions on some things that have been mentioned):
+
+Quizzes: Aren’t that bad. If you are understanding the material, a quick look at your notes (the night) before every class should be fine.
+
+Homeworks: Together with quizzes are about half you’re grade. Make sure that you stay on top of them as mentioned below. Also - The code standard. Turkstra lives and dies by his code standard. It is strict, but it will make your code look beautiful or you will lose points."
+339,CS24000,"This. People tend to talk badly about Turkstra, but overall he's a good professor. It's not a consequence of him being a bad teacher, it's just that he's kinda hardline and doesn't cut very much slack for somewhat small things like quietly talking in lecture/asking ""dumb questions""/asking questions about something that he thinks is clear. Start the homeworks early and don't afk the lecture, and you will be totally fine.
+
+Last year the practice exams for midterms 1 and 2 were more or less the actual exam. The same can't be said for the final, though. And yes, it's written on paper."
+340,CS24000,"I did so well in the course... up until the final. Task1 got done within 20 minutes, I couldn't get Task2 done at all because my read function wasn't working... :( what the heck? I specifically reviewed reading from files for this final and I even malloc'ed everything but it just did not work no matter what I did and part 2 of Task2 depended on it so I was just basically screwed over literally the ""easiest"" part of the test.
+
+I'll pass for sure but it's depressing to know all that hard work is for nothing :')"
+341,CS24000,"I did so well in the course... up until the final. Task1 got done within 20 minutes, I couldn't get Task2 done at all because my read function wasn't working... :( what the heck? I specifically reviewed reading from files for this final and I even malloc'ed everything but it just did not work no matter what I did and part 2 of Task2 depended on it so I was just basically screwed over literally the ""easiest"" part of the test.
+
+I'll pass for sure but it's depressing to know all that hard work is for nothing :')"
+342,CS24000,"Exactly how I feel, I would've made it out with an A, but after this exam that may as well be a fever dream."
+343,CS24000,"I did so well in the course... up until the final. Task1 got done within 20 minutes, I couldn't get Task2 done at all because my read function wasn't working... :( what the heck? I specifically reviewed reading from files for this final and I even malloc'ed everything but it just did not work no matter what I did and part 2 of Task2 depended on it so I was just basically screwed over literally the ""easiest"" part of the test.
+
+I'll pass for sure but it's depressing to know all that hard work is for nothing :')"
+344,CS24000,"I'm not sure why you named Turkstra specifically -- we didn't work on a server/client, only had homeworks (labs were office hours, and no projects), and they were all (almost all?) about structs, pointers, and various operations like bitshifting.  
+
+I will agree though that Turkstra is underappreciated in 240. Most students I talk to say that he was a really bad prof and that he killed CS240 students, but I feel like that's just not true. Turk may have some flaws on a personal level but I feel like he was a good professor. Sure, the quizzes were frustrating to deal with at times (being quizzed on something at the end of the lecture it was taught), but his lectures were concise and easy to understand, his homeworks were difficult but not jarringly so, and the exams (minus the final, which was oddly a killer in contrast) were really straightforward provided that you did the homework leading up to it and did the practice exam & maybe some light review."
+345,CS24000,"Welcome to the CS club! I hope you enjoy your stay.  
+
+Sidenote: _You_ can be the one to make that post. If you are really worried, talk with the professor and see what his take on the current state of the project is after you voice your opinion. I don't think Popescu is heartless."
+346,CS24000,"Welcome to the CS club! I hope you enjoy your stay.  
+
+Sidenote: _You_ can be the one to make that post. If you are really worried, talk with the professor and see what his take on the current state of the project is after you voice your opinion. I don't think Popescu is heartless."
+347,CS24000,"Here is a Bash cheat sheet:
+
+https://gist.github.com/LeCoupa/122b12050f5fb267e75f
+
+start here to learn how to navigate using the terminal.
+
+you will also need to know how to use vim (some people use pico, but vim is the superior editor imo)
+
+https://vim.rtorr.com/
+
+hope this helps.
+
+EDIT: You can use a tool called PuTTY if you are on windows to ssh into data."
+348,CS24000,"Here is a Bash cheat sheet:
+
+https://gist.github.com/LeCoupa/122b12050f5fb267e75f
+
+start here to learn how to navigate using the terminal.
+
+you will also need to know how to use vim (some people use pico, but vim is the superior editor imo)
+
+https://vim.rtorr.com/
+
+hope this helps.
+
+EDIT: You can use a tool called PuTTY if you are on windows to ssh into data."
+349,CS24000,"I recommend reading and working through [The C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628), which will likely be your textbook. Java syntax comes from C/C++, so that part will be somewhat familiar. C is a lot more low-level, though."
+350,CS24000,CS240 isn’t being taught by Turkstra next semester. They will likely be going back to live coding exams.
+351,CS24000,CS240 isn’t being taught by Turkstra next semester. They will likely be going back to live coding exams.
+352,CS24000,"Speaking as a Purdue CS grad working in the industry right now, the two things you've pointed out are both actually coding standards I follow at work. If you don't follow the first one and have magic constants, I will definitely deny your pull request. 
+
+It's not about neat code but rather code that can be more easily tested and debugged. "
+353,CS24000,well that was rough
+354,CS24000,"I retook it in the summer, which I would definitely recommend. I also retook Calc I at the same time to raise my GPA (didn't too terrible the first time, but it's a lot of credit hours so it made a pretty big difference). Other than that, I would recommend working on your university/CoS requirements, with an eye toward easy options for satisfying them. 
+
+And for what it's worth, I found retaking 240 to be a really positive experience. Those concepts are super important, so getting the chance to really master them has been really valuable in my upper div coursework. :) "
+355,CS24000,"I retook it in the summer, which I would definitely recommend. I also retook Calc I at the same time to raise my GPA (didn't too terrible the first time, but it's a lot of credit hours so it made a pretty big difference). Other than that, I would recommend working on your university/CoS requirements, with an eye toward easy options for satisfying them. 
+
+And for what it's worth, I found retaking 240 to be a really positive experience. Those concepts are super important, so getting the chance to really master them has been really valuable in my upper div coursework. :) "
+356,CS24000,"I retook it in the summer, which I would definitely recommend. I also retook Calc I at the same time to raise my GPA (didn't too terrible the first time, but it's a lot of credit hours so it made a pretty big difference). Other than that, I would recommend working on your university/CoS requirements, with an eye toward easy options for satisfying them. 
+
+And for what it's worth, I found retaking 240 to be a really positive experience. Those concepts are super important, so getting the chance to really master them has been really valuable in my upper div coursework. :) "
+357,CS24000,I wouldn't worry so much about one of the exams. The whole class is curved as it is and you still have the final left. The labs are the bulk of the grade too so if you have been doing well in the labs you will probably be fine. We are not going to fail everybody
+358,CS24000,"I'd say this class is tough because it's the first time you have to learn a lower language class. This is the last time you have a ""practical"" class. From here on out it's all theory. Every class has concepts they are looking for so you'll have only written exams from here on out.
+
+That being said, a lot of classes are not easy at all. You may have problems with Algorithms, OS, Compilers, Crypto, and many others. Not everybody is good at all of these subjects and classes vary every semester. You'll eventually have to learn that not every topic is easy. CS 250 can teach you assembly which some people find hard, CS 251 is where you start thinking about efficiency and people find that abstract thinking hard. But many people do well. It's a matter of learning exam-taking techniques, asking for help from the professors when you need it, and doing your labs and homework. In the end you'll make it through though."
+359,CS24000,"It stratifies the students. If the test is too easy, you get a big bunch at the top that's hard to deal with (curve down? people hate that even more). So professors lean more towards harder than easier, they get a nice bell curve, and can then just slide everything up to put the average on the letter grade they want."
+360,CS24000,I wouldn't worry so much about one of the exams. The whole class is curved as it is and you still have the final left. The labs are the bulk of the grade too so if you have been doing well in the labs you will probably be fine. We are not going to fail everybody
+361,CS24000,"I'd say this class is tough because it's the first time you have to learn a lower language class. This is the last time you have a ""practical"" class. From here on out it's all theory. Every class has concepts they are looking for so you'll have only written exams from here on out.
+
+That being said, a lot of classes are not easy at all. You may have problems with Algorithms, OS, Compilers, Crypto, and many others. Not everybody is good at all of these subjects and classes vary every semester. You'll eventually have to learn that not every topic is easy. CS 250 can teach you assembly which some people find hard, CS 251 is where you start thinking about efficiency and people find that abstract thinking hard. But many people do well. It's a matter of learning exam-taking techniques, asking for help from the professors when you need it, and doing your labs and homework. In the end you'll make it through though."
+362,CS24000,I wouldn't worry so much about one of the exams. The whole class is curved as it is and you still have the final left. The labs are the bulk of the grade too so if you have been doing well in the labs you will probably be fine. We are not going to fail everybody
+363,CS24000,"I'd say this class is tough because it's the first time you have to learn a lower language class. This is the last time you have a ""practical"" class. From here on out it's all theory. Every class has concepts they are looking for so you'll have only written exams from here on out.
+
+That being said, a lot of classes are not easy at all. You may have problems with Algorithms, OS, Compilers, Crypto, and many others. Not everybody is good at all of these subjects and classes vary every semester. You'll eventually have to learn that not every topic is easy. CS 250 can teach you assembly which some people find hard, CS 251 is where you start thinking about efficiency and people find that abstract thinking hard. But many people do well. It's a matter of learning exam-taking techniques, asking for help from the professors when you need it, and doing your labs and homework. In the end you'll make it through though."
+364,CS24000,I wouldn't worry so much about one of the exams. The whole class is curved as it is and you still have the final left. The labs are the bulk of the grade too so if you have been doing well in the labs you will probably be fine. We are not going to fail everybody
+365,CS24000,"I'd say this class is tough because it's the first time you have to learn a lower language class. This is the last time you have a ""practical"" class. From here on out it's all theory. Every class has concepts they are looking for so you'll have only written exams from here on out.
+
+That being said, a lot of classes are not easy at all. You may have problems with Algorithms, OS, Compilers, Crypto, and many others. Not everybody is good at all of these subjects and classes vary every semester. You'll eventually have to learn that not every topic is easy. CS 250 can teach you assembly which some people find hard, CS 251 is where you start thinking about efficiency and people find that abstract thinking hard. But many people do well. It's a matter of learning exam-taking techniques, asking for help from the professors when you need it, and doing your labs and homework. In the end you'll make it through though."
+366,CS24000,I wouldn't worry so much about one of the exams. The whole class is curved as it is and you still have the final left. The labs are the bulk of the grade too so if you have been doing well in the labs you will probably be fine. We are not going to fail everybody
+367,CS24000,I wouldn't worry so much about one of the exams. The whole class is curved as it is and you still have the final left. The labs are the bulk of the grade too so if you have been doing well in the labs you will probably be fine. We are not going to fail everybody
+368,CS18200,"Go to PSO. Also even though the textbook is optional do the problems in the textbook, they can help you for the exam."
+369,CS18200,"No, I just was more worried about 261. I fucked both of 'em up."
+370,CS18200,Prepare for a shit show of a class!
+371,CS18200,"Drineas was a great professor imo, the class is just hella hard. It’s nothing like any class I’ve ever taken. Just make sure you actually understand everything every week and hope for the best"
+372,CS18200,I just took the midterm and I’m wondering this too. Hopefully my second midterm grade will even out the first midterm I failed
+373,CS18200,I just took the midterm and I’m wondering this too. Hopefully my second midterm grade will even out the first midterm I failed
+374,CS18200,"When I took it there were no programming assignments at all and only short answer questions for homework. Often they would propose problems and ask you to design solutions with the best run time. You'll also need to know how to tell the run time given some code, altho my class didn't involve recursion or hash maps which would significantly complicate things I guess."
+375,CS18200,"When I took it there were no programming assignments at all and only short answer questions for homework. Often they would propose problems and ask you to design solutions with the best run time. You'll also need to know how to tell the run time given some code, altho my class didn't involve recursion or hash maps which would significantly complicate things I guess."
+376,CS18200,Programing project? Did they change the course structure in the past couple of semesters? It was all handwritten exams and free-response GradeScope homework before.
+377,CS18200,Programing project? Did they change the course structure in the past couple of semesters? It was all handwritten exams and free-response GradeScope homework before.
+378,CS18200,Programing project? Did they change the course structure in the past couple of semesters? It was all handwritten exams and free-response GradeScope homework before.
+379,CS18200,Programing project? Did they change the course structure in the past couple of semesters? It was all handwritten exams and free-response GradeScope homework before.
+380,CS18200,"I didn't take it over the summer, but I did take it twice. The concepts are really high level compared to anything you've had before, and because of that it moves really fast already. However, I'm sure with the extra free time over the summer it can be manageable, just prepare to spend more time per day (possibly double) studying."
+381,CS18200,"If your young in your career at Purdue (freshman or sophomore) it's probably best to take grades in all your classes, especially if they are above a B. 
+
+Generally speaking, the courses get tougher the higher you go in your degree, so taking as many grades as possible early in your college experience is smart because it helps bolster your GPA for your harder classes where you most likely won't have a pass fail option.
+
+I know it's just one class for you specifically OP, but this advice applies to all freshmen and sophomores considering pass/no pass, especially if they are considering it for all classes 👍
+
+Anywhoo, good luck on your final! I took a few CS classes and those tests can be a challenge but you got this!"
+382,CS18200,"If your young in your career at Purdue (freshman or sophomore) it's probably best to take grades in all your classes, especially if they are above a B. 
+
+Generally speaking, the courses get tougher the higher you go in your degree, so taking as many grades as possible early in your college experience is smart because it helps bolster your GPA for your harder classes where you most likely won't have a pass fail option.
+
+I know it's just one class for you specifically OP, but this advice applies to all freshmen and sophomores considering pass/no pass, especially if they are considering it for all classes 👍
+
+Anywhoo, good luck on your final! I took a few CS classes and those tests can be a challenge but you got this!"
+383,CS18200,"I missed probably 4 PSO sessions overall this semester. I still felt blindsided by the difficulty of the questions on the exam not being anything like the level of question I had been asked anywhere before, in PSO or in homework.
+
+While I think PSO was really helpful in my success in homework and my comfort of the material during the semester, I think it’s wildly inaccurate to say that higher attendance would have prepared everyone for the Boilermaker Special that plowed into us in CL50 at 8:00 last Saturday."
+384,CS18200,"I thought for sure we would have the simpler questions like on the homework, not the one-off lecture examples. Guess not. RIP my A."
+385,CS18200,"Preparing for CS 182 exams is always near impossible. 
+
+Just try your best, miraculously get a passing grade, and move on. "
+386,CS18200,"Preparing for CS 182 exams is always near impossible. 
+
+Just try your best, miraculously get a passing grade, and move on. "
+387,CS18200,"Preparing for CS 182 exams is always near impossible. 
+
+Just try your best, miraculously get a passing grade, and move on. "
+388,CS18200,"Preparing for CS 182 exams is always near impossible. 
+
+Just try your best, miraculously get a passing grade, and move on. "
+389,CS18200,"The curve was gigantic when I took it (spring 2017). Like, I was certain I was going to fail and magically got a C. Have faith in the curve "
+390,CS18200,"The curve was gigantic when I took it (spring 2017). Like, I was certain I was going to fail and magically got a C. Have faith in the curve "
+391,CS18200,"The curve was gigantic when I took it (spring 2017). Like, I was certain I was going to fail and magically got a C. Have faith in the curve "
+392,CS18200,"Hambrusch is awesome. She’s one of the better lecturers I’ve had in CS, and her lectures are easy to pay attention to/pretty entertaining (she usually throws in a sarcastic quip or two during every lecture). She’s also pretty likely to remember you if you ask a question or approach her in office hours, which is never a bad thing. 
+
+Never had Drineas so I can’t speak to him. Can’t go wrong with Hambrusch though. "
+393,CS18200,Lmao 182 was one of the hardest classes ever when I took it. Our 2nd exam had an average of like 20/75
+394,CS18200,I had drineas and he was great
+395,CS18200,I had drineas and he was great
+396,CS18200,"One does not simply look at their CS 182 final and say, ""that was easy."""
+397,CS18200,Stupid binary questions that were only covered for 5 minutes in class
+398,CS18200,I studied so hard for the unit on his wife but it wasn't covered on the final :(
+399,CS18200,Good lord it was hard.
+400,CS18200,"It really depends on:
+
+* who you ask
+* what prof they had
+
+I personally enjoyed 251, even with a prof that most people were annoyed with (Hoffman, though more were annoyed with his head TA mainly). 251 was interesting to me because now that I'd finally gotten the basics of Java and C out of the way, I got to start doing semi important shit and actually implement some good basic algorithms and data structures. If you're going through Purdue CS aiming to be a SWE, (read: 90% of Purdue's CS student body) then 251 is a good first step to developing marketable skills for coding interviews and such. 
+
+Gustavo's main strength is that his classes generally feature a couple of really neat and practical projects that are usually worth holding onto in a small archive on your GitHub. They're not all just basic, canned coding tasks to prove a simple point. On top of that, none of Gustavo's projects or exams are ever unfairly difficult; he's pretty good a gauging what the average student should know if they genuinely tried in his class.
+
+Having Adams for 250 and Gustavo for 251 should be pretty enjoyable, honestly. I think you'll be pleasantly surprised."
+401,CS18200,"One does not simply look at their CS 182 final and say, ""that was easy."""
+402,CS18200,Stupid binary questions that were only covered for 5 minutes in class
+403,CS18200,Good lord it was hard.
+404,CS18200,"One does not simply look at their CS 182 final and say, ""that was easy."""
+405,CS18200,Stupid binary questions that were only covered for 5 minutes in class
+406,CS18200,Good lord it was hard.
+407,CS18200,"/u/MrKPilkington just deleted a comment that I was replying to.  Might as well leave what I wrote here.
+
+> I can't tell you how wrong you are.  The programming industry is full of openings, you can drop out and find a job tomorrow if you really wanted.  Many people do.
+> 
+> But to be ignorant enough that you are able to stand as a freshman who really does not know much.  You probably took AP computer science, wrote a few projects and published them on your github.  You probably think you are the shit and above the people in your class who never learned java before they entered CS 180.  
+> 
+> If you want a programming degree, go to CNIT or a bootcamp.  But if you have any aspirations to become more than a code moneky.  To become a PM, a senior level software engineer, an application architect, then you have to learn to see the bigger picture.  
+> 
+> The reason Purdue's degree is worth what it is is because 60% of students simply can't do it.  It is hard.  It is rigorous.  It takes a lot of effort.  And the sooner you realize that and become just a little bit humbled by the program you are in the better.  
+> 
+> Read Dr. Gramma's papers.  Go to Umesh's office hours and ask him what it was like to design the motherfucking processor for the PS3, one of the best selling game systems in the world.  
+> 
+> Don't sit on an anonymous site and complain about how you are bored in a class and therefore convince yourself that you know better than all of the incredibly bright professors and educators at this school.  "
+408,CS18200,"Your not alone. Cs182 might contain important material, but it's definitely a class that saps people's enthusiasm for cs.  It's incredibly tedious, poorly run,  fairly challenging, and not relevant to pretty much anything else your covering at the moment. People like to say it's fundamental to your degree but I don't believe it is. Cs251 is a much better version of this class and it will make a lot more sense. It's a much more practical extension of what you learn in 182.  Hang in there :)"
+409,CS18200,"I took the class two semesters ago and practically the entire test was proofs.
+
+I took the class last semester, and it was entirely multiple choice."
+410,CS35400,"no problem, glad to help. Good luck! 
+
+n yea it’s deadass weird, the zero interaction + covid restrictions make it seem like a udemy style course lmao"
+411,CS35400,"no problem, glad to help. Good luck! 
+
+n yea it’s deadass weird, the zero interaction + covid restrictions make it seem like a udemy style course lmao"
+412,CS35400,"no problem, glad to help. Good luck! 
+
+n yea it’s deadass weird, the zero interaction + covid restrictions make it seem like a udemy style course lmao"
+413,CS19100,WTF did the advisors do to CS 191. When I took it we only had about 13 assignments that took like 30 minutes or less to do for each of them. Like half the credit was based off you attending 12/15 lectures for the class.
+414,CS19100,I’m trying my best to ignore my urge to burst out about this.
+415,CS19100,WTF did the advisors do to CS 191. When I took it we only had about 13 assignments that took like 30 minutes or less to do for each of them. Like half the credit was based off you attending 12/15 lectures for the class.
+416,CS19100,I’m trying my best to ignore my urge to burst out about this.
+417,CS19100,WTF did the advisors do to CS 191. When I took it we only had about 13 assignments that took like 30 minutes or less to do for each of them. Like half the credit was based off you attending 12/15 lectures for the class.
+418,CS19100,I’m trying my best to ignore my urge to burst out about this.
+419,CS19100,WTF did the advisors do to CS 191. When I took it we only had about 13 assignments that took like 30 minutes or less to do for each of them. Like half the credit was based off you attending 12/15 lectures for the class.
+420,CS19300,"The problem is that culinary definitions aren't structural. All of these types of arguments apply overly reductionist reasoning that completely ignore critical factors: culture, preparation, flavor type, ingredients, temperature, setting, meal type, etc.
+
+So sure, you can argue that a pizza is an open faced sandwich the same way you can argue a bird is a type of bat because they both have wings the same way you can argue an atom is a star system because they both have subcomponents that orbit a central mass, but these aren't useful definitions to anyone."
+421,CS19300,Is a toilet bowl full of shit soup?
+422,CS35200,"Tiark is arguably the best professor for compilers from everything I’ve heard… but someone can correct me if i’m wrong. (I’m in it too, I switched my schedule around **so i could take it with Tiark**)"
+423,CS35200,"352 with Prof. Li was pretty good, you use yacc and lex for parsing, and either c or c++ for interpreting and compiling (you choose). Towards the  the end of the semester you gotta write some arm assembly for compiling to raspberry pis. The project is probably the hardest you'll do for your cs undergrad and it will be a huge mess by the end of the semester, so don't take the class lightly. That said i loved suffering in this class because the material is pretty cool stuff. Your grade will generally reflect the amount of time you put into the class as it's mostly project based and Li's exams are very fair."
+424,CS35200,"352 with Prof. Li was pretty good, you use yacc and lex for parsing, and either c or c++ for interpreting and compiling (you choose). Towards the  the end of the semester you gotta write some arm assembly for compiling to raspberry pis. The project is probably the hardest you'll do for your cs undergrad and it will be a huge mess by the end of the semester, so don't take the class lightly. That said i loved suffering in this class because the material is pretty cool stuff. Your grade will generally reflect the amount of time you put into the class as it's mostly project based and Li's exams are very fair."
+425,CS35200,"Honestly, during the semester I hated my life and the project sucked every ounce of energy out of me, but it was extremely rewarding to learn how programs *really* work. Would I take it again despite the suffering? Absolutely.
+
+Prof. Li is also very reasonable and kind. His lecture slides are a bit confusing, but the information isn't hard to find elsewhere if his explanations don't stick. If you're ever confused with the material, he is very approachable for help. The deadlines for everything are going to seem fast, so make sure you stay on top of the work!
+
+Also, IIRC, he changes which language that is implemented each time he teaches the course."
+426,CS35200,"352 with Prof. Li was pretty good, you use yacc and lex for parsing, and either c or c++ for interpreting and compiling (you choose). Towards the  the end of the semester you gotta write some arm assembly for compiling to raspberry pis. The project is probably the hardest you'll do for your cs undergrad and it will be a huge mess by the end of the semester, so don't take the class lightly. That said i loved suffering in this class because the material is pretty cool stuff. Your grade will generally reflect the amount of time you put into the class as it's mostly project based and Li's exams are very fair."
+
+>>>>>>> 95afdf70197f46d99d35feda55b08d55d3911bbf

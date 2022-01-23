@@ -1,0 +1,45 @@
+CNIT 47500 - Electronic Commerce and Business Implementation
+
+Credit Hours: 3.00.  This course is an in-depth study of electronic commerce and electronic business implementation. The focus is on e-business topics and concepts including business models, electronic payment systems, infrastructure, implementation concerns, design criteria, solution of business problems through case studies, and related Web topics. Students will develop web-based applications that support e-business activities.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Practice Study Observation 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      South Bend
+
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 27200 Minimum Grade of C- and (Undergraduate level  CNIT 29500 Minimum Grade of C- or Undergraduate level  CNIT 32500 Minimum Grade of C-)
+
+

@@ -1,0 +1,70 @@
+CGT 16300 - Graphical Communication And Spatial Analysis
+
+Credit Hours: 2.00.  An introductory course in computer graphics applications for mechanical- and aeronautical-related professions. Experiences focus on visualization, sketching, graphic standards, and problem-solving strategies for engineering design. The course will emphasize the proper use of parametric solid modeling for design intent.
+
+    0.000 OR     2.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Laboratory Preparation, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Credit By Exam, Dept Credit, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Kokomo
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Demonstrate the knowledge and utilization of sketching for problem solving in an engineering environment. 
+2.  Understand CAD file interoperability by exchanging files in different CAD software packages.
+3.  Successfully utilize visualization abilities for creative problem solving in an engineering environment. 
+4.  Systematically identify, evaluate and solve engineering problems using points, lines, surfaces, and solid geometry.
+5.  Use geometric construction techniques when creating 2D and 3D geometric forms for the construction of solid models.
+6.  Understand the history, research, and implications of graphics for engineering design.
+7.  Develop the ability to present clearly identified solutions using graphical communication conventions and standards.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      Aero & Astro Engineering
+
+      Aeronautic Engr Technology
+
+      Biological Engineering
+
+      First Year Engineering
+
+      Environ & Natl Resources Engr
+
+      Industrial Engineering
+
+      Interdisciplnry Engr Study
+
+      Mechanical Engineering
+
+      Agricultural Engineering
+
+

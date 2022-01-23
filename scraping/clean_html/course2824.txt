@@ -1,0 +1,46 @@
+CS 10100 - Digital Literacy
+
+Credit Hours: 3.00.  Survey of the digital world, computers as multi-purpose machines, digital information, definition of programming, computers everywhere (the Internet of things), computers that perform simultaneous computations, how apps work, data storage and searching, databases, digital audio, graphics, video, computer networks and the Internet, the World Wide Web and Internet sharing services, network and Internet performance, real-time services, artificial intelligence, cloud computing, security, and privacy. CS students may take course for elective credit only.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Computer Science 
+
+
+Course Attributes: Lower Division, GTC-Science, Tech & Society, UC-Science, Tech & Society 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand how to decide the disk size needed when purchasing a computer or smart phone.
+2.  Understand why smart phones, desktop, and laptop computers have more than one processor (such as dual-core and quad-core devices).
+3.  Understand why computers are embedded in appliances and automobiles.
+4.  Understand why saving a document is required after changes are made and what a computer does when one saves a document.
+5.  Understand why music is available in a variety of digital formats, such as m4a, mp3, and wav.
+6.  Understand why someone acquires an Internet service that is 10 times faster than their current service, it is unlikely that web pages will load 10 times faster.
+7.  Understand when someone uses the Internet to communicate with a person who is halfway around the world, how the information travels between the two computers.
+8.  Understand why when someone streams a movie, they have to wait before the movie starts playing.
+9.  Understand why a computer may be able to fool you into thinking a human is really answering your questions.
+10.  Understand whether it is possible for a computer to control a car and navigate it through traffic on an actual highway.
+11.  Understand how, if you receive an email message that appears to come from a friend asking you to click on a link to see a Facebook page, you can tell whether it is safe to click the link or not.
+12.  Understand where, when you upload a video to a cloud service (e.g., YouTube), the video is stored
+13.  Understand whether if a new virus appears, the virus protection software on your computer will prevent the virus from infecting your computer.
+14.  Understand whether or not if your bank's URL begins with "https", a criminal who wiretaps your Internet connection can see each keystroke you send to the bank.
+
+
+
+

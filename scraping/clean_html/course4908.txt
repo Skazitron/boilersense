@@ -1,0 +1,59 @@
+STAT 30100 - Elementary Statistical Methods
+
+Credit Hours: 3.00.  Introduction to statistical methods with applications to diverse fields. Emphasis on understanding and interpreting standard techniques. Data analysis for one and several variables, design of samples and experiments, basic probability, sampling distributions, confidence intervals and significance tests for means and proportions, correlation and regression. Software is used throughout. For statistics majors and minors, credit should be allowed in no more than one of STAT 30100, 35000, 50100, and in no more than one of STAT 50300 and STAT 51100. Prerequisite: college algebra.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Indiana College Network, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Individual Study, Laboratory, Lecture, Practice Study Observation, Recitation 
+
+
+Offered By: College of Science 
+
+Department: Statistics 
+
+
+Course Attributes: Credit By Exam, GTC-Information Literacy, UC-Information Literacy, Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      PU Fort Wayne
+
+      IUPUI
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Indianapolis
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+      Vincennes
+
+
+Learning Outcomes: 
+1. Students will be introduced to statistical methods and be able to apply them to multiple fields of study.
+2. Students will be able to understand, interpret standard statistical techniques, analyze data for one variable and for several variables, calculate and use confidence intervals and significance test for means and proportions, understand the design of samples and experiments, perform and understand basic probability calculations, perform simple and multiple regression procedures, and understand correlation.
+
+
+

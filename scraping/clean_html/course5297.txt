@@ -1,0 +1,36 @@
+ECE 60200 - Lumped System Theory
+
+Credit Hours: 3.00.  An investigation of the basic theory and techniques of modern system theory, emphasizing linear state model formulations of continuous and discrete time systems in the time domain and frequency domain. Coverage includes notions of linearity, time invariance, discrete and continuous time state models, canonical forms, associated transfer functions and impulse response models, the state transition matrix, the Jordan form, controllability, observability, and stability. Prerequisite: Master's student standing or higher and concurrent prerequisite:  MA 51100.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      PU Fort Wayne
+
+      IUPUI
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

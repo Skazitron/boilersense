@@ -1,0 +1,56 @@
+ECE 36200 - Microprocessor Systems And Interfacing
+
+Credit Hours: 4.00.  An introduction to basic computer organization, microprocessor instruction sets, assembly language programming, and microcontroller peripherals.
+
+    0.000 OR     4.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Lecture 1 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      PU Fort Wayne
+
+      IUPUI
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Show ability to program a microcontroller to perform various tasks. 
+2.  Show an ability to interface a microcontroller to various devices. 
+3.  Show an ability to effectively utilize microcontroller peripheral. 
+4.  Show an ability to design and implement a microcontroller-based embedded system.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Elec & Computer Engr
+
+
+Prerequisites: 
+
+ Undergraduate level  ECE 27000 Minimum Grade of C and (Undergraduate level  ENGR 11700 Minimum Grade of D- or Undergraduate level  CS 15900 Minimum Grade of D-)
+
+

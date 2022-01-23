@@ -1,0 +1,58 @@
+CGT 34800 - Photorealistic Shaders
+
+Credit Hours: 3.00.  This course focuses on the creation and application of photorealistic custom shaders to visual effect problems. Students learn to tender common material photorealistically using common industry tools and techniques. Emphasis is placed on meeting specified aesthetic and photorealistic requirements within computationally constrained environments.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Create custom shaders for common platforms.
+2.  Create photorealistic shaders when given photographic references.
+3.  Optimize shaders within the constraints of available resources.
+4.  Create shaders to meet aesthetic requirements. 
+
+
+
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  CGT 14700 Minimum Grade of C-
+
+

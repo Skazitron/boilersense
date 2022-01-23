@@ -1,0 +1,57 @@
+MET 31500 - Applied Mechanism Kinematics And Dynamics
+
+Credit Hours: 3.00.  Displacements, velocities, and accelerations are determined using graphical, semi-graphical, and numerical analyses of rotational and translational motions of common mechanisms such as linkages, cams, gears, screws, and chains as well as their loading. Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Categorize and model common mechanisms, including their degrees of freedom.
+2.  Determine the displacements, velocities, and accelerations in common linkages.
+3.  Analyze and synthesize common mechanisms (e.g., linkages, cams, gears, screws, belts, chains, shafts).
+4.  Use software in kinematic analysis and synthesis.
+
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  CGT 11000 Minimum Grade of D- or Undergraduate level  CGT 16300 Minimum Grade of D- or Undergraduate level  IT 10500 Minimum Grade of D-) and (Undergraduate level  MET 21300 Minimum Grade of D- or Undergraduate level  MET 11300 Minimum Grade of D-)
+
+

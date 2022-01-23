@@ -1,0 +1,85 @@
+ECE 20100 - Linear Circuit Analysis I
+
+Credit Hours: 3.00.  Volt-ampere characteristics for circuit elements; independent and dependent sources; Kirchhoff's laws and circuit equations. Source transformations; Thevenin's and Norton's theorems; superposition, step response of 1st order (RC, RL) and 2nd order (RLC) circuits. Phasor analysis, impedance calculations, and computation of sinusoidal steady state responses. Instantaneous and average power, complex power, power factor correction, and maximum power transfer. Instantaneous and average power.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Credit By Exam, Dept Credit, Exempt, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      PU Fort Wayne
+
+      IUPUI
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1. An ability to define and explain the meaning/function of charge, current, voltage, power, energy, R, L, C, the op amp, and the fundamental principles of Ohm's Law, KVL and KCL.
+2  An ability to write the equilibrium equations for a given network and solve using appropriate software as needed for the steady state (dc and ac/phasor) solution. 
+3. An ability to state and apply the principles of superposition, linearity, source transformations, computation of responses.
+4. An ability to qualitatively predict and compute the step responses of first order (RL and RC) and second order (RLC) circuits.
+5. An ability to qualitatively predict and compute the steady state ac responded of basic circuits using the phasor method. 
+6. An ability to compute effective and average values of periodic signals and compute the instantaneous and average powers delivered to a circuit element.
+7. An ability to compute the complex power associated with a circuit element and design a circuit to improve the power factor in an ac circuit. 
+8. An ability to determine the conditions for maximum power transfer to any circuit element. 
+9. An ability to analyze resistive and RC op amp circuit and design simple amplifiers using op amps.    
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Aero and Astro Engr
+
+      School of Biomedical Engr
+
+      School of Civil Engineering
+
+      School of Chemical Engineering
+
+      School of Nuclear Engineering
+
+      First Year Engineering
+
+      School of Elec & Computer Engr
+
+      School of Interdisciplnry Engr
+
+      School of Industrial Engr
+
+      School of Mechanical Engr
+
+      School of Materials Engr
+
+      School of Agr and Bio Engr
+
+      Construction Engineering Mgmt
+
+
+Prerequisites: 
+
+ (Undergraduate level  MA 16200 Minimum Grade of C- or Undergraduate level  MA 16600 Minimum Grade of C-) and (Undergraduate level  ENGR 13100 Minimum Grade of D- or Undergraduate level  ENGR 14100 Minimum Grade of D- or Undergraduate level  ENGR 13300 Minimum Grade of D-) and (Undergraduate level  PHYS 17200 Minimum Grade of D- or Undergraduate level  PHYS 15200 Minimum Grade of D-) and (Undergraduate level  MA 26100 Minimum Grade of D- or Undergraduate level  MA 17400 Minimum Grade of D- or Undergraduate level  MA 18200 Minimum Grade of D- or Undergraduate level  MA 27100 Minimum Grade of D-)
+
+

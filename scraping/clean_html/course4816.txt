@@ -1,0 +1,58 @@
+CNIT 37600 - Information Storage And Management
+
+Credit Hours: 3.00.  This course provides a comprehensive introduction to information storage technology. It prepares students to make more informed decisions about data storage and also to learn advanced concepts, technologies, and products. Topics include the architectures, features, and benefits of intelligent storage systems; networked storage technologies such as FC-SAN, NAS, and IP-SAN; and long-term archiving solutions such as CAS. Other topics include business continuity, back-up and recovery, virtualization, security, and management. Students will gain hands-on experience with installing and configuring storage management technologies.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1. Describe storage technology solutions.
+2. Understand and articulate the technologies and solutions available to support an IT infrastructure.
+3. Understand the key tasks in successfully securing, managing, and monitoring a data storage infrastructure.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 24200 Minimum Grade of C- or Undergraduate level  CNIT 27600 Minimum Grade of C-
+
+

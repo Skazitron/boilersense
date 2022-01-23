@@ -1,0 +1,57 @@
+MET 31300 - Applied Fluid Mechanics
+
+Credit Hours: 3.00.  The fundamental principles of fluid mechanics are developed, including properties of fluid, pressure, hydrostatics, dynamics of fluid flow, friction losses, and sizing of pipes. Emphasis is on problem solving. Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Apply hydrostatic equations to static and dynamic fluid problems.
+2.  Solve problems involving flow over immersed bodies.
+3.  Analyze piping systems for closed conduit flow.
+4.  Select pumps to optimize open and closed loop flow systems.
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MET 22000 Minimum Grade of D- and Undergraduate level  MET 23000 Minimum Grade of D- and (Undergraduate level  MA 16020 Minimum Grade of D- or Undergraduate level  MA 16021 Minimum Grade of D- or Undergraduate level  MA 16200 Minimum Grade of D- or Undergraduate level  MA 16600 Minimum Grade of D- or Undergraduate level  MA 22200 Minimum Grade of D-)
+
+

@@ -1,0 +1,31 @@
+EAPS 30900 - Computer-Aided Analysis For Geosciences
+
+Credit Hours: 3.00.  Application of computer analysis techniques including error analysis, line and surface fitting, spatial and temporal correlations, contouring, interpolation, and map projections. These methods are discussed in terms of specific geologic applications. All exercises and examples are developed using commercial mathematical software package. A three-hour-per-week computer laboratory tutorial provides hands-on experience with the techniques discussed in class. Prior course work in computer programming is required.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Dept Erth Atmos & Planetry Sci 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Prerequisites: 
+
+ Undergraduate level  CS 15800 Minimum Grade of D- or Undergraduate level  CS 15900 Minimum Grade of D- or Undergraduate level  CS 17700 Minimum Grade of D- or Undergraduate level  CS 18000 Minimum Grade of D-
+
+

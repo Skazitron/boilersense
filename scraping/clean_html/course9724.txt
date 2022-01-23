@@ -1,0 +1,44 @@
+MA 52800 - Advanced Mathematics For Engineers And Physicists II
+
+Credit Hours: 3.00.  MA 52700 is not a prerequisite for MA 52800; these courses can be taken independently. Topics in MA 52800 include divergence theorem, Stokes theorem, complex variables, contour integration, calculus of residues and applications, conformal mapping, and potential theory. MA 51000 is recommended. Typically offered Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Indiana College Network, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Mathematics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Improve knowledge of vector calculus and multivariable integral calculus.
+2.  Know basic theory of functions of a complex variable, including complex integration.
+3.  Improve knowledge of Taylor series, and extend this to Laurent series.
+4.  Know applications of complex analysis, including conformal mapping and potential theory.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

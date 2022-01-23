@@ -1,0 +1,40 @@
+HSCI 67300 - MRI Quality Assurance Internship II
+
+Credit Hours: 3.00.  This internship course provides didactic training and practical experience in clinical diagnostic medical physics.  Students will spend 3-4 hours per week learning the responsibilities of a medical physicist in MRI quality assurance (QA) such as MRI system performance testing, setting up weekly MRI QA procedures, analysis of MRI QA data, and annual clinical system evaluations. In Part II of the course, MRI system performance evaluations of different clinical scanners will be performed by the students independently following the ACR guidelines. This includes assessing magnetic field homogeneity, slice position accuracy and slice thickness accuracy, and performance of radio frequency coil tests on the various coils available at different clinical MRI sites in the Indianapolis area. Students will also work as a team with the instructors on a course project to develop and evaluate advanced MR QA methods and procedures. Prerequisites: HSCI 67200. (This course provides the theoretical basis and opportunity to observe MRI QA on clinical scanners, and forms the basis for this course, Part II).  Permission of instructor required. Typically offered Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Experiential 
+
+
+Offered By: College of Health & Human Sci 
+
+Department: Health Sciences 
+
+
+Course Attributes: Internship 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand the requirements for weekly and annual QA tests as required by ACR.
+2.  Become proficient at performing weekly and annual MRI QA procedures.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

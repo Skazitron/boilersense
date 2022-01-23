@@ -1,0 +1,61 @@
+CNIT 34000 - UNIX Administration
+
+Credit Hours: 3.00.  This course focuses on the tasks and issues involved in the administration of UNIX systems. Topics include installation, networking, software management, scripting, and user management. In the laboratory portion of the course, students implement and maintain UNIX systems.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1. Understand the theory and practice of administering UNIX based operating systems.
+2. Install and maintain UNIX operating systems.
+3. Implement and maintain basic UNIX services including file sharing, e-mail, and X-Windows.
+4. Secure UNIX operating systems.
+5. Write and maintain UNIX shell scripts.
+6. Integrate UNIX and Windows systems.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 24200 Minimum Grade of C- or Undergraduate level  CNIT 27600 Minimum Grade of C-
+
+

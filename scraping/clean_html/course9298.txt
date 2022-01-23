@@ -1,0 +1,56 @@
+ECET 32700 - Instrumentation And Data Acquisition Design
+
+Credit Hours: 3.00.  This course builds upon the prerequisite knowledge and covers implementation of electric systems to measure and record mechanical, electrical, and biological parameters. Signal characteristics, transducer specification and selection, signal conditioning and transmission design, data conversion, software, and an overall system error budget are developed.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Explain how key mechanical, biological, and electrical parameters produce signals that can be sensed by a transducer. 
+2.  Select transducers for each of the parameters above to meet measurement requirements. 
+3.  Design, simulate, build, and verify the performance of amplifiers, filters, and signal conversion circuits appropriate as interfaces to the transducers above. 
+4.  Create software that accesses, reduces, and displays data from these converts.   
+5.  Calculate a full system error budget. 
+
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  PHYS 21800 Minimum Grade of D- or Undergraduate level  PHYS 15200 Minimum Grade of D- or Undergraduate level  PHYS 16200 Minimum Grade of D- or Undergraduate level  PHYS 17200 Minimum Grade of D- or Undergraduate level  PHYS 20100 Minimum Grade of D- or Undergraduate level  PHYS 22000 Minimum Grade of D- or Undergraduate level  PHYS P2210 Minimum Grade of D- or Undergraduate level  PHYS P2010 Minimum Grade of D-) and (Undergraduate level  MA 16010 Minimum Grade of D- or Undergraduate level  MA 23100 Minimum Grade of D- or Undergraduate level  MA 22100 Minimum Grade of D- or Undergraduate level  MA 22700 Minimum Grade of D- or Undergraduate level  MA 22300 Minimum Grade of D- or Undergraduate level  MA 16100 Minimum Grade of D- or Undergraduate level  MA 16300 Minimum Grade of D- or Undergraduate level  MA 16500 Minimum Grade of D- or Undergraduate level  MA 16700 Minimum Grade of D- or Undergraduate level  MA 21900 Minimum Grade of D- or Undergraduate level  MA 22500 Minimum Grade of D- or Undergraduate level  MA 22900 Minimum Grade of D- or Undergraduate level  MATH M1190 Minimum Grade of D- or Undergraduate level  MATH M2080 Minimum Grade of D- or Undergraduate level  MATH M2150 Minimum Grade of D- or Undergraduate level  MATH 16300 Minimum Grade of D-) and (Undergraduate level  ECET 17700 Minimum Grade of D- or Undergraduate level  ECET 22400 Minimum Grade of D-)
+
+

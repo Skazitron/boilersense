@@ -1,0 +1,43 @@
+MET 43600 - Pneumatic Motion Control Systems
+
+Credit Hours: 3.00.  The application of pneumatic motion control systems to industrial motion control and robotics is studied. Circuit design with control logic of both fluid and electronic types is stressed, as applied to pneumatic point-to-point and proportional controls. Control designs are implemented, tested, and evaluated in the laboratory. Typically offered Fall Spring.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  MET 23000 Minimum Grade of D- or Undergraduate level  MET 33000 Minimum Grade of D-)
+
+

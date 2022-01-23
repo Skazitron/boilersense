@@ -1,0 +1,44 @@
+ECE 30010 - Introduction To Machine Learning And Pattern Recognition
+
+Credit Hours: 3.00.  Intelligent information processing, search and retrieval, classification, recognition, prediction and optimization with machine learning and pattern recognition algorithms such as neural networks, support vector machines, decision trees and data mining methods, current models and architectures, implementation topics especially in software, applications in areas such as information processing, search and retrieval of internet data, forecasting (prediction), classification, signal/image processing, pattern recognition, optimization, simulation, system identification, communications, control, management and finance. Topics covered will also be illustrated with the software package MATLAB and related toolboxes. Permission of instructor required.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Individual Study 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  An ability to apply knowledge of mathematics, science, and engineering.
+2.  An ability to design and conduct experiments, as well as to analyze and interpret data. 
+3.  An ability to design a system, component, or process to meet desired needs within realistic constraints such as economic, environmental, social, political, ethical, health and safety, manufacturability, and sustainability.
+4.  An ability to function on multi-disciplinary teams. 
+5.  An ability to identify, formulate, and solve engineering problems. 
+6.  An ability to use the techniques, skills, and modern engineering tools necessary for engineering practice.
+7.  The broad education necessary to understand the impact of engineering solutions in a global, economic, environmental, and societal context.
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MA 26100 Minimum Grade of D- or Undergraduate level  MA 26500 Minimum Grade of D-
+
+

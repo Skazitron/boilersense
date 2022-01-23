@@ -1,0 +1,63 @@
+CNIT 44600 - Advanced Wireless Networks
+
+Credit Hours: 3.00.  This course is an advanced course in wireless networking. Building on knowledge gained from the introductory wireless local area network course, this course addresses wireless network design and implementation on a large scale. Topics include mesh networking, broadband wireless access, backhauling, WiMAX and cellular systems. The laboratory portion of the course includes implementing and simulating these technologies in an outdoor setting.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1. Understand current WLAN, WMAN and WWAN design and implementation strategies.
+2. Understand the increasing roles that WLANs, WMANs, WWANs are playing to increase mobility and augment wire line high throughout technologies.
+3. Design and configure Metropolitan and Wide Area scaled wireless networks based on a given business scenario or problem.
+4. Understand wireless data and telecommunications terminology and jargon.
+5. Understand the basic underpinnings of important wireless technologies and wireless internet provider management issues.
+6. Conduct successful outdoor site surveys with different equipment and standards.
+7. Be able to discuss wireless data and telecommunication issues with professionals in an informed and intelligent manner.
+8. Formulate a checklist regarding existing and/or new wireless data/telecommunication systems and infrastructure.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 34600 Minimum Grade of C-
+
+

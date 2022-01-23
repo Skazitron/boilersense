@@ -1,0 +1,66 @@
+NUCL 51100 - Reactor Theory And Kinetics
+
+Credit Hours: 3.00.  Advanced methodologies for neutron flux calculation, nodal methods, introduction to transport theory, transport correction, multigroup theory, and introduction to the generation of group constants. Reactor kinetics, perturbation theory, adjoint fluxes, reactivity calculation from perturbation theory, reactivity coefficients due to Doppler effect, temperature and density changes, void coefficient, and energy and power coefficients. Microkinetics, theory of reactivity measurements, approximate methods: prompt jump approximation, and prompt kinetics. Transients with feedback, safety implications, and spatial kinetics. Typically offered Spring.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Nuclear Engineering 
+
+Department: Nuclear Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-NUCL 51000 Course
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+NUCL
+51100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

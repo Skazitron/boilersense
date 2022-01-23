@@ -1,0 +1,30 @@
+MA 64200 - Methods Of Linear And Nonlinear Partial Differential Equations I
+
+Credit Hours: 3.00.  Second order elliptic equations including maximum principles, Harnack inequality, Schauder estimates, and Sobolev estimates. Applications of linear theory to nonlinear equations. Prerequisite: MA 52300. Typically offered Fall Spring Summer.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Science 
+
+Department: Mathematics 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

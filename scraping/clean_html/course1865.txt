@@ -1,0 +1,61 @@
+ENGT 50900 - Applied Computational Methods
+
+Credit Hours: 3.00.  This class covers the mathematics typically needed for research in engineering technology and is especially suited to the needs of ENGT student. The class includes basic calculus, introductory numerical methods, implemented in MATLAB, and elementary linear algebra. It uses relevant, practical problems to teach concepts and provides the students with actionable information. The starting point is graphical and numerical solutions of systems of non-linear algebraic equations. The class progresses to simple ordinary differential equations. Pre Requisite:  Six credits of undergraduate classes in technical mathematics, focusing on calculus.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Working understanding of algebra.
+2.  Solve systems of linear and nonlinear equations.
+3.  Calculate eigenvalues.
+4.  Working understanding of basic calculus.
+5.  Find derivatives and integrals of basic functions analytically.
+6.  Show graphical representations of integrals and derivatives.
+7.  Working knowledge of basic numerical methods.
+8.  Approximate derivatives using finite differences.
+9.  Find roots of nonlinear equations.
+10.  Implement a numerical algorithm using MATLAB.
+11.  Working knowledge of simple differential equations.
+12.  Solve an ordinary differential equation (ODE) using finite differences.
+13.  Solve an ODE numerically in MATLAB.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Freshman: 15 - 29 hours
+
+      Junior: 75 - 89 hours
+
+      Sophomore: 45 - 59 hours
+
+      Junior: 60 - 74 hours
+
+      Freshman: 0 - 14 hours
+
+      Sophomore: 30 - 44 hours
+
+

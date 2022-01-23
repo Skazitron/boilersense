@@ -1,0 +1,44 @@
+ANTH 52300 - GIS For Humanities And Social Science Research
+
+Credit Hours: 3.00.  This course will introduce students the skills of spatial thinking, basic functions of Geography Information Systems (GIS), and spatial research methods that are most relevant to humanities and social science. The course will start with an introduction to basic GIS concepts and technology, then move onto GIS applications during the research process, including spatial research design, data acquisition, management, visualization, and spatial analytical techniques. Practical work will be introduced and completed using ESRI ArcGIS Pro software.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Liberal Arts 
+
+Department: Anthropology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand the basics of mapping and geospatial information using ArcGIS Pro.
+2.  Apply spatial research methods into your own research.
+3.  Produce professional maps to visualize spatial data.
+4.  Document and manage spatial data using a standardized way.
+5.  Understand several spatial analysis methods that are relevant to your research area.
+6.  Create a web- or mobile-based GIS application using ArcGIS Online.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

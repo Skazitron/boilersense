@@ -1,0 +1,57 @@
+ENGR 13300 - Transforming Ideas To Innovation, EPICS
+
+Credit Hours: 2.00.  Introduces students to the engineering professions using multidisciplinary, societally relevant content.  Students will develop engineering approaches to systems, generate and explore creative ideas, and use quantitative methods to support design decisions.  Students will experience the process of design and analysis in engineering including how to work effectively in teams, and will develop skills in project management, engineering fundamentals, oral and graphical communication, logical thinking, and modern engineering tools (e.g., Excel and MATLAB).  An emphasis will be placed on computing logic development and builds upon the co-requisite experience of the students in the EPICS class.  Typically offered Fall Spring Summer.
+
+    2.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Studio 
+
+
+Offered By: First Year Engineering 
+
+Department: Engineering Education 
+
+
+Course Attributes: Lower Division, GTC-Information Literacy, UC-Information Literacy 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Examine and analyze career information from various resources to make informed decisions about which engineering discipline to pursue.
+2.  Develop metacognitive skills in evaluating own teamwork and leadership abilities, recognizing how own behavior impact the whole team, and make team process adjustments when necessary.
+3.  Explain critical and diverse use of modeling in engineering to understand problems, represent solutions, compare alternatives, make predications, etc.
+4.  Use multiple models, estimation, and logic to triangulate and evaluate information coming from various data sources.
+5.  Collect, analyze, and represent data to make informative explanations and persuasive arguments.
+6.  Develop a logical problem solving process which includes sequential structures, conditional structures, and repetition structures for fundamental engineering problems.
+7.  Solve fundamental engineering problems using computer tools.
+8.  Perform basic file management tasks using an appropriate computer tool.
+9.  Work effectively and ethically as a member of a technical team.
+10.  Develop a work ethic appropriate for the engineering profession.
+11.  Reflect on personal and team performance to achieve continuous improvement. 
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      First Year Engineering
+
+      Pre Agr & Biol Engineering
+
+
+Prerequisites: 
+
+ Undergraduate level  EPCS 11100 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  EPCS 12100 Minimum Grade of D- [may be taken concurrently]
+
+

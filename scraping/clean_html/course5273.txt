@@ -1,0 +1,39 @@
+ECE 56200 - Introduction To Data Management
+
+Credit Hours: 3.00.  Emphasis is on the design of systems that can manipulate and retrieve data from large databases using high level formal languages. Topics covered are: data models and data independence, normalization in relational databases, development of high level query languages for relational and hierarchical models, pictorial query languages, object oriented systems, and object oriented databases. The course includes a project that accounts for about 20 percent of the grade for the course. Offered odd years. Permission of department required.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

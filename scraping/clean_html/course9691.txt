@@ -1,0 +1,31 @@
+MA 42100 - Linear Programming And Optimization Techniques
+
+Credit Hours: 3.00.  Solution of linear programming problems by the simplex method, duality theory, transportation problems, assignment problems, network analysis, dynamic programming. Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Mathematics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MA 35100 Minimum Grade of B- or Undergraduate level  MA 26500 Minimum Grade of B-
+
+

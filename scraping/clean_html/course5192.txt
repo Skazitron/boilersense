@@ -1,0 +1,40 @@
+ECE 46900 - Operating Systems Engineering
+
+Credit Hours: 4.00.  The design and construction of operating systems for both individual computers and distributed (networked) systems. Basic concepts and methods for managing processor, main memory, block-structured storage, and network resources are covered. Detailed examples are taken from a number of operating systems, emphasizing the techniques used in networked versions of UNIX. These techniques are applied to design improvements of portions of a simplified, networked, UNIX-based operating system; the improvements are implemented and their performance is evaluated in laboratory experiments.
+
+    0.000 OR     4.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      PU Fort Wayne
+
+      West Lafayette
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Elec & Computer Engr
+
+
+Prerequisites: 
+
+ Undergraduate level  ECE 36800 Minimum Grade of D-
+
+

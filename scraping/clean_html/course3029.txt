@@ -1,0 +1,30 @@
+CS 66200 - Pattern Recognition And Decision-Making Processes
+
+Credit Hours: 3.00.  (ECE 66200)  Introduction to the basic concepts and various approaches of pattern recognition and decision-making processes. Topics include various classifier designs, evaluation of classifiability, learning machines, feature extraction, and modeling. Prerequisite: ECE 30200
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Science 
+
+Department: Computer Science 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

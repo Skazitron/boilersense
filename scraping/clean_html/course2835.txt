@@ -1,0 +1,41 @@
+CS 15900 - C Programming
+
+Credit Hours: 3.00.  Fundamental principles, concepts, and methods of programming in C, with emphasis on applications in the physical sciences and engineering. Basic problem solving and programming techniques; fundamental algorithms and data structures; and use of programming logic in solving engineering problems. Students are expected to complete assignments in a collaborative learning environment. Credit cannot be obtained for both CS 15900 and any of CS 15600, CS 15800 and CS 18000.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Indiana College Network, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Individual Study, Laboratory, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Computer Science 
+
+
+Course Attributes: Credit By Exam, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand the fundamental principles, concepts and methods of computer programming.
+2.  Use the C programming language to developing solutions in the domains of physical sciences, mathematics, and engineering.
+3.  Demonstrate the ability to function as part of a technical team to generate a solution to a programming problem. 
+4.  Analyze alternative algorithm designs to implement solutions that make efficient use of limited resources of the computer. 
+
+
+
+
+Prerequisites: 
+
+ 
+
+

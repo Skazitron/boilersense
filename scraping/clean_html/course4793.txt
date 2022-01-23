@@ -1,0 +1,67 @@
+CNIT 31500 - Systems Programming
+
+Credit Hours: 3.00.  This course introduces concepts of lower level systems programming in C/C++ on a UNIX/Linus operation system platform.  Command level development, algorithms, data structures, iteration and recursion, algorithms and analysis will be covered.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Individual Study, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Develop applications for the command line.
+2.  Identify number systems and perform arithmetic operations.
+3.  Develop programs on Linux/UNIX operating systems.
+4.  Develop C/C++ programming proficiency.
+5.  Explain and use linear and tree-based data structures and algorithms.
+6.  Analyze algorithms.
+7.  Explain and use iteration and recursion.
+8.  Explain and use techniques of memory management.
+9.  Explain and use object-oriented programming in systems environments.
+10.Explain and use text and binary file I/O.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 25501 Minimum Grade of C- or Undergraduate level  CNIT 25500 Minimum Grade of C-
+
+

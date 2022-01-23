@@ -1,0 +1,42 @@
+PSY 63100 - Multiple Regression Analysis For The Behavioral Sciences
+
+Credit Hours: 3.00.  This "data analytic" course provides an examination of the conceptual underpinnings and advanced application of multiple regression analyses to psychological data.  Permission of instructor required.  Typically offered Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Health & Human Sci 
+
+Department: Psychological Sciences 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Have basic understanding of the General Linear Model, the data requirements for ordinary least squares regression analyses, and the computational details of simple, multiple, and hierarchical regression analyses.
+2.  Use multiple regression analysis as a general approach to research design and data analysis for studies with multiple predictors, sets, mediators, moderators, and within-subjects factors;
+3.  Interpret and critique results of correlation and multiple regression analyses appearing in the literature;
+4.  Apply multiple regression analyses to data of their own;
+5.  Write-up the results of multiple regression analyses;
+6.  Prepared to take additional advanced statistics courses that build on multiple regression, including logistic regression, multi-level modeling, and structural equation modeling.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

@@ -1,0 +1,39 @@
+MET 45200 - Advanced GD&T Concepts Applied To Product Quality
+
+Credit Hours: 3.00.  This course explores the theory and application of Geometric Dimensioning and Tolerancing (GD&T) to measurement systems and the programming necessary to insure product quality. Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Develop a comprehensive understanding of GD&T standards and callouts and how they apply to product quality.
+2.  Develop and demonstrate a comprehensive understanding of the critical components, capabilities, and software of CMMs and similar product measurement systems.
+3.  Apply uncertainty principles to measurement data to determine critical parameters associated with CD&T controls of product quality.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MET 10200 Minimum Grade of D- and Undergraduate level  MET 24500 Minimum Grade of D-
+
+

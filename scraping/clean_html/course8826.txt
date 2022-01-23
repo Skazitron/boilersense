@@ -1,0 +1,45 @@
+ECON 57700 - Quantitative Economics With Python
+
+Credit Hours: 2.00 or 3.00.  Introduces students to computational and programming in Python.
+
+    2.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Management 
+
+Department: Dept of Economics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.   Learn Python essentials including basic programming techniques and the use of popular packages for data analysis and more advanced programming techniques including numerical methods, dynamic programming, and simulation-based methods.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

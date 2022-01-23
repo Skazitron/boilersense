@@ -1,0 +1,86 @@
+PHYS 52600 - Physics Of Quantum Computing And Quantum Information
+
+Credit Hours:  3.00.  An introduction to the physics of quantum information science. Starting with the concepts of quantum superposition, it defines and describes qubits (quantum bits) and their manipulation by quantum logic gates. The topics of quantum entanglement and the EPR paradox are introduced, and their importance for quantum teleportation, communication, and quantum cryptography are covered.  Quantum computing is described in terms of quantum circuits of logic gates, and also in terms of quantum algorithms, such as Deutsch's algorithm, the quantum Fourier transform, Shor's prime factoring algorithm, and Grover's search algorithm.  The final topic is quantum decoherence and the limits it places on practical implementations of quantum computing.  Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Science 
+
+Department: Physics and Astronomy 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-PHYS 52600 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+PHYS
+36000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+PHYS
+46000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+PHYS
+55000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

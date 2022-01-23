@@ -1,0 +1,55 @@
+ECE 36800 - Data Structures
+
+Credit Hours: 3.00.  Provides insight into the use of data structures. Topics include stacks, queues and lists, trees, graphs, sorting, searching, and hashing.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      PU Fort Wayne
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand various basic data structures, including stacks, queues, and trees.
+2.  Able to analyze time complexity and space complexity of algorithms.
+3.  Able to apply appropriate sorting and searching algorithms for a given application.
+4.  Able to apply graph theoretic techniques, data structures and algorithms for problem solving.
+5.  Able to design and implement appropriate data structures and algorithms for engineering applications.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Elec & Computer Engr
+
+      School of Biomedical Engr
+
+
+Prerequisites: 
+
+ Undergraduate level  ECE 26400 Minimum Grade of C
+
+

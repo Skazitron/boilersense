@@ -1,0 +1,49 @@
+CNIT 56500 - Information Security Management
+
+Credit Hours: 3.00.  Information Security Management explores the issues surrounding the alignment of business and information security. More precisely, once the context of information security is understood in terms of the business and the problems with the current state of Information Security Management are identified, the course pursues solutions to those problems in terms of people, policy, process, procedures, and technology. The product produced as a result of this pursuit is an Enterprise Security Architecture, mapping business needs to technology implementation. The enterprise security architecture produced is dynamic and maintainable, thereby assuring traceability and accountability. Permission of instructor required.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Develop a multi-layer enterprise security architecture. 
+2.  Prepare a Risk Assessment.
+3.  Identify and employ appropriate information security metrics and standards.
+4.  Employ appropriate tools and methodologies to balance business and security considerations.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

@@ -1,0 +1,59 @@
+MET 38200 - Controls And Instrumentation For Automation
+
+Credit Hours: 3.00.  Study of the procedures and techniques essential to industrial measurement and transmission of data is provided in the areas of microprocessor control, process control, and automated testing. Concepts of hysteresis, repeatability, weighted signals, span, suppression, range, and closed loop control are emphasized. Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Dept Credit, Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Evaluate and select sensors for a given application based on relevant specifications.
+2.  Select a data acquisition system based on the requirements of a given application.
+3.  Explain how process gain, dead band, and lag affect the performance of a closed loop control system.
+4.  Tune a closed loop PID controller.
+
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  MA 16010 Minimum Grade of D- or Undergraduate level  MA 16100 Minimum Grade of D- or Undergraduate level  MA 16500 Minimum Grade of D- or Undergraduate level  MA 22100 Minimum Grade of D- or Undergraduate level  MA 22700 Minimum Grade of D- or Undergraduate level  MA 21900 Minimum Grade of D-) and Undergraduate level  MET 28400 Minimum Grade of D-
+
+

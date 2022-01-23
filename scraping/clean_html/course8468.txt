@@ -1,0 +1,51 @@
+CGT 28500 - Cross Cultural Game Development
+
+Credit Hours: 3.00.  This course presents current methods of design and development of digital games for extra-cultural audiences. Students are instructed using an experiential learning model in which multi-cultural student teams lead independent game development projects targeted at a non-native cultural audience. Topics include: dimensions of cultural, game engine scripting, art asset utilization, ethnographic data collection methods, cross-cultural team building, cultural observation, and project management. This course is taught in the US but is co-taught as a distance learning course with a foreign partner institution. Students who take 28500 may not also take 28510 (the study abroad version of the course).
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Studio 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Justice-Eqty-Divrsty-Inclusion, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Create an engaging game for culturally non-native audience using a 3D game engine.
+2.  Identify cultural dimensions using ethnographic methods.
+3.  Collaborate effectively within a multi-cultural team.
+4.  Present a finished game and supporting research to a non-native culture.
+5.  Synthesize cultural experiences into a set of functional guidelines.
+
+
+
+

@@ -1,0 +1,76 @@
+CE 52700 - Analytical Methods For The Design Of Construction Operations Sem. 1
+
+Credit Hours: 3.00.  Provides an investigation of quantitative methods used for the design and analysis of construction operations to maximize productivity and minimize resource idleness. Includes discussions on queuing theory, line of balance techniques, linear programming, and simulation. Comprehensive group projects involve modeling and analyzing actual construction operations.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Civil Engineering 
+
+Department: Lyles School of Civil Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-CE 52700 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+51100
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+51600
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

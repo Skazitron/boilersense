@@ -1,0 +1,49 @@
+CHE 20500 - Chemical Engineering Calculations
+
+Credit Hours: 4.00.  Quantitative applications of steady-state mass and energy balances to solve problems involving multi-component systems  and multi-unit chemical processes. Single-component and multi-component phase equilibria, single-reaction and multiple-reaction stoichiometry, coupled mass and energy balances, chemical processes involving bypass and recycle streams.
+
+    0.000 OR     4.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture, Practice Study Observation, Recitation 
+
+
+Offered By: School of Chemical Engineering 
+
+Department: Chemical Engineering 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Estimate physical properties of real chemical systems.
+2.  Evaluate introductory single-component and multi-component phase equilibria and incorporate these concepts into solutions of mass and energy balance problems.
+3.  Solve steady state and transient mass and energy balance problems for both reacting and non-reacting systems with or without recycle using analytical and computational methods.
+4.  Work professionally and ethically in teams to solve new mass and energy balance problems.
+5.  Identify contemporary chemical engineering problems, including their societal, environmental, and global impacts.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Chemical Engineering
+
+
+Prerequisites: 
+
+ (Undergraduate level  ENGR 12100 Minimum Grade of D- or Undergraduate level  ENFY 12600 Minimum Grade of D- or Undergraduate level  ENGR 12600 Minimum Grade of D- or Undergraduate level  ENFY 13100 Minimum Grade of D- or Undergraduate level  ENGR 13100 Minimum Grade of D- or Undergraduate level  ENGR 16100 Minimum Grade of D- or Undergraduate level  EPCS 11100 Minimum Grade of D- or Undergraduate level  EPCS 12100 Minimum Grade of D- or Undergraduate level  ENFY 19500 Minimum Grade of D- or Undergraduate level  ENGR 19500 Minimum Grade of D- or Undergraduate level  ENGR 14100 Minimum Grade of D- or Undergraduate level  ENGR 16100 Minimum Grade of D-) and Undergraduate level  PHYS 17200 Minimum Grade of D- or (Undergraduate level  PHYS 16200 Minimum Grade of D- and Undergraduate level  PHYS 16300 Minimum Grade of D-) or (Undergraduate level  ENGR 16200 Minimum Grade of D-) and (Undergraduate level  MA 16100 Minimum Grade of C- or Undergraduate level  MA 16700 Minimum Grade of C- or Undergraduate level  MA 16300 Minimum Grade of C- or Undergraduate level  MATH 16300 Minimum Grade of C- or Undergraduate level  MA 16500 Minimum Grade of C-) and (Undergraduate level  CHM 11600 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  CHM 13600 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  CHM 12400 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  CHM 12600 Minimum Grade of D- [may be taken concurrently] or Undergraduate level  CHM 11000 Minimum Grade of D- [may be taken concurrently])
+
+

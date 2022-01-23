@@ -1,0 +1,74 @@
+CNIT 10500 - Introduction To C Programming
+
+Credit Hours: 3.00.  This course is an introduction to computer programming using the "C" language. The emphasis is on structured programming principles, and understanding the basic concepts that apply to engineering problems.  Among topics covered in this course are:  problem solving using top down design, using flowcharts to explain the program logic, selection structure, repetition structure, bitwise operations, arrays, pointers, strings, passing arguments, and sequential files.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Individual Study, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Credit By Exam, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Dual Campus
+
+      Indianapolis
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Practice and apply basic programming concepts in weekly labs and assignments.
+2.  Construct programming solutions using different coding structures in C.
+3.  Illustrate the ability to design and build user defined functions in C.
+4.  Practice the use of one-dimensional Arrays, Struct, and Files in C programing.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Electrical Engr Tech-BS
+
+      Industrial Engineering Tech-BS
+
+      Mfg Engineering Technology-BS
+
+      Engineering Technology-BS
+
+      Industrial Engineering Tech-BS
+
+      Mech Engr Tech-BS
+
+

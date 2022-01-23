@@ -1,0 +1,30 @@
+AAE 64600 - Elastic Wave Propagation
+
+Credit Hours: 3.00.  Elastic wave propagation in rods, beams, and plates. Wave motion in semi-infinite bodies; Rayleigh, Lamb and Love waves. Pochhammer-Chree theory for rods. General properties of dispersive waves and approximation techniques. Impact. Wave front and ray methods. Introduction to wave propagation in anelastic and nonhomogenous media, and to large amplitude and shock waves.  Prerequisite:  AAE 55300 or ME 56300.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

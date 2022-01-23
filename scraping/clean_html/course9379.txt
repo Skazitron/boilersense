@@ -1,0 +1,55 @@
+ECET 48400 - Digital Wireless Systems
+
+Credit Hours: 3.00. T his course investigates the theory and implementation of digital wireless systems for current and next generation communication systems. Cognitive radio systems and technologies will be studied and implemented.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Understand the operation and architectures of cognitive systems. 
+2.  Describe the tradeoffs between system performance, computational load and energy requirements. 
+3.  Describe, identify and apply digital communication concepts.
+4.  Evaluate, describe and calculate the effects of noise in cognitive radio systems. 
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  ECET 33900 Minimum Grade of D- and Undergraduate level  ECET 37401 Minimum Grade of D-
+
+

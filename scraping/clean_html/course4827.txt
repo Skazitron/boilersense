@@ -1,0 +1,67 @@
+CNIT 40500 - Software Development Methodologies
+
+Credit Hours: 3.00.  This course explores methodologies and practices commonly used in contemporary software development projects. Topics include programming standards, code ownership and accountability, source code management and version control, productivity and quality metrics, software testing, and software process maturity models.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Demonstrate a level of proficiency in software development process and project topics.
+2.  Understand what is needed to work in and lead a team developing comprehensive software projects.
+3.  Understand the advantages and disadvantages of software development process models.
+4.  Understand the ramifications of in house vs. outsourcing of software development projects.
+5.  Analyze and evaluate the various software development methodologies available.
+6.  Understand and be able to implement requirements traceability to software modules.
+7.  Understand and be able to implement software testing procedures.
+8.  Identify, monitor, and document risks involved with software and software development.
+9.  Produce reports detailing the proper implementation of a software development methodology or technology.
+10.Understand change management as applied to software.
+11.Understand software project, process and product metrics.
+12.Understand software quality concepts and the processes required to ensure software quality.
+13.Understand the issues of accountability, responsibility, and certification as they apply to software professionals.
+14.Understand intellectual property rights as applied to software.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 31500 Minimum Grade of C- or Undergraduate level  CNIT 32500 Minimum Grade of C- or Undergraduate level  CNIT 29500 Minimum Grade of C-
+
+

@@ -1,0 +1,41 @@
+MET 22010 - Heat-Power Laboratory
+
+Credit Hours: 1.00.  Laboratory course that introduces the principles of thermodynamics and heat transfer through energy systems. Permission of department required. Typically offered Fall Spring Summer.
+
+    1.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Laboratory 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Apply the First Law of Thermodynamics and conversation of mass to analyze when testing fixed mass (closed) and steady flow control volume (open) systems and devices. 
+2.  Understand the fundamental concepts of the Second Law of Thermodynamics and their application. Apply them to conversations between heat and work and to thermal efficiency.
+3.  Test thermodynamic systems involving cycles such as Otto, Diesel, Rankine, and refrigeration cycles.
+4.  Identify and operate laboratory equipment typically used in measurement and analysis of thermal systems.
+5.  Use application software for analyzing, documenting, and presenting the results of technical work.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  ME 20000 Minimum Grade of D- and (Undergraduate level  ENGT 18000 Minimum Grade of D- or Undergraduate level  MET 16200 Minimum Grade of D- or Undergraduate level  MET 16000 Minimum Grade of D-) and (Undergraduate level  PHYS 22000 Minimum Grade of D- or Undergraduate level  PHYS 21800 Minimum Grade of D- or Undergraduate level  PHYS 17200 Minimum Grade of D-) and (Undergraduate level  MA 16010 Minimum Grade of D- or Undergraduate level  MA 22100 Minimum Grade of D- or Undergraduate level  MA 16100 Minimum Grade of D- or Undergraduate level  MA 18100 Minimum Grade of D- or Undergraduate level  MA 22700 Minimum Grade of D- or Undergraduate level  MA 16300 Minimum Grade of D- or Undergraduate level  MA 19000 Minimum Grade of D-)
+
+

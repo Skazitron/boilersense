@@ -1,0 +1,36 @@
+IE 63200 - Scheduling Models
+
+Credit Hours: 3.00. Development and discussion of mathematical and simulation models for scheduling and sequencing the flow of jobs or activities in manufacturing environments. Techniques include dynamic programming, branch and bound, linear and integer programming, heuristics and stochastic network simulation. Prerequisite:  IE 57900;  IE 53500 or 53700.  Typically offered Spring.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Industrial Engr 
+
+Department: Industrial Engineering 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

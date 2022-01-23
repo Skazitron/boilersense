@@ -1,0 +1,32 @@
+ECE 67000 - Modeling And Optimization Of High-Performance Interconnects
+
+Credit Hours: 3.00.  RLC extraction of VLSI interconnects. Modeling of interconnects as RLC trees or networks. Elmore delay model. Reduced-order modeling: moment matching, Pade approximation, and Krylov-subspace methods. Device modeling with consideration of resistive shielding in the interconnection load. Delay calculation with consideration of devices and interconnects. Repeater insertion and planning at floor planning. Timing-driven placement: zero-slack algorithm for delay budgeting, net-based placement, and path-based placement. High-performance clock synthesis: zero-skew routing, bounded-skew routing, and useful-skew routing. Term projects investigating interconnect-related issues are assigned.  Prerequisite: ECE 55900.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

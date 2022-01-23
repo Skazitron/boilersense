@@ -1,0 +1,62 @@
+CNIT 38301 - Packaged Application Software Solutions
+
+Credit Hours: 3.00.  This course introduces knowledge, skills, tools, and techniques used to select and implement packaged application software solutions, both small and large (including ERP). Topics will include the make-verses-buy decision, critical success factors for packages, economic analysis, requirements analysis, identifying vendors and products, request for proposals, analysis of vendor proposals, decision analysis, implementation service providers, contracting for software and service, implementation project planning, life-cycle architecture, software installation and configuration, business process redesign organizational change management, integration with legacy system, customization verses adaptation, data conversion, system and application testing, training and support, system cutover and post go-live considerations. The course will focus on best practices, and consequences of less than best practices. This course will benefit students with career aspirations as systems analysts, business analysts, consultants, data and database administrators, and IT managers.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture, Practice Study Observation 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Describe holistically, in intelligent conversation, the make-versus-buy decision, criteria, implications, and implementation process differences.
+2.  Analyze and revise a Request for Proposal (RFP) more maximum efficiency and effectiveness.
+3.  Score a set of condensed software package proposals and submit a recommendation for the "best fit" for an organization.
+4.  Develop a checklist for analyzing a set of contracts for a software license and its implementation services.
+5.  Develop a project plan for the implementation of software packages.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 28000 Minimum Grade of C-
+
+

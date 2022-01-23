@@ -1,0 +1,38 @@
+ENGR 11700 - First-Year Engineering Honors Seminar
+
+Credit Hours: 3.00.  A course in computer programming, covering fundamentals of the C programming language. Other language(s) or materials will be covered to prepare Honors students to do the best possible work in their professional school courses. Students will be introduced to structured problem solving and top-down programming techniques. Laboratory exercises will accelerate learning of fundamental materials through supervised repetitive practice, while more traditional individual and team projects will provide practice in the decomposition and solution of larger problems. Typically offered Spring.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: College of Engineering 
+
+Department: College of Engineering Admin 
+
+
+Course Attributes: Honors, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      First Year Engineering
+
+
+Prerequisites: 
+
+ Undergraduate level  ENGR 11600 Minimum Grade of D- or Undergraduate level  ENGR 12600 Minimum Grade of D- or Undergraduate level  ENGR 19500 Minimum Grade of D-
+
+

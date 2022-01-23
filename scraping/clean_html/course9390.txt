@@ -1,0 +1,89 @@
+ECET 52400 - Applied Electromagnetics
+
+Credit Hours: 3.00.  This course provides an advanced treatment of electromagnetics and applications at the graduate level for engineering technology students. Electric and magnetic field theory is presented, including Maxwell's equations. Topics include vector analysis, electric and magnetic fields, Maxwell's equations, electromagnetic wave radiation, and propagation. A semester-long project based on applied electromagnetics is required for each student. Knowledge of RF measurement equipment, such as spectrum analyzers and vector network analyzers is required.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Perform electromagnetic analysis, using vectors and differential and integral vector operations.
+2.  Perform electrostatic analysis and calculation in Cartesian, cylindrical and spherical coordinate systems.
+3.  Calculate the electric charge and electric and magnetic fields using Coulomb's Law, Gauss's Law, and Ampere's law.
+4.  Use Maxwell's equations in integral form and differential form to solve boundary value problems.
+5.  Derive and calculate the electromagnetic plane waves propagation in two and three dimensional space.
+6.  Determine and calculate the electromagnetic fields in rectangular and cylindrical waveguides.
+7.  Evaluate the performance of circuits using standard laboratory measurements and simulations.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ECET 52400 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ECET
+42400
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+MA
+22200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

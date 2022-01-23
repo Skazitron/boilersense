@@ -1,0 +1,51 @@
+MET 16400 - Computing In Engineering Technology
+
+Credit Hours: 3.00.  Fundamental programming concepts are introduced using an interpreted high level programming language. Programming topics such as variable types, arrays, input/output tasks, and conditional and repetition executions will be applied to address technical problems seen in the first two years of engineering technology curricula. Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Dept Credit, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+      Vincennes
+
+
+Learning Outcomes: 
+1.  Write programs to perform calculations.
+2.  Apply conditional and repetition logic to produce intended results.
+3.  Obtain input data for program manipulation.
+4.  Produce output data for subsequent use.
+
+
+

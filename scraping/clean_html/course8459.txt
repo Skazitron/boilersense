@@ -1,0 +1,72 @@
+CGT 25600 - Principles Of User Experience Design
+
+Credit Hours: 3.00.  This course introduces students to the process of user-centered design of computer systems humans interact with. Students learn how to draw upon principles of usability and user interface design rooted in human psychology and user research in order to conceptualize, prototype, and evaluate computer systems. Topics include processes such as user research, conceptual design, prototyping, and evaluation and concepts such as visual hierarchy, usability, information architecture, navigation, and more. The course is platform-independent and encourages students to experiment with new and emerging technologies.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Apply the user-centered design process (UCDP) to create visual digital interfaces.
+2.  Demonstrate the user-centered design approach.
+3.  Apply the design process to create computer interfaces.
+4.  Apply visual principles to interface design.
+5.  Apply usability principles to interface design.
+6.  Conduct usability research.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      Data Visualization
+
+      Game Development and Design
+
+      Web Programming & Design
+
+
+Prerequisites: 
+
+ 
+
+

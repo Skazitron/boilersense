@@ -1,0 +1,45 @@
+AT 11600 - Aircraft Science For Engineering Technology
+
+Credit Hours: 3.00.  Required for AET. This course is an introduction to theory of flight, aircraft nomenclature, aircraft configurations, high speed flight, and helicopter configurations and rotor dynamics. Covers lift/drag and concepts for flight at an engineering technology level beyond that of flight ground school. Federal regulatory systems for aircraft design and persons other than flight personnel and associated technical documents are covered. Introduces center of gravity theory, defines how to locate centers of gravity, and introduces weight and balance procedures for engineering technology, not covered by flight ground school. This course teaches topics in the curriculum required by 14 CFR Part 147 as outlined in the School of Aviation and Transportation Technology's Part 147 Operations Manual approved by the FAA, and provides specific knowledge and skills needed for FAA certification examinations.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: Dept of Aviation Technology 
+
+Department: Aviation Technology 
+
+
+Course Attributes: Credit By Exam, Dept Credit, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Able to correctly identify the major components of an aircraft, know the proper names of these components, and be able to explain the fundamentals of why aircraft are configured as they are.
+2.  Able to accurately calculate the lift and drag of an airfoil, and be able to explain the effects of atmospheric conditions on the airfoil.
+3.  Able to explain the characteristics of subsonic, transonic, and supersonic flight, be able to identify the associated shock waves, and be able to describe the characteristics and effects of these shock waves.
+4.  Able to define the basic types of helicopter rotor systems, explain how movements of helicopters are controlled, and be able to explain helicopter rotor aerodynamics.
+5.  Able to define the proper conditions for weighing an aircraft, understand the proper technical documents needed and be able to calculate an aircraft's weight and balance.
+6.  Able to successfully demonstrate on time performance of required activities.
+7.  Demonstrate the ability to analyze and distill, in writing, information in a dynamic environment.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      Aeronautic Engr Technology
+
+

@@ -1,0 +1,49 @@
+ECE 20007 - Electrical Engineering Fundamentals I Lab
+
+Credit Hours: 1.00.  This is an introduction course in electronic measurement and circuit modeling, simulation and design techniques. These skills are developed through a variety of laboratory experiments ranging from voltage, current, and frequency, to resistors, inductors, capacitors, and operational amplifiers. When possible, the experiments develop practical skills through small design and soldering tasks. Finally, the course culminates in a two week group design project.  In many ways this course is the laboratory of the co-requisite lecture course ECE 20001: Electrical Engineering Fundamentals I; however, we remind students that this is a standalone course that expects students will learn and demonstrate material not taught in ECE 20001.
+
+    1.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Credit By Exam, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Ability to competently select, use, and automate electronic measurement instruments.
+2.  Design, wire, and troubleshoot electronic circuits.
+3.  Simulate electronic circuits.
+4.  Design, build, and test resistor-inductor-capacitor, operational amplifier, etc. circuits to meet specifications.
+5.  Demonstrate knowledge of laboratory safety precautions.
+6.  Maintain a laboratory notes and create professional experiment reporting.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Elec & Computer Engr
+
+
+Prerequisites: 
+
+ Undergraduate level  ECE 20001 Minimum Grade of D- [may be taken concurrently]
+
+

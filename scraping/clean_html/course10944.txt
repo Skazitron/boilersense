@@ -1,0 +1,98 @@
+CHE 56400 - Organic Electronic Materials And Devices
+
+Credit Hours: 3.00.  This course introduces the synthesis, optoelectronic properties, transport physics, and device operation of organic and hybrid electronic materials and devices. This course will review how the molecular architecture of small molecule and polymer semiconductors can be turned to alter the optoelectronic properties of the materials in solution and in the solid state. A number of relevant materials interactions will be covered, including: photoexcitation and recombination, intermolecular charge transport mechanisms, and energy transfer processes. Additionally, we will observe how these processes are relevant to applications such as organic field-effect transistors (OFETs), organic light-emitting diodes (OLEDs), organic photovoltaic (OPV) devices, and organic memory elements. Finally, a new type of organic-inorganic hybrid material called hybrid halide perovskite will be introduced.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: School of Chemical Engineering 
+
+Department: Chemical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Identify common mechanisms for the synthesis of small molecule and polymer semiconductors.
+2.  Describe the mechanism of controlled polymerization techniques for macromolecular semiconductors.
+3.  Interpret spectroscopic, chromatographic, and molecular characterization data in order to predict the structure of the organic semiconductor.
+4.  Explain how the molecular structure of an organic semiconductor will affect its thermal, structural, and optoelectronic properties.
+5.  Explain how x-ray and neutron scattering can be utilized to determine the Angstrom and nanometer length scale structural features of the organic semiconductors.
+6.  Apply principles of electron microscopy to comprehend how to image soft materials.
+7.  Determine the domain spacing and microstructural architecture of organic semiconductors given a scattering pattern.
+8.  Explain how molecular orbital levels are related to the optoelectronic properties of organic semiconductors.
+9.  Distinguish between different models for charge transport in organic semiconductors.
+10.  Describe clearly the difference between charge generation and transport in organic and inorganic semiconductors.
+11.  Explain how organic electronic devices operate and how apply known equations to evaluate device performance.
+12.  Critique the potential for organic electronic materials to supplement or replace inorganic semiconducting devices.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Freshman: 15 - 29 hours
+
+      Junior: 75 - 89 hours
+
+      Sophomore: 45 - 59 hours
+
+      Junior: 60 - 74 hours
+
+      Freshman: 0 - 14 hours
+
+      Sophomore: 30 - 44 hours
+
+
+Prerequisites:
+
+GR-CHE 56400 Requisites
+
+
+General Requirements:
+
+ ( 
+Course or Test: 
+CHM
+26100
+
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CHM
+25500
+
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CHM
+25700
+
+
+May not be taken concurrently.
+ )or( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+)
+
+
+

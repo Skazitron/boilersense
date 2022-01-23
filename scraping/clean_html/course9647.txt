@@ -1,0 +1,49 @@
+MA 26100 - Multivariate Calculus
+
+Credit Hours: 4.00.  Planes, lines, and curves in three dimensions. Differential calculus of several variables; multiple integrals. Introduction to vector calculus. Not open to students with credit in MA 27100.
+
+    0.000 OR     4.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Individual Study, Lecture, Recitation 
+
+
+Offered By: College of Science 
+
+Department: Mathematics 
+
+
+Course Attributes: Credit By Exam, Dept Credit, Lower Division, GTC-Quantitative Reasoning, UC-Quantitative Reasoning 
+
+
+May be offered at any of the following campuses:      
+
+      PU Fort Wayne
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Know the equations for lines, planes and quadric surfaces in three dimensional space, and understand how these equations relate to the geometry.
+2.  Understand the relationship between vector functions and parametrized motion; know how to calculate velocity, acceleration, arc length and curvature.
+3.  Know the meaning of partial derivatives and how to calculate them. Know the multivariable chain rule.
+4.  Know the meaning of the gradient, how to calculate it, and how to apply it to directional derivatives and maximum and minimum values.
+5.  Understand the meaning of double and triple integrals; know how to compute them and how to apply them.
+6.  Understand the meaning of vector fields and line integrals. Know Green's theorem and be able to apply it.
+7.  Understand the meaning of surface integrals and know how to calculate them. Know Stokes' theorem and be able to apply it.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MA 16200 Minimum Grade of C- or Undergraduate level  MA 16600 Minimum Grade of C- or Undergraduate level  MA 17300 Minimum Grade of C- or Undergraduate level  MA 18100 Minimum Grade of C- or Undergraduate level  MATH 16400 Minimum Grade of C- or Undergraduate level  MA 17100 Minimum Grade of C- or Undergraduate level  MA 16400 Minimum Grade of C- or Undergraduate level  MATH M2160 Minimum Grade of C- or Undergraduate level  MA 16900 Minimum Grade of C- or Undergraduate level  MATH 16600 Minimum Grade of C-
+
+

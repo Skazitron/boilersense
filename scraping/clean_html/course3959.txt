@@ -1,0 +1,48 @@
+BME 20600 - Biomechanics And Biomaterials Laboratory
+
+Credit Hours: 1.00.  Provides hands-on training in engineering and biological principles of biomaterials and biomechanics. Topics include evaluation and interpretation of experimental results, modeling and testing of tissue and body mechanics, and interactions of living (e.g., tissue/cell) and nonliving (e.g., biomaterial) systems.
+
+    1.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory 
+
+
+Offered By: School of Biomedical Engr 
+
+Department: Weldon Schl of Biomedical Engr 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Independently employ fundamental analytical tools and techniques used in the analysis of mechanical properties of tissues and biomaterials, cellular interactions with biomaterials, and finite element analysis.
+2.  Collect, record, process, statistically analyze, and report experimental data related to the analysis of mechanical testing and cellular interactions with biomaterials.
+3.  Theoretically design advice and/or method for solving a biomechanical or medically relevant problem.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Biomedical Engr
+
+
+
+Prerequisites: 
+
+ Undergraduate level  BME 20500 Minimum Grade of D- and (Undergraduate level  ME 27000 Minimum Grade of D- or Undergraduate level  ME 27100 Minimum Grade of D- or Undergraduate level  CE 27101 Minimum Grade of D-) and Undergraduate level  BME 20400 Minimum Grade of D- [may be taken concurrently]
+
+

@@ -1,0 +1,50 @@
+ECET 54400 - Real-Time And Embedded Systems
+
+Credit Hours: 3.00.  Real-time systems are hardware/software systems in which a timely response by a computer to external stimuli is vital to the performance of the system's objectives. This is the study of temporal determinism. Embedded systems are those with special-purpose microcomputers designed into the system for explicit purposes. Examples of such are the computers on your car's engine that control fuel injection, fly-by-wire altitude controls in modern jet aircraft, even the microcontroller inside a cellular phone. In these examples, the computer has a specific, limited task that is part of the functionality of the device and specifying average performance of that computer is insufficient for successful completion of the task at hand. Imagine if the flight controls of a Boeing 787 on final landing approach experience a "network lag" similar to that which occurs occasionally while you're reading e-mail. If the controls stop responding at a critical time, a horrific crash could occur. Even if the system doesn't freeze up 99.99% of the time, it can still result in disaster.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Analyze a given embedded system application with respect to the hard real-time, soft real-time and non-real-time aspects of the system that simultaneously exist.
+2.  Analyze the implications of Real-Time Systems vs. non-Real-Time Systems.
+3.  Analyze the basic components of machine organization with regard to implications for time-deterministic performance.
+4.  Evaluate the schedulability of collections of tasks with respect to different implementations of task schedulers and task dispatchers.
+5.  Apply advanced software engineering techniques to designing and documenting software.
+6.  Synthesize solutions to problems involving control of real-time systems.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

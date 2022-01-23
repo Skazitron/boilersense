@@ -1,0 +1,40 @@
+AAE 35200 - Structural Analysis I
+
+Credit Hours: 3.00.  Properties of wing and fuselage sections. Beam-column moments. Torsion of thin-walled and skin-stringer multiple-cell sections. Nonsymmetrical bending of skin-stringer wing sections. Flexural shear in open and closed thin-walled and skin-stringer sections. Loads and stresses in the rib system. Cutouts and shear lag. Modified beam theory for wing and fuselage design. Deflection by energy method. Introduction to composite structures.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Use analytical/empirical tools for determining the distribution of load (or displacement) in typical aerospace components.
+2.  Understand and implement the procedures for relating applied loads (or displacements) to component "failure".
+3.  Select of materials to resist structural failure.
+4.  Be exposed to other professional development topics are also to be presented as time permits (e.g., technical communications, teamwork issues, economic considerations, engineering ethics, case histories, regulatory and certificiation, topics, etc.).
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  AAE 20400 Minimum Grade of C- or Undergraduate level  CE 27000 Minimum Grade of D- or Undergraduate level  NUCL 27300 Minimum Grade of D- or Undergraduate level  ME 32300 Minimum Grade of D-) and (Undergraduate level  AAE 20401 Minimum Grade of D- and Undergraduate level  AAE 25100 Minimum Grade of D- [may be taken concurrently] and Undergraduate level  AAE 20000 Minimum Grade of S)
+
+

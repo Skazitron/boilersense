@@ -1,0 +1,64 @@
+CNIT 34200 - Advanced System And Network Administration
+
+Credit Hours: 4.00.  This course focuses on the tasks and issues involved in the installation of distributed computing systems. Topics include the administration of network operating systems and network system interoperability. In the laboratory portion of the course, students implement and maintain a comprehensive network service infrastructure.
+
+    0.000 OR     4.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1. Understand the differences between various enterprise storage and architectures.
+2. Design and implement a storage area network (SAN) solution.
+3. Install and configure a network boot environment supporting various operating systems.
+4. Understand and implement centralized authentication solutions.
+5. Design and implement domain name system (DNS) solutions for internal and external networks.
+6. Design, install and maintain messaging and e-mail systems.
+7. Design and implement web based solutions.
+8. Control and manage outbound web traffic.
+9. Provide load balancing and fault tolerance to network infrastructure solutions.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 34000 Minimum Grade of C-
+
+

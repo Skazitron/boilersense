@@ -1,0 +1,68 @@
+STAT 52900 - Applied Decision Theory And Bayesian Statistics
+
+Credit Hours: 3.00.  Bayesian and decision theoretic formulation of problems; construction of utility functions and quantifications of prior information; methods of Bayesian decision and inference, with applications; empirical Bayes; combination of evidence; Bayesian design and sequential analysis; comparisons of statistical paradigms. Typically offered Summer.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Science 
+
+Department: Statistics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      IUPUI
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-STAT 51700 Course
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+51700
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

@@ -1,0 +1,50 @@
+ECE 33700 - ASIC Design Laboratory
+
+Credit Hours: 2.00.  Introduction to standard cell design of Application Specific Integrated Circuits (ASICs) using modern hardware description languages (HDLs). Emphasis on how to write HDL code that will map readily to hardware. Laboratory experiments using commercial grade computer-aided design (CAD) tools for HDL based design, logic simulation, automatic placement and routing, timing analysis and verification.
+
+    0.000 OR     2.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Practice Study Observation 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Design combinational and sequential logic in a variety of styles and awareness of resource usage.  
+2.  Use, modify, create scripts to control logic synthesis.  
+3.  Create a test bench and use it to verify a design that incorporates multiple sequential blocks.  
+4.  Place, route, and verify timing of an ASIC design.  
+5.  Determine the RTL architecture implied by HDL code of moderate complexity.  
+6.  Explain the difference between various ASIC and digital system design approaches - standard cell, full custom, and programmable device.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Elec & Computer Engr
+
+
+Prerequisites: 
+
+ Undergraduate level  ECE 27000 Minimum Grade of C
+
+

@@ -1,0 +1,38 @@
+AGRY 64100 - Statistical Hydrology
+
+Credit Hours: 3.00.  This course is designed to serve as an advanced graduate course in the statistical analysis of hydrologic data, including time series analysis and modeling, frequency analysis and uncertainty. Prerequisites: AGRY 33700 or CE 54200 or ABE 32500 and STAT 51100 or STAT 50300.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Agronomy 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Apply statistical methods used for hydrologic design, standard time-series methods applied to the modeling of hydrologic variables and uncertainty techniques.
+2.  Infer the appropriate statistical method through analysis of hydrologic data.
+3.  Analyze hydrologic change in response to environmental changes using the concepts learned.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

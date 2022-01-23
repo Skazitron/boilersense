@@ -1,0 +1,37 @@
+MA 51100 - Linear Algebra With Applications
+
+Credit Hours: 3.00.  Real and complex vector spaces; linear transformations; Gram-Schmidt process and projections; least squares; QR and LU factorization; diagonalization, real and complex spectral theorem; Schur triangular form; Jordan canonical form; quadratic forms. Typically offered Summer.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Mathematics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      PU Fort Wayne
+
+      West Lafayette
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

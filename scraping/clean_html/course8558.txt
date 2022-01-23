@@ -1,0 +1,56 @@
+CGT 51900 - Projects In Graphics
+
+Credit Hours: 3.00.  This course instructs students in current methods of conducting research on computer graphics and the content development process. Topics covered in the course include biofeedback, user experience, measurement and analysis, development pipelines, publication strategies and methodologies. LaTeX document preparation, simulation, and qualitative approaches to conducting research in the field of computer graphics.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division, Variable Title 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Repeatable for Additional Credit: Yes - May be repeated an unlimited number of times
+
+
+Learning Outcomes: 
+1.  Conduct a thorough literature review of a chosen topic related to computer graphics and/or the content development process.
+2.  Present to the class an analysis of an academic paper or set of papers.
+3.  Conduct a sound, logical study in the area of computer graphics.
+4.  Prepare a human subjects research application (IRB) that meets all regulatory regulations required to conduct ethical human research.
+5.  Conduct a research study.
+6.  Analyze the results of a completed research study.
+7.  Write a complete publishable manuscript using the LaTeX scripting language.
+
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

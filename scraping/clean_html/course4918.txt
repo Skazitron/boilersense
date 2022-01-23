@@ -1,0 +1,51 @@
+STAT 35500 - Statistics For Data Science
+
+Credit Hours: 3.00.  An introduction to methodologies for data analysis and simulation. Populations and sampling. Distributions and summaries of distributions. Algorithms for sampling and resampling. Foundational statistical concepts including confidence intervals, hypothesis testing, correlation. Introduction to classification and regression. Essential use is made of statistical software throughout. Typically offered Fall Spring.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Statistics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Utilize simulations to generate data (statistical simulations).
+2.  Explain sampling distributions, their properties, and methods for resampling (Statistical Reasoning).
+3.  Explain foundational concepts such as confidence intervals, hypothesis testing, correlations, etc., and apply these concepts in statistical process (Statistical Concepts).
+4.  Assess statistical problems, and justify and apply statistical methods used to solve the problem (Statistical Thinking).
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      Data Science
+
+      Data Science First Year
+
+      Data Science
+
+
+Prerequisites: 
+
+ Undergraduate level  MA 16200 Minimum Grade of C- or Undergraduate level  MATH 16600 Minimum Grade of C- or Undergraduate level  MA 16600 Minimum Grade of C- or Undergraduate level  MA 17300 Minimum Grade of C- or Undergraduate level  MA 18100 Minimum Grade of C- or Undergraduate level  MATH 16400 Minimum Grade of C- or Undergraduate level  MA 16400 Minimum Grade of C- or Undergraduate level  MATH M2160 Minimum Grade of C- or Undergraduate level  MA 16900 Minimum Grade of C- or Undergraduate level  MA 22200 Minimum Grade of C- or Undergraduate level  MA 16021 Minimum Grade of C- or Undergraduate level  MA 16020 Minimum Grade of C-
+
+

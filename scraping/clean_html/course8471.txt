@@ -1,0 +1,62 @@
+CGT 30301 - Digital Manufacturing
+
+Credit Hours: 3.00.  This course investigates digital manufacturing methods, tools, and processes. Topics include additive and subtractive production techniques, CNC tools, geometric dimensioning and tolerance, model-based definition, measurement instruments and metrology, and scanning techniques for geometry validation.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Recitation, Studio 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Describe the differences between additive and subtractive manufacturing.
+2.  Create a simple CNC program to drive a desktop mill, lathe, and cutter.
+3.  Understand the basic steps to moving CAD data through a CAM system to drive a machine.
+4.  Use measurement techniques and model-based data to inspect a manufactured part.
+5.  Use 3D scanning technology to validate a manufactured part.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Graphics Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CGT 11301 Minimum Grade of C-
+
+

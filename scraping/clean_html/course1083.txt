@@ -1,0 +1,78 @@
+AAE 20400 - Aeromechanics II
+
+Credit Hours: 3.00.  Loads on aircraft. Strain, stress, and equations of equilibrium. Description of aircraft structures and materials. Torsion of shafts. Fuselage and wing structures. Symmetrical bending and stiffness analysis of solid and stringer-panel box beams. Structural failures.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Describe the material behavior of deformable bodies when subjected to loads.
+2.  Create and use free-body diagrams to compute resultant support forces and moments.
+3.  Compute internal force and moment distributions.
+4.  Properly select and use materials based upon their mechanical properties.
+5.  Compute stresses, strains, deformation and displacements of basic structural components.
+6.  Predict structural integrity based on the calculations.
+7.  Apply these ideas for analysis of components related to aerospace applications.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      School of Aero and Astro Engr
+
+      School of Biomedical Engr
+
+      School of Civil Engineering
+
+      School of Chemical Engineering
+
+      Construction Engineering Mgmt
+
+      First Year Engineering
+
+      School of Elec & Computer Engr
+
+      School of Engineering Educ
+
+      Div of Environ & Ecol Engr
+
+      School of Interdisciplnry Engr
+
+      School of Industrial Engr
+
+      School of Mechanical Engr
+
+      School of Materials Engr
+
+      School of Nuclear Engineering
+
+      School of Agr and Bio Engr
+
+
+Prerequisites: 
+
+ Undergraduate level  AAE 20300 Minimum Grade of C-
+
+

@@ -1,0 +1,31 @@
+NUCL 27300 - Mechanics Of Materials
+
+Credit Hours: 3.00.  Analysis of stress and strain; equations of equilibrium and compatibility; stress-strain laws; extension, torsion, and bending of bars; membrane theory of pressure vessels; combined loading conditions; transformation of stresses and principal stresses; elastic stability, elected topics. Typically offered Fall Spring Summer.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Nuclear Engineering 
+
+Department: Nuclear Engineering 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  ME 27000 Minimum Grade of D- or Undergraduate level  CE 29700 Minimum Grade of D- or Undergraduate level  CE 27100 Minimum Grade of D- or Undergraduate level  ME 27100 Minimum Grade of D-)
+
+

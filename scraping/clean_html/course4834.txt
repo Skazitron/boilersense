@@ -1,0 +1,50 @@
+CNIT 44500 - Advanced Internetwork Routing And Switching
+
+Credit Hours: 3.00.  This course extends routing and switching knowledge with specific attention given to emerging trends. This course focuses on the concepts of traffic shaping, advanced exterior gateway routing protocols, label switching technologies, and quality of service. The necessary perspectives of integration of these topics into enterprise networks are addresses in both lecture and laboratory.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+
+Prerequisites: 
+
+ (Undergraduate level  CNIT 34500 Minimum Grade of C- or Undergraduate level  CPT 34500 Minimum Grade of C-) or (Undergraduate level  CNIT 43000 Minimum Grade of C- or Undergraduate level  CPT 43000 Minimum Grade of C-)
+
+

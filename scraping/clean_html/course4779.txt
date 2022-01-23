@@ -1,0 +1,45 @@
+CNIT 26700 - Introduction To C++ Language Programming
+
+Credit Hours: 3.00.  This course is an introduction to C++ language programming for persons with prior programming experience. Course topics include data types, control flow, operators and expressions, and an introduction to class construction including other object-oriented concepts and constructs. Applications are designed for business, manufacturing, or technology, depending on audience.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Individual Study, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Credit By Exam, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      South Bend
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  CNIT 10500 Minimum Grade of D- or Undergraduate level  CPT 10500 Minimum Grade of D-) or (Undergraduate level  CNIT 15500 Minimum Grade of D- or Undergraduate level  CPT 15500 Minimum Grade of D-) or (Undergraduate level  CNIT 17500 Minimum Grade of D- or Undergraduate level  CPT 17500 Minimum Grade of D-) or Undergraduate level  CS 18000 Minimum Grade of D- or Undergraduate level  CS 15900 Minimum Grade of D-
+
+

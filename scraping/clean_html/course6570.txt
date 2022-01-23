@@ -1,0 +1,42 @@
+IT 65700 - Fingerprint Performance And Usability
+
+Credit Hours: 3.00. This course covers topics of fingerprint capture, fingerprint feature extraction, fingerprint matching, and attacks on fingerprint systems. The course requires analysis of real fingerprint data and the integration of fingerprint recognition in existing infrastructures. Development of a fingerprint recognition system is required. Prerequisites: IT 54500 and either IT 50700 or STAT 50100. Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Technology Ldrshp & Innovatn 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Learn about history of fingerprint recognition.
+2.  Understand concepts of fingerprint recognition technology.
+3.  Able to critically evaluate the application of fingerprint recognition technology in different operational scenarios.
+4.  Able to present findings to individuals in a clear and coherent manner.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

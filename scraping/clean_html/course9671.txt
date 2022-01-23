@@ -1,0 +1,40 @@
+MA 34900 - Signals And Systems For Mathematicians
+
+Credit Hours: 3.00.  This course introduces the mathematical framework for the description, analysis and processing of signals such as music, speech and images. Main topics covered include signal representations in different bases; continuous-time signal sampling; and signal processing by linear and time invariant systems. Typically offered Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Mathematics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Describe and analyze continuous-time and discrete-time signals in different bases.
+2.  Understand the relation between a continuous-time signal and a sampling of that signal, including methods to reconstruct a continuous-time signal from its samples and applicability conditions.
+3.  Describe and analyze the properties of continuous-time and discrete time systems in different bases.
+4.  Construct linear and time-invariant systems to process continuous-time and discrete-time signals.
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  MA 26100 Minimum Grade of C- or Undergraduate level  MA 27101 Minimum Grade of C-) and (Undergraduate level  MA 26500 Minimum Grade of C- or Undergraduate level  MA 35100 Minimum Grade of C-)
+
+

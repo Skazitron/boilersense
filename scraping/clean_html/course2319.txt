@@ -1,0 +1,76 @@
+ME 59200 - Fundamentals Of Particle Image Velocimetry
+
+Credit Hours: 1.00. Measurement of fluids in motion using the particle image velocimetry technique and related techniques through computer programming, laboratory experiments, and independent research in experimental fluids journals. Typically offered Spring.
+
+    1.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Mechanical Engr 
+
+Department: Mechanical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand the various scientific principles underlying the particle image velocimetry technique - fluid dynamics, particle dynamics, optics, etc.
+2.  Gain an in-depth understanding of the PIV technique including its advantages over competing techniques, its limitations, and its future potential.
+3.  Able to analyze a particular flow and determine the optimal parameter space for investigating that flow: particle size, time between exposures, imaging format, magnification, etc.
+4.  Expose several of the commercial particle image velocimetry packages in addition to writing their own basic software.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ME 59200 Requisities
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ME
+30900
+
+
+Minimum Grade of 
+B
+
+May not be taken concurrently.
+)
+
+
+

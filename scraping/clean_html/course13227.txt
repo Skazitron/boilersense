@@ -1,0 +1,51 @@
+NUCL 41000 - Introduction To Reactor Theory And Applications
+
+Credit Hours: 3.00.  Intermediate treatment of reactor theory and its relevance to routine design engineering calculations, including introduction to transport theory, criticality evaluation, multi-group theory, isotopic depletion, and concludes with short overview of multi-level reactor design calculations, critical experiments, and treatment of neutronic uncertainties. List of Topics: Derivation of Boltzmann transport equation, and its reduction to steady state and time dependent diffusion equation. Introduction to multi-group theory, and evaluation of group parameters in both wide and narrow resonance approximations. Introduction to homogenization theory, and evaluation of lattice parameters. Evaluation of criticality condition for bare and reflected reactor geometries. Development of discretization techniques for the time-dependent multi-group diffusion theory equation. Reactor kinetics, reactivity coefficients and reactivity balance equation. Flowchart of multi-level reactor design calculations. Introduction to critical experiments and startup reactor physics test. Sources and treatment of uncertainties in reactor calculations. Typically offered Fall.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Nuclear Engineering 
+
+Department: Nuclear Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Develop an understanding of reactor physics value for engineering design calculations, and to learn how it is applied to make engineering design decision regarding material choice, composition, type, and operating conditions to sustain and control chain reactor over reactor operating horizon.
+2.  Learn how to develop a computer code to solve a reactor physics problem.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Nuclear Engr-BSE
+
+Must be enrolled in one of the following Classifications:      
+
+      Senior 105+ hours
+
+      Senior 90 - 104 hours
+
+
+Prerequisites: 
+
+ Undergraduate level  NUCL 31000 Minimum Grade of D-
+
+

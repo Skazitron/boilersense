@@ -1,0 +1,40 @@
+NUR 69200 - Applied Statistics In Healthcare Research
+
+Credit Hours: 3.00.  This course advances knowledge and skills in statistical approaches for analyzing complex healthcare data. It focuses on statistical analysis in contexts such as evidence-based practice, quality improvement, evaluation, and behavioral and population health. Topics include probability and descriptive statistics, nonparametric statistics, risk and odds ratios, sensitivity and specificity, logistic and multinomial regression, multiple linear regression, general linear models, survival and time-to-event analysis, and mixed effect modeling. The course will provide hands-on experience in statistical analysis of healthcare data. Prerequisites: Introductory course in statistics or biostatistics at the advanced undergraduate or graduate level. Typically offered Fall Spring Summer.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Health & Human Sci 
+
+Department: Nursing 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Describe the theoretical foundations of different statistical techniques.
+2.  Select the most appropriate statistical approach for analyzing data from applied healthcare research problems.
+3.  Conduct a statistical analysis, interpret results, and report findings.
+4.  Synthesize and apply knowledge learned in planning and carrying out a healthcare research study.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

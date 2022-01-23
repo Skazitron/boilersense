@@ -1,0 +1,76 @@
+BCHM 52100 - Comparative Genomics
+
+Credit Hours: 3.00.  The course provides an understanding of the forces that act on genome content and organization, and the ability to interpret genetic variation between genomes. Students will acquire skills to utilize public genome databases, visualize genomic regions/features of interest using a genome browser, and perform phylogenetic analysis. The knowledge gained is central within the fields of genetics, bioinformatics, microbiology, and evolutionary biology and have important applications in numerous related fields including medicine, biotechnology, agriculture, and ecology.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Biochemistry 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand the composition, organization and structure of genomes.
+2.  Understand processes that cause these genome features to change over time.
+3.  Interpret gene and genome information in common display formats.
+4.  Evaluate common methods used to interpret genetic variation between genomes.
+5.  Perform, present and discuss a research project in comparative genomics.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-BCHM 52100 Requisites
+
+
+General Requirements:
+
+ ( 
+Course or Test: 
+BCHM
+49800
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+)
+
+
+

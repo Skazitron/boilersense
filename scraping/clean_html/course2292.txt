@@ -1,0 +1,49 @@
+ME 56700 - Dynamical Problems In Design
+
+Credit Hours: 3.00.  Design of devices required to have specified dynamic characteristics. Modeling of linear and nonlinear systems and determination of their performance under deterministic and random inputs. Analytical and approximate methods, including computer solutions. Individual project involves modeling, analysis, and system simulation of an actual physical system's motion.  Typically offered Fall.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Mechanical Engr 
+
+Department: Mechanical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Review of fundamentals of kinematics, dynamics, and vibrations.
+2.  Modeling dynamic systems.
+3.  Modeling interaction with environment and determination of response. 
+4.  Investigation of case studies.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

@@ -1,0 +1,82 @@
+CGT 22600 - Introduction To Constraint-Based Modeling
+
+Credit Hours: 3.00.  This course explores the techniques used in the construction and manipulation of constraint-based solid models and assemblies. Emphasizes extracting data from databases. Downstream applications of data and the impact on overall product design processes are explored.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Dept Credit, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      IUPUI
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Demonstrate basic fluency in constraint-based solid modeling techniques.
+2.  Create effective 3D CAD data to support the incorporation of design intent.
+3.  Demonstrate a basic understanding of downstream applications of solid modeling databases.
+4.  Demonstrate the ability to produce professional isometric and orthographic freehand sketches.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      Aeronautic Engr Technology
+
+      Animation
+
+      Building Information Modeling
+
+      Computer Graphics Tech
+
+      Effects Technical Direction
+
+      Game Development and Design
+
+      Human Centered Design & Dev
+
+      Visual Effects Compositing
+
+      Virtual Product Integration
+
+      Web Programming & Design
+
+
+Prerequisites: 
+
+ Undergraduate level  CGT 11000 Minimum Grade of C- or Undergraduate level  CGT 11600 Minimum Grade of C- or Undergraduate level  CGT 16300 Minimum Grade of C-
+
+

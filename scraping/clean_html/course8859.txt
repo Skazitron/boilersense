@@ -1,0 +1,39 @@
+ECON 65400 - Topics In Empirical Labor & Public Economics
+
+Credit Hours: 2.00.  Provide an introduction to the baseline models of labor supply, including static and dynamic model of labor supply. Introduce students to several seminal and new papers on labor supply. Provide students with the conceptual understanding and computational tools (Stata and Matlab) required to adapt and apply the models presented in the course to address new research questions in labor and public economics. Provide students with an basic understanding of the Current Population Survey (CPS). Motivate and illustrate simulation-assisted estimation as a method for estimating structural models of labor supply.
+
+    2.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Management 
+
+Department: Dept of Economics 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand baseline models of labor supply, including static and dynamic model of labor supply.  
+2.  Understand concepts and use of computational tools (Stata and Matlab). 
+3.  Basic understanding of the Current Population Survey (CPS).
+4.  Illustrate simulation-assisted estimation as a method for estimating structural models of labor supply.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

@@ -1,0 +1,52 @@
+CGT 52200 - UX Design Graduate Studio I: Fundamentals
+
+Credit Hours: 3.00.  This course is an introduction to the fundamental components of human-centered design, focusing on interactive computing systems. Students learn basic tenets and methods of user-centered design, including usability and visual design principles, user research, low-fidelity prototyping, and high-fidelity prototyping. The course is platform-independent and encourages students to experiment with new emerging technologies.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Laboratory, Lecture, Studio 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Conduct analysis of situations, clients and problems, articulate problem statements, and create concepts that address issues in the problem statement.
+2.  Identify and use data gathering and analysis techniques to inform design decisions.
+3.  Demonstrate application of principles of visual and interaction design to create prototypes.
+4.  Explain and apply the fundamental components of user-centered design.
+5.  Synthesize and articulate the core values of user-centered design.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Junior: 75 - 89 hours
+
+      Sophomore: 45 - 59 hours
+
+      Junior: 60 - 74 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

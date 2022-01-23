@@ -1,0 +1,45 @@
+ECE 60000 - Random Variables And Signals
+
+Credit Hours: 3.00.  Engineering applications of probability theory. Problems on events, independence, random variables, distribution and density functions, expectations, and characteristic functions. Dependence, correlation, and regression; multivariate Gaussian distribution. Stochastic processes, stationarity, ergodicity, correlation functions, spectral densities, random inputs to linear systems; Gaussian processes. Prerequisite: Master's student standing or higher.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Indiana College Network, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      PU Fort Wayne
+
+      IUPUI
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Problems on events, independence, random variables, distribution and density functions, expectations, and characteristic functions.
+2.  Dependence, correlation, and regression; multi-variate Gaussian distribution.
+3.  Stochastic processes, stationarity, ergodicity, correlation functions, spectral densities, random inputs to linear systems; Gaussian processes.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

@@ -1,0 +1,39 @@
+FNR 55800 - Remote Sensing Analysis And Applications
+
+Credit Hours: 3.00.  Advanced course in the use of remote sensing techniques emphasizing the physical principles behind the remote sensing of vegetative features, present-day instrument technology, spatial data processing and analysis algorithms, error analysis and accuracy assessment procedures, and multi-source data integration. Provides hands-on experience with forest canopy modeling, atmospheric modeling, image processing, and GIS software on microcomputer and workstation platforms. Typically offered Spring.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Laboratory, Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Forestry and Natural Resources 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

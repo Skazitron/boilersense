@@ -1,0 +1,76 @@
+CNIT 25501 - Object-Oriented Programming Introduction
+
+Credit Hours: 3.00.  This course introduces software development concepts common to modern object-oriented programming languages. Topics include: intermediate data types, decisions, repetitive structures; methods; arrays and collections; encapsulation, inheritance, and polymorphism; exception handling; data persistence; Database Management System (DBMS) connectivity; user interface construction; software testing and debugging; and working in teams.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Credit By Exam, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Identify when to use all intrinsic data types of a programming language.
+2.  Demonstrate how to use nested decisions and case statements.
+3.  Demonstrate how to use advanced looping structures, including nesting, early exits, and recursion.
+4.  Identify how and when to use method arguments, parameters, and overloading.
+5.  Define and use encapsulation, inheritance, and polymorphism.
+6.  Demonstrate how to handle run-time exceptions.
+7.  Understand how to persist an object's state information to sequential and binary files.
+8.  Understand how to persist an object's state information to a Relational Database Management System (DBMS). 
+9.  Develop GUI applications.  
+10. Work effectively in teams on a software development project.
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      Computer Engineering Tech
+
+      Computer & Information Tech
+
+      Cybersecurity
+
+      Network Engineering Tech
+
+      Systems Analysis & Design
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 15501 Minimum Grade of C- or Undergraduate level  CNIT 10500 Minimum Grade of C-
+
+

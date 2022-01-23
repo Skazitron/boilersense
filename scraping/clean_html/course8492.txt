@@ -1,0 +1,64 @@
+CGT 33300 - Modeling For Entertainment Graphics
+
+Credit Hours: 3.00.  This course offers students a chance to comprehensively explore Polygon Modeling, with consideration of how choices made in modeling can affect all other aspects of the animation pipeline.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Studio 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer Graphics Technology 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+
+Learning Outcomes: 
+1.  Evaluate polygon models based on topology and polygon budget.
+2.  Build polygon models appropriate for level of detail sculpting and detailing.
+3.  Unwrap polygon models with minimal UV shells, maximizing texture space.
+4.  Texture and detail polygon models with appropriate shaders, achieving a desired result.
+5.  Render polygon models in a format appropriate for demo reel review.
+6.  Correct topological errors in conversion from NURBS to Polygons.
+7.  Identify challenges in conversion of two-dimensional drawings to three-dimensional models.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Graphics Tech-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  CGT 24100 Minimum Grade of C-
+
+

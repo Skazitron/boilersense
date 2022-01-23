@@ -1,0 +1,71 @@
+CNIT 46500 - Senior Software Development Project
+
+Credit Hours: 3.00.  This capstone course integrates the software development technologies and techniques taught in prior courses. Over the duration of the semester, students work as a team to develop an automated system of real value and quality. Class lectures explore project-related topics such as project planning and management, user and management expectations, system architecture and design, and quality management.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      South Bend
+
+
+Learning Outcomes: 
+1. Understand how to work effectively in teams on a software development project.
+2. Use source code management, software testing and quality assurance, and bug tracking tools in a team environment.
+3. Understand the importance of the project manager, technical lead, software developers, test engineers, DBA and client liaison roles typically found in a large software development project.
+4. Develop a multi-user, multi-tier application that solves a real world problem.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Comp Info Tech-BS
+
+May not be enrolled as the following Classifications:      
+
+      Freshman: 15 - 29 hours
+
+      Junior: 75 - 89 hours
+
+      Sophomore: 45 - 59 hours
+
+      Junior: 60 - 74 hours
+
+      Freshman: 0 - 14 hours
+
+      Sophomore: 30 - 44 hours
+
+
+Prerequisites: 
+
+ Undergraduate level  CNIT 31500 Minimum Grade of C- or Undergraduate level  CNIT 32500 Minimum Grade of C- or Undergraduate level  CNIT 29500 Minimum Grade of C-
+
+

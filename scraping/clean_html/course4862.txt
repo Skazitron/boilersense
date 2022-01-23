@@ -1,0 +1,70 @@
+CNIT 52500 - Mobile And Embedded Device Forensics
+
+Credit Hours: 3.00.  Consumer technologies are rapidly moving forward with items integrating processing, storage, and transmission into their base functionality. The enterprise issues with the trend of "bring your own device" has rapidly expanded requirements on forensics investigators to address a plethora of mobile device types. Whether it is the automobile black box or a home thermostat, there are various elements of interesting evidence possible to be gained. The embedded and consumer device pantheon is developing as an important area of forensic science. This course explores techniques for conducting forensic analyses on a wide variety of mobile and embedded devices.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Identify components and sources of mobile and embedded device evidence.
+2.  Demonstrate how to preserve and acquire digital evidence while following the rules of evidence and the chain of custody.
+3.  Examine and analyze digital evidence using a multiple-tool approach for validation of the integrity of evidence.
+4.  Report and explain their findings and conclusions in a digital investigation.
+5.  Present and communicate the mobile forensics process for an investigation.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-CNIT 52500 Requisites
+
+
+General Requirements:
+
+ ( 
+Course or Test: 
+CNIT
+55600
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

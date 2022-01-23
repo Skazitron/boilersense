@@ -1,0 +1,49 @@
+HDFS 61300 - Statistical Approaches For Developmental And Family Researchers
+
+Credit Hours: 4.00. This course provides a basic understanding of foundational concepts and tools used in statistical analysis in the behavioral sciences, with a focus on analysis of experimental data. Emphasis is placed on the conceptual and interpretive understanding of statistical methods, including the General Linear Model (GLM) approach to ANOVA and ANCOVA. Prerequisite: Undergraduate coursework in Statistics. Permission of instructor required. Typically offered Fall.
+
+    0.000 OR     4.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture, Recitation 
+
+
+Offered By: College of Health & Human Sci 
+
+Department: Human Dev and Family Studies 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Repeatable for Additional Credit: Yes - May be repeated up to 1 times
+
+
+Learning Outcomes: 
+1.  Develop a basic understanding of probability, sampling, and inferential theory underlying statistical methods. 
+2.  Formulate testable hypotheses.
+3.  Apply proper statistical tests to evaluate hypotheses.
+4.  Properly interpret the statistical estimates and tests that we cover in the course. 
+5.  Run data analysis using SPSS and SAS statistical software. 
+6.  Improve analytic and critical thinking skills.
+7.  Improve written and verbal communication of analytic results. 
+8.  Understand ANOVA modeling methods. 
+9.  Understand ANOVA and simple regression in the context of the GLM.
+10. Use statistical methods to test research questions using real data and statistical software. 
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

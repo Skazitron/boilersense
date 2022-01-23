@@ -1,0 +1,41 @@
+MSE 67000 - Atomistic View of Materials: Theory, Modeling And Simulations
+
+Credit Hours: 3.00.  In this course students will be introduced to the fundamental physics required to describe materials in terms of electrons and atoms, learn how these processes relate to macroscopic behavior and become familiar with advanced modeling and simulation techniques that enable quantitative predictions. Students will gain hands-on experience with several simulation tools, including ab initio calculations using density functional theory, molecular dynamics simulations and other advanced modeling techniques. Pre-Requisites: BS degree in materials, mechanical, chemical, electrical or aerospace engineering or in physics or chemistry. Permission of department and instructor required.
+
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: School of Materials Engr 
+
+Department: Materials Engineering 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Become familiar with the principles of quantum, classical and statistical mechanics required for predictive materials science.
+2.  Extract materials properties from the simulations.
+3.  Recognize the approximations and estimate the level of accuracy to be expected from each modeling technique.
+4.  Design, perform and analyze computer experiments using electronic and atomistic simulation techniques appropriate for the problem at hand.
+5.  Read critically the current scientific literature on computational modeling and simulation of materials.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

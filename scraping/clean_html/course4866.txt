@@ -1,0 +1,55 @@
+CNIT 53500 - Advanced Topics In IT Business Analysis
+
+Credit Hours: 3.00.  The course explores the topics and tools used by today's information system professionals to lead the requirements gathering, estimating, developing, and delivery efforts of custom software applications. Course emphasis focuses on agile methodologies. Emphasis is also placed on requirements gathering and estimating technics commonly used with agile teams. Permission of Department required. 
+.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Computer and Information Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Research and analyze, then discuss then in intelligent discourse, the applications of an agile mindset to your life.
+2.  Research and demonstrate an understanding of an Agile methodology. 
+3.  Research and analyze, then discuss in intelligent discourse, commonalities and detail differences between common Agile frameworks. 
+4.  Research and analyze requirements elicitation and management practices using an agile methodology. 
+5.  Research and apply user experience and user interface techniques, and agile estimating techniques. 
+6.  Research and analyze, then discuss then in intelligent discourse, enterprise agile frameworks. 
+7.  Research and analyze, then discuss then in intelligent discourse, tools that can aide in the organization of teams and project information. 
+8.  Research and analyze, then discuss then in intelligent discourse, Business Analysis certifications, their value and purpose.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

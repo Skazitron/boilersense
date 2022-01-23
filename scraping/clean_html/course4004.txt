@@ -1,0 +1,39 @@
+BME 44000 - Computational Mechanics In Biomedical Engineering
+
+Credit Hours: 3.00.  Teaches modeling methods for biomedical engineering problems with focus on fluid/solid mechanics. Students are introduced to the most common numerical techniques in biomedical engineering and will learn the applications of these techniques to biomechanical problems at various length scales, such as cardiac contraction and blood flow. The first half of this course focuses on modeling based on ordinary differential equation (ODE) and partial differential equation (PDE) as well as on how we integrate these equations analytically or numerically using software packages such as MATLAB. The other half focuses on fundamentals of fluid/solid mechanics and also on the application of COMSOL or similar software to solving relevant biomechanical problems.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Biomedical Engr 
+
+Department: Weldon Schl of Biomedical Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Solve biomechanical problems involved with physical situations of real biomedical systems by formulating ordinary and partial differential equations and solving the equations via MATLAB.
+2.  Investigate complicated fluid flows observed in biomedical systems by applying knowledge in fluid mechanics and using COMSOL.
+3.  Analyze stress and strain of biomedical materials by applying continuum mechanics and using COMSOL.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MA 26100 Minimum Grade of D- and Undergraduate level  MA 26200 Minimum Grade of D-
+
+

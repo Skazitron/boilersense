@@ -1,0 +1,68 @@
+ME 57800 - Digital Control
+
+Credit Hours: 3.00.  Introduction to, and overview of, the field of digital control. Prior knowledge of continuous control techniques is assumed. Topics include mathematical background from residue theory through integral transforms; sampled data systems, including A/D, D/A, and hold properties, aliasing, and Z transforms. Digital control design via continuous, discrete, and state space design techniques. Implementation considerations, including nonlinear effects. Mechanical engineering examples. Typically offered Spring.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Indiana College Network, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Mechanical Engr 
+
+Department: Mechanical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ME 47500 Course
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ME
+47500
+
+
+Minimum Grade of 
+B
+
+May not be taken concurrently.
+)
+
+
+

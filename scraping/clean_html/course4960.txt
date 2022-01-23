@@ -1,0 +1,142 @@
+STAT 51600 - Basic Probability And Applications
+
+Credit Hours: 3.00.  A first course in probability, intended to serve as a background for statistics and other applications. Sample spaces and axioms of probability, discrete and continuous random variables, conditional probability and Bayes' theorem, joint and conditional probability distributions, expectations, moments and moment generating functions, law of large numbers, and central limit theorem. (The probability material in course one of the Society of Actuaries and the Casualty Actuarial Society is covered by this course.) Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Indiana College Network, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Statistics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      PU Fort Wayne
+
+      IUPUI
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Identify which discrete and continuous distributions are applicable in a given setting.
+2.  Use conditional probabilities, Bayes theorem, and conditional distributions.
+3.  Utilize joint distributions in the context of several random variables.
+4.  Apply the law of large numbers and the central limit theorem in asymptotic settings.
+5.  Derive moments and moment generating functions for discrete and continuous random variables.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-STAT 51600 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+26100
+
+
+Minimum Grade of 
+C-
+
+May be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+27100
+
+
+Minimum Grade of 
+C-
+
+May be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+26300
+
+
+Minimum Grade of 
+C-
+
+May be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+17200
+
+
+Minimum Grade of 
+C-
+
+May be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+17400
+
+
+Minimum Grade of 
+C-
+
+May be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+18200
+
+
+Minimum Grade of 
+C-
+
+May be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+27101
+
+
+Minimum Grade of 
+C-
+
+May not be taken concurrently.
+)
+
+
+

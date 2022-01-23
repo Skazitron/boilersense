@@ -1,0 +1,41 @@
+MA 44000 - Honors Real Analysis I
+
+Credit Hours: 3.00.  Real analysis in one and n-dimensional Euclidean spaces. Topics include the completeness property of real numbers, topology of Euclidean spaces, Heine-Borel theorem, convergence of sequences and series in Euclidean spaces, limit superior and limit inferior, Bolzano-Weierstrass theorem, continuity, uniform continuity, limits and uniform convergence of functions, Riemann or Riemann-Stieltjes integrals. Typically offered Fall.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Mathematics 
+
+
+Course Attributes: Honors, Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Perform rigorous proofs using the definitions of open sets, closed sets, connected sets, compact sets, interior points, boundary points, cluster points, finite sets, infinite sets, and denumerable sets in Euclidean spaces.
+2.  Perform rigorous proofs of convergence or divergence for sequences or series in Euclidean spaces.
+3.  Determine points of continuity and existence of limits using rigorous proofs for functions whose domain and range are in Euclidean spaces.
+4.  Perform rigorous proofs that a sequence of functions converges uniformly or does not converge uniformly on a subset of a Euclidean space.
+5.  Know and be able to apply the definition and related theorems on the existence of Riemann or Riemann-Stieltjes integrals.
+
+
+
+Prerequisites: 
+
+ Undergraduate level  MA 35301 Minimum Grade of B-
+
+

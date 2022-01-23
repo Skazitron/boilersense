@@ -1,0 +1,41 @@
+ECET 36900 - Applied Computer Vision For Sensing And Automation
+
+Credit Hours: 3.00.  This course provides fundamental knowledge of integrated computer imaging or vision systems for sensing, quality control and automation applications. Fundamental basis of optics, illumination, camera types with associated technologies, and image acquisition to develop a customized computer imaging or vision systems will be covered. Algorithms for image processing, image analysis and pattern recognition will also be covered. Emerging technologies-based integrated computer vision or imaging system for sensor system, inspection, quality control and automation in different sectors (medical, manufacturing, security, construction etc.) will be examined. Parallel laboratory hands-on experience will allow the students to apply and validate the concepts learned in the lecture.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Identify different components of a computer vision/imaging system and their needs.
+2.  Identify and specify different components of a computer imaging system for selected different applications.
+3.  Interpret and implement different operations related to image processing, image analysis and image understanding.
+4.  Evaluate different real-world case studies to learn from successes and failures related to computer imaging system-based devices or components.
+5.  Formulate or create tentative solution for selected real world applications.
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  CS 18000 Minimum Grade of D- or Undergraduate level  CS 17700 Minimum Grade of D- or Undergraduate level  CS 15900 Minimum Grade of D- or Undergraduate level  CNIT 10500 Minimum Grade of D- or Undergraduate level  CNIT 15501 Minimum Grade of D-) and (Undergraduate level  ECET 22400 Minimum Grade of D- or Undergraduate level  ECET 17700 Minimum Grade of D- or (Undergraduate level  ECE 20001 Minimum Grade of D- and Undergraduate level  ECE 20007 Minimum Grade of D-) or (Undergraduate level  ECE 20100 Minimum Grade of D- and Undergraduate level  ECE 20700 Minimum Grade of D-)   )
+
+

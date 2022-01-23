@@ -1,0 +1,32 @@
+STAT 65600 - Bayesian Data Analysis
+
+Credit Hours: 3.00.  Bayesian data analysis refers to practical inferential methods that use probability models for both observable and unobservable quantities. The flexibility and generality of these methods allow them to address complex real-life problems that are not amenable to other techniques. This course will provide a pragmatic introduction to Bayesian data analysis and its powerful applications. Topics include: the fundamentals of Bayesian inference for single and multiparameter models, regression, hierarchical models, model checking, approximation of a posterior distribution by iterative and non-iterative sampling methods, and Bayesian nonparametrics. Specific topics and the course outline are subject to change as the semester progresses. All topics will be motivated by problems from the physical, life, social, and management sciences. Conceptual understanding and inference via computer simulation will be emphasized throughout the course. Permission of department required. Pre-Requisite: Graduate level standing or (STAT 51600 and STAT 51700 and (CS 15900 or CS 17700)).
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Science 
+
+Department: Statistics 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Acquire fluency in the principles and techniques of Bayesian data analysis.
+2.  Apply Bayesian methodology to solve real-life problems.
+3.  Utilize R for Bayesian computation, visualization, and analysis of data.
+4.  Discuss what is learned in lectures and assignments through an oral presentation and written report.
+
+

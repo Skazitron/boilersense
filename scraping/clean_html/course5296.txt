@@ -1,0 +1,39 @@
+ECE 60022 - Wireless Communication Networks
+
+Credit Hours: 3.00.  This course will cover fundamental concepts in mobile wireless systems such as propagation and fading, cellular systems, channel assignment, power control, handoff, mobility management. It will also cover system and standards issues including second-generation circuit switched and third-generation packet switched networks, wireless LANs, mobile IP, and ad hoc networks. Besides providing an overview of current technologies, the emphasis on the course will be to identify the challenges that face the engineers of wireless communications networks. Prerequisites: ECE 54700. Prerequisite by Topic: Students are expected to enter the course with an introductory graduate-level understanding of networking, as well as a basic understanding of probability obtained from a typical undergraduate EE program. Permission of instructor required.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Elec & Computer Engr 
+
+Department: Electrical & Computer Engr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Acquire a solid understand of the fundamental principles of wireless communication networks.
+2.  Use basic analytical tools to study the performance of cellular and ad hoc wireless networks.
+3.  Present results through written communication.
+4.  Identify the key challenges facing future wireless networks.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+
