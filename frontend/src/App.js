@@ -7,7 +7,7 @@ import { Navbar, Container, Form, FormControl, Button, Row, Col, Card, Modal} fr
 
 const NavBar = () => {
   return (
-    <Navbar bg="dark"  expand="lg" sticky="top">
+    <Navbar style={{backgroundColor: "#303030"}} expand="lg" sticky="top">
       <Container>
         <Navbar.Brand style={{
             color: "#C7B350"
