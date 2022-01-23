@@ -1,0 +1,75 @@
+AAE 56800 - Applied Optimal Control And Estimation
+
+Credit Hours: 3.00.  This course introduces students to analysis and synthesis methods of optimal controllers and estimators for (stochastic) dynamical systems. The topics in this course include a review of probability and stochastic processes, classical estimation techniques, Pontryagin's maximum principle, dynamic programming. Linear Quadratic Regulator problems (LQR), Kalman filter, duality of LQR with Kalman filter, Linear Quadratic Gaussian (LQG), and a range of engineering applications.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Study analysis and synthesis methods of optimal controllers and estimators for stochastic dynamical systems.
+2.  Present a review of probability and random processes, calculus of variations, dynamic programming, Maximum Principles, optimal control and estimation, duality, and optimal stochastic control.
+3.  Learn how to effectively communicate their ideas and how to formulate a problem and solve it.
+
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-AAE 56800 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+AAE
+56400
+
+
+May not be taken concurrently.
+)
+
+
+

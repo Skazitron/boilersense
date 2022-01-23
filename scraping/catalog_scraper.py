@@ -22,13 +22,16 @@ def fetch_html(url):
     cont = requests.get(url, headers=headers)
     return cont.text
 
-def make_soup(html):
+def make_soup(html, index):
     soup = BeautifulSoup(html, 'html.parser')
     multisoup = soup.find_all("td", {"class": "ntdefault"})
+    title = soup.find("td", {"class": "nttitle", "scope": "colgroup"}).get_text()
     if len(multisoup) > 0:
         tex = (multisoup[0]).get_text()
         if (tex.find("West Lafayette") != -1):
-            print(tex)
+            f = open("clean_html/course" + str(index) + ".txt", "a")
+            f.write(title + "\n")
+            f.write(tex)
 
 
 if __name__ == "__main__":
@@ -36,4 +39,5 @@ if __name__ == "__main__":
     urlfile = open("urls.txt", "r")
     for line in urlfile:
         html = fetch_html(line)
-        make_soup(html)
+        make_soup(html, count)
+        count += 1

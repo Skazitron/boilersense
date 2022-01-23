@@ -1,0 +1,57 @@
+AAE 64800 - Modeling Damage And Strengthening Mechanisms In Materials
+
+Credit Hours: 3.00.  The usage of materials is the backbone of engineering practice. Yet, advances in materials have stagnated due to overly conservative approaches, trial-and-error testing, and long qualification times. Material modeling offers tremendous opportunities to address these issues. This class offers advanced modeling strategies at the intersection of mechanics and materials science for both polycrystalline and composite materials. The course topics are defined as follows: First, advanced micromechanics analysis of modern engineering materials with emphasis on relating elastic microstructural phenomena to the mechanics of material behavior, via the Eshelby inclusion problem and its application to fiber reinforced composites. Second, classical plasticity is summarized via phenomenological and mathematical formulation of the constitutive laws, including yielding, yield surface; von Mises, Tresca yield criteria; Drucker's stability postulate; strain or work hardening, normality rule, perfect plasticity, and stress-strain law. Third, crystal plasticity is discussed, specifically physical and mathematical foundation for plasticity in crystalline materials, with a detailed description of the Bishop and Hill implementation of the Taylor model for deformation of polycrystals. Lastly, concepts of dislocations leading to strengthening mechanisms in metals are discussed: (i) by studying the anisotropy of material and elastoplastic properties at crystal level, microstructural basis for deformation in metals, polymers, and ceramics and (ii) failure mechanisms and toughening in metals, with primary emphasis on work/strain hardening, solid solution hardening, precipitate hardening, and grain boundaries. The course will be comprised of three projects, where the student chooses the topic of the third and final project. Prerequisite: AAE 55300 or equivalent.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Express displacement field for an arbitrary elliptical inclusion via a Green's function.
+2.  Prove the stress/strain fields within inclusion is uniform.
+3.  Calculate Eshelby interaction tensor for arbitrary shape inclusion.
+4.  Express the stress/strain fields external to the inclusion.
+5.  Implement Eshelby problem via Mori-Tanaka approach and apply to stiffness of composites.
+6.  Express interaction energy of inclusion.
+7.  Understand physical basis of plasticity.
+8.  Express yield surface and associated criteria via stress invariants and on the Pi-plane.
+9.  Express flow rules for evolution of the yield surface and implement into principal of virtual velocities.
+10.  Express convexity and normality constraints.
+11.  Express crystal orientation as a series of rotations and express via a pole figure representation.
+12.  Identify texture of materials
+13.  Resolve shear stress on slip systems during deformation of single crystals and calculate the velocity gradient.
+14.  Apply equilibrium and compatibility constraints to plastic flow of polycrystalline materials.
+15.  Calculate the Taylor factor, geometric hardness of a polycrystalline material.
+16.  Express grain orientation evolution, via an exponential mapping.
+17.  Implement the Taylor model within a Bishop and Hill implementation to express texture evolution of polycrystalline materials.
+18.  Understand and express kinetics (strain rate and temperature) into deformation via thermodynamic expressions.
+19.  Model work hardening in crystalline materials.
+20.  Understand the physical origins and model incompatibilities.
+21.  Define grain boundary structure and their affect on mechanical behavior.
+22.  Apply concepts learned from this class into a research project of the student's choice.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

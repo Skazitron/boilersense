@@ -1,0 +1,120 @@
+ABE 51200 - Good Regulatory Practices
+
+Credit Hours: 3.00.  Includes a review of the FDA and ICH regulations on good manufacturing, good laboratory, good clinical practices.  The meaning of these regulations, the globalization of practices and the roles and responsibilities of various professionals implementing these regulations will be addressed.    Special emphasis will be detailed coverage of the process for the assembly and submission of an IND or NDA, and the function of the regulatory affairs department in a pharmaceutical company.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture, Recitation 
+
+
+Offered By: College of Agriculture 
+
+Department: Ag & Biological Engineering 
+
+
+Course Attributes: Dept Credit, Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Identify cGMP regulations, and relationship to maintaining control of the chemical and ultimately the drug product with a focus on Phase 3, product introduction, and post marketing. 
+2.  Examine about the regulatory history of the FDA and the GxP framework.
+3.  Identify NDA and BLA applications, product control including specifications, quality outcomes, critical quality attributes, and ICH framework.
+4.  Evaluate the regulations governing the manufacture of drug products, including the methods used to prove this, validation of those methods, validation of the manufacture, quality by design, comparability protocols, and continuous improvement.
+5.  Identify and evaluate compliance to GMP and warning letters.
+6.  Evaluate Good Distribution Practices (GDP) and the integration of supply chain controls into the Quality Management System.
+7.  Learn GCP, clinical regulations, and relationship to ensuring the drug or device is safe and efficacious.
+8.  Evaluate and describe basic clinical trial design and how to write the investigator’s brochure that informs patients (through the informed consent document that they sign) of clinical information.
+9.  Examine the rigid control that governs the clinical protocols and processes such as compliance oversight procedures, the role of clinical auditors and the process of auditing a clinical trial to ensure that it is done right.
+10.  Identify about the impact of technology and patient involvement in clinical trials through online resources, such as clinicaltrials.gov, youtube instruction videos including videos describing GCP for devices.
+11. Summarize the impact of recent adverse clinical trial events with innovative applications such as in biologics (Tegerno) and gene therapy (Gelsinger).  
+Students will also identify and describe the role of approved Risk Evaluation and Mitigation Strategies (REMS), pharmacovigilance programs and adverse drug event reporting.
+12. Identify and evaluate GLP and regulations that ensure a drug product is safe. 
+13. Examine GLP protocols, toxicology testing, including animal and human safety, and indicators for safety (irregular heartbeats in animals, etc.).
+14.  Evaluate the ethical considerations of testing, including impact of falsifying safety testing.
+15.  Analzye how GLP regulations are implemented during development and testing of devices. 
+16.  Discover how technology and innovation impact the regulatory process.
+17.  Review data integrity and compliance with cGMP.
+18.  Evaluate the role of computer systems and computer systems validation.
+19.  Assess the emerging area of predictive toxicology and the potential for testing without animals.
+20.  Evaluate and explain innovation in safety and adaptive clinical trials.
+21.  Examine innovation in CMC including quality by design and predicting the quality of manufacturing on the large scale with small scale experiments, including analytics modeling.
+22.  Discover how the global environment impacts the regulatory process.
+23.  Evaluate special considerations of implementing a generic system in the developing and third world country .
+24.  Analyze global regulatory authorities and WHO PQ process.
+25.  Examine special considerations of the regulatory process as applied to devices, diagnostics and generics.
+26.  Identify the importance of design to a device, attributes that lead to the specifications and raw materials for diagnostics and the importance of product equivalence for generics and special considerations for biologics.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Colleges:      
+
+      Graduate School
+
+      College of Pharmacy
+
+      Doctor of Pharmacy
+
+May not be enrolled as the following Classifications:      
+
+      Junior: 60 - 74 hours
+
+      Sophomore: 30 - 44 hours
+
+      Sophomore: 45 - 59 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ABE 51200 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ABE
+22600
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+ABE
+22700
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

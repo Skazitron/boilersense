@@ -1,0 +1,68 @@
+ME 52500 - Combustion
+
+Credit Hours: 3.00.  Physical and chemical aspects of basic combustion phenomena. Chemical energetics and equilibrium. Basic chemical kinetics, chain reactions, and explosions. Chain and thermal ignition. Homogeneous combustion models. Detonations and deflagrations. Laminar flame speed and flame extinction. The Shvab-Zeldovich formulation of the multicomponent conservation equations. Diffusion flames and droplet combustion. Introduction to turbulent combustion.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Mechanical Engr 
+
+Department: Mechanical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ME 52500 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ME
+30000
+
+
+Minimum Grade of 
+B
+
+May not be taken concurrently.
+)
+
+
+

@@ -1,0 +1,79 @@
+ME 57100 - Reliability Based Design
+
+Credit Hours: 3.00.  Basic concepts of probability and random variables. Time-dependent reliability models. Strength-based reliability and interference theory. Weakest-link and fail-safe systems. Extremal distributions. Monte Carlo methods. Maintainability and availability. Fault tree analysis. Quality control and reliability. Offered in alternate years. Typically offered Fall.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Indiana College Network, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Mechanical Engr 
+
+Department: Mechanical Engineering 
+
+
+Course Attributes: Dept Credit, Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Enable students to understand the importance of reliability during the design of engineered products.
+2.  Learn common probability distributions and fit probability distributions to experimentally obtained failure data.
+3.  Learn to describe and manipulate expectation and variance of continuous functions.
+4.  Understand principles of probabilistic design of engineered products.
+5.  Carryout reliability simulations of complex systems using Monte Carlo and first order reliability methods.
+6.  Understand important failure concerns in mechanical and electronic systems.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ME 35200 Course
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ME
+35200
+
+
+Minimum Grade of 
+B
+
+May not be taken concurrently.
+)
+
+
+

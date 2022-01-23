@@ -1,0 +1,130 @@
+AAE 54500 - Dynamic Behavior of Materials
+
+Credit Hours: 3.00.  Materials' responses to high-rate loading are different from their quasi-static behavior. Applications of materials in structures subjected to impact loading from events such as bird strike require the understanding of dynamic material behavior. Such high-rate materials behavior is not available in standard materials handbooks or design manuals. This course introduces stress wave propagation in solids, which is the foundation to characterization and understanding of high-rate response of materials. Then, the theoretical background and working principles of high-rate experimental methods are presented to characterize the material response under high-rate loading conditions. Finally, rate-dependent material models are introduced to describe the dynamic material behavior and deformation mechanisms.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Express local equations of motion. 
+2.  Derive one dimensional wave equations in solid materials. 
+3.  Calculate elastic wave speeds in solids with and without constraints. 
+4.  Understand and calculate local stresses as an elastic wave passes through an interface. 
+5.  Understand and predict local stress concentrations resulted in from wave interactions. 
+6.  Utilize elastic waves as loading methods and as diagnostic methods. 
+7.  Design experiments to measure dynamic behavior of materials. 
+8.  Determine dynamic yield strength of ductile materials in Taylor impact tests. 
+9.  Determine plastic wave speeds in ductile material under intensive loading. 
+10.  Understand shock wave propagation in solids. 
+11.  Understand physics and calculate shock properties of materials. 
+12.  Understand physical origins of plastic waves and shock waves. 
+13.  Understand rate-dependent material models. 
+14.  Conduct a thorough search of literature on a subject of interest. 
+15.  Understand the critical issues of the subject of interest. 
+16.  Identify research gaps in the subject of interest. 
+17.  Present effectively a summary of the literature survey. 
+
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-AAE 54500 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+AAE
+35200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ME
+32300
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CE
+23100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CE
+27000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MSE
+38200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

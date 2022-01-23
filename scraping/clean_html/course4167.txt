@@ -1,0 +1,47 @@
+ABE 30800 - Heat And Mass Transfer In Food And Biological Systems
+
+Credit Hours: 3.00.  Principles of transport of energy and mass. Mechanisms of heat transfer, heat conduction, heat convection and heat radiation. Development of applications using macroscopic and microscopic balances of energy. Application of thermal energy balances and Fourier's Law to describe steady state and transient conduction applications including heat generation. Effect of the geometry on these processes. Basic principles of design of heat transfer equipment and its operation. Application of species mass balances and Fick's Law to steady state and transient diffusion problems. Effect of geometry on these processes. Analogies between transport of momentum, heat and mass applications to the solution of practical problems in the Food Process and Biological Engineering fields.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Ag & Biological Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  An ability to apply knowledge of mathematics, science, and engineering.
+2.  An ability to design and conduct experiments, as well as to analyze and interpret data.
+3.  An ability to design a system, component, or process to meet desired needs within realistic constraints such as economic, environmental, social, political, ethical, health and safety, manufacturability, and sustainability. 
+4.  An ability to function on multidisciplinary teams. 
+5.  An ability to identify, formulate, and solve engineering problems.
+6.  Have the broad education necessary to understand the impact of engineering solutions in a global, economic, environmental, and societal context. 
+7.  A recognition of the need for, and an ability to engage in life-long learning. 
+8.  A knowledge of contemporary issues.
+9.  An ability to use the techniques, skills, and modern engineering tools necessary for engineering practice.
+ 
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  ABE 30700 Minimum Grade of D-
+
+

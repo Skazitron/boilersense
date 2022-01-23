@@ -1,0 +1,68 @@
+AAE 50700 - Principles Of Dynamics
+
+Credit Hours: 3.00.  Kinematics, fundamental laws of mechanics, constraints, and generalized coordinates. Lagrange's equations, virtual work. Application to particle dynamics, rigid body motion, and spacecraft dynamics. Knowledge of differential equations required.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR AAE 20300 Course
+
+
+General Requirements:
+
+ ( 
+Course or Test: 
+AAE
+20300
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+)
+
+
+

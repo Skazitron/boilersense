@@ -1,0 +1,43 @@
+IE 67400 - Cyber Methods For Advanced Production Control
+
+Credit Hours: 3.00. The study of the theoretical foundation and relevance of advanced cyber methods in the planning and control of intelligent production operations; manufacturing operating systems; synchronization in decentralized systems; recovery in decentralized systems; parallel processing; distributed databases; factory networks; reasoning and logic for production control. Prerequisite:  IE 57400 or 57500 or 57900. 
+
+
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Indiana College Network, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Industrial Engr 
+
+Department: Industrial Engineering 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Know theoretical foundation and relevance of advanced cyber, real-time control, computing, communication, and brain models for robotics.
+2.  Know automation of planning and decisions in distributed production and supply installations, global supply, logistics, and service systems/networks.
+3.  Know the current and emerging functions, algorithms, protocols, and models and how to apply them to research projects and presentations in the field.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

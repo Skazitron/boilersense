@@ -1,0 +1,30 @@
+IE 63400 - Integer Programming
+
+Credit Hours: 3.00.  An advanced course on theory and algorithms for integer and mixed integer optimization problems. Convergence of integer programming algorithms, dual relaxations, Benders decomposition, cutting plane theory, group theory of integer programs, and linear diophantine equations.  Prerequisite: IE 53500, 53700. Typically offered Spring.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Industrial Engr 
+
+Department: Industrial Engineering 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

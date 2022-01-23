@@ -1,0 +1,30 @@
+EAPS 65700 - Geophysical Inverse Theory
+
+Credit Hours: 3.00.  Investigates problems of determining physical parameters of the earth from remote observations of wave and potential fields. The theoretical topics include spectral and singular value decompositions, maximum likelihood and stochastic inversion, Backus and Gilbert theory, Green's function and linear operators, and the physics of layered media. Geophysical applications include seismic tomography, deconvolution, gravity and magnetics, earthquake sources, geodetics, and remote sensing. Offered in alternate years. Prior course work in advanced differential equations, physics, and chemistry of the earth is required.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Science 
+
+Department: Dept Erth Atmos & Planetry Sci 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

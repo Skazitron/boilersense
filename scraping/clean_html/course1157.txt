@@ -1,0 +1,39 @@
+AAE 56700 - Introduction To Applied Stochastic Processes
+
+Credit Hours: 3.00.  An introductory course in the concept of a discrete and continuous stochastic process based upon physical phenomena that originally gave rise to the specific stochastic models that are studies. Spectral analysis, response of time invariant systems to noise inputs. Estimation theory, Kalman and Winer filtering.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

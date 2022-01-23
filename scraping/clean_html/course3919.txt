@@ -1,0 +1,121 @@
+AT 52500 - Process Improvement And Simulation
+
+Credit Hours: 3.00.  This course explores process modeling and simulation as applied to decision-making for process design and improvement. Emphasis is placed on understanding the application of process simulations to business problems including using fundamental statistical methods in the solution of an industry relevant problem. By planning and executing a computer-based simulation supporting an aviation or aerospace process design and improvement project, students improve analysis and project management skills. In addition to simulation, preparing visualizations of the process is also included for increased understanding of process interactions.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Schl of Aviation & Transp Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1. The student will have the knowledge and skills required to plan and execute a process improvement and simulation project.
+2. The student will be able to compose and evaluate process models and simulations in terms of validity, verification, and usefulness in decision-making.
+3. The student will be proficient in Arena or another appropriate process modeling and simulation computer application, as assigned.
+4. The student will demonstrate appropriate use of process modeling techniques and data collection required to support the models.
+5. The student will prepare and present a formal report describing a process design and improvement project, the methodology used in the project, and the results.
+6. Assessment of the objectives is done by:  Student's project plan and report; Individual test scores; and Participation in discussion and collaboration with other graduate students.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Freshman: 15 - 29 hours
+
+      Junior: 75 - 89 hours
+
+      Sophomore: 45 - 59 hours
+
+      Junior: 60 - 74 hours
+
+      Freshman: 0 - 14 hours
+
+      Sophomore: 30 - 44 hours
+
+
+Prerequisites:
+
+GR-AT 52500 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+IT
+50700
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+50100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+30100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+31100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+51100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

@@ -1,0 +1,50 @@
+EAPS 31000 - Introductory Statistics For Geosciences
+
+Credit Hours: 3.00.  Introductory course in statistics and quantitative reasoning for students in geosciences. Topics covered include probability distributions of discrete and continuous random variables, simulation, confidence intervals and hypothesis tests for one and two samples, inference for regression and correlation.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Dept Erth Atmos & Planetry Sci 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand basic concepts of probability and statistics, and gain a solid basis for practical application of statistical methods in geosciences.
+2.  Obtain hands-on experience in resampling methods to handle data without having to rely on strong assumptions common in classical statistics but rarely met in geosciences.
+3.  Use statistical software to analyze data and interpret results.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Erth, Atmos Plan Sci Edu-BS
+
+      Geology Earth Science-BS
+
+      Erth, Atmos Planetary Sci-BS
+
+
+Prerequisites: 
+
+  ALEKS Math Assessment 060 or  ACT Math 24 or  SAT Mathematics 550 or Undergraduate level  MA 15800 Minimum Grade of D-
+
+

@@ -1,0 +1,53 @@
+MGMT 47800 - Experiential Project In Analytics
+
+Credit Hours: 3.00.  Most degree programs offer students an opportunity to apply the knowledge learned from their studies in an applicable area via a thesis, a research project, or capstone. This course provides such an opportunity and is designed specifically for Business Analytics & Information Management undergraduate students that will pursue analytical-type careers (e.g. Data/OR Analyst, Data Scientist, Decision Scientist, Consultant, Developer, etc.). This course is designed to polish and integrate the knowledge, skills, and abilities you have developed from your coursework by successfully developing an analytics solution with an industry partner in a structured fashion. Thus, most of your time will be devoted to working with your project teammates to provide the answers and deliverables specified by the partner over the course of many two-week sprints. Every project team will be provided with a project description, data dictionary, and access to the dataset (or directions in where to find the necessary data), as well as an NDA to read, understand, sign, and return to your professor before you can gain access to the data. These are tasks that might be required of you to perform when you work on a new project or have a new client. However, due to our short module term window, I want you to focus on understand the problem and developing the solution following INFORMS Certified Analytics Professional (CAP) Framework.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Experiential, Lecture 
+
+
+Offered By: School of Management 
+
+Department: School of Mgmt Adm & Instr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Deliver an analytics solution to a corporate partner that satisfies their needs in an agile fashion.
+2.  Practice modeling and coding.
+3.  Practice applied skills.
+4.  Practice soft skills.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Management-BSIM
+
+      Integrated Business Engr-BS
+
+      Management-BS
+
+      Accounting-BS
+
+      Economics-BS
+
+Must be enrolled in one of the following Classifications:      
+
+      Senior 105+ hours
+
+      Senior 90 - 104 hours
+
+

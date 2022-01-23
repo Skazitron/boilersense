@@ -1,0 +1,85 @@
+BME 50100 - Multivariate Analyses In Biostatistics
+
+Credit Hours: 3.00.  This course focuses on fundamental principles of multivariate statistical analyses in biostatistics, including multiple linear regression, multiple logistic regression, analysis of variance, and basic epidemiology. The fundamental theories are applied to analyze various biomedical applications ranging from laboratory data to large-scale epidemiological data.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Biomedical Engr 
+
+Department: Weldon Schl of Biomedical Engr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand fundamental concepts in multivariate regression analyses.
+2.  Translate research questions into suitable multivariate frameworks.
+3.  Design studies with appropriate statistical power.
+4.  Compute and interpret appropriate statistical estimates from multivariate analyses.
+5.  Use a major statistical software package (e.g. STATA, SAS, SPSS, and R) to perform large-size data analyses.
+
+
+
+Prerequisites:
+
+GR-BME 50100 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+35000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+STAT
+51100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+IE
+33000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

@@ -1,0 +1,50 @@
+ME 58400 - System Identification
+
+Credit Hours: 3.00.  Theory and application of System Identification methods. Connecting the world of mathematical models to experimental data - least squares methods and difference equation models. Background in probability and analysis: algebra of random variables, law of large numbers, central limit theorem. The ARMA family of models; mapping physics models to generalized ARMAX forms (linear and nonlinear); mapping the parameter estimation problem to the least squares problem (batch and recursive), and numerical solution techniques. Model (in)validation, optimal identification criteria, experiment design and data preprocessing considerations. Issues of signal to noise ratio, persistency of excitation, sampling frequency, data accuracy and data sizes. Typically offered Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Mechanical Engr 
+
+Department: Mechanical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Interpret data probabilistically and ability to calculate uncertaintly propagation.
+2.  Fit blackblox models to data; convert physics models to identifiable forms for least squares formulations.
+3.  Construction of numerical codes for solving least squares problems and use of MATLAB System ID toolbox.
+4.  Construct informative experiments for dynamic systems with suitable precision of and accuracy of sensing, data length, persistency of excitation, and sampling frequency.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

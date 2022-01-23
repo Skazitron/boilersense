@@ -1,0 +1,32 @@
+ME 68100 - Finite And Boundary Element Methods
+
+Credit Hours: 3.00.  The solution of problems in mechanical engineering using the generalized numerical techniques; the finite element method and the boundary element method. Topics include reformulation of partial differential equations into appropriate form for each method. The development and implementation of code and solution of problems. Applications include: acoustics, fluid dynamics, heat transfer, design, mechanics and biomechanics.  Prerequisite: ME 58100. Typically offered Spring.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Mechanical Engr 
+
+Department: Mechanical Engineering 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

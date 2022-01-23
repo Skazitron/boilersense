@@ -1,0 +1,43 @@
+AAE 43800 - Air-Breathing Propulsion
+
+Credit Hours: 3.00.  Basic operating principles and analysis of performance characteristics of propulsion systems for air-breathing aerospace vehicles. Ramjet, turbojet, turbofan and turboprop cycle analysis. Propeller analysis and design. Analysis of flow through inlets, combustors, nozzles, compressors, and turbines. Component matching. Not open to students with credit in ME 43800.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Determine the thrust and fuel consumption of gas turbine and turboprop engines.
+2.  Understand advantages/disadvantages of turbojet, turboprop, turbofan, and ramjet air-breathing propulsion systems.
+3.  Understand the thermodynamics of the Brayton cycle and how they contribute to overall propulsion system performance.
+4.  Understand the role and fundamental performance of gas turbine components.
+5.  Determine the basic performance and/or design of axial turbines and compressors.
+6.  Determine the basic performance of air breathing combustors.
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  AAE 33800 Minimum Grade of C- and Undergraduate level  AAE 30000 Minimum Grade of S
+
+

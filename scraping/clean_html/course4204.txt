@@ -1,0 +1,86 @@
+ABE 52700 - Computer Models In Environmental And Natural Resources Engineering
+
+Credit Hours: 3.00.  Offers students in environmental and natural resources engineering programs an understanding of the hydrological processes and related design skills. Principles of soil erosion by water; drainage of agricultural lands; surface runoff; flood and reservoir routing; hydrodynamic and water quality in pipe network; nonpoint source pollution; and transport phenomenon are studied. Current computer models utilized in industry for decision support are applied using case studies to further enhance the understanding of the hydrological processes. Limitations and advantages of the models are discussed.  Offered in alternate years.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: College of Agriculture 
+
+Department: Ag & Biological Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ABE 52700 Requisites
+
+
+General Requirements:
+
+ ( 
+Course or Test: 
+ABE
+32500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+CE
+34000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+CE
+34300
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+)
+
+
+

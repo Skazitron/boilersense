@@ -1,0 +1,46 @@
+AAE 33800 - Thermal Sciences
+
+Credit Hours: 3.00.  A fundamental course covering a range of topics selected from the disciplines of engineering thermodynamics, fluid mechanics, heat transfer and combustion, with an emphasis on their application to propulsion. This is an entry level course to prepare students for advanced analysis of propulsion and energy systems. Upon completion of this course, students are expected to be able to apply fundamental principles to perform thermodynamic analysis for thermophysical problems involving fluid flow, heat transfer and combustion.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Identify types of problems from thermo-fluid systems.
+2.  Perform heat conduction analysis for steady and unsteady problems.
+3.  Perform analysis for radiation heat transfer.
+4.  Develop deeper understanding of the laws of thermodynamics and their applications to various problems.
+5.  Apply fundamentals of fluid mechanics to various fluid flow problems.
+6.  Analyze convection heat transfer problems.
+7.  Conduct analysis of simple combustion systems such as adiabatic or chemical equilibrium.
+8.  Analyze simple thermo-fluid systems using fundamentals we learn from the class
+
+
+
+
+
+Prerequisites: 
+
+ Undergraduate level  ME 20000 Minimum Grade of D- and Undergraduate level  AAE 20000 Minimum Grade of S and Undergraduate level  AAE 33400 Minimum Grade of D- [may be taken concurrently]
+
+

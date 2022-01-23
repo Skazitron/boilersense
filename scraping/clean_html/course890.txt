@@ -1,0 +1,78 @@
+IE 58800 - e-Work And e-Service
+
+Credit Hours: 3.00.  e-Work is defined as the collaborative, computer-and-communication-supported work in highly distributed organizations of humans/robots/autonomous systems. This course is devoted to learning the basic principles, theories, and applications for the design of effective e-Work and e-Service systems. Relevant discoveries at Purdue and elsewhere are also presented.  Typically offered Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Industrial Engr 
+
+Department: Industrial Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand fully the theory and design principles of collaborative e-Work and e-Service systems.
+2.  Model correctly workflow, protocols and agents for e-Work and e-Service systems.
+3.  Design, specify, evaluate and optimize e-Work and e-Service applications correctly.
+4.  Discuss benefits, limitations, and emerging trends of e-Work and e-Service systems critically and correctly.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-IE 58800 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+IE
+33200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

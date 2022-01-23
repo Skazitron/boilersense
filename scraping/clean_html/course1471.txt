@@ -1,0 +1,96 @@
+MGMT 41310 - Financial Data Analysis And Modeling
+
+Credit Hours: 3.00.  In the business world today, finance professionals are going to be given opportunities to analyze and model data. The objective of MGMT 41310 is to give students opportunities to work with financial data sets to ask and answer real questions that businesses have. In this course, students will use several data analysis software packages including R.  Additionally, the course will include extensive application of Excel tools for Financial Modeling. Typically offered Fall.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Management 
+
+Department: School of Mgmt Adm & Instr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand how to set up, perform financial analysis, as well as work in teams on complex assignments.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      Accounting
+
+      Actuarial Science
+
+      Actuarial Science Honors
+
+      Economics Honors
+
+      Economics
+
+      Finance
+
+      General Management
+
+      Hospitality & Tourism Mgmt
+
+      IM/Analytical Consulting
+
+      IM/Computer Science
+
+      IM/Data Analytics
+
+      IM/Economics
+
+      IM/Economics Honors
+
+      IM/Engineering
+
+      IM/Financial Engineering
+
+      IM/Mgmt Info Systems
+
+      IM/Manufac & Svc Operations
+
+      IM/Operations Management
+
+      IM/Quantitative Methods
+
+      IM/Science
+
+      IM/Sci, Tech, Engr & Math
+
+      Industrial Management
+
+      Management
+
+      Marketing
+
+      IM/Oper & Supply Chain Mgmt
+
+      Supply Chain Info & Analytics
+
+      Strategy & Organiz Mgmt
+
+
+Prerequisites: 
+
+ Undergraduate level  MGMT 31000 Minimum Grade of C- and Undergraduate level  CS 23500 Minimum Grade of C-
+
+

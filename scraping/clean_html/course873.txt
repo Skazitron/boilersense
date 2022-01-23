@@ -1,0 +1,124 @@
+IE 54100 - Nature-Inspired Computation
+
+Credit Hours: 3.00.  This course is about algorithms that are inspired by naturally occurring phenomena and applying them to optimization, design and learning problems. The focus is on the process of abstracting algorithms from the observed phenomenon, their outcome analysis and comparison as well as their "science". This will be done primarily through the lens of evolutionary computation, swarm intelligence (ant colony and particle-based methods) and neural networks. Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Industrial Engr 
+
+Department: Industrial Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Describe the natural phenomena that motivate the discussed algorithms.
+2.  Understand the strengths, weaknesses and appropriateness of nature-inspired algorithms.
+3.  Apply nature-inspired algorithms to optimization, design and learning problems.
+4.  Understand fundamental concepts of NP-hardness and computational complexity.
+5.  Prove algorithm convergence rates using probabilistic arguments.
+6.  Perform appropriate analyses on and between the outputs of stochastic algorithms.
+7.  Analyze search space structure using statistical and information theoretic measures and explain its impact on algorithm behavior and output.
+
+
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+Must be enrolled in one of the following Classifications:      
+
+      Senior 105+ hours
+
+      Senior 90 - 104 hours
+
+      Junior: 60 - 74 hours
+
+      Junior: 75 - 89 hours
+
+
+Prerequisites:
+
+GR-IE 54100 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CS
+15900
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CS
+15800
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CS
+18000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )and( 
+Course or Test: 
+IE
+33000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+IE
+33500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

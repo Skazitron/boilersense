@@ -1,0 +1,74 @@
+ME 57500 - Theory And Design Of Control Systems
+
+Credit Hours: 3.00.  Covers the analysis and design of control systems from both a classical and modern viewpoint, with emphasis on design of controllers. Classical control design is reviewed, including both root locus and Bode domain design methodologies. The state space representation is introduced, along with notions of stability, controllability, and observability. State feedback controllers for pole placement and state observers are discussed with emphasis in their frequency domain implications. Typically offered Fall.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Indiana College Network, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Mechanical Engr 
+
+Department: Mechanical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      PU Fort Wayne
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ME 57500 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ME
+47500
+
+
+Minimum Grade of 
+B
+
+May not be taken concurrently.
+)
+
+
+

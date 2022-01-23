@@ -1,0 +1,39 @@
+EAPS 53500 - Atmospheric Observations And Measurements
+
+Credit Hours: 3.00.  A course that introduces students to direct and remotely sensed observations of the atmosphere. Directly measured quantities discussed include temperature, pressure, moisture, wind, solar radiation, chemical properties of the atmosphere, etc. Remote sensing of cloud, precipitation, and air motion by weather radars, satellites, profilers, lidars, and other emerging technologies is reviewed. Students will gain experience in observation techniques and data interpretation, and will learn uncertainty and error assessment. Prior course work in atmospheric science and statistics is required.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Laboratory, Lecture, Lab 1 
+
+
+Offered By: College of Science 
+
+Department: Dept Erth Atmos & Planetry Sci 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

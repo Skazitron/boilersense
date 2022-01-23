@@ -1,0 +1,35 @@
+IE 47200 - Imagine, Model, Make
+
+Credit Hours: 3.00.  This course develops a holistic view of an initial competency in engineering design by conceiving, designing, manufacturing, and optimizing a system component such as a complex structural part. Activities include hand sketching, CAD modeling, and operation of CNC machining equipment for rapid prototyping. Tolerance requirements will be verified and optimized prior to the fabrication of the part in the laboratory using rapid prototyping techniques. The focus is on the design process itself as well as the complementary roles of human creativity and computational methods and tools. Typically offered Fall.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Industrial Engr 
+
+Department: Industrial Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Create any object using 3D CAD design software (modeling, texturing, and animation).
+2.  Evaluate and optimize 3D designs for different manufacturing processes and materials.
+3.  Apply the principles of engineering tolerance to 3D CAD design.
+4.  Use rapid prototyping techniques (laser cutting, laser engraving, injection molding, and 3D printing) to manufacture 3D CAD designs.
+
+
+

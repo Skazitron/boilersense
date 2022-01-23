@@ -1,0 +1,30 @@
+CHM 62400 - Particle Spectroscopy
+
+Credit Hours: 3.00.  Introduction to the application of ion and electron beams in the chemical analysis of gases and of surfaces. Emphasis is on the unity of the phenomena that underlie the preparation, manipulation, and analysis of ion and electron beams and on the analogies between inelastic reactions of ions and electrons, including those with both gaseous and solid targets. Mass spectrometry is covered in some depth, and a number of newer aspects of particle spectroscopy are treated, including ion scattering spectrometry, Rutherford scattering, energy loss spectrometry (ion and electron), ion kinetic energy spectrometry, ion cyclotron resonance and Auger spectrometry. Applications of these techniques feature structural analysis (compositions of mixtures, molecular structure of organics, electronic state assignment in simple ions), chemical preparations (ion implantation), and isotopic analysis. The underlying chemistry is explored, particularly in considering the kinetics and dynamics of unimolecular fragmentation and in terms of the factors that affect the cross-sections of inelastic collisions. Offered in alternate years. Prerequisite: CHM 42400.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Science 
+
+Department: Chemistry 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

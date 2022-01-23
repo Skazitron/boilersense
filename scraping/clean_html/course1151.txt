@@ -1,0 +1,66 @@
+AAE 55600 - Aeroelasticity
+
+Credit Hours: 3.00.  The study of the effect of aerodynamic forces of flexible aircraft. Static aeroelastic problems; control effectiveness; lift effectiveness; divergence. Dynamic aeroelasticity; classical flutter; an introduction to stability augmentation with controls. A review of standard and modern numerical solution techniques; the k-method, the British or p-k method.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-AAE 34000 Course
+
+
+General Requirements:
+
+ ( 
+Course or Test: 
+AAE
+34000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+)
+
+
+

@@ -1,0 +1,87 @@
+AAE 51100 - Introduction To Fluid Mechanics
+
+Credit Hours: 3.00.  The basic conservation equations are derived for a compressible viscous fluid, and then are specialized for applications in potential flow, viscous flow, and gas dynamics.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Use index notation to derive vector and tensor relations.
+2.  Manipulate and derive governing equations in various forms.
+3.  Determine streamlines, pathlines, streaklines and timelines for unsteady flow.
+4.  Determine how vorticity is produced by various mechanisms.
+5.  Determine the motion of two-dimensional point vortices.
+6.  Use conformal mapping to find the lift coefficient on an airfoil shape.
+7.  Use a Schwarz-Christoffel transformation to solve for potential flow with corners.
+8.  Use three-dimensional potential flow to solve for flow over axisymmetric bodies.
+9.  Solve for steady and unsteady exact solutions of the Navier-Stokes equations.
+10.  Derive and use the Stokes drag law for a sphere.
+11.  Derive boundary layer equations, find self-similar solutions and determine scaling laws.
+12.  Compute skin friction on an airfoil using an approximate boundary layer method.
+13.  Determine the qualitative effects of turbulence on a flow.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR AAE 33300 Course
+
+
+General Requirements:
+
+ ( 
+Course or Test: 
+AAE
+33300
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+)
+
+
+

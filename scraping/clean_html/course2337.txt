@@ -1,0 +1,43 @@
+ME 65000 - Computational Fracture Mechanics
+
+Credit Hours: 3.00.  Advanced concepts of methods for the analysis of cracks, of crack propagation and damage evolution. Prediction of the macroscopic behavior of structures as it emerges from the presence of defects such as cracks, voids, or delamination. Linear elastic and nonlinear fracture problems. Rate independent and rate dependent problems. Methods in computational fracture mechanics where material separation emerges as an outcome of the boundary value problem. Demonstrations of how mechanical design can take advantage of the methods of computational fracture mechanics by introducing such concepts into structural analyses. Applications of computations in predictive analysis and its importance in simulation- based engineering. Prerequisites: AAE 55800 or ME 48900, or similar courses in finite element analysis or ME 57000 or ME 61200 or AAE 55300, or similar courses on advanced solid mechanics. Recommended but not required: CEE 597-109 or AAE 65400. Typically offered Spring.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Mechanical Engr 
+
+Department: Mechanical Engineering 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Introduce concepts of computational methods for material damage, fracture and fatigue.
+2.  Learn continuum mechanics concepts for description of material failure.
+3.  Learn about advanced constitutive equations for bulk and interface failure.
+4.  Learn how model material failure processes.
+5.  Learn how to develop and apply computational mechanics methods.
+6.  Apply these concepts to analysis of failure at the macro, micro and Nano scale.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

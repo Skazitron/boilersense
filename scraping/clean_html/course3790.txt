@@ -1,0 +1,43 @@
+AT 20900 - Civilian Unmanned Aerial Systems
+
+Credit Hours: 3.00.  This course introduces fundamental concepts of unmanned aerial vehicles. Topics include: history, airframe and powerplant selection, regulations governing unmanned systems, airspace descriptions, safety, autonomous system programming and calibration, data package options, weather, system maintenance and repair, manual flight training, first person viewer flight (FPV), flight simulator use, as well as aerodynamics and flight controls for autonomous aircraft.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Schl of Aviation & Transp Tech 
+
+
+Course Attributes: Credit By Exam, Dept Credit, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Explain flight controls, aerodynamics, and flight maneuvers of various aircraft.
+2.  Demonstrate manual and simulated flight control of fixed wing and rotorcraft UASs.
+3.  Identify weather conditions and explain effect on flight.
+4.  Explain regulations governing unmanned flight operations.
+5.  Identify various construction techniques used on UAVs.
+6.  Identify components and functions of manual and autonomous flight control systems.
+
+
+
+
+Prerequisites: 
+
+ (Undergraduate level  AT 11900 Minimum Grade of D- or Undergraduate level  AT 11901 Minimum Grade of D-) and (Undergraduate level  AT 10600 Minimum Grade of D- or Undergraduate level  AT 11600 Minimum Grade of D-)
+
+

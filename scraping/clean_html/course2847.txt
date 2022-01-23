@@ -1,0 +1,48 @@
+CS 19300 - Tools
+
+Credit Hours: 1.00.  This course is designed to introduce new Computer Science students to various programming tools which will aid them in their Computer Science classes, personal projects, and software development job experiences.
+
+    0.000 OR     1.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture, Practice Study Observation, Recitation 
+
+
+Offered By: College of Science 
+
+Department: Computer Science 
+
+
+Course Attributes: Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand Unix/Linux commands for navigating directories and files and manipulating files and folders.
+2.  Understand terminal commands for searching and input/output redirection.
+3.  Understand shells such as sh, csh, ksh, tcsh, bash, zsh.
+4.  Understand debugging via print statements and general debugger concepts.
+5.  Understand version control via Git and Github, source control, workflow, commit, collaboration, pull, push, create and pushing a new repository, cloning, branches, merging, and conflicts.
+6.  Understand vim including mouseless navigation, normal/insert mode, copy/paste, search/replace, and saving/quitting.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Majors:      
+
+      Computer Science
+
+      Computer Science Honors
+
+      Data Science First Year
+
+

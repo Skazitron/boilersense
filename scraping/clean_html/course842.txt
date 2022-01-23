@@ -1,0 +1,31 @@
+IE 33600 - Operations Research - Stochastic Models
+
+Credit Hours: 3.00.  Introduction to probabilistic models in operations research. Emphasis on Markov chains, Poisson processes, and their application to queuing systems. Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Industrial Engr 
+
+Department: Industrial Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Prerequisites: 
+
+ Undergraduate level  IE 23000 Minimum Grade of D- and (   (Undergraduate level  MA 26500 Minimum Grade of D- and Undergraduate level  MA 36600 Minimum Grade of D- [may be taken concurrently]) or (Undergraduate level  MA 26500 Minimum Grade of D- and Undergraduate level  MA 26600 Minimum Grade of D- [may be taken concurrently]) or (Undergraduate level  MA 35100 Minimum Grade of D- and Undergraduate level  MA 36600 Minimum Grade of D- [may be taken concurrently]) or (Undergraduate level  MA 35100 Minimum Grade of D- and Undergraduate level  MA 26600 Minimum Grade of D- [may be taken concurrently]) or (Undergraduate level  MA 26200 Minimum Grade of D- and Undergraduate level  MA 30300 Minimum Grade of D- [may be taken concurrently]) or (Undergraduate level  MA 26200 Minimum Grade of D- and Undergraduate level  MA 35100 Minimum Grade of D- [may be taken concurrently])   )
+
+

@@ -1,0 +1,79 @@
+AT 54400 - Aircraft Lifecycle Management Innovations
+
+Credit Hours: 3.00.  This course explores sustainability as applied to aviation and aerospace industries and agencies, both in the private sector and public sector. Students improve analysis skills, and knowledge of the reasoning and application of sustainability. Emphasis is placed on understanding the global and national policies that lead to the regulations and practices in aviation and aerospace. Using a balanced scorecard and a triple bottom line approach, students will develop a project using aviation and aerospace publications to analyze an industry-relevant project using sustainability in the analysis.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Schl of Aviation & Transp Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Analyze and identify relational components of a complex high technology data architecture using the FAA's Next Generation Air Transportation System (NextGen) construct; create and deploy a small scale aircraft maintenance data management system.
+2.  Create visual process and data flow maps documenting current and future system and technology constructs within aircraft Maintenance Repair and Overhaul (MRO), its complexity and role in the support of a product/asset's in-service lifecycle.
+3.  Conceptualize and explain complex data system structures, the role of systems thinking and technical data needs, and their role in "NextGen" product/asset MRO sustainability.
+4.  Analyze and identify specific technical data content and delivery needs of the maintainer, within a NextGen, network-enabled work environment for large aircraft.
+5.  Present and defend a formal report describing a maintenance operations design and improvement project, the methodology used in the project, and the results.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-AT 54400 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+AT
+54000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

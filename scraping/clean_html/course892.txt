@@ -1,0 +1,30 @@
+IE 63000 - Multiple Objective Optimization
+
+Credit Hours: 3.00.  Theory and applications of multiple objective optimization and multiple criteria decision making. Existence and specification of single and multiple attributive value and utility functions. Risk aversion. Characterization and generation of efficient (Pareto optimal) solutions to vector optimization problems. Domination cones. Interactive algorithms.  Prerequisite: IE 53500. Typically offered Spring.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Industrial Engr 
+
+Department: Industrial Engineering 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

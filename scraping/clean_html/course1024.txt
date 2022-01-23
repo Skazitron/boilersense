@@ -1,0 +1,48 @@
+EAPS 58000 - Geodynamics
+
+Credit Hours: 3.00.  This course will provide students with a first order understanding of geophysical processes by developing analytical solutions to a variety of geophysical and planetary thermo-mechanical problems. Topics will include stress and strain, rheology, elasticity and flexure, faulting, and conductive heat transfer, and fluid mechanics.  We will develop governing analytical equations based on first order principles, such as the conservation of mass, energy, and momentum, and solve these equations for a number of boundary conditions.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Science 
+
+Department: Dept Erth Atmos & Planetry Sci 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Solve first-order analytical thermo-mechanical problems in geophysics and planetary science.
+2.  Understand the basis for more complex numerical solutions of thermo-mechanical problems in geophysics and planetary science.
+3.  Investigate the factors that control a variety of thermo-mechanical geophysical and planetary processes.
+
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

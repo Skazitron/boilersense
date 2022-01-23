@@ -1,0 +1,43 @@
+AAE 56100 - Introduction To Convex Optimization
+
+Credit Hours: 3.00.  (IE 56100) Introduction to convex analysis, convex optimization problems, algorithms of convex optimization and measures of their complexity, and application of convex optimization in aerospace engineering. Recognition of convex optimization problems that arise in scientific and engineering applications. Introduction to software tools to solve convex optimization problems.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand the basics of convex analysis and convex optimization problems.
+2.  Understand and develop algorithms for convex optimization and measures of their capacity.
+3.  Apply convex optimization to solve engineering problems.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

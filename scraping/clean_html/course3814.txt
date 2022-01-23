@@ -1,0 +1,35 @@
+AT 28600 - National Airspace Systems Operations
+
+Credit Hours: 3.00.  An introduction to the technical procedures involved in operating unmanned Aerial Systems in the air traffic control system. Flight operations and procedures will be covered. Weather theory and flight regulations as they apply to UAS operations will also be discussed.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: Polytechnic Institute 
+
+Department: Schl of Aviation & Transp Tech 
+
+
+Course Attributes: Credit By Exam, Dept Credit, Lower Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Demonstrate operation of a UAS simulator.
+2.  Understand and apply appropriate federal aviation regulations as they apply to UAS operations.
+3.  Understand the principles of flight and flight control as they apply to UAS vehicles.
+
+
+
+

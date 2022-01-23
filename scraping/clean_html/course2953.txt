@@ -1,0 +1,31 @@
+CS 48300 - Introduction To The Theory Of Computation
+
+Credit Hours: 3.00.  Turing machines and the Church-Turing thesis; decidability; halting problem; reducibility; undecidable problems; decidability of logical theories; Kolmogorov complexity; time classes; P, NP, NP-complete; space classes; Savitch's theorem, PSPACE-completeness, NL-completeness; hierarchy theorems; approximation theorems; probabilistic algorithms; applications of complexity to parallel computation and cryptography.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Computer Science 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Prerequisites: 
+
+ Undergraduate level  CS 38100 Minimum Grade of C
+
+

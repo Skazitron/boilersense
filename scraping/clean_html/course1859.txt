@@ -1,0 +1,262 @@
+ENGT 48000 - Engineering Technology Capstone I
+
+Credit Hours: 3.00.  This is the first course of a two-term senior capstone sequence. The skills needed to define, design and develop engineering technology solutions are introduced and developed. Planning and designing alternatives that meet cost, performance, and user-interface goals are emphasized. Project planning, scheduling, and management techniques are studied. Different design approaches are compared. Teamwork, global and societal concerns, and professional ethics are integrated into course projects. Typically offered Fall Spring Summer.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture, Travel Time 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Kokomo
+
+      Lafayette
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+      Vincennes
+
+
+Learning Outcomes: 
+1.  Apply the engineering design process to engineering technology problems.
+2.  Evaluate customer needs when defining a solution.
+3.  Determine a preferred solution.
+4.  Define and develop a plan for implementing a technical solution.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Electrical Engr Tech-BS
+
+      Industrial Engineering Tech-BS
+
+      Mfg Engineering Technology-BS
+
+      Engineering Technology-BS
+
+      Industrial Engineering Tech-BS
+
+      Mech Engr Tech-BS
+
+Must be enrolled in one of the following Classifications:      
+
+      Senior 90 - 104 hours
+
+      Senior 105+ hours
+
+      Junior: 75 - 89 hours
+
+
+Prerequisites:
+
+ENGT 48000 Prerequisites
+
+
+General Requirements:
+
+ ( 
+Course or Test: 
+MFET
+37400
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Rule: 3: ECET27000&TECH32000&6crECET  for a total of 3 conditions
+)
+
+ECET
+27000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+ECET
+30000
+ to 
+49999
+
+Required Credits: 
+        6.000
+
+May not be taken concurrently.
+
+TECH
+32000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+End of rule 3
+
+or
+Rule: 2: MET10200&23000&28400&34600  for a total of 4 conditions
+
+MET
+10200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+MET
+23000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+MET
+28400
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+MET
+34600
+
+
+Minimum Grade of 
+D-
+
+May be taken concurrently.
+End of rule 2
+
+or
+Rule: 4: ECET27000&ECET38001&6crECET  for a total of 3 conditions
+
+ECET
+27000
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+ECET
+30000
+ to 
+49999
+
+Required Credits: 
+        6.000
+
+May not be taken concurrently.
+
+ECET
+38001
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+End of rule 4
+
+or
+Rule: 5: MET24500&IET43530&IET43640  for a total of 3 conditions
+
+IET
+43530
+
+
+Minimum Grade of 
+D-
+
+May be taken concurrently.
+
+IET
+43640
+
+
+Minimum Grade of 
+D-
+
+May be taken concurrently.
+
+MET
+24500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+End of rule 5
+
+or
+Rule: 6: MET24500&TLI43530&TLI43640  for a total of 3 conditions
+
+MET
+24500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+
+TLI
+43530
+
+
+Minimum Grade of 
+D-
+
+May be taken concurrently.
+
+TLI
+43640
+
+
+Minimum Grade of 
+D-
+
+May be taken concurrently.
+End of rule 6
+
+
+

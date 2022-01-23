@@ -1,0 +1,34 @@
+ME 60800 - Numerical Methods In Heat, Mass, And Momentum Transfer
+
+Credit Hours: 3.00.  Governing conservation equations and their classification according to numerical properties. Discretization by Taylor series, weighted residual, and control volume methods. Solution of systems of algebraic equations. Discretization and solution of the convection-diffusion equation. Methods of solving the equations governing fluid flow. Mathematical modeling of turbulence, combustion, and radiation. Prerequisite: ME 50500, 58100. Typically offered Spring.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Mechanical Engr 
+
+Department: Mechanical Engineering 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      IUPUI
+
+      West Lafayette
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

@@ -1,0 +1,53 @@
+MGMT 47300 - Data Mining
+
+Credit Hours: 3.00.  Students follow a structured analytical process using popular industry tools (e.g., RStudio, Tableau, SQL) to identify, visualize, and summarize relationships within large data sets to support business problems. More focus is on descriptive analytics which includes business segmentation and clustering methods, but also introduces two predictive analytic methods, decision trees, and neural networks. Typically offered Fall.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Management 
+
+Department: School of Mgmt Adm & Instr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Demonstrate working knowledge of relationship databases, SQL queries, and efficient sampling.
+2.  Demonstrate working knowledge of RStudio to perform EDA, visualization, and data mining techniques.
+3.  Demonstrate working knowledge of data visualization and exploration using Tableau.
+4.  Demonstrate practical understanding of popular unsupervised and supervised learning methods.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Management-BSIM
+
+      Management-BS
+
+      Accounting-BS
+
+      Economics-BS
+
+
+Prerequisites: 
+
+ Undergraduate level  MGMT 30500 Minimum Grade of C- or Undergraduate level  STAT 35000 Minimum Grade of C- or Undergraduate level  STAT 41600 Minimum Grade of C- or Undergraduate level  STAT 50100 Minimum Grade of C- or Undergraduate level  STAT 51100 Minimum Grade of C-
+
+

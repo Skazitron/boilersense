@@ -1,0 +1,68 @@
+ME 57600 - Computer Control Of Manufacturing Processes
+
+Credit Hours: 3.00.  Fundamental elements for manufacturing process control are presented with advanced control theories, modeling and analysis of actuators, controller architecture, interfacing and programming. Emphasis is on computer integrated manufacturing with computer numerical control of machine tools, automation via programmable logic controllers, motion control, process control examples, and manufacturing process monitoring. Hands-on experience is attained through laboratory experiments with state-of-the-art equipment. Typically offered Spring.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: School of Mechanical Engr 
+
+Department: Mechanical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ME 37500 Course
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ME
+37500
+
+
+Minimum Grade of 
+B
+
+May not be taken concurrently.
+)
+
+
+

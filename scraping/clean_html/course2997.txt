@@ -1,0 +1,44 @@
+CS 53500 - Interactive Computer Graphics
+
+Credit Hours: 3.00.  (ME 57300) The principles of computer graphics and interactive graphical methods for problem solving. Emphasis placed on both development and use of graphical tools for various display devices. Several classes of graphics hardware considered in detail. Topics include pen plotting, storage tubes, refresh, dynamic techniques, three dimensions, color, modeling of geometry, and hidden surface removal. Part of the laboratory involves use of an interactive minicomputer graphics system. Knowledge of programming required.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Computer Science 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Learn the algorithms underlying the interactive graphics pipeline, inlcuding algorithms for geometric modeling, projection, rasterization, shading, lighting, texture mapping, projective texture mapping, shadow mapping, and environment mapping.
+2.  Gain experience implementating the interactive graphics pipeline through projects.
+3.  Gain initial experience programming Graphics Processing units through shaders.
+4.  Learn and implement algorithms for advanced rendering techniques.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

@@ -1,0 +1,90 @@
+ENGT 58300 - Applied Engineering Statistics For Industry
+
+Credit Hours: 3.00.  The purpose of this course is to teach the practitioner how to use and make better informed decisions as a manager for making optimum process, business, or personnel decisions. Emphasis will be placed on Verification, Validation in R&D, Manufacturing, QA/QC, basic probability, Summarizing Data, Basic Tools (flowcharts, fishbone diagrams, Pareto charts), Process Capability - Cp/Cpk. Upper and lower control limits/charts, Use of Control Charts for Continual Improvement, Six Sigma, Design of Experiments, Taguchi Methodology and Data Analytics will also be covered. Typically offered Fall Spring Summer.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Individual Study 
+
+
+Offered By: Polytechnic Institute 
+
+Department: School of Engineering Tech 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      PU Fort Wayne
+
+      West Lafayette
+
+      Anderson
+
+      Columbus
+
+      Dual Campus
+
+      Indianapolis
+
+      Elkhart
+
+      Greensburg
+
+      Kokomo
+
+      Lafayette
+
+      Muncie
+
+      New Albany
+
+      Richmond
+
+      South Bend
+
+      Statewide
+
+      Vincennes
+
+      Versailles
+
+
+Learning Outcomes: 
+1.   Demonstrate the importance of the Central Limit Theorem and its application.
+2.   Evaluate the capability of a process using the process capability index (CPI).
+3.   Analyze variation reduction in relation to process capability and design of experiments.
+4.   Articulate how single-piece flow, standard work, and continuous improvement processes enable variation reduction.
+5.   Determine the expected number of defects from a given process.
+6.   Explain the statistical meaning of Six Sigma.
+7.   Differentiate between Type I and Type II errors.
+8.   Calculate the sample size based on specified Type I and Type II Error.
+9.   Calculate a confidence interval.
+10. Define direct run rate I first time through and its calculation.
+11. Develop a hypothesis test.
+12. Calculate regression and correlation of data and distinguish between correlation and causation.
+13. Select and evaluate the test statistic for different kinds of hypothesis tests and make statistical inference decisions.
+14. Construct and evaluate an ANOVA table and make statistical inference decisions.
+15. Differentiate among different types of experimental designs and design an experiment.
+16. Demonstrate the Taguchi quality loss function and how to make quality loss calculations.
+17. Classify the procedural errors that can occur in experimental design, such as confirmation bias.
+18. Explain data mining and Big Data and their role in the future of experimental design.
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+

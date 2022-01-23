@@ -1,0 +1,68 @@
+IE 57900 - Design And Control Of Production And Manufacturing Systems
+
+Credit Hours: 3.00.  Design and control of discrete part manufacturing systems in contemporary production environments, with emphasis on flexible, demand-driven, product-based manufacturing. Currently used planning and control methodologies, such as MRP, OPT, and JIT are reviewed and integrated with appropriate facility design methodologies, including cellular design algorithms. Introduction to Computer Integrated Manufacturing (CIM) architecture and reference models and relevant control procedures, including basis approaches to appropriate data management methodologies. Typically offered Fall Spring.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Industrial Engr 
+
+Department: Industrial Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-IE 38300 Course
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+IE
+38300
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

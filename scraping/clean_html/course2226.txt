@@ -1,0 +1,85 @@
+ME 50900 - Intermediate Fluid Mechanics
+
+Credit Hours: 3.00.  Fluid properties. Basic laws for a control volume. Kinematics of fluid flow. Dynamics of frictionless incompressible flow and basic hydrodynamics. Equations of motion for viscous flow, viscous flow applications, boundary layer theory. Wall turbulence, lift and drag of immersed bodies.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Indiana College Network, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Mechanical Engr 
+
+Department: Mechanical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      PU Fort Wayne
+
+      IUPUI
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1. State basic laws for a control volume in different coordinate systems. 
+2. Derive the kinematics of fluid flow in problem solving.
+3. Derive the equations for frictionless and incompressible flows. 
+4. Derive the basic equations of motion of viscous flows.
+5. Find standard exact solutions of viscous-flow equations and apply them. 
+6. Derive and solve basic equations of boundary-layer theory.
+7. Find lift and drag forces on immersed bodies with simple shapes. 
+8. Understand concepts of incompressible turbulent flows and wall turbulence.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ME 30900 Course
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ME
+30900
+
+
+Minimum Grade of 
+B
+
+May not be taken concurrently.
+)
+
+
+

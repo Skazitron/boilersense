@@ -1,0 +1,59 @@
+MGMT 58200 - Management Of Organizational Data
+
+Credit Hours: 2.00.  Provides the basic concepts and skills needed to analyze and organize business data, as well as to utilize the organized data to answer a variety of business queries. After successful completion, students will have an understanding of why database management is important and what it entails, how to analyze the data requirements of a business scenario and represent these requirements by means of entity-relationship (ER) diagrams, translate an ER diagram into normalized relations for a relational database management system, write simple and relatively complex data retrieval commands in the SQL language for an Oracle database, use Microsoft Access as a front end to a server database in Oracle, be familiar with several selected topics of current interest in the data management arena. Typically offered Fall Spring.
+
+    2.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Management 
+
+Department: School of Mgmt Adm & Instr 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Management-MS
+
+      Org Behav HR Mgmt-PHD
+
+      Management-PHD
+
+      Org Behav and HR Mgmt-MS
+
+      Management-MBA
+
+      Management-MSIA
+
+Must be enrolled in one of the following Levels:      
+
+      Graduate
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+

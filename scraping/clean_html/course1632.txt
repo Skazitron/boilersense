@@ -1,0 +1,44 @@
+MGMT 63350 - Accounting Data Analytics
+
+Credit Hours: 2.00 or 3.00.  The skillset that accountants have needed to perform math and to keep order has evolved from pencil and paper, to calculators, and then to spreadsheets and accounting software. A new skillset that is becoming more important for nearly every aspect of business is that of big data analytics: managing large amounts of data in the database, analyzing them and finding actionable insights and visualizing the results. This course is designed to help accounting students develop an analytical mindset and prepare them to use data analytic programming languages and softwares like python, SQL, and Tableau. Typically offered Fall Spring Summer.
+
+    2.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Management 
+
+Department: School of Mgmt Adm & Instr 
+
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Understand the basic syntax and semantics of the Python language.
+2.  Understand the primitive data types build into Python.
+3.  Understand the key data visualization principles and techniques.
+4.  Apply data visualization principles and techniques to real-world business problems.
+5.  Critically evaluate the design and presentation of complex data or concept.
+6.  Design innovative static and interactive visualizations to effectively present information and enable data exploration.
+7.  Analyze a business situation to determine information management needs.
+8.  Design a database to address those needs.
+9.  Write SQL queries to retrieve information from a relational database.
+
+
+Restrictions:
+
+Must be enrolled in one of the following Programs:      
+
+      Management-MS
+
+

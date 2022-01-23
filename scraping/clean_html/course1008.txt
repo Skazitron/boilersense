@@ -1,0 +1,111 @@
+EAPS 53000 - Extreme Weather And Climate: Science And Risk
+
+Credit Hours: 3.00.  Trains students in the analysis of risk due to meteorological hazards, including climate change. Focus on integrating the basics of probability theory, including calculation of hazard return periods and exceedance curves, with the fundamental physics of meteorological hazards. Hazards may include hurricanes, tornadoes, and floods.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Lecture 
+
+
+Offered By: College of Science 
+
+Department: Dept Erth Atmos & Planetry Sci 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Explain the meaning of "risk" (probability).
+2.  Evaluate how physics and data may be used to model risk.
+3.  Describe the essential physics of specific meteorological hazards (e.g. tropical cyclones).
+4.  Apply probability theory to develop probability models.
+5.  Integrate simple physical principles into a probability model.
+6.  Exploit R coding environment to analyze data and model probability.
+7.  Devise a novel research topic, hypothesis, and methodology for its analysis.
+8.  Analyze and critique journal articles.
+9.  Summarize primary research results in a succinct technical report.
+10.  Summarize primary research results in a succinct and compelling oral presentation.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR EAPS 53000 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CS
+15800
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+EAPS
+22500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+and
+Course or Test: 
+MA
+26100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+CS
+17700
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

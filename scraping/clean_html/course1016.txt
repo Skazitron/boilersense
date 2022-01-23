@@ -1,0 +1,108 @@
+EAPS 54100 - Geodetic Data And Applications
+
+Credit Hours: 3.00.  This course will provide students with hands-on experience in the selection, processing, and analysis of geodetic data sets, particularly InSAR and GPS. Students will learn how to select data, evaluate its strengths and weaknesses, process and analyze the data, and apply it to the investigation of geological problems.
+
+    0.000 OR     3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Laboratory, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Dept Erth Atmos & Planetry Sci 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Explain essential theory behind processing geodetic data.
+2.  Describe various processing parameters and how they influence data analysis.
+3.  Evaluate quality of various datasets and determine most appropriate analysis strategies for desired application.
+4.  Interpret analyzed datasets in the context of geological problems.
+5.  Judge whether models fit data and if model parameters are compatible with available non-geodetic data sources.
+6.  Devise an original research project topic and develop hypothesis and a methodology for its evaluation.
+7.  Summarize main research results in a clear, concise manner in both written and oral form.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR EAPS 54100 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+26200
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+26500
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+35100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+MA
+51100
+
+
+Minimum Grade of 
+D-
+
+May not be taken concurrently.
+)
+
+
+

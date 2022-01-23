@@ -1,0 +1,89 @@
+ME 50500 - Intermediate Heat Transfer
+
+Credit Hours: 3.00.  Heat and mass transfer by diffusion in one-dimensional, two-dimensional, transient, periodic, and phase change systems. Convective heat transfer for external and internal flows. Similarity and integral solution methods. Heat, mass, and momentum analogies. Turbulence. Buoyancy-driven flows. Convection with phase change. Radiation exchange between surfaces and radiation transfer in absorbing-emitting media. Multimode heat transfer problems.
+
+    3.000 Credit hours
+
+
+Syllabus Available
+
+Levels: Graduate, Indiana College Network, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Mechanical Engr 
+
+Department: Mechanical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      PU Fort Wayne
+
+      IUPUI
+
+      Northwest- Westville
+
+      Northwest- Hammond
+
+      West Lafayette
+
+
+Learning Outcomes: 
+1.  Analyze and solve variable cross-section fin problems. 
+2.  Apply separation of variables to steady-state and transient heat conduction problems in Cartesian and cylindrical coordinate systems. 
+3.  Apply separation of variables to steady-state conduction with heat generation. 
+4.  Analyze and solve boundary layer problems. 
+5.  Solve internal and external flow, forced convection problems. 
+6.  Solve external flow natural convection problems. 
+7.  Identify different regimes of boiling and condensation. 
+8.  Recognize, model, and solve radiation heat transfer problems.
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ME 31500 Course
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ME
+31500
+
+
+Minimum Grade of 
+B
+
+May not be taken concurrently.
+)
+
+
+

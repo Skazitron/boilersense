@@ -1,0 +1,26 @@
+EAPS 42000 - Global Change Modeling
+
+Credit Hours: 3.00.  Understanding, monitoring, and modeling global environmental change. Each session examines the response of the interrelated earth systems to different geological, ecological, atmospheric, oceanic, or societal impacts. Topics include global warming, major biogeochemical cycles, atmospheric ozone, coevolution of life and climate, asteroid impacts, and ecological disruptions. The laboratory uses object-oriented modeling software and current NASA satellite data. No prior knowledge of computer programming is required.
+
+    0.000 OR     3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Laboratory, Lecture 
+
+
+Offered By: College of Science 
+
+Department: Dept Erth Atmos & Planetry Sci 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+

@@ -1,0 +1,68 @@
+ME 55900 - Micromechanics Of Materials
+
+Credit Hours: 3.00.  Prediction of the macroscopie behavior of materials from their microstructure and the design of new materials.  Microstructure-property relationships between the macroscopie material behavior and microscopic structure.  Application to traditional structure as well as to new engineering materials.  Adapting emerging constitutive relations into structure analyses.  Introduction of this new approach to materials, its applications in predictive analysis tools, and its importance in simulation-based engineering. Typically offered Spring.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Mechanical Engr 
+
+Department: Mechanical Engineering 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette Continuing Ed
+
+      West Lafayette
+
+
+
+Restrictions:
+
+May not be enrolled as the following Classifications:      
+
+      Sophomore: 45 - 59 hours
+
+      Sophomore: 30 - 44 hours
+
+      Freshman: 0 - 14 hours
+
+      Freshman: 15 - 29 hours
+
+
+Prerequisites:
+
+GR-ME 55900 Requisites
+
+
+General Requirements:
+
+ ( 
+
+Student Attribute: 
+GR
+
+May not be taken concurrently.
+ )or( 
+Course or Test: 
+ME
+32300
+
+
+Minimum Grade of 
+B
+
+May not be taken concurrently.
+)
+
+
+

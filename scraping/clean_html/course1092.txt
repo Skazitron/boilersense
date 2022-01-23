@@ -1,0 +1,31 @@
+AAE 33400 - Aerodynamics
+
+Credit Hours: 3.00.  Incompressible airfoil and lifting line theory. Steady and unsteady, one-dimensional, linear and nonlinear flows. Normal shock waves. Steady, supersonic, two-dimensional linear and nonlinear flows. Oblique shock waves. Perturbation theory for wings and bodies. Design applications.
+
+    3.000 Credit hours
+
+
+Levels: Graduate, Professional, Undergraduate 
+
+Schedule Types: Distance Learning, Lecture 
+
+
+Offered By: School of Aero and Astro Engr 
+
+Department: Aeronautics & Astronautics 
+
+
+Course Attributes: Upper Division 
+
+
+May be offered at any of the following campuses:      
+
+      West Lafayette
+
+
+
+Prerequisites: 
+
+ Undergraduate level  AAE 33300 Minimum Grade of D- and Undergraduate level  AAE 33301 Minimum Grade of D- and Undergraduate level  ME 20000 Minimum Grade of D-
+
+
