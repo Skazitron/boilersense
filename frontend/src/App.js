@@ -7,7 +7,7 @@ import { Navbar, Container, Form, FormControl, Button, Row, Col, Card, Modal} fr
 
 const NavBar = () => {
   return (
-    <Navbar bg="dark"  expand="lg" sticky="top">
+    <Navbar style={{backgroundColor: "#303030"}} expand="lg" sticky="top">
       <Container>
         <Navbar.Brand style={{
             color: "#C7B350"
@@ -62,7 +62,8 @@ const CourseCard = ({CourseNumber, CourseDescription, CourseName, Info1, Body1, 
 
 const App = () => {  
   const [course, setCourse] = useState("");
-  let filtered = DemoData.filter(courseObj =>  courseObj.CourseNumber.includes(course) || courseObj.CourseName.includes(course))
+  let filtered = DemoData.filter(courseObj =>  courseObj.CourseNumber.toUpperCase().includes(course.toUpperCase()) 
+                                                || courseObj.CourseName.toUpperCase().includes(course.toUpperCase()))
   return (
     <div>
       <NavBar/>
