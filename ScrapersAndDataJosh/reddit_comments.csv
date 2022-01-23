@@ -1,4 +1,4 @@
-,Course number,Text
+,course,review
 0,CS25200,"hmmhmm yes, good jojoke"
 1,CS25200,"If you have gone so far that you can't use make/compile anymore and don't know how to fix it, I would go back to a previous commit that has compilable code. You can use gitk to find out what commit has what changes and you can compare and contrast between your commits.
 
