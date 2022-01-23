@@ -27,6 +27,8 @@ const ModalLocal = () => {
                 <p>Credits: {course && course.credits ? course.credits : "Failed to retrieve course credits"}</p>
                 <p>Department: {course && course.department ? course.department : "Failed to retrieve course department"}</p>
                 <p>Offered By: {course && course.offeredby ? course.offeredby : "Failed to retrieve course offered by"}</p>
+                <p>Quality: {Math.floor(Math.random() * 2) + 1} Confidence: {Math.floor(Math.random() * 2)}</p>
+                <p>Difficulty: {Math.floor(Math.random() * 2) + 1} Confidence: {Math.floor(Math.random() * 2)}</p>
 
                </div>
             </Modal.Body>
